@@ -54,7 +54,7 @@
     "orgs": [
       {
         "id": 8,
-        "value": "Collegium Lincium"
+        "value": "Collegium Lincium / Lincense"
       }
     ],
     "lat": "48.30639",
@@ -344,7 +344,7 @@
     "orgs": [
       {
         "id": 16,
-        "value": "Collegium Clasenfurtense"
+        "value": "Collegium Clagenfurtense"
       }
     ],
     "lat": "46.62472",
@@ -383,13 +383,13 @@
   "29": {
     "id": 29,
     "order": "29.00000000000000000000",
-    "name": "Rijeka (Fiume)",
+    "name": "Rijeka (Flumen / Fiume)",
     "jesuiten_id": "jesuiten__29",
     "geonames": "https://www.geonames.org/3191648/rijeka.html",
     "orgs": [
       {
         "id": 40,
-        "value": "Collegium Fiuminense"
+        "value": "Collegium Fluminense"
       }
     ],
     "lat": "45.32673",
@@ -401,7 +401,12 @@
     "name": "Varaždin",
     "jesuiten_id": "jesuiten__30",
     "geonames": "https://www.geonames.org/3188383/varazdin.html",
-    "orgs": [],
+    "orgs": [
+      {
+        "id": 44,
+        "value": "Residentia Varasdinensis"
+      }
+    ],
     "lat": "46.30444",
     "long": "16.33778"
   },
@@ -634,5 +639,35 @@
     ],
     "lat": "48.93707",
     "long": "21.91625"
+  },
+  "49": {
+    "id": 49,
+    "order": "49.00000000000000000000",
+    "name": "Enzersdorf",
+    "jesuiten_id": "jesuiten__49",
+    "geonames": "",
+    "orgs": [
+      {
+        "id": 42,
+        "value": "Missio Ensersdorffiana"
+      }
+    ],
+    "lat": null,
+    "long": null
+  },
+  "50": {
+    "id": 50,
+    "order": "50.00000000000000000000",
+    "name": "Millstatt",
+    "jesuiten_id": "jesuiten__50",
+    "geonames": "https://www.geonames.org/2760380/millstatt.html",
+    "orgs": [
+      {
+        "id": 7,
+        "value": "Residentia Millestadiensis"
+      }
+    ],
+    "lat": "46.80417",
+    "long": "13.58056"
   }
 }

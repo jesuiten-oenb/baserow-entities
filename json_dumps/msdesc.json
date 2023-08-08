@@ -31,11 +31,11 @@
       },
       {
         "id": 7,
-        "value": "Residentia Millesta"
+        "value": "Residentia Millestadiensis"
       },
       {
         "id": 8,
-        "value": "Collegium Lincium"
+        "value": "Collegium Lincium / Lincense"
       },
       {
         "id": 9,
@@ -67,7 +67,7 @@
       },
       {
         "id": 16,
-        "value": "Collegium Clasenfurtense"
+        "value": "Collegium Clagenfurtense"
       },
       {
         "id": 17,
@@ -163,7 +163,7 @@
       },
       {
         "id": 40,
-        "value": "Collegium Fiuminense"
+        "value": "Collegium Fluminense"
       }
     ],
     "URL": "http://data.onb.ac.at/rec/AC13948850",
@@ -173,11 +173,104 @@
   "2": {
     "id": 2,
     "order": "2.00000000000000000000",
-    "signatur": "",
+    "signatur": "Cod. 12032",
     "jesuiten_id": "jesuiten_msdesc__2",
-    "mentioned_orgs": [],
-    "URL": "",
-    "titel": null,
-    "date": null
+    "mentioned_orgs": [
+      {
+        "id": 1,
+        "value": "Domus Professa Viennensis"
+      },
+      {
+        "id": 2,
+        "value": "Collegium Viennense Academicum"
+      },
+      {
+        "id": 4,
+        "value": "Domus probationis S. Anna"
+      },
+      {
+        "id": 5,
+        "value": "Collegium Graecense"
+      },
+      {
+        "id": 7,
+        "value": "Residentia Millestadiensis"
+      },
+      {
+        "id": 8,
+        "value": "Collegium Lincium / Lincense"
+      },
+      {
+        "id": 9,
+        "value": "Collegium Posoniensis"
+      },
+      {
+        "id": 10,
+        "value": "Collegium Passaviense"
+      },
+      {
+        "id": 11,
+        "value": "Collegium Tyrnaviense"
+      },
+      {
+        "id": 12,
+        "value": "Collegium Jaurinense"
+      },
+      {
+        "id": 13,
+        "value": "Collegium Labacense"
+      },
+      {
+        "id": 16,
+        "value": "Collegium Clagenfurtense"
+      },
+      {
+        "id": 18,
+        "value": "Collegium Zagrabiense"
+      },
+      {
+        "id": 27,
+        "value": "Residentia Traunkirchensis"
+      },
+      {
+        "id": 36,
+        "value": "Collegium Goritiense"
+      },
+      {
+        "id": 37,
+        "value": "Collegium Judenburgense"
+      },
+      {
+        "id": 38,
+        "value": "Collegium Tergestinum"
+      },
+      {
+        "id": 39,
+        "value": "Domus Probationis Leobiensis"
+      },
+      {
+        "id": 40,
+        "value": "Collegium Fluminense"
+      },
+      {
+        "id": 41,
+        "value": "Missio Castrensis"
+      },
+      {
+        "id": 42,
+        "value": "Missio Ensersdorffiana"
+      },
+      {
+        "id": 43,
+        "value": "Missio ad S. Laurentium"
+      },
+      {
+        "id": 44,
+        "value": "Residentia Varasdinensis"
+      }
+    ],
+    "URL": "http://data.onb.ac.at/rec/AC13948851",
+    "titel": "Litterae annuae provinciae Austriae Societatis Iesu a. 1635",
+    "date": "1635-01-01"
   }
 }
