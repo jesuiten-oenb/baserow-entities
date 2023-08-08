@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ortsregister</title>
+            <title type="sub">{{ project_title }}</title>
+            <respStmt>
+               <resp>Aufbereitung der Daten</resp>
+               <name>Dobcheva, Ivana</name>
+            </respStmt>
+            <respStmt>
+               <resp>converted to XML encoding</resp>
+               <name>Peter Andorfer</name>
+            </respStmt>
+            <funder>
+               
+            </funder>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>ÖNB</publisher>
+            <pubPlace>Wien</pubPlace>
+            <date when="2022">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
+                  <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
+                     Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
+                     gerade Sie oder Ihre Nutzung besonders.</p>
+                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, 
+                     die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                     Schranken des Urheberrechts gedeckt sind.</p>
+                  <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
+                     Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse,
+                     die Sie für die jeweilige Nutzung brauchen. 
+                     Es können beispielsweise andere Rechte wie Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Register der im Projekt erwähnten Orte</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="index_places">
+            <listPlace xml:id="listplace">
+            {% for x in objects %}
+               <place xml:id="{{ x.jesuiten_id }}">
+                  <placeName>{{ x.name }}</placeName>
+                  {% if x.lat %}
+                  <location type="coords">
+                     <geo>{{ x.lat }} {{ x.long }}</geo>
+                  </location>
+                  {% endif %}
+                  {% if x.geonames|length > 0 %}
+                  <idno type="GEONAMES">{{ x.geonames }}</idno>
+                  {% endif %}
+                  {% if x.gnd|length > 0 %}
+                  <idno type="GND">{{ x.gnd }}</idno>
+                  {% endif %}
+                  {% if x.wikidata|length > 0 %}
+                  <idno type="WIKIDATA">{{ x.wikidata }}</idno>
+                  {% endif %}
+               </place>
+            {% endfor %}
+            </listPlace>
+         </div>
+      </body>
+   </text>
+</TEI>
