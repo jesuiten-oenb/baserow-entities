@@ -57,7 +57,7 @@
                   {% endif %}
                   {% for y in x.located_in %}
                   <location type="located_in_place">
-                     <placeName key="jesuiten_place__{{ y.id }}">{{ y.name }}</placeName>
+                     <placeName key="{{ y.jesuiten_id }}">{{ y.name }}</placeName>
                      {% if y.lat %}
                      <geo>{{ y.lat }} {{x.long }}</geo>
                      {% endif %}
