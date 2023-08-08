@@ -8,6 +8,7 @@ from acdh_tei_pyutils.tei import TeiReader
 from AcdhArcheAssets.uri_norm_rules import get_normalized_uri
 
 
+PROJECT_TITLE = "Jesuiten Littera annuae"
 templateLoader = jinja2.FileSystemLoader(searchpath="./templates")
 templateEnv = jinja2.Environment(
     loader=templateLoader, trim_blocks=True, lstrip_blocks=True
@@ -21,7 +22,7 @@ for x in files:
     _, tail = os.path.split(x)
     with open(x, "r") as f:
         data = json.load(f)
-    context = {}
+    context = {"project_title": PROJECT_TITLE}
     context["objects"] = [value for key, value in data.items()]
     ent_type = tail.replace("s.json", "")
     template_name = f"list{ent_type}.xml"

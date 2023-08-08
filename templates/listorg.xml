@@ -2,7 +2,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">Ortsregister</title>
+            <title type="main">Institutionsregister</title>
             <title type="sub">{{ project_title }}</title>
             <respStmt>
                <resp>Aufbereitung der Daten</resp>
@@ -47,28 +47,24 @@
    </teiHeader>
    <text>
       <body>
-         <div type="index_places">
-            <listPlace xml:id="listplace">
+         <div type="index_orgss">
+            <listOrg xml:id="listorg">
             {% for x in objects %}
-               <place xml:id="{{ x.jesuiten_id }}">
-                  <placeName>{{ x.name }}</placeName>
-                  {% if x.lat %}
-                  <location type="coords">
-                     <geo>{{ x.lat }} {{ x.long }}</geo>
-                  </location>
-                  {% endif %}
-                  {% if x.geonames|length > 0 %}
-                  <idno type="geonames">{{ x.geonames }}</idno>
-                  {% endif %}
+               <org xml:id="{{ x.jesuiten_id }}">
+                  <orgName>{{ x.name }}</orgName>{% if x.alt_name %}
+                  <orgName type="alt">{{ x.alt_name }}</orgName>{% endif %}
+                  {%- for y in x.located_in %}
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__{{ y.id }}">{{ y.value }}</placeName>
+                  </location> {% endfor %}
                   {% if x.gnd|length > 0 %}
-                  <idno type="gnd">{{ x.gnd }}</idno>
+                  <idno type="gnd">{{ x.gnd }}</idno> {% endif %}
+                  {% if x.notes %}
+                  <note>{{ x.notes }}</note>
                   {% endif %}
-                  {% if x.wikidata|length > 0 %}
-                  <idno type="wikidata">{{ x.wikidata }}</idno>
-                  {% endif %}
-               </place>
+               </org>
             {% endfor %}
-            </listPlace>
+            </listOrg>
          </div>
       </body>
    </text>
