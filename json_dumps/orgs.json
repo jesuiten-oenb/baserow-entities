@@ -427,9 +427,14 @@
   "19": {
     "id": 19,
     "order": "19.00000000000000000000",
-    "name": "Missio Wairenkirchana",
+    "name": "Missio Waizenkirchana",
     "jesuiten_id": "jesuiten_org__19",
-    "located_in": [],
+    "located_in": [
+      {
+        "id": 51,
+        "value": "Waizenkirchen"
+      }
+    ],
     "gnd": "",
     "msdesc": [
       {
@@ -949,6 +954,27 @@
       {
         "id": 2,
         "value": "Cod. 12032"
+      }
+    ],
+    "alternatiive_name": "",
+    "notes": ""
+  },
+  "45": {
+    "id": 45,
+    "order": "45.00000000000000000000",
+    "name": "Missio Waldtpergensis",
+    "jesuiten_id": "jesuiten_org__45",
+    "located_in": [
+      {
+        "id": 55,
+        "value": "Waldberg"
+      }
+    ],
+    "gnd": "",
+    "msdesc": [
+      {
+        "id": 1,
+        "value": "Cod. 12031"
       }
     ],
     "alternatiive_name": "",

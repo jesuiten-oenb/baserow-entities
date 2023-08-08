@@ -669,5 +669,65 @@
     ],
     "lat": "46.80417",
     "long": "13.58056"
+  },
+  "51": {
+    "id": 51,
+    "order": "51.00000000000000000000",
+    "name": "Waizenkirchen",
+    "jesuiten_id": "jesuiten__51",
+    "geonames": "https://www.geonames.org/2762060/waizenkirchen.html",
+    "orgs": [
+      {
+        "id": 19,
+        "value": "Missio Waizenkirchana"
+      }
+    ],
+    "lat": "48.33018",
+    "long": "13.85754"
+  },
+  "52": {
+    "id": 52,
+    "order": "52.00000000000000000000",
+    "name": "Freistadt",
+    "jesuiten_id": "jesuiten__52",
+    "geonames": "https://www.geonames.org/2779275/freistadt.html",
+    "orgs": [],
+    "lat": "48.51103",
+    "long": "14.50453"
+  },
+  "53": {
+    "id": 53,
+    "order": "53.00000000000000000000",
+    "name": "Gallneukirchen",
+    "jesuiten_id": "jesuiten__53",
+    "geonames": "https://www.geonames.org/2778966/gallneukirchen.html",
+    "orgs": [],
+    "lat": "48.35363",
+    "long": "14.41604"
+  },
+  "54": {
+    "id": 54,
+    "order": "54.00000000000000000000",
+    "name": "Waldneukirchen",
+    "jesuiten_id": "jesuiten__54",
+    "geonames": "https://www.geonames.org/2761989/waldneukirchen.html",
+    "orgs": [],
+    "lat": "47.99854",
+    "long": "14.25879"
+  },
+  "55": {
+    "id": 55,
+    "order": "55.00000000000000000000",
+    "name": "Waldberg",
+    "jesuiten_id": "jesuiten__55",
+    "geonames": "https://www.geonames.org/2607243/waldberg.html",
+    "orgs": [
+      {
+        "id": 45,
+        "value": "Missio Waldtpergensis"
+      }
+    ],
+    "lat": "48.75811",
+    "long": "15.31142"
   }
 }
