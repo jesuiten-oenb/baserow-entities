@@ -1,983 +1,1168 @@
 {
-  "1": {
-    "id": 1,
-    "order": "1.00000000000000000000",
-    "name": "Domus Professa Viennensis",
-    "jesuiten_id": "jesuiten_org__1",
-    "located_in": [
-      {
+    "1": {
         "id": 1,
-        "value": "Wien"
-      }
-    ],
-    "gnd": "https://d-nb.info/gnd/5556265-6",
-    "msdesc": [
-      {
-        "id": 1,
-        "value": "Cod. 12031"
-      },
-      {
+        "order": "1.00000000000000000000",
+        "name": "Domus Professa Viennensis",
+        "jesuiten_id": "jesuiten_org__1",
+        "located_in": [
+            {
+                "id": 1,
+                "order": "1.00000000000000000000",
+                "name": "Wien",
+                "jesuiten_id": "jesuiten_place__1",
+                "geonames": "https://www.geonames.org/2761369/vienna.html",
+                "lat": "48.20849",
+                "long": "16.37208"
+            }
+        ],
+        "gnd": "https://d-nb.info/gnd/5556265-6",
+        "msdesc": [
+            {
+                "id": 1,
+                "value": "Cod. 12031"
+            },
+            {
+                "id": 2,
+                "value": "Cod. 12032"
+            }
+        ],
+        "alt_name": "Wien Profeßhaus",
+        "notes": null
+    },
+    "2": {
         "id": 2,
-        "value": "Cod. 12032"
-      }
-    ],
-    "alt_name": "Wien Profeßhaus",
-    "notes": null
-  },
-  "2": {
-    "id": 2,
-    "order": "2.00000000000000000000",
-    "name": "Collegium Viennense Academicum",
-    "jesuiten_id": "jesuiten_org__2",
-    "located_in": [
-      {
-        "id": 1,
-        "value": "Wien"
-      }
-    ],
-    "gnd": "",
-    "msdesc": [
-      {
-        "id": 1,
-        "value": "Cod. 12031"
-      },
-      {
-        "id": 2,
-        "value": "Cod. 12032"
-      }
-    ],
-    "alt_name": "Jesuitenkolleg Wien",
-    "notes": null
-  },
-  "3": {
-    "id": 3,
-    "order": "3.00000000000000000000",
-    "name": "Residentia S. Bernardi",
-    "jesuiten_id": "jesuiten_org__3",
-    "located_in": [
-      {
-        "id": 1,
-        "value": "Wien"
-      }
-    ],
-    "gnd": "",
-    "msdesc": [
-      {
-        "id": 1,
-        "value": "Cod. 12031"
-      }
-    ],
-    "alt_name": null,
-    "notes": null
-  },
-  "4": {
-    "id": 4,
-    "order": "4.00000000000000000000",
-    "name": "Domus probationis S. Anna",
-    "jesuiten_id": "jesuiten_org__4",
-    "located_in": [
-      {
-        "id": 1,
-        "value": "Wien"
-      }
-    ],
-    "gnd": "",
-    "msdesc": [
-      {
-        "id": 1,
-        "value": "Cod. 12031"
-      },
-      {
-        "id": 2,
-        "value": "Cod. 12032"
-      }
-    ],
-    "alt_name": "Wien Probationshaus",
-    "notes": "am 1. April 1573 räumte ihnen Kaiser Maximilian II. die Güter des erloschenen Wiener Klarissenklosters St. Anna zum Nutzgenuß ein"
-  },
-  "5": {
-    "id": 5,
-    "order": "5.00000000000000000000",
-    "name": "Collegium Graecense",
-    "jesuiten_id": "jesuiten_org__5",
-    "located_in": [
-      {
-        "id": 2,
-        "value": "Graz"
-      }
-    ],
-    "gnd": "",
-    "msdesc": [
-      {
-        "id": 1,
-        "value": "Cod. 12031"
-      },
-      {
-        "id": 2,
-        "value": "Cod. 12032"
-      }
-    ],
-    "alt_name": "Jesuitenkolleg Graz",
-    "notes": null
-  },
-  "6": {
-    "id": 6,
-    "order": "6.00000000000000000000",
-    "name": "Ferdinandeum",
-    "jesuiten_id": "jesuiten_org__6",
-    "located_in": [
-      {
-        "id": 2,
-        "value": "Graz"
-      }
-    ],
-    "gnd": "",
-    "msdesc": [
-      {
-        "id": 1,
-        "value": "Cod. 12031"
-      }
-    ],
-    "alt_name": "",
-    "notes": null
-  },
-  "7": {
-    "id": 7,
-    "order": "7.00000000000000000000",
-    "name": "Residentia Millestadiensis",
-    "jesuiten_id": "jesuiten_org__7",
-    "located_in": [
-      {
-        "id": 50,
-        "value": "Millstatt"
-      }
-    ],
-    "gnd": "",
-    "msdesc": [
-      {
-        "id": 1,
-        "value": "Cod. 12031"
-      },
-      {
-        "id": 2,
-        "value": "Cod. 12032"
-      }
-    ],
-    "alt_name": "",
-    "notes": null
-  },
-  "8": {
-    "id": 8,
-    "order": "8.00000000000000000000",
-    "name": "Collegium Lincium / Lincense",
-    "jesuiten_id": "jesuiten_org__8",
-    "located_in": [
-      {
+        "order": "2.00000000000000000000",
+        "name": "Collegium Viennense Academicum",
+        "jesuiten_id": "jesuiten_org__2",
+        "located_in": [
+            {
+                "id": 1,
+                "order": "1.00000000000000000000",
+                "name": "Wien",
+                "jesuiten_id": "jesuiten_place__1",
+                "geonames": "https://www.geonames.org/2761369/vienna.html",
+                "lat": "48.20849",
+                "long": "16.37208"
+            }
+        ],
+        "gnd": "",
+        "msdesc": [
+            {
+                "id": 1,
+                "value": "Cod. 12031"
+            },
+            {
+                "id": 2,
+                "value": "Cod. 12032"
+            }
+        ],
+        "alt_name": "Jesuitenkolleg Wien",
+        "notes": null
+    },
+    "3": {
         "id": 3,
-        "value": "Linz"
-      }
-    ],
-    "gnd": "https://d-nb.info/gnd/1117829170",
-    "msdesc": [
-      {
-        "id": 1,
-        "value": "Cod. 12031"
-      },
-      {
-        "id": 2,
-        "value": "Cod. 12032"
-      }
-    ],
-    "alt_name": "Jesuitenkolleg Linz; Collegium Lincense",
-    "notes": ""
-  },
-  "9": {
-    "id": 9,
-    "order": "9.00000000000000000000",
-    "name": "Collegium Posoniensis",
-    "jesuiten_id": "jesuiten_org__9",
-    "located_in": [
-      {
-        "id": 5,
-        "value": "Bratislava"
-      }
-    ],
-    "gnd": "https://d-nb.info/gnd/1086745213",
-    "msdesc": [
-      {
-        "id": 1,
-        "value": "Cod. 12031"
-      },
-      {
-        "id": 2,
-        "value": "Cod. 12032"
-      }
-    ],
-    "alt_name": "Jesuitenkolleg Bratislava",
-    "notes": ""
-  },
-  "10": {
-    "id": 10,
-    "order": "10.00000000000000000000",
-    "name": "Collegium Passaviense",
-    "jesuiten_id": "jesuiten_org__10",
-    "located_in": [
-      {
-        "id": 7,
-        "value": "Passau"
-      }
-    ],
-    "gnd": "https://d-nb.info/gnd/16128712-8",
-    "msdesc": [
-      {
-        "id": 1,
-        "value": "Cod. 12031"
-      },
-      {
-        "id": 2,
-        "value": "Cod. 12032"
-      }
-    ],
-    "alt_name": "Jesuitenkolleg Passau",
-    "notes": ""
-  },
-  "11": {
-    "id": 11,
-    "order": "11.00000000000000000000",
-    "name": "Collegium Tyrnaviense",
-    "jesuiten_id": "jesuiten_org__11",
-    "located_in": [
-      {
-        "id": 6,
-        "value": "Trnava"
-      }
-    ],
-    "gnd": "https://d-nb.info/gnd/1241642-3",
-    "msdesc": [
-      {
-        "id": 1,
-        "value": "Cod. 12031"
-      },
-      {
-        "id": 2,
-        "value": "Cod. 12032"
-      }
-    ],
-    "alt_name": "Jesuitenkolleg Trnava",
-    "notes": "Im Königreich Ungarn, das weiterhin zur österreichischen Ordensprovinz gehörte, bestand bereits 1561–67 im heute slowakischen Trnava ein Kollegium, aus dem auf Initiative des Primas’ von Ungarn, Péter Pázmány, 1635 eine Universität mit einem ›Studium generale‹ entstand."
-  },
-  "12": {
-    "id": 12,
-    "order": "12.00000000000000000000",
-    "name": "Collegium Jaurinense",
-    "jesuiten_id": "jesuiten_org__12",
-    "located_in": [
-      {
-        "id": 8,
-        "value": "Győr (Jaurinum)"
-      }
-    ],
-    "gnd": "",
-    "msdesc": [
-      {
-        "id": 1,
-        "value": "Cod. 12031"
-      },
-      {
-        "id": 2,
-        "value": "Cod. 12032"
-      }
-    ],
-    "alt_name": "Gyor Jesuitenakademie",
-    "notes": "1718 wurde in Győr eine Jesuitenakademie gegründet, die eine philosophische und juristische Ausbildung anbot und an der ab 1745 auch weltliche Studenten zugelassen wurden."
-  },
-  "13": {
-    "id": 13,
-    "order": "13.00000000000000000000",
-    "name": "Collegium Labacense",
-    "jesuiten_id": "jesuiten_org__13",
-    "located_in": [
-      {
-        "id": 9,
-        "value": "Ljubljana"
-      }
-    ],
-    "gnd": "",
-    "msdesc": [
-      {
-        "id": 1,
-        "value": "Cod. 12031"
-      },
-      {
-        "id": 2,
-        "value": "Cod. 12032"
-      }
-    ],
-    "alt_name": "Jesuitenkolleg Ljubljana",
-    "notes": "https://www.austriaca.at/0xc1aa5576%200x000587de.pdf Lavric, Anna. Das Jesuitencollegium in Laibach und seine künstlerischen Verbindungen mit den benachbarten Ordenshäusern"
-  },
-  "14": {
-    "id": 14,
-    "order": "14.00000000000000000000",
-    "name": "Residentia Pletriacensis",
-    "jesuiten_id": "jesuiten_org__14",
-    "located_in": [
-      {
-        "id": 39,
-        "value": "Šentjernej"
-      }
-    ],
-    "gnd": "https://d-nb.info/gnd/4492055-6",
-    "msdesc": [
-      {
-        "id": 1,
-        "value": "Cod. 12031"
-      }
-    ],
-    "alt_name": "Pleterje",
-    "notes": "Nach einer Phase des ökonomischen und spirituellen Niedergangs der Kartause, übergab Erzherzog Ferdinand II von Österreich das Kloster 1593 den Jesuiten von Ljubljana. Als Papst Clemens XIV. den Jesuitenorden auflöste, wurde Pleterje im Jahr 1772 staatliches Eigentum. Im Jahr 1839 ging das Kloster in private Hände."
-  },
-  "15": {
-    "id": 15,
-    "order": "15.00000000000000000000",
-    "name": "Seminarium (Labacense)",
-    "jesuiten_id": "jesuiten_org__15",
-    "located_in": [],
-    "gnd": "",
-    "msdesc": [
-      {
-        "id": 1,
-        "value": "Cod. 12031"
-      }
-    ],
-    "alt_name": "",
-    "notes": ""
-  },
-  "16": {
-    "id": 16,
-    "order": "16.00000000000000000000",
-    "name": "Collegium Clagenfurtense",
-    "jesuiten_id": "jesuiten_org__16",
-    "located_in": [
-      {
-        "id": 26,
-        "value": "Klagenfurt"
-      }
-    ],
-    "gnd": "https://d-nb.info/gnd/4359924-2",
-    "msdesc": [
-      {
-        "id": 1,
-        "value": "Cod. 12031"
-      },
-      {
-        "id": 2,
-        "value": "Cod. 12032"
-      }
-    ],
-    "alt_name": "Jesuitenkolleg Klagenfurt",
-    "notes": ""
-  },
-  "17": {
-    "id": 17,
-    "order": "17.00000000000000000000",
-    "name": "Residentia Oberndorfensi",
-    "jesuiten_id": "jesuiten_org__17",
-    "located_in": [
-      {
-        "id": 40,
-        "value": "Eberndorf"
-      }
-    ],
-    "gnd": "",
-    "msdesc": [
-      {
-        "id": 1,
-        "value": "Cod. 12031"
-      }
-    ],
-    "alt_name": "Augustiner-Chorherrenstift Eberndorf",
-    "notes": "Als Fundation diente dem Klagenfurter Jesuitenkolleg das ehemalige, vier Meilen von der Stadt im Jauntal gelegene Augustiner-Chorherrenstift Eberndorf (Oberndorf). Gegen Ende des 16. Jahrhunderts war das Stift verfallen, und alle Rettungsversuche waren vergebens.\nGegen den Willen des Patriarchen von Aquileia, zu dessen Diözese damals Eberndorf gehörte, und gegen den Willen des Nuntius hatte Erzherzog Ferdinand 1603 das Stift für das Klagenfurter Kolleg bestimmt. Mit großer Überredungskunst konnte 1604 das Stift für die jesuitische Sache erworben werden. In Eberndorf wurde eine Residenz errichtet mit\neinigen Patres und Laienbrüdern. (Heilingsetzer, Florian. „Die Jesuiten an den Universitäten und Lyzeen in den österreichischen  Ländern bis zur Aufhebung des Ordens 1773“. Mag. Phil., Uni Wien, 2011. https://services.phaidra.univie.ac.at/api/object/o:1282302/get.)"
-  },
-  "18": {
-    "id": 18,
-    "order": "18.00000000000000000000",
-    "name": "Collegium Zagrabiense",
-    "jesuiten_id": "jesuiten_org__18",
-    "located_in": [
-      {
-        "id": 10,
-        "value": "Zagreb"
-      }
-    ],
-    "gnd": "",
-    "msdesc": [
-      {
-        "id": 1,
-        "value": "Cod. 12031"
-      },
-      {
-        "id": 2,
-        "value": "Cod. 12032"
-      }
-    ],
-    "alt_name": "",
-    "notes": ""
-  },
-  "19": {
-    "id": 19,
-    "order": "19.00000000000000000000",
-    "name": "Missio Waizenkirchana",
-    "jesuiten_id": "jesuiten_org__19",
-    "located_in": [
-      {
-        "id": 51,
-        "value": "Waizenkirchen"
-      }
-    ],
-    "gnd": "",
-    "msdesc": [
-      {
-        "id": 1,
-        "value": "Cod. 12031"
-      }
-    ],
-    "alt_name": "",
-    "notes": ""
-  },
-  "20": {
-    "id": 20,
-    "order": "20.00000000000000000000",
-    "name": "Missio Nadrabacensis",
-    "jesuiten_id": "jesuiten_org__20",
-    "located_in": [],
-    "gnd": "",
-    "msdesc": [
-      {
-        "id": 1,
-        "value": "Cod. 12031"
-      }
-    ],
-    "alt_name": "",
-    "notes": ""
-  },
-  "21": {
-    "id": 21,
-    "order": "21.00000000000000000000",
-    "name": "Missio Schwanstadiana",
-    "jesuiten_id": "jesuiten_org__21",
-    "located_in": [
-      {
-        "id": 41,
-        "value": "Schwanenstadt"
-      }
-    ],
-    "gnd": "",
-    "msdesc": [
-      {
-        "id": 1,
-        "value": "Cod. 12031"
-      }
-    ],
-    "alt_name": "",
-    "notes": ""
-  },
-  "22": {
-    "id": 22,
-    "order": "22.00000000000000000000",
-    "name": "Missio Pfarkirchensis",
-    "jesuiten_id": "jesuiten_org__22",
-    "located_in": [
-      {
-        "id": 42,
-        "value": "Pfarrkirchen"
-      }
-    ],
-    "gnd": "",
-    "msdesc": [
-      {
-        "id": 1,
-        "value": "Cod. 12031"
-      }
-    ],
-    "alt_name": "",
-    "notes": ""
-  },
-  "23": {
-    "id": 23,
-    "order": "23.00000000000000000000",
-    "name": "Missio ad illustrem dominum comitem Keuenhiller",
-    "jesuiten_id": "jesuiten_org__23",
-    "located_in": [],
-    "gnd": "",
-    "msdesc": [
-      {
-        "id": 1,
-        "value": "Cod. 12031"
-      }
-    ],
-    "alt_name": "",
-    "notes": ""
-  },
-  "24": {
-    "id": 24,
-    "order": "24.00000000000000000000",
-    "name": "Missio Zellensis",
-    "jesuiten_id": "jesuiten_org__24",
-    "located_in": [
-      {
-        "id": 43,
-        "value": "Zell"
-      }
-    ],
-    "gnd": "",
-    "msdesc": [
-      {
-        "id": 1,
-        "value": "Cod. 12031"
-      }
-    ],
-    "alt_name": "",
-    "notes": ""
-  },
-  "25": {
-    "id": 25,
-    "order": "25.00000000000000000000",
-    "name": "Missio Pulgrensis",
-    "jesuiten_id": "jesuiten_org__25",
-    "located_in": [],
-    "gnd": "",
-    "msdesc": [
-      {
-        "id": 1,
-        "value": "Cod. 12031"
-      }
-    ],
-    "alt_name": "",
-    "notes": ""
-  },
-  "26": {
-    "id": 26,
-    "order": "26.00000000000000000000",
-    "name": "Residentia Styrensis",
-    "jesuiten_id": "jesuiten_org__26",
-    "located_in": [
-      {
+        "order": "3.00000000000000000000",
+        "name": "Residentia S. Bernardi",
+        "jesuiten_id": "jesuiten_org__3",
+        "located_in": [
+            {
+                "id": 1,
+                "order": "1.00000000000000000000",
+                "name": "Wien",
+                "jesuiten_id": "jesuiten_place__1",
+                "geonames": "https://www.geonames.org/2761369/vienna.html",
+                "lat": "48.20849",
+                "long": "16.37208"
+            }
+        ],
+        "gnd": "",
+        "msdesc": [
+            {
+                "id": 1,
+                "value": "Cod. 12031"
+            }
+        ],
+        "alt_name": null,
+        "notes": null
+    },
+    "4": {
         "id": 4,
-        "value": "Steyr"
-      }
-    ],
-    "gnd": "",
-    "msdesc": [
-      {
-        "id": 1,
-        "value": "Cod. 12031"
-      }
-    ],
-    "alt_name": "",
-    "notes": ""
-  },
-  "27": {
-    "id": 27,
-    "order": "27.00000000000000000000",
-    "name": "Residentia Traunkirchensis",
-    "jesuiten_id": "jesuiten_org__27",
-    "located_in": [
-      {
-        "id": 44,
-        "value": "Traunkirchen"
-      }
-    ],
-    "gnd": "",
-    "msdesc": [
-      {
-        "id": 1,
-        "value": "Cod. 12031"
-      },
-      {
-        "id": 2,
-        "value": "Cod. 12032"
-      }
-    ],
-    "alt_name": "",
-    "notes": ""
-  },
-  "28": {
-    "id": 28,
-    "order": "28.00000000000000000000",
-    "name": "Missio Levensis",
-    "jesuiten_id": "jesuiten_org__28",
-    "located_in": [
-      {
-        "id": 45,
-        "value": "Levice"
-      }
-    ],
-    "gnd": "",
-    "msdesc": [
-      {
-        "id": 1,
-        "value": "Cod. 12031"
-      }
-    ],
-    "alt_name": "",
-    "notes": ""
-  },
-  "29": {
-    "id": 29,
-    "order": "29.00000000000000000000",
-    "name": "Missio scepussensis",
-    "jesuiten_id": "jesuiten_org__29",
-    "located_in": [
-      {
-        "id": 46,
-        "value": "Zip"
-      }
-    ],
-    "gnd": "",
-    "msdesc": [
-      {
-        "id": 1,
-        "value": "Cod. 12031"
-      }
-    ],
-    "alt_name": "",
-    "notes": ""
-  },
-  "30": {
-    "id": 30,
-    "order": "30.00000000000000000000",
-    "name": "Missio Palatina",
-    "jesuiten_id": "jesuiten_org__30",
-    "located_in": [],
-    "gnd": "",
-    "msdesc": [
-      {
-        "id": 1,
-        "value": "Cod. 12031"
-      }
-    ],
-    "alt_name": "",
-    "notes": ""
-  },
-  "31": {
-    "id": 31,
-    "order": "31.00000000000000000000",
-    "name": "Missio Bitsensis",
-    "jesuiten_id": "jesuiten_org__31",
-    "located_in": [],
-    "gnd": "",
-    "msdesc": [
-      {
-        "id": 1,
-        "value": "Cod. 12031"
-      }
-    ],
-    "alt_name": "",
-    "notes": ""
-  },
-  "32": {
-    "id": 32,
-    "order": "32.00000000000000000000",
-    "name": "Missio Cassoviensis",
-    "jesuiten_id": "jesuiten_org__32",
-    "located_in": [
-      {
-        "id": 21,
-        "value": "Košice (Cassovia)"
-      }
-    ],
-    "gnd": "",
-    "msdesc": [
-      {
-        "id": 1,
-        "value": "Cod. 12031"
-      }
-    ],
-    "alt_name": "",
-    "notes": ""
-  },
-  "33": {
-    "id": 33,
-    "order": "33.00000000000000000000",
-    "name": "Residentia Homonensis",
-    "jesuiten_id": "jesuiten_org__33",
-    "located_in": [
-      {
-        "id": 48,
-        "value": "Humenné (Homonna)"
-      }
-    ],
-    "gnd": "",
-    "msdesc": [
-      {
-        "id": 1,
-        "value": "Cod. 12031"
-      }
-    ],
-    "alt_name": "",
-    "notes": ""
-  },
-  "34": {
-    "id": 34,
-    "order": "34.00000000000000000000",
-    "name": "Sedes Quinqueecclesiensis",
-    "jesuiten_id": "jesuiten_org__34",
-    "located_in": [
-      {
-        "id": 31,
-        "value": "Pécs (Quinque ecclesiae)"
-      }
-    ],
-    "gnd": "",
-    "msdesc": [
-      {
-        "id": 1,
-        "value": "Cod. 12031"
-      }
-    ],
-    "alt_name": "",
-    "notes": ""
-  },
-  "35": {
-    "id": 35,
-    "order": "35.00000000000000000000",
-    "name": "Collegium Crembsense",
-    "jesuiten_id": "jesuiten_org__35",
-    "located_in": [
-      {
+        "order": "4.00000000000000000000",
+        "name": "Domus probationis S. Anna",
+        "jesuiten_id": "jesuiten_org__4",
+        "located_in": [
+            {
+                "id": 1,
+                "order": "1.00000000000000000000",
+                "name": "Wien",
+                "jesuiten_id": "jesuiten_place__1",
+                "geonames": "https://www.geonames.org/2761369/vienna.html",
+                "lat": "48.20849",
+                "long": "16.37208"
+            }
+        ],
+        "gnd": "",
+        "msdesc": [
+            {
+                "id": 1,
+                "value": "Cod. 12031"
+            },
+            {
+                "id": 2,
+                "value": "Cod. 12032"
+            }
+        ],
+        "alt_name": "Wien Probationshaus",
+        "notes": "am 1. April 1573 räumte ihnen Kaiser Maximilian II. die Güter des erloschenen Wiener Klarissenklosters St. Anna zum Nutzgenuß ein"
+    },
+    "5": {
+        "id": 5,
+        "order": "5.00000000000000000000",
+        "name": "Collegium Graecense",
+        "jesuiten_id": "jesuiten_org__5",
+        "located_in": [
+            {
+                "id": 2,
+                "order": "2.00000000000000000000",
+                "name": "Graz",
+                "jesuiten_id": "jesuiten_place__2",
+                "geonames": "https://www.geonames.org/2778067/graz.html",
+                "lat": "47.06667",
+                "long": "15.45000"
+            }
+        ],
+        "gnd": "",
+        "msdesc": [
+            {
+                "id": 1,
+                "value": "Cod. 12031"
+            },
+            {
+                "id": 2,
+                "value": "Cod. 12032"
+            }
+        ],
+        "alt_name": "Jesuitenkolleg Graz",
+        "notes": null
+    },
+    "6": {
+        "id": 6,
+        "order": "6.00000000000000000000",
+        "name": "Ferdinandeum",
+        "jesuiten_id": "jesuiten_org__6",
+        "located_in": [
+            {
+                "id": 2,
+                "order": "2.00000000000000000000",
+                "name": "Graz",
+                "jesuiten_id": "jesuiten_place__2",
+                "geonames": "https://www.geonames.org/2778067/graz.html",
+                "lat": "47.06667",
+                "long": "15.45000"
+            }
+        ],
+        "gnd": "",
+        "msdesc": [
+            {
+                "id": 1,
+                "value": "Cod. 12031"
+            }
+        ],
+        "alt_name": "",
+        "notes": null
+    },
+    "7": {
+        "id": 7,
+        "order": "7.00000000000000000000",
+        "name": "Residentia Millestadiensis",
+        "jesuiten_id": "jesuiten_org__7",
+        "located_in": [
+            {
+                "id": 50,
+                "order": "50.00000000000000000000",
+                "name": "Millstatt",
+                "jesuiten_id": "jesuiten_place__50",
+                "geonames": "https://www.geonames.org/2760380/millstatt.html",
+                "lat": "46.80417",
+                "long": "13.58056"
+            }
+        ],
+        "gnd": "",
+        "msdesc": [
+            {
+                "id": 1,
+                "value": "Cod. 12031"
+            },
+            {
+                "id": 2,
+                "value": "Cod. 12032"
+            }
+        ],
+        "alt_name": "",
+        "notes": null
+    },
+    "8": {
+        "id": 8,
+        "order": "8.00000000000000000000",
+        "name": "Collegium Lincium / Lincense",
+        "jesuiten_id": "jesuiten_org__8",
+        "located_in": [
+            {
+                "id": 3,
+                "order": "3.00000000000000000000",
+                "name": "Linz",
+                "jesuiten_id": "jesuiten_place__3",
+                "geonames": "https://www.geonames.org/2772400/linz.html",
+                "lat": "48.30639",
+                "long": "14.28611"
+            }
+        ],
+        "gnd": "https://d-nb.info/gnd/1117829170",
+        "msdesc": [
+            {
+                "id": 1,
+                "value": "Cod. 12031"
+            },
+            {
+                "id": 2,
+                "value": "Cod. 12032"
+            }
+        ],
+        "alt_name": "Jesuitenkolleg Linz; Collegium Lincense",
+        "notes": ""
+    },
+    "9": {
+        "id": 9,
+        "order": "9.00000000000000000000",
+        "name": "Collegium Posoniensis",
+        "jesuiten_id": "jesuiten_org__9",
+        "located_in": [
+            {
+                "id": 5,
+                "order": "5.00000000000000000000",
+                "name": "Bratislava",
+                "jesuiten_id": "jesuiten_place__5",
+                "geonames": "https://www.geonames.org/3060972/bratislava.html",
+                "lat": "48.14816",
+                "long": "17.10674"
+            }
+        ],
+        "gnd": "https://d-nb.info/gnd/1086745213",
+        "msdesc": [
+            {
+                "id": 1,
+                "value": "Cod. 12031"
+            },
+            {
+                "id": 2,
+                "value": "Cod. 12032"
+            }
+        ],
+        "alt_name": "Jesuitenkolleg Bratislava",
+        "notes": ""
+    },
+    "10": {
+        "id": 10,
+        "order": "10.00000000000000000000",
+        "name": "Collegium Passaviense",
+        "jesuiten_id": "jesuiten_org__10",
+        "located_in": [
+            {
+                "id": 7,
+                "order": "7.00000000000000000000",
+                "name": "Passau",
+                "jesuiten_id": "jesuiten_place__7",
+                "geonames": "https://www.geonames.org/2855328/passau.html",
+                "lat": "48.56650",
+                "long": "13.43122"
+            }
+        ],
+        "gnd": "https://d-nb.info/gnd/16128712-8",
+        "msdesc": [
+            {
+                "id": 1,
+                "value": "Cod. 12031"
+            },
+            {
+                "id": 2,
+                "value": "Cod. 12032"
+            }
+        ],
+        "alt_name": "Jesuitenkolleg Passau",
+        "notes": ""
+    },
+    "11": {
         "id": 11,
-        "value": "Krems"
-      }
-    ],
-    "gnd": "https://d-nb.info/gnd/1086486803",
-    "msdesc": [
-      {
-        "id": 1,
-        "value": "Cod. 12031"
-      }
-    ],
-    "alt_name": "Jesuitenkolleg Krems",
-    "notes": "Im Frühjahr 1616, also vor gut 400 Jahren, wurde in der Stadt Krems bei der spätgotischen Frauenbergkirche (der heutigen Piaristenkirche) das „Collegium Crembsense\" der „Gesellschaft Jesu\" eröffnet."
-  },
-  "36": {
-    "id": 36,
-    "order": "36.00000000000000000000",
-    "name": "Collegium Goritiense",
-    "jesuiten_id": "jesuiten_org__36",
-    "located_in": [
-      {
-        "id": 27,
-        "value": "Gorizia (Görz)"
-      }
-    ],
-    "gnd": "https://d-nb.info/gnd/7723168-5",
-    "msdesc": [
-      {
-        "id": 1,
-        "value": "Cod. 12031"
-      },
-      {
-        "id": 2,
-        "value": "Cod. 12032"
-      }
-    ],
-    "alt_name": "Jesuitenkolleg Görz",
-    "notes": ""
-  },
-  "37": {
-    "id": 37,
-    "order": "37.00000000000000000000",
-    "name": "Collegium Judenburgense",
-    "jesuiten_id": "jesuiten_org__37",
-    "located_in": [
-      {
-        "id": 25,
-        "value": "Judenburg"
-      }
-    ],
-    "gnd": "https://d-nb.info/gnd/1172525137",
-    "msdesc": [
-      {
-        "id": 1,
-        "value": "Cod. 12031"
-      },
-      {
-        "id": 2,
-        "value": "Cod. 12032"
-      }
-    ],
-    "alt_name": "Jesuitenkolleg Judenburg",
-    "notes": ""
-  },
-  "38": {
-    "id": 38,
-    "order": "38.00000000000000000000",
-    "name": "Collegium Tergestinum",
-    "jesuiten_id": "jesuiten_org__38",
-    "located_in": [
-      {
-        "id": 28,
-        "value": "Trieste (Tergestinum)"
-      }
-    ],
-    "gnd": "",
-    "msdesc": [
-      {
-        "id": 1,
-        "value": "Cod. 12031"
-      },
-      {
-        "id": 2,
-        "value": "Cod. 12032"
-      }
-    ],
-    "alt_name": "",
-    "notes": ""
-  },
-  "39": {
-    "id": 39,
-    "order": "39.00000000000000000000",
-    "name": "Domus Probationis Leobiensis",
-    "jesuiten_id": "jesuiten_org__39",
-    "located_in": [
-      {
+        "order": "11.00000000000000000000",
+        "name": "Collegium Tyrnaviense",
+        "jesuiten_id": "jesuiten_org__11",
+        "located_in": [
+            {
+                "id": 6,
+                "order": "6.00000000000000000000",
+                "name": "Trnava",
+                "jesuiten_id": "jesuiten_place__6",
+                "geonames": "https://www.geonames.org/3057124/trnava.html",
+                "lat": "48.37741",
+                "long": "17.58723"
+            }
+        ],
+        "gnd": "https://d-nb.info/gnd/1241642-3",
+        "msdesc": [
+            {
+                "id": 1,
+                "value": "Cod. 12031"
+            },
+            {
+                "id": 2,
+                "value": "Cod. 12032"
+            }
+        ],
+        "alt_name": "Jesuitenkolleg Trnava",
+        "notes": "Im Königreich Ungarn, das weiterhin zur österreichischen Ordensprovinz gehörte, bestand bereits 1561–67 im heute slowakischen Trnava ein Kollegium, aus dem auf Initiative des Primas’ von Ungarn, Péter Pázmány, 1635 eine Universität mit einem ›Studium generale‹ entstand."
+    },
+    "12": {
+        "id": 12,
+        "order": "12.00000000000000000000",
+        "name": "Collegium Jaurinense",
+        "jesuiten_id": "jesuiten_org__12",
+        "located_in": [
+            {
+                "id": 8,
+                "order": "8.00000000000000000000",
+                "name": "Győr (Jaurinum)",
+                "jesuiten_id": "jesuiten_place__8",
+                "geonames": "https://www.geonames.org/3052009/gyor.html",
+                "lat": "47.68333",
+                "long": "17.63512"
+            }
+        ],
+        "gnd": "",
+        "msdesc": [
+            {
+                "id": 1,
+                "value": "Cod. 12031"
+            },
+            {
+                "id": 2,
+                "value": "Cod. 12032"
+            }
+        ],
+        "alt_name": "Gyor Jesuitenakademie",
+        "notes": "1718 wurde in Győr eine Jesuitenakademie gegründet, die eine philosophische und juristische Ausbildung anbot und an der ab 1745 auch weltliche Studenten zugelassen wurden."
+    },
+    "13": {
+        "id": 13,
+        "order": "13.00000000000000000000",
+        "name": "Collegium Labacense",
+        "jesuiten_id": "jesuiten_org__13",
+        "located_in": [
+            {
+                "id": 9,
+                "order": "9.00000000000000000000",
+                "name": "Ljubljana",
+                "jesuiten_id": "jesuiten_place__9",
+                "geonames": "https://www.geonames.org/3196359/ljubljana.html",
+                "lat": "46.05108",
+                "long": "14.50513"
+            }
+        ],
+        "gnd": "",
+        "msdesc": [
+            {
+                "id": 1,
+                "value": "Cod. 12031"
+            },
+            {
+                "id": 2,
+                "value": "Cod. 12032"
+            }
+        ],
+        "alt_name": "Jesuitenkolleg Ljubljana",
+        "notes": "https://www.austriaca.at/0xc1aa5576%200x000587de.pdf Lavric, Anna. Das Jesuitencollegium in Laibach und seine künstlerischen Verbindungen mit den benachbarten Ordenshäusern"
+    },
+    "14": {
+        "id": 14,
+        "order": "14.00000000000000000000",
+        "name": "Residentia Pletriacensis",
+        "jesuiten_id": "jesuiten_org__14",
+        "located_in": [
+            {
+                "id": 39,
+                "order": "39.00000000000000000000",
+                "name": "Šentjernej",
+                "jesuiten_id": "jesuiten_place__39",
+                "geonames": "https://www.geonames.org/3191033/sentjernej.html",
+                "lat": "45.84000",
+                "long": "15.33611"
+            }
+        ],
+        "gnd": "https://d-nb.info/gnd/4492055-6",
+        "msdesc": [
+            {
+                "id": 1,
+                "value": "Cod. 12031"
+            }
+        ],
+        "alt_name": "Pleterje",
+        "notes": "Nach einer Phase des ökonomischen und spirituellen Niedergangs der Kartause, übergab Erzherzog Ferdinand II von Österreich das Kloster 1593 den Jesuiten von Ljubljana. Als Papst Clemens XIV. den Jesuitenorden auflöste, wurde Pleterje im Jahr 1772 staatliches Eigentum. Im Jahr 1839 ging das Kloster in private Hände."
+    },
+    "15": {
+        "id": 15,
+        "order": "15.00000000000000000000",
+        "name": "Seminarium (Labacense)",
+        "jesuiten_id": "jesuiten_org__15",
+        "located_in": [],
+        "gnd": "",
+        "msdesc": [
+            {
+                "id": 1,
+                "value": "Cod. 12031"
+            }
+        ],
+        "alt_name": "",
+        "notes": ""
+    },
+    "16": {
+        "id": 16,
+        "order": "16.00000000000000000000",
+        "name": "Collegium Clagenfurtense",
+        "jesuiten_id": "jesuiten_org__16",
+        "located_in": [
+            {
+                "id": 26,
+                "order": "26.00000000000000000000",
+                "name": "Klagenfurt",
+                "jesuiten_id": "jesuiten_place__26",
+                "geonames": "https://www.geonames.org/2774326/klagenfurt-am-woerthersee.html",
+                "lat": "46.62472",
+                "long": "14.30528"
+            }
+        ],
+        "gnd": "https://d-nb.info/gnd/4359924-2",
+        "msdesc": [
+            {
+                "id": 1,
+                "value": "Cod. 12031"
+            },
+            {
+                "id": 2,
+                "value": "Cod. 12032"
+            }
+        ],
+        "alt_name": "Jesuitenkolleg Klagenfurt",
+        "notes": ""
+    },
+    "17": {
+        "id": 17,
+        "order": "17.00000000000000000000",
+        "name": "Residentia Oberndorfensi",
+        "jesuiten_id": "jesuiten_org__17",
+        "located_in": [
+            {
+                "id": 40,
+                "order": "40.00000000000000000000",
+                "name": "Eberndorf",
+                "jesuiten_id": "jesuiten_place__40",
+                "geonames": "https://www.geonames.org/2780531/eberndorf.html",
+                "lat": "46.59139",
+                "long": "14.64361"
+            }
+        ],
+        "gnd": "",
+        "msdesc": [
+            {
+                "id": 1,
+                "value": "Cod. 12031"
+            }
+        ],
+        "alt_name": "Augustiner-Chorherrenstift Eberndorf",
+        "notes": "Als Fundation diente dem Klagenfurter Jesuitenkolleg das ehemalige, vier Meilen von der Stadt im Jauntal gelegene Augustiner-Chorherrenstift Eberndorf (Oberndorf). Gegen Ende des 16. Jahrhunderts war das Stift verfallen, und alle Rettungsversuche waren vergebens.\nGegen den Willen des Patriarchen von Aquileia, zu dessen Diözese damals Eberndorf gehörte, und gegen den Willen des Nuntius hatte Erzherzog Ferdinand 1603 das Stift für das Klagenfurter Kolleg bestimmt. Mit großer Überredungskunst konnte 1604 das Stift für die jesuitische Sache erworben werden. In Eberndorf wurde eine Residenz errichtet mit\neinigen Patres und Laienbrüdern. (Heilingsetzer, Florian. „Die Jesuiten an den Universitäten und Lyzeen in den österreichischen  Ländern bis zur Aufhebung des Ordens 1773“. Mag. Phil., Uni Wien, 2011. https://services.phaidra.univie.ac.at/api/object/o:1282302/get.)"
+    },
+    "18": {
+        "id": 18,
+        "order": "18.00000000000000000000",
+        "name": "Collegium Zagrabiense",
+        "jesuiten_id": "jesuiten_org__18",
+        "located_in": [
+            {
+                "id": 10,
+                "order": "10.00000000000000000000",
+                "name": "Zagreb",
+                "jesuiten_id": "jesuiten_place__10",
+                "geonames": "https://www.geonames.org/3186886/zagreb.html",
+                "lat": "45.81444",
+                "long": "15.97798"
+            }
+        ],
+        "gnd": "",
+        "msdesc": [
+            {
+                "id": 1,
+                "value": "Cod. 12031"
+            },
+            {
+                "id": 2,
+                "value": "Cod. 12032"
+            }
+        ],
+        "alt_name": "",
+        "notes": ""
+    },
+    "19": {
+        "id": 19,
+        "order": "19.00000000000000000000",
+        "name": "Missio Waizenkirchana",
+        "jesuiten_id": "jesuiten_org__19",
+        "located_in": [
+            {
+                "id": 51,
+                "order": "51.00000000000000000000",
+                "name": "Waizenkirchen",
+                "jesuiten_id": "jesuiten_place__51",
+                "geonames": "https://www.geonames.org/2762060/waizenkirchen.html",
+                "lat": "48.33018",
+                "long": "13.85754"
+            }
+        ],
+        "gnd": "",
+        "msdesc": [
+            {
+                "id": 1,
+                "value": "Cod. 12031"
+            }
+        ],
+        "alt_name": "",
+        "notes": ""
+    },
+    "20": {
+        "id": 20,
+        "order": "20.00000000000000000000",
+        "name": "Missio Nadrabacensis",
+        "jesuiten_id": "jesuiten_org__20",
+        "located_in": [],
+        "gnd": "",
+        "msdesc": [
+            {
+                "id": 1,
+                "value": "Cod. 12031"
+            }
+        ],
+        "alt_name": "",
+        "notes": ""
+    },
+    "21": {
+        "id": 21,
+        "order": "21.00000000000000000000",
+        "name": "Missio Schwanstadiana",
+        "jesuiten_id": "jesuiten_org__21",
+        "located_in": [
+            {
+                "id": 41,
+                "order": "41.00000000000000000000",
+                "name": "Schwanenstadt",
+                "jesuiten_id": "jesuiten_place__41",
+                "geonames": "https://www.geonames.org/2765508/schwanenstadt.html",
+                "lat": "48.05537",
+                "long": "13.77505"
+            }
+        ],
+        "gnd": "",
+        "msdesc": [
+            {
+                "id": 1,
+                "value": "Cod. 12031"
+            }
+        ],
+        "alt_name": "",
+        "notes": ""
+    },
+    "22": {
+        "id": 22,
+        "order": "22.00000000000000000000",
+        "name": "Missio Pfarkirchensis",
+        "jesuiten_id": "jesuiten_org__22",
+        "located_in": [
+            {
+                "id": 42,
+                "order": "42.00000000000000000000",
+                "name": "Pfarrkirchen",
+                "jesuiten_id": "jesuiten_place__42",
+                "geonames": "https://www.geonames.org/2768934/pfarrkirchen-im-muehlkreis.html",
+                "lat": "48.50375",
+                "long": "13.82638"
+            }
+        ],
+        "gnd": "",
+        "msdesc": [
+            {
+                "id": 1,
+                "value": "Cod. 12031"
+            }
+        ],
+        "alt_name": "",
+        "notes": ""
+    },
+    "23": {
+        "id": 23,
+        "order": "23.00000000000000000000",
+        "name": "Missio ad illustrem dominum comitem Keuenhiller",
+        "jesuiten_id": "jesuiten_org__23",
+        "located_in": [],
+        "gnd": "",
+        "msdesc": [
+            {
+                "id": 1,
+                "value": "Cod. 12031"
+            }
+        ],
+        "alt_name": "",
+        "notes": ""
+    },
+    "24": {
         "id": 24,
-        "value": "Leoben"
-      }
-    ],
-    "gnd": "",
-    "msdesc": [
-      {
-        "id": 1,
-        "value": "Cod. 12031"
-      },
-      {
-        "id": 2,
-        "value": "Cod. 12032"
-      }
-    ],
-    "alt_name": "",
-    "notes": ""
-  },
-  "40": {
-    "id": 40,
-    "order": "40.00000000000000000000",
-    "name": "Collegium Fluminense",
-    "jesuiten_id": "jesuiten_org__40",
-    "located_in": [
-      {
+        "order": "24.00000000000000000000",
+        "name": "Missio Zellensis",
+        "jesuiten_id": "jesuiten_org__24",
+        "located_in": [
+            {
+                "id": 43,
+                "order": "43.00000000000000000000",
+                "name": "Zell",
+                "jesuiten_id": "jesuiten_place__43",
+                "geonames": "https://www.geonames.org/2760634/zell-am-see.html",
+                "lat": "47.32306",
+                "long": "12.79839"
+            }
+        ],
+        "gnd": "",
+        "msdesc": [
+            {
+                "id": 1,
+                "value": "Cod. 12031"
+            }
+        ],
+        "alt_name": "",
+        "notes": ""
+    },
+    "25": {
+        "id": 25,
+        "order": "25.00000000000000000000",
+        "name": "Missio Pulgrensis",
+        "jesuiten_id": "jesuiten_org__25",
+        "located_in": [],
+        "gnd": "",
+        "msdesc": [
+            {
+                "id": 1,
+                "value": "Cod. 12031"
+            }
+        ],
+        "alt_name": "",
+        "notes": ""
+    },
+    "26": {
+        "id": 26,
+        "order": "26.00000000000000000000",
+        "name": "Residentia Styrensis",
+        "jesuiten_id": "jesuiten_org__26",
+        "located_in": [
+            {
+                "id": 4,
+                "order": "4.00000000000000000000",
+                "name": "Steyr",
+                "jesuiten_id": "jesuiten_place__4",
+                "geonames": "https://www.geonames.org/2764359/steyr.html",
+                "lat": "48.04274",
+                "long": "14.42127"
+            }
+        ],
+        "gnd": "",
+        "msdesc": [
+            {
+                "id": 1,
+                "value": "Cod. 12031"
+            }
+        ],
+        "alt_name": "",
+        "notes": ""
+    },
+    "27": {
+        "id": 27,
+        "order": "27.00000000000000000000",
+        "name": "Residentia Traunkirchensis",
+        "jesuiten_id": "jesuiten_org__27",
+        "located_in": [
+            {
+                "id": 44,
+                "order": "44.00000000000000000000",
+                "name": "Traunkirchen",
+                "jesuiten_id": "jesuiten_place__44",
+                "geonames": "https://www.geonames.org/2763414/traunkirchen.html",
+                "lat": "47.84462",
+                "long": "13.78939"
+            }
+        ],
+        "gnd": "",
+        "msdesc": [
+            {
+                "id": 1,
+                "value": "Cod. 12031"
+            },
+            {
+                "id": 2,
+                "value": "Cod. 12032"
+            }
+        ],
+        "alt_name": "",
+        "notes": ""
+    },
+    "28": {
+        "id": 28,
+        "order": "28.00000000000000000000",
+        "name": "Missio Levensis",
+        "jesuiten_id": "jesuiten_org__28",
+        "located_in": [
+            {
+                "id": 45,
+                "order": "45.00000000000000000000",
+                "name": "Levice",
+                "jesuiten_id": "jesuiten_place__45",
+                "geonames": "https://www.geonames.org/3059101/levice.html",
+                "lat": "48.21563",
+                "long": "18.60705"
+            }
+        ],
+        "gnd": "",
+        "msdesc": [
+            {
+                "id": 1,
+                "value": "Cod. 12031"
+            }
+        ],
+        "alt_name": "",
+        "notes": ""
+    },
+    "29": {
         "id": 29,
-        "value": "Rijeka (Flumen / Fiume)"
-      }
-    ],
-    "gnd": "",
-    "msdesc": [
-      {
-        "id": 1,
-        "value": "Cod. 12031"
-      },
-      {
-        "id": 2,
-        "value": "Cod. 12032"
-      }
-    ],
-    "alt_name": "Jesuitenkolleg Rijeka",
-    "notes": ""
-  },
-  "41": {
-    "id": 41,
-    "order": "41.00000000000000000000",
-    "name": "Missio Castrensis",
-    "jesuiten_id": "jesuiten_org__41",
-    "located_in": [],
-    "gnd": "",
-    "msdesc": [
-      {
-        "id": 2,
-        "value": "Cod. 12032"
-      }
-    ],
-    "alt_name": "",
-    "notes": ""
-  },
-  "42": {
-    "id": 42,
-    "order": "42.00000000000000000000",
-    "name": "Missio Ensersdorffiana",
-    "jesuiten_id": "jesuiten_org__42",
-    "located_in": [
-      {
-        "id": 49,
-        "value": "Enzersdorf"
-      }
-    ],
-    "gnd": "",
-    "msdesc": [
-      {
-        "id": 2,
-        "value": "Cod. 12032"
-      }
-    ],
-    "alt_name": "",
-    "notes": ""
-  },
-  "43": {
-    "id": 43,
-    "order": "43.00000000000000000000",
-    "name": "Missio ad S. Laurentium",
-    "jesuiten_id": "jesuiten_org__43",
-    "located_in": [],
-    "gnd": "",
-    "msdesc": [
-      {
-        "id": 2,
-        "value": "Cod. 12032"
-      }
-    ],
-    "alt_name": "",
-    "notes": "Ad S. Laurentium, quae parochia collegio Graecensi adiuncta est (Cod. 12032, f. 10r)."
-  },
-  "44": {
-    "id": 44,
-    "order": "44.00000000000000000000",
-    "name": "Residentia Varasdinensis",
-    "jesuiten_id": "jesuiten_org__44",
-    "located_in": [
-      {
+        "order": "29.00000000000000000000",
+        "name": "Missio scepussensis",
+        "jesuiten_id": "jesuiten_org__29",
+        "located_in": [
+            {
+                "id": 46,
+                "order": "46.00000000000000000000",
+                "name": "Zip",
+                "jesuiten_id": "jesuiten_place__46",
+                "geonames": "https://www.geonames.org/723061/zip.html",
+                "lat": "48.36424",
+                "long": "20.20326"
+            }
+        ],
+        "gnd": "",
+        "msdesc": [
+            {
+                "id": 1,
+                "value": "Cod. 12031"
+            }
+        ],
+        "alt_name": "",
+        "notes": ""
+    },
+    "30": {
         "id": 30,
-        "value": "Varaždin"
-      }
-    ],
-    "gnd": "",
-    "msdesc": [
-      {
-        "id": 2,
-        "value": "Cod. 12032"
-      }
-    ],
-    "alt_name": "",
-    "notes": ""
-  },
-  "45": {
-    "id": 45,
-    "order": "45.00000000000000000000",
-    "name": "Missio Waldtpergensis",
-    "jesuiten_id": "jesuiten_org__45",
-    "located_in": [
-      {
-        "id": 55,
-        "value": "Waldberg"
-      }
-    ],
-    "gnd": "",
-    "msdesc": [
-      {
-        "id": 1,
-        "value": "Cod. 12031"
-      }
-    ],
-    "alt_name": "",
-    "notes": ""
-  }
+        "order": "30.00000000000000000000",
+        "name": "Missio Palatina",
+        "jesuiten_id": "jesuiten_org__30",
+        "located_in": [],
+        "gnd": "",
+        "msdesc": [
+            {
+                "id": 1,
+                "value": "Cod. 12031"
+            }
+        ],
+        "alt_name": "",
+        "notes": ""
+    },
+    "31": {
+        "id": 31,
+        "order": "31.00000000000000000000",
+        "name": "Missio Bitsensis",
+        "jesuiten_id": "jesuiten_org__31",
+        "located_in": [],
+        "gnd": "",
+        "msdesc": [
+            {
+                "id": 1,
+                "value": "Cod. 12031"
+            }
+        ],
+        "alt_name": "",
+        "notes": ""
+    },
+    "32": {
+        "id": 32,
+        "order": "32.00000000000000000000",
+        "name": "Missio Cassoviensis",
+        "jesuiten_id": "jesuiten_org__32",
+        "located_in": [
+            {
+                "id": 21,
+                "order": "21.00000000000000000000",
+                "name": "Košice (Cassovia)",
+                "jesuiten_id": "jesuiten_place__21",
+                "geonames": "https://www.geonames.org/724443/kosice.html",
+                "lat": "48.71395",
+                "long": "21.25808"
+            }
+        ],
+        "gnd": "",
+        "msdesc": [
+            {
+                "id": 1,
+                "value": "Cod. 12031"
+            }
+        ],
+        "alt_name": "",
+        "notes": ""
+    },
+    "33": {
+        "id": 33,
+        "order": "33.00000000000000000000",
+        "name": "Residentia Homonensis",
+        "jesuiten_id": "jesuiten_org__33",
+        "located_in": [
+            {
+                "id": 48,
+                "order": "48.00000000000000000000",
+                "name": "Humenné (Homonna)",
+                "jesuiten_id": "jesuiten_place__48",
+                "geonames": "https://www.geonames.org/724627/humenne.html",
+                "lat": "48.93707",
+                "long": "21.91625"
+            }
+        ],
+        "gnd": "",
+        "msdesc": [
+            {
+                "id": 1,
+                "value": "Cod. 12031"
+            }
+        ],
+        "alt_name": "",
+        "notes": ""
+    },
+    "34": {
+        "id": 34,
+        "order": "34.00000000000000000000",
+        "name": "Sedes Quinqueecclesiensis",
+        "jesuiten_id": "jesuiten_org__34",
+        "located_in": [
+            {
+                "id": 31,
+                "order": "31.00000000000000000000",
+                "name": "Pécs (Quinque ecclesiae)",
+                "jesuiten_id": "jesuiten_place__31",
+                "geonames": "https://www.geonames.org/3046526/pecs.html",
+                "lat": "46.07250",
+                "long": "18.23083"
+            }
+        ],
+        "gnd": "",
+        "msdesc": [
+            {
+                "id": 1,
+                "value": "Cod. 12031"
+            }
+        ],
+        "alt_name": "",
+        "notes": ""
+    },
+    "35": {
+        "id": 35,
+        "order": "35.00000000000000000000",
+        "name": "Collegium Crembsense",
+        "jesuiten_id": "jesuiten_org__35",
+        "located_in": [
+            {
+                "id": 11,
+                "order": "11.00000000000000000000",
+                "name": "Krems",
+                "jesuiten_id": "jesuiten_place__11",
+                "geonames": "https://www.geonames.org/2773549/krems-an-der-donau.html",
+                "lat": "48.40921",
+                "long": "15.61415"
+            }
+        ],
+        "gnd": "https://d-nb.info/gnd/1086486803",
+        "msdesc": [
+            {
+                "id": 1,
+                "value": "Cod. 12031"
+            }
+        ],
+        "alt_name": "Jesuitenkolleg Krems",
+        "notes": "Im Frühjahr 1616, also vor gut 400 Jahren, wurde in der Stadt Krems bei der spätgotischen Frauenbergkirche (der heutigen Piaristenkirche) das „Collegium Crembsense\" der „Gesellschaft Jesu\" eröffnet."
+    },
+    "36": {
+        "id": 36,
+        "order": "36.00000000000000000000",
+        "name": "Collegium Goritiense",
+        "jesuiten_id": "jesuiten_org__36",
+        "located_in": [
+            {
+                "id": 27,
+                "order": "27.00000000000000000000",
+                "name": "Gorizia (Görz)",
+                "jesuiten_id": "jesuiten_place__27",
+                "geonames": "https://www.geonames.org/3175986/gorizia.html",
+                "lat": "45.94088",
+                "long": "13.62167"
+            }
+        ],
+        "gnd": "https://d-nb.info/gnd/7723168-5",
+        "msdesc": [
+            {
+                "id": 1,
+                "value": "Cod. 12031"
+            },
+            {
+                "id": 2,
+                "value": "Cod. 12032"
+            }
+        ],
+        "alt_name": "Jesuitenkolleg Görz",
+        "notes": ""
+    },
+    "37": {
+        "id": 37,
+        "order": "37.00000000000000000000",
+        "name": "Collegium Judenburgense",
+        "jesuiten_id": "jesuiten_org__37",
+        "located_in": [
+            {
+                "id": 25,
+                "order": "25.00000000000000000000",
+                "name": "Judenburg",
+                "jesuiten_id": "jesuiten_place__25",
+                "geonames": "https://www.geonames.org/2775020/judenburg.html",
+                "lat": "47.16667",
+                "long": "14.66667"
+            }
+        ],
+        "gnd": "https://d-nb.info/gnd/1172525137",
+        "msdesc": [
+            {
+                "id": 1,
+                "value": "Cod. 12031"
+            },
+            {
+                "id": 2,
+                "value": "Cod. 12032"
+            }
+        ],
+        "alt_name": "Jesuitenkolleg Judenburg",
+        "notes": ""
+    },
+    "38": {
+        "id": 38,
+        "order": "38.00000000000000000000",
+        "name": "Collegium Tergestinum",
+        "jesuiten_id": "jesuiten_org__38",
+        "located_in": [
+            {
+                "id": 28,
+                "order": "28.00000000000000000000",
+                "name": "Trieste (Tergestinum)",
+                "jesuiten_id": "jesuiten_place__28",
+                "geonames": "https://www.geonames.org/3165185/trieste.html",
+                "lat": "45.64953",
+                "long": "13.77678"
+            }
+        ],
+        "gnd": "",
+        "msdesc": [
+            {
+                "id": 1,
+                "value": "Cod. 12031"
+            },
+            {
+                "id": 2,
+                "value": "Cod. 12032"
+            }
+        ],
+        "alt_name": "",
+        "notes": ""
+    },
+    "39": {
+        "id": 39,
+        "order": "39.00000000000000000000",
+        "name": "Domus Probationis Leobiensis",
+        "jesuiten_id": "jesuiten_org__39",
+        "located_in": [
+            {
+                "id": 24,
+                "order": "24.00000000000000000000",
+                "name": "Leoben",
+                "jesuiten_id": "jesuiten_place__24",
+                "geonames": "https://www.geonames.org/2772649/leoben.html",
+                "lat": "47.37650",
+                "long": "15.09144"
+            }
+        ],
+        "gnd": "",
+        "msdesc": [
+            {
+                "id": 1,
+                "value": "Cod. 12031"
+            },
+            {
+                "id": 2,
+                "value": "Cod. 12032"
+            }
+        ],
+        "alt_name": "",
+        "notes": ""
+    },
+    "40": {
+        "id": 40,
+        "order": "40.00000000000000000000",
+        "name": "Collegium Fluminense",
+        "jesuiten_id": "jesuiten_org__40",
+        "located_in": [
+            {
+                "id": 29,
+                "order": "29.00000000000000000000",
+                "name": "Rijeka (Flumen / Fiume)",
+                "jesuiten_id": "jesuiten_place__29",
+                "geonames": "https://www.geonames.org/3191648/rijeka.html",
+                "lat": "45.32673",
+                "long": "14.44241"
+            }
+        ],
+        "gnd": "",
+        "msdesc": [
+            {
+                "id": 1,
+                "value": "Cod. 12031"
+            },
+            {
+                "id": 2,
+                "value": "Cod. 12032"
+            }
+        ],
+        "alt_name": "Jesuitenkolleg Rijeka",
+        "notes": ""
+    },
+    "41": {
+        "id": 41,
+        "order": "41.00000000000000000000",
+        "name": "Missio Castrensis",
+        "jesuiten_id": "jesuiten_org__41",
+        "located_in": [],
+        "gnd": "",
+        "msdesc": [
+            {
+                "id": 2,
+                "value": "Cod. 12032"
+            }
+        ],
+        "alt_name": "",
+        "notes": ""
+    },
+    "42": {
+        "id": 42,
+        "order": "42.00000000000000000000",
+        "name": "Missio Ensersdorffiana",
+        "jesuiten_id": "jesuiten_org__42",
+        "located_in": [
+            {
+                "id": 49,
+                "order": "49.00000000000000000000",
+                "name": "Enzersdorf",
+                "jesuiten_id": "jesuiten_place__49",
+                "geonames": "",
+                "lat": null,
+                "long": null
+            }
+        ],
+        "gnd": "",
+        "msdesc": [
+            {
+                "id": 2,
+                "value": "Cod. 12032"
+            }
+        ],
+        "alt_name": "",
+        "notes": ""
+    },
+    "43": {
+        "id": 43,
+        "order": "43.00000000000000000000",
+        "name": "Missio ad S. Laurentium",
+        "jesuiten_id": "jesuiten_org__43",
+        "located_in": [],
+        "gnd": "",
+        "msdesc": [
+            {
+                "id": 2,
+                "value": "Cod. 12032"
+            }
+        ],
+        "alt_name": "",
+        "notes": "Ad S. Laurentium, quae parochia collegio Graecensi adiuncta est (Cod. 12032, f. 10r)."
+    },
+    "44": {
+        "id": 44,
+        "order": "44.00000000000000000000",
+        "name": "Residentia Varasdinensis",
+        "jesuiten_id": "jesuiten_org__44",
+        "located_in": [
+            {
+                "id": 30,
+                "order": "30.00000000000000000000",
+                "name": "Varaždin",
+                "jesuiten_id": "jesuiten_place__30",
+                "geonames": "https://www.geonames.org/3188383/varazdin.html",
+                "lat": "46.30444",
+                "long": "16.33778"
+            }
+        ],
+        "gnd": "",
+        "msdesc": [
+            {
+                "id": 2,
+                "value": "Cod. 12032"
+            }
+        ],
+        "alt_name": "",
+        "notes": ""
+    },
+    "45": {
+        "id": 45,
+        "order": "45.00000000000000000000",
+        "name": "Missio Waldtpergensis",
+        "jesuiten_id": "jesuiten_org__45",
+        "located_in": [
+            {
+                "id": 55,
+                "order": "55.00000000000000000000",
+                "name": "Waldberg",
+                "jesuiten_id": "jesuiten_place__55",
+                "geonames": "https://www.geonames.org/2607243/waldberg.html",
+                "lat": "48.75811",
+                "long": "15.31142"
+            }
+        ],
+        "gnd": "",
+        "msdesc": [
+            {
+                "id": 1,
+                "value": "Cod. 12031"
+            }
+        ],
+        "alt_name": "",
+        "notes": ""
+    }
 }
