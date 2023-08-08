@@ -51,14 +51,24 @@
             <listOrg xml:id="listorg">
             {% for x in objects %}
                <org xml:id="{{ x.jesuiten_id }}">
-                  <orgName>{{ x.name }}</orgName>{% if x.alt_name %}
-                  <orgName type="alt">{{ x.alt_name }}</orgName>{% endif %}
-                  {%- for y in x.located_in %}
+                  <orgName>{{ x.name }}</orgName>
+                  {% if x.alt_name %}
+                  <orgName type="alt">{{ x.alt_name }}</orgName>
+                  {% endif %}
+                  {% for y in x.located_in %}
                   <location type="located_in_place">
-                     <placeName key="jesuiten_place__{{ y.id }}">{{ y.value }}</placeName>
-                  </location> {% endfor %}
+                     <placeName key="jesuiten_place__{{ y.id }}">{{ y.name }}</placeName>
+                     {% if y.lat %}
+                     <geo>{{ y.lat }} {{x.long }}</geo>
+                     {% endif %}
+                     {% if y.geonames|length > 0 %}
+                     <note type="idno"><idno type="geonames">{{ y.geonames }}</idno></note>
+                     {% endif %}
+                  </location>
+                  {% endfor %}
                   {% if x.gnd|length > 0 %}
-                  <idno type="gnd">{{ x.gnd }}</idno> {% endif %}
+                  <idno type="gnd">{{ x.gnd }}</idno>
+                  {% endif %}
                   {% if x.notes %}
                   <note>{{ x.notes }}</note>
                   {% endif %}

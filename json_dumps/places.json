@@ -5,24 +5,6 @@
     "name": "Wien",
     "jesuiten_id": "jesuiten_place__1",
     "geonames": "https://www.geonames.org/2761369/vienna.html",
-    "orgs": [
-      {
-        "id": 1,
-        "value": "Domus Professa Viennensis"
-      },
-      {
-        "id": 2,
-        "value": "Collegium Viennense Academicum"
-      },
-      {
-        "id": 3,
-        "value": "Residentia S. Bernardi"
-      },
-      {
-        "id": 4,
-        "value": "Domus probationis S. Anna"
-      }
-    ],
     "lat": "48.20849",
     "long": "16.37208"
   },
@@ -32,16 +14,6 @@
     "name": "Graz",
     "jesuiten_id": "jesuiten_place__2",
     "geonames": "https://www.geonames.org/2778067/graz.html",
-    "orgs": [
-      {
-        "id": 5,
-        "value": "Collegium Graecense"
-      },
-      {
-        "id": 6,
-        "value": "Ferdinandeum"
-      }
-    ],
     "lat": "47.06667",
     "long": "15.45000"
   },
@@ -51,12 +23,6 @@
     "name": "Linz",
     "jesuiten_id": "jesuiten_place__3",
     "geonames": "https://www.geonames.org/2772400/linz.html",
-    "orgs": [
-      {
-        "id": 8,
-        "value": "Collegium Lincium / Lincense"
-      }
-    ],
     "lat": "48.30639",
     "long": "14.28611"
   },
@@ -66,12 +32,6 @@
     "name": "Steyr",
     "jesuiten_id": "jesuiten_place__4",
     "geonames": "https://www.geonames.org/2764359/steyr.html",
-    "orgs": [
-      {
-        "id": 26,
-        "value": "Residentia Styrensis"
-      }
-    ],
     "lat": "48.04274",
     "long": "14.42127"
   },
@@ -81,12 +41,6 @@
     "name": "Bratislava",
     "jesuiten_id": "jesuiten_place__5",
     "geonames": "https://www.geonames.org/3060972/bratislava.html",
-    "orgs": [
-      {
-        "id": 9,
-        "value": "Collegium Posoniensis"
-      }
-    ],
     "lat": "48.14816",
     "long": "17.10674"
   },
@@ -96,12 +50,6 @@
     "name": "Trnava",
     "jesuiten_id": "jesuiten_place__6",
     "geonames": "https://www.geonames.org/3057124/trnava.html",
-    "orgs": [
-      {
-        "id": 11,
-        "value": "Collegium Tyrnaviense"
-      }
-    ],
     "lat": "48.37741",
     "long": "17.58723"
   },
@@ -111,12 +59,6 @@
     "name": "Passau",
     "jesuiten_id": "jesuiten_place__7",
     "geonames": "https://www.geonames.org/2855328/passau.html",
-    "orgs": [
-      {
-        "id": 10,
-        "value": "Collegium Passaviense"
-      }
-    ],
     "lat": "48.56650",
     "long": "13.43122"
   },
@@ -126,12 +68,6 @@
     "name": "Győr (Jaurinum)",
     "jesuiten_id": "jesuiten_place__8",
     "geonames": "https://www.geonames.org/3052009/gyor.html",
-    "orgs": [
-      {
-        "id": 12,
-        "value": "Collegium Jaurinense"
-      }
-    ],
     "lat": "47.68333",
     "long": "17.63512"
   },
@@ -141,12 +77,6 @@
     "name": "Ljubljana",
     "jesuiten_id": "jesuiten_place__9",
     "geonames": "https://www.geonames.org/3196359/ljubljana.html",
-    "orgs": [
-      {
-        "id": 13,
-        "value": "Collegium Labacense"
-      }
-    ],
     "lat": "46.05108",
     "long": "14.50513"
   },
@@ -156,12 +86,6 @@
     "name": "Zagreb",
     "jesuiten_id": "jesuiten_place__10",
     "geonames": "https://www.geonames.org/3186886/zagreb.html",
-    "orgs": [
-      {
-        "id": 18,
-        "value": "Collegium Zagrabiense"
-      }
-    ],
     "lat": "45.81444",
     "long": "15.97798"
   },
@@ -171,12 +95,6 @@
     "name": "Krems",
     "jesuiten_id": "jesuiten_place__11",
     "geonames": "https://www.geonames.org/2773549/krems-an-der-donau.html",
-    "orgs": [
-      {
-        "id": 35,
-        "value": "Collegium Crembsense"
-      }
-    ],
     "lat": "48.40921",
     "long": "15.61415"
   },
@@ -186,7 +104,6 @@
     "name": "Wiener Neustadt",
     "jesuiten_id": "jesuiten_place__12",
     "geonames": "https://www.geonames.org/2761353/wiener-neustadt.html",
-    "orgs": [],
     "lat": "47.80485",
     "long": "16.23196"
   },
@@ -196,7 +113,6 @@
     "name": "Sopron (Ödenburg)",
     "jesuiten_id": "jesuiten_place__13",
     "geonames": "https://www.geonames.org/3045190/sopron.html",
-    "orgs": [],
     "lat": "47.68501",
     "long": "16.59049"
   },
@@ -206,7 +122,6 @@
     "name": "Kőszeg (Güns / Ginsium)",
     "jesuiten_id": "jesuiten_place__14",
     "geonames": "https://www.geonames.org/3049366/koszeg.html",
-    "orgs": [],
     "lat": "47.38922",
     "long": "16.54100"
   },
@@ -216,7 +131,6 @@
     "name": "Buda",
     "jesuiten_id": "jesuiten_place__15",
     "geonames": "https://www.geonames.org/3054667/buda.html",
-    "orgs": [],
     "lat": "47.50000",
     "long": "19.03333"
   },
@@ -226,7 +140,6 @@
     "name": "Komárom",
     "jesuiten_id": "jesuiten_place__16",
     "geonames": "https://www.geonames.org/3049519/komarom.html",
-    "orgs": [],
     "lat": "47.74318",
     "long": "18.11913"
   },
@@ -236,7 +149,6 @@
     "name": "Skalica",
     "jesuiten_id": "jesuiten_place__17",
     "geonames": "https://www.geonames.org/3057630/skalica.html",
-    "orgs": [],
     "lat": "48.84490",
     "long": "17.22635"
   },
@@ -246,7 +158,6 @@
     "name": "Trenčín",
     "jesuiten_id": "jesuiten_place__18",
     "geonames": "https://www.geonames.org/3057140/trencin.html",
-    "orgs": [],
     "lat": "48.89452",
     "long": "18.04436"
   },
@@ -256,7 +167,6 @@
     "name": "Banská Bystrica (Neusohl)",
     "jesuiten_id": "jesuiten_place__19",
     "geonames": "https://www.geonames.org/3061186/banska-bystrica.html",
-    "orgs": [],
     "lat": "48.73946",
     "long": "19.15349"
   },
@@ -266,7 +176,6 @@
     "name": "Levoča (Leutschau)",
     "jesuiten_id": "jesuiten_place__20",
     "geonames": "https://www.geonames.org/724294/levoca.html",
-    "orgs": [],
     "lat": "49.02173",
     "long": "20.59212"
   },
@@ -276,12 +185,6 @@
     "name": "Košice (Cassovia)",
     "jesuiten_id": "jesuiten_place__21",
     "geonames": "https://www.geonames.org/724443/kosice.html",
-    "orgs": [
-      {
-        "id": 32,
-        "value": "Missio Cassoviensis"
-      }
-    ],
     "lat": "48.71395",
     "long": "21.25808"
   },
@@ -291,7 +194,6 @@
     "name": "Sabinov",
     "jesuiten_id": "jesuiten_place__22",
     "geonames": "https://www.geonames.org/723674/sabinov.html",
-    "orgs": [],
     "lat": "49.10309",
     "long": "21.09880"
   },
@@ -301,7 +203,6 @@
     "name": "Eger",
     "jesuiten_id": "jesuiten_place__23",
     "geonames": "https://www.geonames.org/721239/eger.html",
-    "orgs": [],
     "lat": "47.90265",
     "long": "20.37329"
   },
@@ -311,12 +212,6 @@
     "name": "Leoben",
     "jesuiten_id": "jesuiten_place__24",
     "geonames": "https://www.geonames.org/2772649/leoben.html",
-    "orgs": [
-      {
-        "id": 39,
-        "value": "Domus Probationis Leobiensis"
-      }
-    ],
     "lat": "47.37650",
     "long": "15.09144"
   },
@@ -326,12 +221,6 @@
     "name": "Judenburg",
     "jesuiten_id": "jesuiten_place__25",
     "geonames": "https://www.geonames.org/2775020/judenburg.html",
-    "orgs": [
-      {
-        "id": 37,
-        "value": "Collegium Judenburgense"
-      }
-    ],
     "lat": "47.16667",
     "long": "14.66667"
   },
@@ -341,12 +230,6 @@
     "name": "Klagenfurt",
     "jesuiten_id": "jesuiten_place__26",
     "geonames": "https://www.geonames.org/2774326/klagenfurt-am-woerthersee.html",
-    "orgs": [
-      {
-        "id": 16,
-        "value": "Collegium Clagenfurtense"
-      }
-    ],
     "lat": "46.62472",
     "long": "14.30528"
   },
@@ -356,12 +239,6 @@
     "name": "Gorizia (Görz)",
     "jesuiten_id": "jesuiten_place__27",
     "geonames": "https://www.geonames.org/3175986/gorizia.html",
-    "orgs": [
-      {
-        "id": 36,
-        "value": "Collegium Goritiense"
-      }
-    ],
     "lat": "45.94088",
     "long": "13.62167"
   },
@@ -371,12 +248,6 @@
     "name": "Trieste (Tergestinum)",
     "jesuiten_id": "jesuiten_place__28",
     "geonames": "https://www.geonames.org/3165185/trieste.html",
-    "orgs": [
-      {
-        "id": 38,
-        "value": "Collegium Tergestinum"
-      }
-    ],
     "lat": "45.64953",
     "long": "13.77678"
   },
@@ -386,12 +257,6 @@
     "name": "Rijeka (Flumen / Fiume)",
     "jesuiten_id": "jesuiten_place__29",
     "geonames": "https://www.geonames.org/3191648/rijeka.html",
-    "orgs": [
-      {
-        "id": 40,
-        "value": "Collegium Fluminense"
-      }
-    ],
     "lat": "45.32673",
     "long": "14.44241"
   },
@@ -401,12 +266,6 @@
     "name": "Varaždin",
     "jesuiten_id": "jesuiten_place__30",
     "geonames": "https://www.geonames.org/3188383/varazdin.html",
-    "orgs": [
-      {
-        "id": 44,
-        "value": "Residentia Varasdinensis"
-      }
-    ],
     "lat": "46.30444",
     "long": "16.33778"
   },
@@ -416,12 +275,6 @@
     "name": "Pécs (Quinque ecclesiae)",
     "jesuiten_id": "jesuiten_place__31",
     "geonames": "https://www.geonames.org/3046526/pecs.html",
-    "orgs": [
-      {
-        "id": 34,
-        "value": "Sedes Quinqueecclesiensis"
-      }
-    ],
     "lat": "46.07250",
     "long": "18.23083"
   },
@@ -431,7 +284,6 @@
     "name": "Požega (Incerum)",
     "jesuiten_id": "jesuiten_place__32",
     "geonames": "https://www.geonames.org/3190589/pozega.html",
-    "orgs": [],
     "lat": "45.34028",
     "long": "17.68528"
   },
@@ -441,7 +293,6 @@
     "name": "Cluj-Napoca (Claudiopolis / Klausenburg / Kolozsvár)",
     "jesuiten_id": "jesuiten_place__33",
     "geonames": "https://www.geonames.org/681290/cluj-napoca.html",
-    "orgs": [],
     "lat": "46.76667",
     "long": "23.60000"
   },
@@ -451,7 +302,6 @@
     "name": "Belgrad",
     "jesuiten_id": "jesuiten_place__34",
     "geonames": "https://www.geonames.org/792680/belgrade.html",
-    "orgs": [],
     "lat": "44.80401",
     "long": "20.46513"
   },
@@ -461,7 +311,6 @@
     "name": "Timişoara (Freidorf / Josephstadt)",
     "jesuiten_id": "jesuiten_place__35",
     "geonames": "https://www.geonames.org/665087/timisoara.html",
-    "orgs": [],
     "lat": "45.75372",
     "long": "21.22571"
   },
@@ -471,7 +320,6 @@
     "name": "Znojmo",
     "jesuiten_id": "jesuiten_place__36",
     "geonames": "https://www.geonames.org/3061344/znojmo.html",
-    "orgs": [],
     "lat": "48.85550",
     "long": "16.04880"
   },
@@ -481,7 +329,6 @@
     "name": "Litoměřice (Leitmeritz)",
     "jesuiten_id": "jesuiten_place__37",
     "geonames": "https://www.geonames.org/3071677/litomerice.html",
-    "orgs": [],
     "lat": "50.53348",
     "long": "14.13180"
   },
@@ -491,7 +338,6 @@
     "name": "Wroclaw (Breslau / Vratislavia)",
     "jesuiten_id": "jesuiten_place__38",
     "geonames": "https://www.geonames.org/3081368/wroclaw.html",
-    "orgs": [],
     "lat": "51.10000",
     "long": "17.03333"
   },
@@ -501,12 +347,6 @@
     "name": "Šentjernej",
     "jesuiten_id": "jesuiten_place__39",
     "geonames": "https://www.geonames.org/3191033/sentjernej.html",
-    "orgs": [
-      {
-        "id": 14,
-        "value": "Residentia Pletriacensis"
-      }
-    ],
     "lat": "45.84000",
     "long": "15.33611"
   },
@@ -516,12 +356,6 @@
     "name": "Eberndorf",
     "jesuiten_id": "jesuiten_place__40",
     "geonames": "https://www.geonames.org/2780531/eberndorf.html",
-    "orgs": [
-      {
-        "id": 17,
-        "value": "Residentia Oberndorfensi"
-      }
-    ],
     "lat": "46.59139",
     "long": "14.64361"
   },
@@ -531,12 +365,6 @@
     "name": "Schwanenstadt",
     "jesuiten_id": "jesuiten_place__41",
     "geonames": "https://www.geonames.org/2765508/schwanenstadt.html",
-    "orgs": [
-      {
-        "id": 21,
-        "value": "Missio Schwanstadiana"
-      }
-    ],
     "lat": "48.05537",
     "long": "13.77505"
   },
@@ -546,12 +374,6 @@
     "name": "Pfarrkirchen",
     "jesuiten_id": "jesuiten_place__42",
     "geonames": "https://www.geonames.org/2768934/pfarrkirchen-im-muehlkreis.html",
-    "orgs": [
-      {
-        "id": 22,
-        "value": "Missio Pfarkirchensis"
-      }
-    ],
     "lat": "48.50375",
     "long": "13.82638"
   },
@@ -561,12 +383,6 @@
     "name": "Zell",
     "jesuiten_id": "jesuiten_place__43",
     "geonames": "https://www.geonames.org/2760634/zell-am-see.html",
-    "orgs": [
-      {
-        "id": 24,
-        "value": "Missio Zellensis"
-      }
-    ],
     "lat": "47.32306",
     "long": "12.79839"
   },
@@ -576,12 +392,6 @@
     "name": "Traunkirchen",
     "jesuiten_id": "jesuiten_place__44",
     "geonames": "https://www.geonames.org/2763414/traunkirchen.html",
-    "orgs": [
-      {
-        "id": 27,
-        "value": "Residentia Traunkirchensis"
-      }
-    ],
     "lat": "47.84462",
     "long": "13.78939"
   },
@@ -591,12 +401,6 @@
     "name": "Levice",
     "jesuiten_id": "jesuiten_place__45",
     "geonames": "https://www.geonames.org/3059101/levice.html",
-    "orgs": [
-      {
-        "id": 28,
-        "value": "Missio Levensis"
-      }
-    ],
     "lat": "48.21563",
     "long": "18.60705"
   },
@@ -606,12 +410,6 @@
     "name": "Zip",
     "jesuiten_id": "jesuiten_place__46",
     "geonames": "https://www.geonames.org/723061/zip.html",
-    "orgs": [
-      {
-        "id": 29,
-        "value": "Missio scepussensis"
-      }
-    ],
     "lat": "48.36424",
     "long": "20.20326"
   },
@@ -621,7 +419,6 @@
     "name": "Pezinok / Bazin",
     "jesuiten_id": "jesuiten_place__47",
     "geonames": "https://www.geonames.org/3058210/pezinok.html",
-    "orgs": [],
     "lat": "48.28986",
     "long": "17.26664"
   },
@@ -631,12 +428,6 @@
     "name": "Humenné (Homonna)",
     "jesuiten_id": "jesuiten_place__48",
     "geonames": "https://www.geonames.org/724627/humenne.html",
-    "orgs": [
-      {
-        "id": 33,
-        "value": "Residentia Homonensis"
-      }
-    ],
     "lat": "48.93707",
     "long": "21.91625"
   },
@@ -646,12 +437,6 @@
     "name": "Enzersdorf",
     "jesuiten_id": "jesuiten_place__49",
     "geonames": "",
-    "orgs": [
-      {
-        "id": 42,
-        "value": "Missio Ensersdorffiana"
-      }
-    ],
     "lat": null,
     "long": null
   },
@@ -661,12 +446,6 @@
     "name": "Millstatt",
     "jesuiten_id": "jesuiten_place__50",
     "geonames": "https://www.geonames.org/2760380/millstatt.html",
-    "orgs": [
-      {
-        "id": 7,
-        "value": "Residentia Millestadiensis"
-      }
-    ],
     "lat": "46.80417",
     "long": "13.58056"
   },
@@ -676,12 +455,6 @@
     "name": "Waizenkirchen",
     "jesuiten_id": "jesuiten_place__51",
     "geonames": "https://www.geonames.org/2762060/waizenkirchen.html",
-    "orgs": [
-      {
-        "id": 19,
-        "value": "Missio Waizenkirchana"
-      }
-    ],
     "lat": "48.33018",
     "long": "13.85754"
   },
@@ -691,7 +464,6 @@
     "name": "Freistadt",
     "jesuiten_id": "jesuiten_place__52",
     "geonames": "https://www.geonames.org/2779275/freistadt.html",
-    "orgs": [],
     "lat": "48.51103",
     "long": "14.50453"
   },
@@ -701,7 +473,6 @@
     "name": "Gallneukirchen",
     "jesuiten_id": "jesuiten_place__53",
     "geonames": "https://www.geonames.org/2778966/gallneukirchen.html",
-    "orgs": [],
     "lat": "48.35363",
     "long": "14.41604"
   },
@@ -711,7 +482,6 @@
     "name": "Waldneukirchen",
     "jesuiten_id": "jesuiten_place__54",
     "geonames": "https://www.geonames.org/2761989/waldneukirchen.html",
-    "orgs": [],
     "lat": "47.99854",
     "long": "14.25879"
   },
@@ -721,12 +491,6 @@
     "name": "Waldberg",
     "jesuiten_id": "jesuiten_place__55",
     "geonames": "https://www.geonames.org/2607243/waldberg.html",
-    "orgs": [
-      {
-        "id": 45,
-        "value": "Missio Waldtpergensis"
-      }
-    ],
     "lat": "48.75811",
     "long": "15.31142"
   }
