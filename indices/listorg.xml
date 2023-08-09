@@ -94,6 +94,7 @@
                      <geo>47.06667 15.45000</geo>
                      <note type="idno"><idno type="geonames">https://sws.geonames.org/2778067/</idno></note>
                   </location>
+                  <note>Collegiumm seit 1573; dazu später auch Akademie (Ferdinandeum).</note>
                </org>
                <org xml:id="jesuiten_org__6">
                   <orgName>Ferdinandeum</orgName>
@@ -140,12 +141,13 @@
                      <note type="idno"><idno type="geonames">https://sws.geonames.org/2855328/</idno></note>
                   </location>
                   <idno type="gnd">https://d-nb.info/gnd/16128712-8</idno>
+                  <note>1605 erste Niederlassung. 1612 Gründung eines Kollegs, (Stiftungsbrief aber erst 1615). Das Kolleg erhielt das ehemalige benediktinerinnenstift Traunkirchen mit den dazugehörigen Pfarreien als Mitgift.</note>
                </org>
                <org xml:id="jesuiten_org__11">
                   <orgName>Collegium Tyrnaviense</orgName>
                   <orgName type="alt">Jesuitenkolleg Trnava</orgName>
                   <location type="located_in_place">
-                     <placeName key="jesuiten_place__6">Trnava</placeName>
+                     <placeName key="jesuiten_place__6">Trnava (Nagyszombat)</placeName>
                      <geo>48.37741 17.58723</geo>
                      <note type="idno"><idno type="geonames">https://sws.geonames.org/3057124/</idno></note>
                   </location>
@@ -197,7 +199,7 @@
                   <idno type="gnd">https://d-nb.info/gnd/4359924-2</idno>
                </org>
                <org xml:id="jesuiten_org__17">
-                  <orgName>Residentia Oberndorfensi</orgName>
+                  <orgName>Residentia Eberndoffensis / Oberndorfensi</orgName>
                   <orgName type="alt">Augustiner-Chorherrenstift Eberndorf</orgName>
                   <location type="located_in_place">
                      <placeName key="jesuiten_place__40">Eberndorf</placeName>
@@ -312,7 +314,7 @@ einigen Patres und Laienbrüdern. (Heilingsetzer, Florian. „Die Jesuiten an de
                   </location>
                </org>
                <org xml:id="jesuiten_org__34">
-                  <orgName>Sedes Quinqueecclesiensis</orgName>
+                  <orgName>Residentia / Sedes Quinqueecclesiensis</orgName>
                   <location type="located_in_place">
                      <placeName key="jesuiten_place__31">Pécs (Quinque ecclesiae)</placeName>
                      <geo>46.07250 18.23083</geo>
@@ -403,6 +405,67 @@ einigen Patres und Laienbrüdern. (Heilingsetzer, Florian. „Die Jesuiten an de
                      <geo>48.75811 15.31142</geo>
                      <note type="idno"><idno type="geonames">https://sws.geonames.org/2607243/</idno></note>
                   </location>
+               </org>
+               <org xml:id="jesuiten_org__46">
+                  <orgName>Residentia Monostoriensis</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__33">Cluj-Napoca (Claudiopolis / Klausenburg / Kolozsvár)</placeName>
+                     <geo>46.76667 23.60000</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/681290/</idno></note>
+                  </location>
+               </org>
+               <org xml:id="jesuiten_org__47">
+                  <orgName>Residentia Gyongyosiensis</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__57">Gyöngyös</placeName>
+                     <geo>47.78257 19.92800</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/3052040/</idno></note>
+                  </location>
+                  <note>1633–1773</note>
+               </org>
+               <org xml:id="jesuiten_org__48">
+                  <orgName>Collegium Szakmarinum</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__58">Satu Mare</placeName>
+                     <geo>47.79926 22.86255</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/667873/</idno></note>
+                  </location>
+                  <note>Jesuit college in Satu Mare (1634–1773), now Mihai Eminescu National College</note>
+               </org>
+               <org xml:id="jesuiten_org__49">
+                  <orgName>Missio Werthsensis</orgName>
+               </org>
+               <org xml:id="jesuiten_org__50">
+                  <orgName>Residentia Soproniensis</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__13">Sopron (Ödenburg)</placeName>
+                     <geo>47.68501 16.59049</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/3045190/</idno></note>
+                  </location>
+               </org>
+               <org xml:id="jesuiten_org__51">
+                  <orgName>Missio ad illustrem comitem Christophorum Banffy</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__56">Lendva castle (Alsolindua arx)</placeName>
+                     <geo>46.56689 16.45276</geo>
+                  </location>
+               </org>
+               <org xml:id="jesuiten_org__52">
+                  <orgName>Collegium Leobiense</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__24">Leoben</placeName>
+                     <geo>47.37650 15.09144</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/2772649/</idno></note>
+                  </location>
+               </org>
+               <org xml:id="jesuiten_org__53">
+                  <orgName>Collegium Styrense</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__4">Steyr</placeName>
+                     <geo>48.04274 14.42127</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/2764359/</idno></note>
+                  </location>
+                  <note>1632–1773</note>
                </org>
             </listOrg>
          </div>

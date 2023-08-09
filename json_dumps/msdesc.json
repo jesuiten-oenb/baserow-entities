@@ -71,7 +71,7 @@
       },
       {
         "id": 17,
-        "value": "Residentia Oberndorfensi"
+        "value": "Residentia Eberndoffensis / Oberndorfensi"
       },
       {
         "id": 18,
@@ -139,7 +139,7 @@
       },
       {
         "id": 34,
-        "value": "Sedes Quinqueecclesiensis"
+        "value": "Residentia / Sedes Quinqueecclesiensis"
       },
       {
         "id": 35,
@@ -172,7 +172,8 @@
     ],
     "URL": "http://data.onb.ac.at/rec/AC13948850",
     "titel": "Litterae annuae provinciae Austriae Societatis Iesu a. 1633",
-    "date": "1633-01-01"
+    "date": "1633-01-01",
+    "persons": []
   },
   "2": {
     "id": 2,
@@ -275,6 +276,80 @@
     ],
     "URL": "http://data.onb.ac.at/rec/AC13948851",
     "titel": "Litterae annuae provinciae Austriae Societatis Iesu a. 1635",
-    "date": "1635-01-01"
+    "date": "1635-01-01",
+    "persons": []
+  },
+  "3": {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "signatur": "Cod. 12033",
+    "jesuiten_id": "jesuiten_msdesc__3",
+    "mentioned_orgs": [
+      {
+        "id": 17,
+        "value": "Residentia Eberndoffensis / Oberndorfensi"
+      },
+      {
+        "id": 34,
+        "value": "Residentia / Sedes Quinqueecclesiensis"
+      },
+      {
+        "id": 46,
+        "value": "Residentia Monostoriensis"
+      },
+      {
+        "id": 47,
+        "value": "Residentia Gyongyosiensis"
+      },
+      {
+        "id": 48,
+        "value": "Collegium Szakmarinum"
+      },
+      {
+        "id": 49,
+        "value": "Missio Werthsensis"
+      },
+      {
+        "id": 53,
+        "value": "Collegium Styrense"
+      }
+    ],
+    "URL": "http://data.onb.ac.at/rec/AC13948973",
+    "titel": "Litterae annuae provinciae Austriae Societatis Iesu a. 1639",
+    "date": "1636-01-01",
+    "persons": [
+      {
+        "id": 1,
+        "value": "Joannes Gerillius Tyrolensis"
+      },
+      {
+        "id": 2,
+        "value": "Henricus Phillipi"
+      },
+      {
+        "id": 3,
+        "value": "Joannes Jacobus Zolner Graecensis"
+      },
+      {
+        "id": 4,
+        "value": "Michael Fischer"
+      },
+      {
+        "id": 5,
+        "value": "Fridericus Krap Styrus Graecensis"
+      },
+      {
+        "id": 6,
+        "value": "Andrea Topos Slauus"
+      },
+      {
+        "id": 7,
+        "value": "Phillipus Diuinar"
+      },
+      {
+        "id": 8,
+        "value": "Christophorus Banffy"
+      }
+    ]
   }
 }

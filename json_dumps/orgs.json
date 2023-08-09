@@ -27,7 +27,21 @@
             }
         ],
         "alt_name": "Wien Profeßhaus",
-        "notes": null
+        "notes": null,
+        "persons": [
+            {
+                "id": 1,
+                "value": "Joannes Gerillius Tyrolensis"
+            },
+            {
+                "id": 2,
+                "value": "Henricus Phillipi"
+            },
+            {
+                "id": 3,
+                "value": "Joannes Jacobus Zolner Graecensis"
+            }
+        ]
     },
     "2": {
         "id": 2,
@@ -57,7 +71,21 @@
             }
         ],
         "alt_name": "Jesuitenkolleg Wien",
-        "notes": null
+        "notes": null,
+        "persons": [
+            {
+                "id": 4,
+                "value": "Michael Fischer"
+            },
+            {
+                "id": 5,
+                "value": "Fridericus Krap Styrus Graecensis"
+            },
+            {
+                "id": 6,
+                "value": "Andrea Topos Slauus"
+            }
+        ]
     },
     "3": {
         "id": 3,
@@ -83,7 +111,8 @@
             }
         ],
         "alt_name": null,
-        "notes": null
+        "notes": null,
+        "persons": []
     },
     "4": {
         "id": 4,
@@ -113,7 +142,8 @@
             }
         ],
         "alt_name": "Wien Probationshaus",
-        "notes": "am 1. April 1573 räumte ihnen Kaiser Maximilian II. die Güter des erloschenen Wiener Klarissenklosters St. Anna zum Nutzgenuß ein"
+        "notes": "am 1. April 1573 räumte ihnen Kaiser Maximilian II. die Güter des erloschenen Wiener Klarissenklosters St. Anna zum Nutzgenuß ein",
+        "persons": []
     },
     "5": {
         "id": 5,
@@ -143,7 +173,13 @@
             }
         ],
         "alt_name": "Jesuitenkolleg Graz",
-        "notes": null
+        "notes": "Collegiumm seit 1573; dazu später auch Akademie (Ferdinandeum).",
+        "persons": [
+            {
+                "id": 7,
+                "value": "Phillipus Diuinar"
+            }
+        ]
     },
     "6": {
         "id": 6,
@@ -169,7 +205,8 @@
             }
         ],
         "alt_name": "",
-        "notes": null
+        "notes": null,
+        "persons": []
     },
     "7": {
         "id": 7,
@@ -199,7 +236,8 @@
             }
         ],
         "alt_name": "",
-        "notes": null
+        "notes": null,
+        "persons": []
     },
     "8": {
         "id": 8,
@@ -229,7 +267,8 @@
             }
         ],
         "alt_name": "Jesuitenkolleg Linz; Collegium Lincense",
-        "notes": ""
+        "notes": "",
+        "persons": []
     },
     "9": {
         "id": 9,
@@ -259,7 +298,8 @@
             }
         ],
         "alt_name": "Jesuitenkolleg Bratislava",
-        "notes": ""
+        "notes": "",
+        "persons": []
     },
     "10": {
         "id": 10,
@@ -289,7 +329,8 @@
             }
         ],
         "alt_name": "Jesuitenkolleg Passau",
-        "notes": ""
+        "notes": "1605 erste Niederlassung. 1612 Gründung eines Kollegs, (Stiftungsbrief aber erst 1615). Das Kolleg erhielt das ehemalige benediktinerinnenstift Traunkirchen mit den dazugehörigen Pfarreien als Mitgift.",
+        "persons": []
     },
     "11": {
         "id": 11,
@@ -300,7 +341,7 @@
             {
                 "id": 6,
                 "order": "6.00000000000000000000",
-                "name": "Trnava",
+                "name": "Trnava (Nagyszombat)",
                 "jesuiten_id": "jesuiten_place__6",
                 "geonames": "https://www.geonames.org/3057124/trnava.html",
                 "lat": "48.37741",
@@ -319,7 +360,8 @@
             }
         ],
         "alt_name": "Jesuitenkolleg Trnava",
-        "notes": "Im Königreich Ungarn, das weiterhin zur österreichischen Ordensprovinz gehörte, bestand bereits 1561–67 im heute slowakischen Trnava ein Kollegium, aus dem auf Initiative des Primas’ von Ungarn, Péter Pázmány, 1635 eine Universität mit einem ›Studium generale‹ entstand."
+        "notes": "Im Königreich Ungarn, das weiterhin zur österreichischen Ordensprovinz gehörte, bestand bereits 1561–67 im heute slowakischen Trnava ein Kollegium, aus dem auf Initiative des Primas’ von Ungarn, Péter Pázmány, 1635 eine Universität mit einem ›Studium generale‹ entstand.",
+        "persons": []
     },
     "12": {
         "id": 12,
@@ -349,7 +391,8 @@
             }
         ],
         "alt_name": "Gyor Jesuitenakademie",
-        "notes": "1718 wurde in Győr eine Jesuitenakademie gegründet, die eine philosophische und juristische Ausbildung anbot und an der ab 1745 auch weltliche Studenten zugelassen wurden."
+        "notes": "1718 wurde in Győr eine Jesuitenakademie gegründet, die eine philosophische und juristische Ausbildung anbot und an der ab 1745 auch weltliche Studenten zugelassen wurden.",
+        "persons": []
     },
     "13": {
         "id": 13,
@@ -379,7 +422,8 @@
             }
         ],
         "alt_name": "Jesuitenkolleg Ljubljana",
-        "notes": "https://www.austriaca.at/0xc1aa5576%200x000587de.pdf Lavric, Anna. Das Jesuitencollegium in Laibach und seine künstlerischen Verbindungen mit den benachbarten Ordenshäusern"
+        "notes": "https://www.austriaca.at/0xc1aa5576%200x000587de.pdf Lavric, Anna. Das Jesuitencollegium in Laibach und seine künstlerischen Verbindungen mit den benachbarten Ordenshäusern",
+        "persons": []
     },
     "14": {
         "id": 14,
@@ -405,7 +449,8 @@
             }
         ],
         "alt_name": "Pleterje",
-        "notes": "Nach einer Phase des ökonomischen und spirituellen Niedergangs der Kartause, übergab Erzherzog Ferdinand II von Österreich das Kloster 1593 den Jesuiten von Ljubljana. Als Papst Clemens XIV. den Jesuitenorden auflöste, wurde Pleterje im Jahr 1772 staatliches Eigentum. Im Jahr 1839 ging das Kloster in private Hände."
+        "notes": "Nach einer Phase des ökonomischen und spirituellen Niedergangs der Kartause, übergab Erzherzog Ferdinand II von Österreich das Kloster 1593 den Jesuiten von Ljubljana. Als Papst Clemens XIV. den Jesuitenorden auflöste, wurde Pleterje im Jahr 1772 staatliches Eigentum. Im Jahr 1839 ging das Kloster in private Hände.",
+        "persons": []
     },
     "15": {
         "id": 15,
@@ -421,7 +466,8 @@
             }
         ],
         "alt_name": "",
-        "notes": ""
+        "notes": "",
+        "persons": []
     },
     "16": {
         "id": 16,
@@ -451,12 +497,13 @@
             }
         ],
         "alt_name": "Jesuitenkolleg Klagenfurt",
-        "notes": ""
+        "notes": "",
+        "persons": []
     },
     "17": {
         "id": 17,
         "order": "17.00000000000000000000",
-        "name": "Residentia Oberndorfensi",
+        "name": "Residentia Eberndoffensis / Oberndorfensi",
         "jesuiten_id": "jesuiten_org__17",
         "located_in": [
             {
@@ -474,10 +521,15 @@
             {
                 "id": 1,
                 "value": "Cod. 12031"
+            },
+            {
+                "id": 3,
+                "value": "Cod. 12033"
             }
         ],
         "alt_name": "Augustiner-Chorherrenstift Eberndorf",
-        "notes": "Als Fundation diente dem Klagenfurter Jesuitenkolleg das ehemalige, vier Meilen von der Stadt im Jauntal gelegene Augustiner-Chorherrenstift Eberndorf (Oberndorf). Gegen Ende des 16. Jahrhunderts war das Stift verfallen, und alle Rettungsversuche waren vergebens.\nGegen den Willen des Patriarchen von Aquileia, zu dessen Diözese damals Eberndorf gehörte, und gegen den Willen des Nuntius hatte Erzherzog Ferdinand 1603 das Stift für das Klagenfurter Kolleg bestimmt. Mit großer Überredungskunst konnte 1604 das Stift für die jesuitische Sache erworben werden. In Eberndorf wurde eine Residenz errichtet mit\neinigen Patres und Laienbrüdern. (Heilingsetzer, Florian. „Die Jesuiten an den Universitäten und Lyzeen in den österreichischen  Ländern bis zur Aufhebung des Ordens 1773“. Mag. Phil., Uni Wien, 2011. https://services.phaidra.univie.ac.at/api/object/o:1282302/get.)"
+        "notes": "Als Fundation diente dem Klagenfurter Jesuitenkolleg das ehemalige, vier Meilen von der Stadt im Jauntal gelegene Augustiner-Chorherrenstift Eberndorf (Oberndorf). Gegen Ende des 16. Jahrhunderts war das Stift verfallen, und alle Rettungsversuche waren vergebens.\nGegen den Willen des Patriarchen von Aquileia, zu dessen Diözese damals Eberndorf gehörte, und gegen den Willen des Nuntius hatte Erzherzog Ferdinand 1603 das Stift für das Klagenfurter Kolleg bestimmt. Mit großer Überredungskunst konnte 1604 das Stift für die jesuitische Sache erworben werden. In Eberndorf wurde eine Residenz errichtet mit\neinigen Patres und Laienbrüdern. (Heilingsetzer, Florian. „Die Jesuiten an den Universitäten und Lyzeen in den österreichischen  Ländern bis zur Aufhebung des Ordens 1773“. Mag. Phil., Uni Wien, 2011. https://services.phaidra.univie.ac.at/api/object/o:1282302/get.)",
+        "persons": []
     },
     "18": {
         "id": 18,
@@ -507,7 +559,8 @@
             }
         ],
         "alt_name": "",
-        "notes": ""
+        "notes": "",
+        "persons": []
     },
     "19": {
         "id": 19,
@@ -533,7 +586,8 @@
             }
         ],
         "alt_name": "",
-        "notes": ""
+        "notes": "",
+        "persons": []
     },
     "20": {
         "id": 20,
@@ -549,7 +603,8 @@
             }
         ],
         "alt_name": "",
-        "notes": ""
+        "notes": "",
+        "persons": []
     },
     "21": {
         "id": 21,
@@ -575,7 +630,8 @@
             }
         ],
         "alt_name": "",
-        "notes": ""
+        "notes": "",
+        "persons": []
     },
     "22": {
         "id": 22,
@@ -601,7 +657,8 @@
             }
         ],
         "alt_name": "",
-        "notes": ""
+        "notes": "",
+        "persons": []
     },
     "23": {
         "id": 23,
@@ -617,7 +674,8 @@
             }
         ],
         "alt_name": "",
-        "notes": ""
+        "notes": "",
+        "persons": []
     },
     "24": {
         "id": 24,
@@ -643,7 +701,8 @@
             }
         ],
         "alt_name": "",
-        "notes": ""
+        "notes": "",
+        "persons": []
     },
     "25": {
         "id": 25,
@@ -659,7 +718,8 @@
             }
         ],
         "alt_name": "",
-        "notes": ""
+        "notes": "",
+        "persons": []
     },
     "26": {
         "id": 26,
@@ -685,7 +745,8 @@
             }
         ],
         "alt_name": "",
-        "notes": ""
+        "notes": "",
+        "persons": []
     },
     "27": {
         "id": 27,
@@ -715,7 +776,8 @@
             }
         ],
         "alt_name": "",
-        "notes": ""
+        "notes": "",
+        "persons": []
     },
     "28": {
         "id": 28,
@@ -741,7 +803,8 @@
             }
         ],
         "alt_name": "",
-        "notes": ""
+        "notes": "",
+        "persons": []
     },
     "29": {
         "id": 29,
@@ -767,7 +830,8 @@
             }
         ],
         "alt_name": "",
-        "notes": ""
+        "notes": "",
+        "persons": []
     },
     "30": {
         "id": 30,
@@ -783,7 +847,8 @@
             }
         ],
         "alt_name": "",
-        "notes": ""
+        "notes": "",
+        "persons": []
     },
     "31": {
         "id": 31,
@@ -799,7 +864,8 @@
             }
         ],
         "alt_name": "",
-        "notes": ""
+        "notes": "",
+        "persons": []
     },
     "32": {
         "id": 32,
@@ -825,7 +891,8 @@
             }
         ],
         "alt_name": "",
-        "notes": ""
+        "notes": "",
+        "persons": []
     },
     "33": {
         "id": 33,
@@ -851,12 +918,13 @@
             }
         ],
         "alt_name": "",
-        "notes": ""
+        "notes": "",
+        "persons": []
     },
     "34": {
         "id": 34,
         "order": "34.00000000000000000000",
-        "name": "Sedes Quinqueecclesiensis",
+        "name": "Residentia / Sedes Quinqueecclesiensis",
         "jesuiten_id": "jesuiten_org__34",
         "located_in": [
             {
@@ -874,10 +942,15 @@
             {
                 "id": 1,
                 "value": "Cod. 12031"
+            },
+            {
+                "id": 3,
+                "value": "Cod. 12033"
             }
         ],
         "alt_name": "",
-        "notes": ""
+        "notes": "",
+        "persons": []
     },
     "35": {
         "id": 35,
@@ -903,7 +976,8 @@
             }
         ],
         "alt_name": "Jesuitenkolleg Krems",
-        "notes": "Im Frühjahr 1616, also vor gut 400 Jahren, wurde in der Stadt Krems bei der spätgotischen Frauenbergkirche (der heutigen Piaristenkirche) das „Collegium Crembsense\" der „Gesellschaft Jesu\" eröffnet."
+        "notes": "Im Frühjahr 1616, also vor gut 400 Jahren, wurde in der Stadt Krems bei der spätgotischen Frauenbergkirche (der heutigen Piaristenkirche) das „Collegium Crembsense\" der „Gesellschaft Jesu\" eröffnet.",
+        "persons": []
     },
     "36": {
         "id": 36,
@@ -933,7 +1007,8 @@
             }
         ],
         "alt_name": "Jesuitenkolleg Görz",
-        "notes": ""
+        "notes": "",
+        "persons": []
     },
     "37": {
         "id": 37,
@@ -963,7 +1038,8 @@
             }
         ],
         "alt_name": "Jesuitenkolleg Judenburg",
-        "notes": ""
+        "notes": "",
+        "persons": []
     },
     "38": {
         "id": 38,
@@ -993,7 +1069,8 @@
             }
         ],
         "alt_name": "",
-        "notes": ""
+        "notes": "",
+        "persons": []
     },
     "39": {
         "id": 39,
@@ -1023,7 +1100,8 @@
             }
         ],
         "alt_name": "",
-        "notes": ""
+        "notes": "",
+        "persons": []
     },
     "40": {
         "id": 40,
@@ -1053,7 +1131,8 @@
             }
         ],
         "alt_name": "Jesuitenkolleg Rijeka",
-        "notes": ""
+        "notes": "",
+        "persons": []
     },
     "41": {
         "id": 41,
@@ -1069,7 +1148,8 @@
             }
         ],
         "alt_name": "",
-        "notes": ""
+        "notes": "",
+        "persons": []
     },
     "42": {
         "id": 42,
@@ -1095,7 +1175,8 @@
             }
         ],
         "alt_name": "",
-        "notes": ""
+        "notes": "",
+        "persons": []
     },
     "43": {
         "id": 43,
@@ -1111,7 +1192,8 @@
             }
         ],
         "alt_name": "",
-        "notes": "Ad S. Laurentium, quae parochia collegio Graecensi adiuncta est (Cod. 12032, f. 10r)."
+        "notes": "Ad S. Laurentium, quae parochia collegio Graecensi adiuncta est (Cod. 12032, f. 10r).",
+        "persons": []
     },
     "44": {
         "id": 44,
@@ -1137,7 +1219,8 @@
             }
         ],
         "alt_name": "",
-        "notes": ""
+        "notes": "",
+        "persons": []
     },
     "45": {
         "id": 45,
@@ -1163,6 +1246,198 @@
             }
         ],
         "alt_name": "",
-        "notes": ""
+        "notes": "",
+        "persons": []
+    },
+    "46": {
+        "id": 46,
+        "order": "46.00000000000000000000",
+        "name": "Residentia Monostoriensis",
+        "jesuiten_id": "jesuiten_org__46",
+        "located_in": [
+            {
+                "id": 33,
+                "order": "33.00000000000000000000",
+                "name": "Cluj-Napoca (Claudiopolis / Klausenburg / Kolozsvár)",
+                "jesuiten_id": "jesuiten_place__33",
+                "geonames": "https://www.geonames.org/681290/cluj-napoca.html",
+                "lat": "46.76667",
+                "long": "23.60000"
+            }
+        ],
+        "gnd": "",
+        "msdesc": [
+            {
+                "id": 3,
+                "value": "Cod. 12033"
+            }
+        ],
+        "alt_name": "",
+        "notes": "",
+        "persons": []
+    },
+    "47": {
+        "id": 47,
+        "order": "47.00000000000000000000",
+        "name": "Residentia Gyongyosiensis",
+        "jesuiten_id": "jesuiten_org__47",
+        "located_in": [
+            {
+                "id": 57,
+                "order": "57.00000000000000000000",
+                "name": "Gyöngyös",
+                "jesuiten_id": "jesuiten_place__57",
+                "geonames": "https://www.geonames.org/3052040/gyoengyoes.html",
+                "lat": "47.78257",
+                "long": "19.92800"
+            }
+        ],
+        "gnd": "",
+        "msdesc": [
+            {
+                "id": 3,
+                "value": "Cod. 12033"
+            }
+        ],
+        "alt_name": "",
+        "notes": "1633–1773",
+        "persons": []
+    },
+    "48": {
+        "id": 48,
+        "order": "48.00000000000000000000",
+        "name": "Collegium Szakmarinum",
+        "jesuiten_id": "jesuiten_org__48",
+        "located_in": [
+            {
+                "id": 58,
+                "order": "58.00000000000000000000",
+                "name": "Satu Mare",
+                "jesuiten_id": "jesuiten_place__58",
+                "geonames": "https://www.geonames.org/667873/satu-mare.html",
+                "lat": "47.79926",
+                "long": "22.86255"
+            }
+        ],
+        "gnd": "",
+        "msdesc": [
+            {
+                "id": 3,
+                "value": "Cod. 12033"
+            }
+        ],
+        "alt_name": "",
+        "notes": "Jesuit college in Satu Mare (1634–1773), now Mihai Eminescu National College",
+        "persons": []
+    },
+    "49": {
+        "id": 49,
+        "order": "49.00000000000000000000",
+        "name": "Missio Werthsensis",
+        "jesuiten_id": "jesuiten_org__49",
+        "located_in": [],
+        "gnd": "",
+        "msdesc": [
+            {
+                "id": 3,
+                "value": "Cod. 12033"
+            }
+        ],
+        "alt_name": "",
+        "notes": "",
+        "persons": []
+    },
+    "50": {
+        "id": 50,
+        "order": "50.00000000000000000000",
+        "name": "Residentia Soproniensis",
+        "jesuiten_id": "jesuiten_org__50",
+        "located_in": [
+            {
+                "id": 13,
+                "order": "13.00000000000000000000",
+                "name": "Sopron (Ödenburg)",
+                "jesuiten_id": "jesuiten_place__13",
+                "geonames": "https://www.geonames.org/3045190/sopron.html",
+                "lat": "47.68501",
+                "long": "16.59049"
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "",
+        "notes": "",
+        "persons": []
+    },
+    "51": {
+        "id": 51,
+        "order": "51.00000000000000000000",
+        "name": "Missio ad illustrem comitem Christophorum Banffy",
+        "jesuiten_id": "jesuiten_org__51",
+        "located_in": [
+            {
+                "id": 56,
+                "order": "56.00000000000000000000",
+                "name": "Lendva castle (Alsolindua arx)",
+                "jesuiten_id": "jesuiten_place__56",
+                "geonames": "",
+                "lat": "46.56689",
+                "long": "16.45276"
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "",
+        "notes": "",
+        "persons": []
+    },
+    "52": {
+        "id": 52,
+        "order": "52.00000000000000000000",
+        "name": "Collegium Leobiense",
+        "jesuiten_id": "jesuiten_org__52",
+        "located_in": [
+            {
+                "id": 24,
+                "order": "24.00000000000000000000",
+                "name": "Leoben",
+                "jesuiten_id": "jesuiten_place__24",
+                "geonames": "https://www.geonames.org/2772649/leoben.html",
+                "lat": "47.37650",
+                "long": "15.09144"
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "",
+        "notes": "",
+        "persons": []
+    },
+    "53": {
+        "id": 53,
+        "order": "53.00000000000000000000",
+        "name": "Collegium Styrense",
+        "jesuiten_id": "jesuiten_org__53",
+        "located_in": [
+            {
+                "id": 4,
+                "order": "4.00000000000000000000",
+                "name": "Steyr",
+                "jesuiten_id": "jesuiten_place__4",
+                "geonames": "https://www.geonames.org/2764359/steyr.html",
+                "lat": "48.04274",
+                "long": "14.42127"
+            }
+        ],
+        "gnd": "",
+        "msdesc": [
+            {
+                "id": 3,
+                "value": "Cod. 12033"
+            }
+        ],
+        "alt_name": "",
+        "notes": "1632–1773",
+        "persons": []
     }
 }
