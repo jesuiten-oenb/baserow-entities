@@ -62,6 +62,7 @@
                      <geo>47.06667 15.45000</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2778067/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q13298</idno>
                </place>
                <place xml:id="jesuiten_place__3">
                   <placeName>Linz</placeName>
@@ -83,6 +84,7 @@
                      <geo>48.14816 17.10674</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/3060972/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1780</idno>
                </place>
                <place xml:id="jesuiten_place__6">
                   <placeName>Trnava (Nagyszombat)</placeName>
@@ -90,6 +92,7 @@
                      <geo>48.37741 17.58723</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/3057124/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q26175</idno>
                </place>
                <place xml:id="jesuiten_place__7">
                   <placeName>Passau</placeName>
@@ -99,7 +102,7 @@
                   <idno type="geonames">https://sws.geonames.org/2855328/</idno>
                </place>
                <place xml:id="jesuiten_place__8">
-                  <placeName>Győr (Jaurinum)</placeName>
+                  <placeName>Győr</placeName>
                   <location type="coords">
                      <geo>47.68333 17.63512</geo>
                   </location>
@@ -118,6 +121,7 @@
                      <geo>45.81444 15.97798</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/3186886/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1435</idno>
                </place>
                <place xml:id="jesuiten_place__11">
                   <placeName>Krems</placeName>
@@ -153,6 +157,7 @@
                      <geo>47.50000 19.03333</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/3054667/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q193478</idno>
                </place>
                <place xml:id="jesuiten_place__16">
                   <placeName>Komárom</placeName>
@@ -160,6 +165,7 @@
                      <geo>47.74318 18.11913</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/3049519/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q625154</idno>
                </place>
                <place xml:id="jesuiten_place__17">
                   <placeName>Skalica</placeName>
@@ -174,13 +180,15 @@
                      <geo>48.89452 18.04436</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/3057140/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q145002</idno>
                </place>
                <place xml:id="jesuiten_place__19">
-                  <placeName>Banská Bystrica (Neusohl)</placeName>
+                  <placeName>Banská Bystrica</placeName>
                   <location type="coords">
                      <geo>48.73946 19.15349</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/3061186/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q144983</idno>
                </place>
                <place xml:id="jesuiten_place__20">
                   <placeName>Levoča (Leutschau)</placeName>
@@ -190,11 +198,12 @@
                   <idno type="geonames">https://sws.geonames.org/724294/</idno>
                </place>
                <place xml:id="jesuiten_place__21">
-                  <placeName>Košice (Cassovia)</placeName>
+                  <placeName>Košice</placeName>
                   <location type="coords">
                      <geo>48.71395 21.25808</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/724443/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q25409</idno>
                </place>
                <place xml:id="jesuiten_place__22">
                   <placeName>Sabinov</placeName>
@@ -209,6 +218,7 @@
                      <geo>47.90265 20.37329</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/721239/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q167109</idno>
                </place>
                <place xml:id="jesuiten_place__24">
                   <placeName>Leoben</placeName>
@@ -237,6 +247,7 @@
                      <geo>45.94088 13.62167</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/3175986/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q6596</idno>
                </place>
                <place xml:id="jesuiten_place__28">
                   <placeName>Trieste (Tergestinum)</placeName>
@@ -244,6 +255,7 @@
                      <geo>45.64953 13.77678</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/3165185/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q546</idno>
                </place>
                <place xml:id="jesuiten_place__29">
                   <placeName>Rijeka (Flumen / Fiume)</placeName>
@@ -274,18 +286,20 @@
                   <idno type="geonames">https://sws.geonames.org/3190589/</idno>
                </place>
                <place xml:id="jesuiten_place__33">
-                  <placeName>Cluj-Napoca (Claudiopolis / Klausenburg / Kolozsvár)</placeName>
+                  <placeName>Cluj-Napoca</placeName>
                   <location type="coords">
                      <geo>46.76667 23.60000</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/681290/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q100188</idno>
                </place>
                <place xml:id="jesuiten_place__34">
-                  <placeName>Belgrad</placeName>
+                  <placeName>Belgrade</placeName>
                   <location type="coords">
                      <geo>44.80401 20.46513</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/792680/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q3711</idno>
                </place>
                <place xml:id="jesuiten_place__35">
                   <placeName>Timişoara (Freidorf / Josephstadt)</placeName>
@@ -293,6 +307,7 @@
                      <geo>45.75372 21.22571</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/665087/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q83404</idno>
                </place>
                <place xml:id="jesuiten_place__36">
                   <placeName>Znojmo</placeName>
@@ -314,6 +329,7 @@
                      <geo>51.10000 17.03333</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/3081368/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1799</idno>
                </place>
                <place xml:id="jesuiten_place__39">
                   <placeName>Šentjernej</placeName>
@@ -328,6 +344,7 @@
                      <geo>46.59139 14.64361</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2780531/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q21880418</idno>
                </place>
                <place xml:id="jesuiten_place__41">
                   <placeName>Schwanenstadt</placeName>
@@ -356,6 +373,7 @@
                      <geo>47.84462 13.78939</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2763414/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q259710</idno>
                </place>
                <place xml:id="jesuiten_place__45">
                   <placeName>Levice</placeName>
@@ -408,6 +426,7 @@
                      <geo>48.51103 14.50453</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2779275/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q143140</idno>
                </place>
                <place xml:id="jesuiten_place__53">
                   <placeName>Gallneukirchen</placeName>
@@ -415,6 +434,7 @@
                      <geo>48.35363 14.41604</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2778966/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q671233</idno>
                </place>
                <place xml:id="jesuiten_place__54">
                   <placeName>Waldneukirchen</placeName>
@@ -463,6 +483,7 @@
                      <geo>48.42194 18.02305</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/3057338/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1043971</idno>
                </place>
                <place xml:id="jesuiten_place__61">
                   <placeName>Frauenburg</placeName>
@@ -470,6 +491,7 @@
                      <geo>47.20000 14.43333</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2779336/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q303156</idno>
                </place>
                <place xml:id="jesuiten_place__62">
                   <placeName>Murau</placeName>
@@ -484,6 +506,17 @@
                      <geo>46.87389 14.29167</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2777237/</idno>
+               </place>
+               <place xml:id="jesuiten_place__64">
+                  <placeName>Žireč</placeName>
+                  <location type="coords">
+                     <geo>50.41667 15.85000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3062992/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q4924911</idno>
+               </place>
+               <place xml:id="jesuiten_place__65">
+                  <placeName/>
                </place>
             </listPlace>
          </div>

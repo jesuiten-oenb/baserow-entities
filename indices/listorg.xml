@@ -158,7 +158,7 @@
                   <orgName>Collegium Jaurinense</orgName>
                   <orgName type="alt">Gyor Jesuitenakademie</orgName>
                   <location type="located_in_place">
-                     <placeName key="jesuiten_place__8">Győr (Jaurinum)</placeName>
+                     <placeName key="jesuiten_place__8">Győr</placeName>
                      <geo>47.68333 17.63512</geo>
                      <note type="idno"><idno type="geonames">https://sws.geonames.org/3052009/</idno></note>
                   </location>
@@ -300,7 +300,7 @@ einigen Patres und Laienbrüdern. (Heilingsetzer, Florian. „Die Jesuiten an de
                <org xml:id="jesuiten_org__32">
                   <orgName>Missio Cassoviensis</orgName>
                   <location type="located_in_place">
-                     <placeName key="jesuiten_place__21">Košice (Cassovia)</placeName>
+                     <placeName key="jesuiten_place__21">Košice</placeName>
                      <geo>48.71395 21.25808</geo>
                      <note type="idno"><idno type="geonames">https://sws.geonames.org/724443/</idno></note>
                   </location>
@@ -409,7 +409,7 @@ einigen Patres und Laienbrüdern. (Heilingsetzer, Florian. „Die Jesuiten an de
                <org xml:id="jesuiten_org__46">
                   <orgName>Residentia Monostoriensis</orgName>
                   <location type="located_in_place">
-                     <placeName key="jesuiten_place__33">Cluj-Napoca (Claudiopolis / Klausenburg / Kolozsvár)</placeName>
+                     <placeName key="jesuiten_place__33">Cluj-Napoca</placeName>
                      <geo>46.76667 23.60000</geo>
                      <note type="idno"><idno type="geonames">https://sws.geonames.org/681290/</idno></note>
                   </location>
@@ -434,6 +434,11 @@ einigen Patres und Laienbrüdern. (Heilingsetzer, Florian. „Die Jesuiten an de
                </org>
                <org xml:id="jesuiten_org__49">
                   <orgName>Missio Werthsensis</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__59">Wörthersee</placeName>
+                     <geo>46.62917 14.12306</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/2760837/</idno></note>
+                  </location>
                </org>
                <org xml:id="jesuiten_org__50">
                   <orgName>Residentia Soproniensis</orgName>
@@ -466,6 +471,25 @@ einigen Patres und Laienbrüdern. (Heilingsetzer, Florian. „Die Jesuiten an de
                      <note type="idno"><idno type="geonames">https://sws.geonames.org/2764359/</idno></note>
                   </location>
                   <note>1632–1773</note>
+               </org>
+               <org xml:id="jesuiten_org__54">
+                  <orgName>Residentia Comaromiensis</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__16">Komárom</placeName>
+                     <geo>47.74318 18.11913</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/3049519/</idno></note>
+                  </location>
+               </org>
+               <org xml:id="jesuiten_org__55">
+                  <orgName>Residentia Schurzensis</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__64">Žireč</placeName>
+                     <geo>50.41667 15.85000</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/3062992/</idno></note>
+                  </location>
+               </org>
+               <org xml:id="jesuiten_org__56">
+                  <orgName>Collegium Ungariense</orgName>
                </org>
             </listOrg>
          </div>
