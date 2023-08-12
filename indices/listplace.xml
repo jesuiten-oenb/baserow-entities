@@ -136,6 +136,7 @@
                      <geo>47.80485 16.23196</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2761353/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q131612</idno>
                </place>
                <place xml:id="jesuiten_place__13">
                   <placeName>Sopron (Ödenburg)</placeName>
@@ -150,6 +151,7 @@
                      <geo>47.38922 16.54100</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/3049366/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q613813</idno>
                </place>
                <place xml:id="jesuiten_place__15">
                   <placeName>Buda</placeName>
@@ -173,6 +175,7 @@
                      <geo>48.84490 17.22635</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/3057630/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q649076</idno>
                </place>
                <place xml:id="jesuiten_place__18">
                   <placeName>Trenčín</placeName>
@@ -196,6 +199,7 @@
                      <geo>49.02173 20.59212</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/724294/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q242478</idno>
                </place>
                <place xml:id="jesuiten_place__21">
                   <placeName>Košice</placeName>
@@ -242,7 +246,7 @@
                   <idno type="geonames">https://sws.geonames.org/2774326/</idno>
                </place>
                <place xml:id="jesuiten_place__27">
-                  <placeName>Gorizia (Görz)</placeName>
+                  <placeName>Gorizia</placeName>
                   <location type="coords">
                      <geo>45.94088 13.62167</geo>
                   </location>
@@ -263,6 +267,7 @@
                      <geo>45.32673 14.44241</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/3191648/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1647</idno>
                </place>
                <place xml:id="jesuiten_place__30">
                   <placeName>Varaždin</placeName>
@@ -279,7 +284,7 @@
                   <idno type="geonames">https://sws.geonames.org/3046526/</idno>
                </place>
                <place xml:id="jesuiten_place__32">
-                  <placeName>Požega (Incerum)</placeName>
+                  <placeName>Požega</placeName>
                   <location type="coords">
                      <geo>45.34028 17.68528</geo>
                   </location>
@@ -515,8 +520,165 @@
                   <idno type="geonames">https://sws.geonames.org/3062992/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q4924911</idno>
                </place>
-               <place xml:id="jesuiten_place__65">
-                  <placeName/>
+               <place xml:id="jesuiten_place__68">
+                  <placeName>Leopoldov</placeName>
+                  <location type="coords">
+                     <geo>48.44575 17.76458</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3059111/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q690807</idno>
+               </place>
+               <place xml:id="jesuiten_place__69">
+                  <placeName>Petrovaradin</placeName>
+                  <location type="coords">
+                     <geo>45.24667 19.87944</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3193406/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q19429</idno>
+               </place>
+               <place xml:id="jesuiten_place__70">
+                  <placeName>Alba Julia (Carolina)</placeName>
+                  <location type="coords">
+                     <geo>46.06667 23.58333</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/686578/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q174665</idno>
+               </place>
+               <place xml:id="jesuiten_place__71">
+                  <placeName>Târgu-Mureş</placeName>
+                  <location type="coords">
+                     <geo>46.54245 24.55747</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/665004/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q186349</idno>
+               </place>
+               <place xml:id="jesuiten_place__72">
+                  <placeName>Prešov</placeName>
+                  <location type="coords">
+                     <geo>48.99839 21.23393</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/723819/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q26119</idno>
+               </place>
+               <place xml:id="jesuiten_place__73">
+                  <placeName>Sibiu</placeName>
+                  <location type="coords">
+                     <geo>45.80000 24.15000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/667268/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q83324</idno>
+               </place>
+               <place xml:id="jesuiten_place__74">
+                  <placeName>Baia Mare</placeName>
+                  <location type="coords">
+                     <geo>47.65729 23.56808</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/685826/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q185280</idno>
+               </place>
+               <place xml:id="jesuiten_place__75">
+                  <placeName>Banská Štiavnica</placeName>
+                  <location type="coords">
+                     <geo>48.44858 18.91003</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3061184/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q208110</idno>
+               </place>
+               <place xml:id="jesuiten_place__76">
+                  <placeName>Sárospatak</placeName>
+                  <location type="coords">
+                     <geo>48.32450 21.57383</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/715867/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q668318</idno>
+               </place>
+               <place xml:id="jesuiten_place__77">
+                  <placeName>Rožňava</placeName>
+                  <location type="coords">
+                     <geo>48.66009 20.53758</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/723713/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q267888</idno>
+               </place>
+               <place xml:id="jesuiten_place__78">
+                  <placeName>Spiš</placeName>
+                  <location type="coords">
+                     <geo>49.00056 20.76833</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/7627326/</idno>
+                  <idno type="wikidata">https://en.wikipedia.org/wiki/Spi%C5%A1</idno>
+               </place>
+               <place xml:id="jesuiten_place__79">
+                  <placeName>Žilina</placeName>
+                  <location type="coords">
+                     <geo>49.22315 18.73941</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3056508/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q25797</idno>
+               </place>
+               <place xml:id="jesuiten_place__80">
+                  <placeName>Esztergom</placeName>
+                  <location type="coords">
+                     <geo>47.79280 18.74148</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3053163/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q171353</idno>
+               </place>
+               <place xml:id="jesuiten_place__81">
+                  <placeName>Kláštor pod Znievom</placeName>
+                  <location type="coords">
+                     <geo>48.97619 18.80264</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3059508/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q764320</idno>
+               </place>
+               <place xml:id="jesuiten_place__82">
+                  <placeName>Oradea</placeName>
+                  <location type="coords">
+                     <geo>47.04580 21.91833</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/671768/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q93358</idno>
+               </place>
+               <place xml:id="jesuiten_place__83">
+                  <placeName>Odorheiu Secuiesc</placeName>
+                  <location type="coords">
+                     <geo>46.30000 25.30000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/671964/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q623099</idno>
+               </place>
+               <place xml:id="jesuiten_place__84">
+                  <placeName>Székesfehérvár</placeName>
+                  <location type="coords">
+                     <geo>47.18995 18.41034</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3044774/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q130212</idno>
+               </place>
+               <place xml:id="jesuiten_place__85">
+                  <placeName>Brașov</placeName>
+                  <location type="coords">
+                     <geo>45.64861 25.60613</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/683844/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q82174</idno>
+               </place>
+               <place xml:id="jesuiten_place__86">
+                  <placeName>Osijek</placeName>
+                  <location type="coords">
+                     <geo>45.55111 18.69389</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3193935/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1640</idno>
+               </place>
+               <place xml:id="jesuiten_place__87">
+                  <placeName>Špania Dolina</placeName>
+                  <location type="coords">
+                     <geo>48.80754 19.13406</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3057505/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q392243</idno>
                </place>
             </listPlace>
          </div>

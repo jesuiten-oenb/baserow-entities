@@ -133,7 +133,7 @@
     "geonames": "https://www.geonames.org/2761353/wiener-neustadt.html",
     "lat": "47.80485",
     "long": "16.23196",
-    "wikidata": "",
+    "wikidata": "https://www.wikidata.org/wiki/Q131612",
     "alt_names": []
   },
   "13": {
@@ -155,7 +155,7 @@
     "geonames": "https://www.geonames.org/3049366/koszeg.html",
     "lat": "47.38922",
     "long": "16.54100",
-    "wikidata": "",
+    "wikidata": "https://www.wikidata.org/wiki/Q613813",
     "alt_names": []
   },
   "15": {
@@ -201,8 +201,17 @@
     "geonames": "https://www.geonames.org/3057630/skalica.html",
     "lat": "48.84490",
     "long": "17.22635",
-    "wikidata": "",
-    "alt_names": []
+    "wikidata": "https://www.wikidata.org/wiki/Q649076",
+    "alt_names": [
+      {
+        "id": 10,
+        "value": "Szakolca"
+      },
+      {
+        "id": 11,
+        "value": "Sakolcium"
+      }
+    ]
   },
   "18": {
     "id": 18,
@@ -234,7 +243,7 @@
     "geonames": "https://www.geonames.org/724294/levoca.html",
     "lat": "49.02173",
     "long": "20.59212",
-    "wikidata": "",
+    "wikidata": "https://www.wikidata.org/wiki/Q242478",
     "alt_names": []
   },
   "21": {
@@ -315,13 +324,18 @@
   "27": {
     "id": 27,
     "order": "27.00000000000000000000",
-    "name": "Gorizia (Görz)",
+    "name": "Gorizia",
     "jesuiten_id": "jesuiten_place__27",
     "geonames": "https://www.geonames.org/3175986/gorizia.html",
     "lat": "45.94088",
     "long": "13.62167",
     "wikidata": "https://www.wikidata.org/wiki/Q6596",
-    "alt_names": []
+    "alt_names": [
+      {
+        "id": 13,
+        "value": "Görz"
+      }
+    ]
   },
   "28": {
     "id": 28,
@@ -342,7 +356,7 @@
     "geonames": "https://www.geonames.org/3191648/rijeka.html",
     "lat": "45.32673",
     "long": "14.44241",
-    "wikidata": "",
+    "wikidata": "https://www.wikidata.org/wiki/Q1647",
     "alt_names": []
   },
   "30": {
@@ -370,13 +384,22 @@
   "32": {
     "id": 32,
     "order": "32.00000000000000000000",
-    "name": "Požega (Incerum)",
+    "name": "Požega",
     "jesuiten_id": "jesuiten_place__32",
     "geonames": "https://www.geonames.org/3190589/pozega.html",
     "lat": "45.34028",
     "long": "17.68528",
     "wikidata": "",
-    "alt_names": []
+    "alt_names": [
+      {
+        "id": 16,
+        "value": "Incerum"
+      },
+      {
+        "id": 17,
+        "value": "Posega"
+      }
+    ]
   },
   "33": {
     "id": 33,
@@ -675,7 +698,12 @@
     "lat": "47.79926",
     "long": "22.86255",
     "wikidata": "",
-    "alt_names": []
+    "alt_names": [
+      {
+        "id": 24,
+        "value": "Szat(t)marinum"
+      }
+    ]
   },
   "59": {
     "id": 59,
@@ -741,17 +769,310 @@
     "lat": "50.41667",
     "long": "15.85000",
     "wikidata": "https://www.wikidata.org/wiki/Q4924911",
+    "alt_names": [
+      {
+        "id": 21,
+        "value": "Schurzium"
+      }
+    ]
+  },
+  "68": {
+    "id": 68,
+    "order": "65.00000000000000000000",
+    "name": "Leopoldov",
+    "jesuiten_id": "jesuiten_place__68",
+    "geonames": "https://www.geonames.org/3059111/leopoldov.html",
+    "lat": "48.44575",
+    "long": "17.76458",
+    "wikidata": "https://www.wikidata.org/wiki/Q690807",
+    "alt_names": [
+      {
+        "id": 29,
+        "value": "Leopoldopolitana"
+      }
+    ]
+  },
+  "69": {
+    "id": 69,
+    "order": "66.00000000000000000000",
+    "name": "Petrovaradin",
+    "jesuiten_id": "jesuiten_place__69",
+    "geonames": "https://www.geonames.org/3193406/petrovaradin.html",
+    "lat": "45.24667",
+    "long": "19.87944",
+    "wikidata": "https://www.wikidata.org/wiki/Q19429",
     "alt_names": []
   },
-  "65": {
-    "id": 65,
-    "order": "65.00000000000000000000",
-    "name": "",
-    "jesuiten_id": "jesuiten_place__65",
-    "geonames": "",
-    "lat": null,
-    "long": null,
-    "wikidata": "",
+  "70": {
+    "id": 70,
+    "order": "67.00000000000000000000",
+    "name": "Alba Julia (Carolina)",
+    "jesuiten_id": "jesuiten_place__70",
+    "geonames": "https://www.geonames.org/686578/alba-iulia.html",
+    "lat": "46.06667",
+    "long": "23.58333",
+    "wikidata": "https://www.wikidata.org/wiki/Q174665",
     "alt_names": []
+  },
+  "71": {
+    "id": 71,
+    "order": "68.00000000000000000000",
+    "name": "Târgu-Mureş",
+    "jesuiten_id": "jesuiten_place__71",
+    "geonames": "https://www.geonames.org/665004/targu-mures.html",
+    "lat": "46.54245",
+    "long": "24.55747",
+    "wikidata": "https://www.wikidata.org/wiki/Q186349",
+    "alt_names": [
+      {
+        "id": 32,
+        "value": "Vasarhelinum"
+      }
+    ]
+  },
+  "72": {
+    "id": 72,
+    "order": "69.00000000000000000000",
+    "name": "Prešov",
+    "jesuiten_id": "jesuiten_place__72",
+    "geonames": "https://www.geonames.org/723819/presov.html",
+    "lat": "48.99839",
+    "long": "21.23393",
+    "wikidata": "https://www.wikidata.org/wiki/Q26119",
+    "alt_names": []
+  },
+  "73": {
+    "id": 73,
+    "order": "70.00000000000000000000",
+    "name": "Sibiu",
+    "jesuiten_id": "jesuiten_place__73",
+    "geonames": "https://www.geonames.org/667268/sibiu.html",
+    "lat": "45.80000",
+    "long": "24.15000",
+    "wikidata": "https://www.wikidata.org/wiki/Q83324",
+    "alt_names": []
+  },
+  "74": {
+    "id": 74,
+    "order": "71.00000000000000000000",
+    "name": "Baia Mare",
+    "jesuiten_id": "jesuiten_place__74",
+    "geonames": "https://www.geonames.org/685826/baia-mare.html",
+    "lat": "47.65729",
+    "long": "23.56808",
+    "wikidata": "https://www.wikidata.org/wiki/Q185280",
+    "alt_names": [
+      {
+        "id": 14,
+        "value": "Nagybania"
+      }
+    ]
+  },
+  "75": {
+    "id": 75,
+    "order": "72.00000000000000000000",
+    "name": "Banská Štiavnica",
+    "jesuiten_id": "jesuiten_place__75",
+    "geonames": "https://www.geonames.org/3061184/banska-stiavnica.html",
+    "lat": "48.44858",
+    "long": "18.91003",
+    "wikidata": "https://www.wikidata.org/wiki/Q208110",
+    "alt_names": [
+      {
+        "id": 12,
+        "value": "Schemnic(z)ium"
+      }
+    ]
+  },
+  "76": {
+    "id": 76,
+    "order": "73.00000000000000000000",
+    "name": "Sárospatak",
+    "jesuiten_id": "jesuiten_place__76",
+    "geonames": "https://www.geonames.org/715867/sarospatak.html",
+    "lat": "48.32450",
+    "long": "21.57383",
+    "wikidata": "https://www.wikidata.org/wiki/Q668318",
+    "alt_names": [
+      {
+        "id": 15,
+        "value": "Patakinum"
+      }
+    ]
+  },
+  "77": {
+    "id": 77,
+    "order": "74.00000000000000000000",
+    "name": "Rožňava",
+    "jesuiten_id": "jesuiten_place__77",
+    "geonames": "https://www.geonames.org/723713/roznava.html",
+    "lat": "48.66009",
+    "long": "20.53758",
+    "wikidata": "https://www.wikidata.org/wiki/Q267888",
+    "alt_names": [
+      {
+        "id": 18,
+        "value": "Rosnavia"
+      },
+      {
+        "id": 19,
+        "value": "Rosenau"
+      }
+    ]
+  },
+  "78": {
+    "id": 78,
+    "order": "75.00000000000000000000",
+    "name": "Spiš",
+    "jesuiten_id": "jesuiten_place__78",
+    "geonames": "https://www.geonames.org/7627326/spis-castle.html",
+    "lat": "49.00056",
+    "long": "20.76833",
+    "wikidata": "https://en.wikipedia.org/wiki/Spi%C5%A1",
+    "alt_names": [
+      {
+        "id": 20,
+        "value": "Scepusia"
+      }
+    ]
+  },
+  "79": {
+    "id": 79,
+    "order": "76.00000000000000000000",
+    "name": "Žilina",
+    "jesuiten_id": "jesuiten_place__79",
+    "geonames": "https://www.geonames.org/3056508/zilina.html",
+    "lat": "49.22315",
+    "long": "18.73941",
+    "wikidata": "https://www.wikidata.org/wiki/Q25797",
+    "alt_names": [
+      {
+        "id": 22,
+        "value": "Solna"
+      }
+    ]
+  },
+  "80": {
+    "id": 80,
+    "order": "77.00000000000000000000",
+    "name": "Esztergom",
+    "jesuiten_id": "jesuiten_place__80",
+    "geonames": "https://www.geonames.org/3053163/esztergom.html",
+    "lat": "47.79280",
+    "long": "18.74148",
+    "wikidata": "https://www.wikidata.org/wiki/Q171353",
+    "alt_names": [
+      {
+        "id": 23,
+        "value": "Strigonium"
+      }
+    ]
+  },
+  "81": {
+    "id": 81,
+    "order": "78.00000000000000000000",
+    "name": "Kláštor pod Znievom",
+    "jesuiten_id": "jesuiten_place__81",
+    "geonames": "https://www.geonames.org/3059508/klastor-pod-znievom.html",
+    "lat": "48.97619",
+    "long": "18.80264",
+    "wikidata": "https://www.wikidata.org/wiki/Q764320",
+    "alt_names": [
+      {
+        "id": 25,
+        "value": "Turoczium"
+      }
+    ]
+  },
+  "82": {
+    "id": 82,
+    "order": "79.00000000000000000000",
+    "name": "Oradea",
+    "jesuiten_id": "jesuiten_place__82",
+    "geonames": "https://www.geonames.org/671768/oradea.html",
+    "lat": "47.04580",
+    "long": "21.91833",
+    "wikidata": "https://www.wikidata.org/wiki/Q93358",
+    "alt_names": [
+      {
+        "id": 26,
+        "value": "Varadinum"
+      }
+    ]
+  },
+  "83": {
+    "id": 83,
+    "order": "80.00000000000000000000",
+    "name": "Odorheiu Secuiesc",
+    "jesuiten_id": "jesuiten_place__83",
+    "geonames": "https://www.geonames.org/671964/odorheiu-secuiesc.html",
+    "lat": "46.30000",
+    "long": "25.30000",
+    "wikidata": "https://www.wikidata.org/wiki/Q623099",
+    "alt_names": [
+      {
+        "id": 27,
+        "value": "Udvarhelynum"
+      }
+    ]
+  },
+  "84": {
+    "id": 84,
+    "order": "81.00000000000000000000",
+    "name": "Székesfehérvár",
+    "jesuiten_id": "jesuiten_place__84",
+    "geonames": "https://www.geonames.org/3044774/szekesfehervar.html",
+    "lat": "47.18995",
+    "long": "18.41034",
+    "wikidata": "https://www.wikidata.org/wiki/Q130212",
+    "alt_names": []
+  },
+  "85": {
+    "id": 85,
+    "order": "82.00000000000000000000",
+    "name": "Brașov",
+    "jesuiten_id": "jesuiten_place__85",
+    "geonames": "https://www.geonames.org/683844/brasov.html",
+    "lat": "45.64861",
+    "long": "25.60613",
+    "wikidata": "https://www.wikidata.org/wiki/Q82174",
+    "alt_names": [
+      {
+        "id": 31,
+        "value": "Corona"
+      }
+    ]
+  },
+  "86": {
+    "id": 86,
+    "order": "83.00000000000000000000",
+    "name": "Osijek",
+    "jesuiten_id": "jesuiten_place__86",
+    "geonames": "https://www.geonames.org/3193935/osijek.html",
+    "lat": "45.55111",
+    "long": "18.69389",
+    "wikidata": "https://www.wikidata.org/wiki/Q1640",
+    "alt_names": [
+      {
+        "id": 30,
+        "value": "Essekinum"
+      }
+    ]
+  },
+  "87": {
+    "id": 87,
+    "order": "84.00000000000000000000",
+    "name": "Špania Dolina",
+    "jesuiten_id": "jesuiten_place__87",
+    "geonames": "https://www.geonames.org/3057505/spania-dolina.html",
+    "lat": "48.80754",
+    "long": "19.13406",
+    "wikidata": "https://www.wikidata.org/wiki/Q392243",
+    "alt_names": [
+      {
+        "id": 28,
+        "value": "Vallis Dominorum"
+      }
+    ]
   }
 }

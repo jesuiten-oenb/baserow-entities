@@ -336,7 +336,7 @@ einigen Patres und Laienbrüdern. (Heilingsetzer, Florian. „Die Jesuiten an de
                   <orgName>Collegium Goritiense</orgName>
                   <orgName type="alt">Jesuitenkolleg Görz</orgName>
                   <location type="located_in_place">
-                     <placeName key="jesuiten_place__27">Gorizia (Görz)</placeName>
+                     <placeName key="jesuiten_place__27">Gorizia</placeName>
                      <geo>45.94088 13.62167</geo>
                      <note type="idno"><idno type="geonames">https://sws.geonames.org/3175986/</idno></note>
                   </location>
@@ -490,6 +490,38 @@ einigen Patres und Laienbrüdern. (Heilingsetzer, Florian. „Die Jesuiten an de
                </org>
                <org xml:id="jesuiten_org__56">
                   <orgName>Collegium Ungariense</orgName>
+               </org>
+               <org xml:id="jesuiten_org__57">
+                  <orgName>Residentia Carolina</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__70">Alba Julia (Carolina)</placeName>
+                     <geo>46.06667 23.58333</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/686578/</idno></note>
+                  </location>
+               </org>
+               <org xml:id="jesuiten_org__58">
+                  <orgName>Residentia Agriensis</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__23">Eger</placeName>
+                     <geo>47.90265 20.37329</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/721239/</idno></note>
+                  </location>
+               </org>
+               <org xml:id="jesuiten_org__59">
+                  <orgName>Residentia Posoniensis</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__5">Bratislava</placeName>
+                     <geo>48.14816 17.10674</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/3060972/</idno></note>
+                  </location>
+               </org>
+               <org xml:id="jesuiten_org__60">
+                  <orgName>Missio Alba Regalis</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__84">Székesfehérvár</placeName>
+                     <geo>47.18995 18.41034</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/3044774/</idno></note>
+                  </location>
                </org>
             </listOrg>
          </div>

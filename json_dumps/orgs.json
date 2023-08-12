@@ -1060,13 +1060,18 @@
             {
                 "id": 27,
                 "order": "27.00000000000000000000",
-                "name": "Gorizia (Görz)",
+                "name": "Gorizia",
                 "jesuiten_id": "jesuiten_place__27",
                 "geonames": "https://www.geonames.org/3175986/gorizia.html",
                 "lat": "45.94088",
                 "long": "13.62167",
                 "wikidata": "https://www.wikidata.org/wiki/Q6596",
-                "alt_names": []
+                "alt_names": [
+                    {
+                        "id": 13,
+                        "value": "Görz"
+                    }
+                ]
             }
         ],
         "gnd": "https://d-nb.info/gnd/7723168-5",
@@ -1197,7 +1202,7 @@
                 "geonames": "https://www.geonames.org/3191648/rijeka.html",
                 "lat": "45.32673",
                 "long": "14.44241",
-                "wikidata": "",
+                "wikidata": "https://www.wikidata.org/wiki/Q1647",
                 "alt_names": []
             }
         ],
@@ -1423,7 +1428,12 @@
                 "lat": "47.79926",
                 "long": "22.86255",
                 "wikidata": "",
-                "alt_names": []
+                "alt_names": [
+                    {
+                        "id": 24,
+                        "value": "Szat(t)marinum"
+                    }
+                ]
             }
         ],
         "gnd": "",
@@ -1619,7 +1629,12 @@
                 "lat": "50.41667",
                 "long": "15.85000",
                 "wikidata": "https://www.wikidata.org/wiki/Q4924911",
-                "alt_names": []
+                "alt_names": [
+                    {
+                        "id": 21,
+                        "value": "Schurzium"
+                    }
+                ]
             }
         ],
         "gnd": "",
@@ -1634,6 +1649,102 @@
         "name": "Collegium Ungariense",
         "jesuiten_id": "jesuiten_org__56",
         "located_in": [],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "",
+        "notes": "",
+        "persons": []
+    },
+    "57": {
+        "id": 57,
+        "order": "57.00000000000000000000",
+        "name": "Residentia Carolina",
+        "jesuiten_id": "jesuiten_org__57",
+        "located_in": [
+            {
+                "id": 70,
+                "order": "67.00000000000000000000",
+                "name": "Alba Julia (Carolina)",
+                "jesuiten_id": "jesuiten_place__70",
+                "geonames": "https://www.geonames.org/686578/alba-iulia.html",
+                "lat": "46.06667",
+                "long": "23.58333",
+                "wikidata": "https://www.wikidata.org/wiki/Q174665",
+                "alt_names": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "",
+        "notes": "",
+        "persons": []
+    },
+    "58": {
+        "id": 58,
+        "order": "58.00000000000000000000",
+        "name": "Residentia Agriensis",
+        "jesuiten_id": "jesuiten_org__58",
+        "located_in": [
+            {
+                "id": 23,
+                "order": "23.00000000000000000000",
+                "name": "Eger",
+                "jesuiten_id": "jesuiten_place__23",
+                "geonames": "https://www.geonames.org/721239/eger.html",
+                "lat": "47.90265",
+                "long": "20.37329",
+                "wikidata": "https://www.wikidata.org/wiki/Q167109",
+                "alt_names": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "",
+        "notes": "",
+        "persons": []
+    },
+    "59": {
+        "id": 59,
+        "order": "59.00000000000000000000",
+        "name": "Residentia Posoniensis",
+        "jesuiten_id": "jesuiten_org__59",
+        "located_in": [
+            {
+                "id": 5,
+                "order": "5.00000000000000000000",
+                "name": "Bratislava",
+                "jesuiten_id": "jesuiten_place__5",
+                "geonames": "https://www.geonames.org/3060972/bratislava.html",
+                "lat": "48.14816",
+                "long": "17.10674",
+                "wikidata": "https://www.wikidata.org/wiki/Q1780",
+                "alt_names": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "",
+        "notes": "",
+        "persons": []
+    },
+    "60": {
+        "id": 60,
+        "order": "60.00000000000000000000",
+        "name": "Missio Alba Regalis",
+        "jesuiten_id": "jesuiten_org__60",
+        "located_in": [
+            {
+                "id": 84,
+                "order": "81.00000000000000000000",
+                "name": "Székesfehérvár",
+                "jesuiten_id": "jesuiten_place__84",
+                "geonames": "https://www.geonames.org/3044774/szekesfehervar.html",
+                "lat": "47.18995",
+                "long": "18.41034",
+                "wikidata": "https://www.wikidata.org/wiki/Q130212",
+                "alt_names": []
+            }
+        ],
         "gnd": "",
         "msdesc": [],
         "alt_name": "",
