@@ -173,7 +173,8 @@
     "URL": "http://data.onb.ac.at/rec/AC13948850",
     "titel": "Litterae annuae provinciae Austriae Societatis Iesu a. 1633",
     "date": "1633-01-01",
-    "persons": []
+    "persons": [],
+    "metnioned_places": []
   },
   "2": {
     "id": 2,
@@ -277,7 +278,8 @@
     "URL": "http://data.onb.ac.at/rec/AC13948851",
     "titel": "Litterae annuae provinciae Austriae Societatis Iesu a. 1635",
     "date": "1635-01-01",
-    "persons": []
+    "persons": [],
+    "metnioned_places": []
   },
   "3": {
     "id": 3,
@@ -349,6 +351,193 @@
       {
         "id": 8,
         "value": "Christophorus Banffy"
+      }
+    ],
+    "metnioned_places": []
+  },
+  "4": {
+    "id": 4,
+    "order": "4.00000000000000000000",
+    "signatur": "Cod. 12066",
+    "jesuiten_id": "jesuiten_msdesc__4",
+    "mentioned_orgs": [
+      {
+        "id": 1,
+        "value": "Domus Professa Viennensis"
+      },
+      {
+        "id": 4,
+        "value": "Domus probationis S. Anna"
+      },
+      {
+        "id": 10,
+        "value": "Collegium Passaviense"
+      },
+      {
+        "id": 61,
+        "value": "Missio Szacolzensis"
+      },
+      {
+        "id": 62,
+        "value": "Residentia Scepusiensis"
+      },
+      {
+        "id": 64,
+        "value": "Residentia Turociensis"
+      }
+    ],
+    "URL": "",
+    "titel": "",
+    "date": null,
+    "persons": [],
+    "metnioned_places": [
+      {
+        "id": 1,
+        "value": "Wien"
+      },
+      {
+        "id": 2,
+        "value": "Graz"
+      },
+      {
+        "id": 3,
+        "value": "Linz"
+      },
+      {
+        "id": 4,
+        "value": "Steyr"
+      },
+      {
+        "id": 5,
+        "value": "Bratislava"
+      },
+      {
+        "id": 7,
+        "value": "Passau"
+      },
+      {
+        "id": 8,
+        "value": "Győr"
+      },
+      {
+        "id": 9,
+        "value": "Ljubljana"
+      },
+      {
+        "id": 10,
+        "value": "Zagreb"
+      },
+      {
+        "id": 11,
+        "value": "Krems"
+      },
+      {
+        "id": 12,
+        "value": "Wiener Neustadt"
+      },
+      {
+        "id": 13,
+        "value": "Sopron (Ödenburg)"
+      },
+      {
+        "id": 16,
+        "value": "Komárom"
+      },
+      {
+        "id": 17,
+        "value": "Skalica"
+      },
+      {
+        "id": 18,
+        "value": "Trenčín"
+      },
+      {
+        "id": 19,
+        "value": "Banská Bystrica (Neosolium)"
+      },
+      {
+        "id": 21,
+        "value": "Košice"
+      },
+      {
+        "id": 24,
+        "value": "Leoben"
+      },
+      {
+        "id": 25,
+        "value": "Judenburg"
+      },
+      {
+        "id": 26,
+        "value": "Klagenfurt"
+      },
+      {
+        "id": 27,
+        "value": "Gorizia"
+      },
+      {
+        "id": 28,
+        "value": "Trieste (Tergestinum)"
+      },
+      {
+        "id": 29,
+        "value": "Rijeka (Flumen / Fiume)"
+      },
+      {
+        "id": 30,
+        "value": "Varaždin"
+      },
+      {
+        "id": 31,
+        "value": "Pécs (Quinque ecclesiae)"
+      },
+      {
+        "id": 40,
+        "value": "Eberndorf"
+      },
+      {
+        "id": 50,
+        "value": "Millstatt"
+      },
+      {
+        "id": 57,
+        "value": "Gyöngyös"
+      },
+      {
+        "id": 58,
+        "value": "Satu Mare"
+      },
+      {
+        "id": 68,
+        "value": "Leopoldov"
+      },
+      {
+        "id": 75,
+        "value": "Banská Štiavnica"
+      },
+      {
+        "id": 76,
+        "value": "Sárospatak"
+      },
+      {
+        "id": 77,
+        "value": "Rožňava"
+      },
+      {
+        "id": 78,
+        "value": "Spiš"
+      },
+      {
+        "id": 81,
+        "value": "Kláštor pod Znievom"
+      },
+      {
+        "id": 83,
+        "value": "Odorheiu Secuiesc"
+      },
+      {
+        "id": 88,
+        "value": "Munkazinum"
       }
     ]
   }
