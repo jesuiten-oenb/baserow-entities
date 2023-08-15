@@ -30,6 +30,8 @@ jobs:
         run: python make_xml.py
       - name: make MSDESC TEI/XML
         run: python make_msdesc.py
+      - name: denormalize indices
+        run: ./denormalize.sh
       - name: Commit data
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
