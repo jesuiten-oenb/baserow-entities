@@ -4,11 +4,11 @@ import json
 import jinja2
 
 from acdh_tei_pyutils.tei import TeiReader
-
 from AcdhArcheAssets.uri_norm_rules import get_normalized_uri
 
+from config import PROJECT_TITLE
 
-PROJECT_TITLE = "Jesuiten Littera annuae"
+
 templateLoader = jinja2.FileSystemLoader(searchpath="./templates")
 templateEnv = jinja2.Environment(
     loader=templateLoader, trim_blocks=True, lstrip_blocks=True
