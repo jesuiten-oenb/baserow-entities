@@ -170,11 +170,13 @@
         "value": "Missio Waldtpergensis"
       }
     ],
-    "URL": "http://data.onb.ac.at/rec/AC13948850",
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948850",
     "titel": "Litterae annuae provinciae Austriae Societatis Iesu a. 1633",
     "date": "1633-01-01",
     "persons": [],
-    "mentioned_places": []
+    "mentioned_places": [],
+    "note_type_facs": "",
+    "xml_id": "cod_12031"
   },
   "2": {
     "id": 2,
@@ -275,11 +277,13 @@
         "value": "Residentia Varasdinensis"
       }
     ],
-    "URL": "http://data.onb.ac.at/rec/AC13948851",
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948851",
     "titel": "Litterae annuae provinciae Austriae Societatis Iesu a. 1635",
     "date": "1635-01-01",
     "persons": [],
-    "mentioned_places": []
+    "mentioned_places": [],
+    "note_type_facs": "",
+    "xml_id": "cod_12032"
   },
   "3": {
     "id": 3,
@@ -316,7 +320,7 @@
         "value": "Collegium Styrense"
       }
     ],
-    "URL": "http://data.onb.ac.at/rec/AC13948973",
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948973",
     "titel": "Litterae annuae provinciae Austriae Societatis Iesu a. 1639",
     "date": "1636-01-01",
     "persons": [
@@ -353,7 +357,9 @@
         "value": "Christophorus Banffy"
       }
     ],
-    "mentioned_places": []
+    "mentioned_places": [],
+    "note_type_facs": "",
+    "xml_id": "cod_12033"
   },
   "4": {
     "id": 4,
@@ -386,7 +392,7 @@
         "value": "Residentia Turociensis"
       }
     ],
-    "URL": "",
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948213",
     "titel": "",
     "date": null,
     "persons": [],
@@ -539,7 +545,9 @@
         "id": 88,
         "value": "Munkazinum"
       }
-    ]
+    ],
+    "note_type_facs": "https://data.onb.ac.at/rep/131ABEA7",
+    "xml_id": "cod_12066"
   },
   "6": {
     "id": 6,
@@ -547,10 +555,12 @@
     "signatur": "Cod. 12123",
     "jesuiten_id": "jesuiten_msdesc__6",
     "mentioned_orgs": [],
-    "URL": "",
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948903",
     "titel": "",
     "date": null,
     "persons": [],
-    "mentioned_places": []
+    "mentioned_places": [],
+    "note_type_facs": "",
+    "xml_id": "cod_12123"
   }
 }

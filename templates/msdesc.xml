@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="{{ jesuiten_id }}">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -19,7 +19,7 @@
                 </availability>
             </publicationStmt>
             <sourceDesc>
-                <msDesc xml:lang="de" xml:id="cod_12066">
+                <msDesc xml:lang="de" xml:id="{{ xml_id }}">
                     <msIdentifier>
                         <country>Österreich</country>
                         <settlement>Wien</settlement>
@@ -27,70 +27,47 @@
                         <idno>{{ signatur }}</idno>
                     </msIdentifier>
                     <head>
-                        <title>Litterae annuae provinciae Austriae Societatis Iesu a. 1669</title>
-                        <origDate notBefore="0001" notAfter="0010"/>
+                        <title>{{ title }}</title>
+                        <origDate notBefore="0001" notAfter="0010">{{ date }}</origDate>
                         <origPlace ref="#jesuiten_place__1">Wien (?)</origPlace>
                         <note type="facs">
-                            <ref target="{{}}" />
+                            <ref target="{{ note_type_facs }}" />
                         </note>
                         <note type="catalogue">
-                            <ref target="http://data.onb.ac.at/rec/AC13948213"/>
+                            <ref target="{{ note_type_catalogue }}"/>
                         </note>
                     </head>
                     <msContents>
+                    {% if ms_items %}
                         <summary>
                                 Der Bericht gliedert sich in folgende Abschnitte:
                             <list>
-                                <item>
-                                    <locus>1-4</locus>Personarum numerus et distributio</item>
-                                <item>
-                                    <locus>4-33</locus>Privatae Missiones et stattarum propria</item>
-                                <item>
-                                    <locus>33-48</locus>Conversationsi cum proximo fructus a variis erroribus abductio</item>
-                                <item>
-                                    <locus>48-58</locus>Conversationis fructus alter aegrorum et egenorum cura</item>
-                                <item>
-                                    <locus>58-63</locus>Tertius religiosae conuersationis fructus; odiorum extinctio</item>
-                                <item>
-                                    <locus>63-68</locus>Quartus religiosae conversationis fructus vitiorum correctio et virtutum persuasum studium</item>
-                                <item>
-                                    <locus>68-72</locus>Sacra concio</item>
-                                <item>
-                                    <locus>72-74</locus>Catechisis sacra</item>
-                                <item>
-                                    <locus>74-81</locus>Sacramentorum paenitentia et eucharistiae usurpatio</item>
-                                <item>
-                                    <locus>81-83</locus>Sodalitas externorum utrisque sexus</item>
-                                <item>
-                                    <locus>83-86</locus>Sodalitas virorum externorum</item>
-                                <item>
-                                    <locus>86-91</locus>Sodalitas scholarium</item>
-                                <item>
-                                    <locus>91-97</locus>Scholae</item>
-                                <item>
-                                    <locus>97-99</locus>Religiosi facti et ad clericatum euecti</item>
-                                <item>
-                                    <locus>99-100</locus>Exercitia sancti patris Ignatii</item>
-                                <item>
-                                    <locus>101-107</locus>Numinis et coelitum cultus publice curatus</item>
-                                <item>
-                                    <locus>107-109</locus>Beatis virginis Mariae cultus</item>
-                                <item>
-                                    <locus>109-110</locus>Sanctae Annae cultus promotus</item>
-                                <item>
-                                    <locus>110-111</locus>Sanctis Josephi cultus promotus</item>
-                                <item>
-                                    <locus>111-</locus>Cultus sanctorum Ignatii et Xaverii curatus et promotus</item>
-                                <item>
-                                    <locus>132-142</locus>Rei temporalis et domiciliorum augmenta et benefici</item>
-                                <item>
-                                    <locus>142-145</locus>Benevoli et erga illos ac beneficos gratitudo</item>
-                                <item>
-                                    <locus>145-146</locus>Adversa</item>
-                                <item>
-                                    <locus>146-162</locus>Elogua defunctorum</item>
-                            </list>.
+                            {% for x in ms_items %}
+                                <item n="{{ x.order_number }}">
+                                    <locus from="{{ x.locus_from }}" to="{{ x.locus_to }}">{{ x.locus_text }}</locus>{{ x.incipit }}
+                                    {% if x.places %}
+                                    <listPlace>
+                                        {% for y in x.places %}
+                                        <place key="#jesuiten_place__{{ y.id }}">
+                                            <placeName>{{ y.value }}</placeName>
+                                        </place>
+                                        {% endfor %}
+                                    </listPlace>
+                                    {% endif %}
+                                    {% if x.orgs %}
+                                    <listOrg>
+                                        {% for y in x.orgs %}
+                                        <org key="#jesuiten_org__{{ y.id }}">
+                                            <orgName>{{ y.value }}</orgName>
+                                        </org>
+                                        {% endfor %}
+                                    </listOrg>
+                                    {% endif %}
+                                </item>
+                                {% endfor %}
+                            </list>
                         </summary>
+                    {% endif %}
                         <textLang mainLang="lat"/>
                     </msContents>
                     <physDesc>
