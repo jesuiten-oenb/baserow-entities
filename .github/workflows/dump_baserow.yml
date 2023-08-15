@@ -24,8 +24,10 @@ jobs:
         run: python dump_data.py
       - name: join the data
         run: python join_tables.py
-      - name: convert to TEI/XML
+      - name: convert index files to TEI/XML
         run: python make_xml.py
+      - name: make MSDESC TEI/XML
+        run: python make_msdesc.py
       - name: Commit data
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
