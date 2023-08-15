@@ -30,9 +30,6 @@
                         <title/>
                         <origDate notBefore="0001" notAfter="0010">None</origDate>
                         <origPlace ref="#jesuiten_place__1">Wien (?)</origPlace>
-                        <note type="facs">
-                            <ref target=""/>
-                        </note>
                         <note type="catalogue">
                             <ref target="http://data.onb.ac.at/rec/AC13948903"/>
                         </note>
@@ -44,55 +41,55 @@
                                 <item n="1">
                                     <locus from="2r" to="5v">2r-5v</locus>Allgemeine Informationen; Anzahl der Mitglieder in den Orten:
                                     <listPlace>
-                                        <place key="#jesuiten_place__2">
-                                            <placeName>Graz</placeName>
+                                        <place>
+                                            <placeName key="#jesuiten_place__2">Graz</placeName>
                                         </place>
-                                        <place key="#jesuiten_place__8">
-                                            <placeName>Győr</placeName>
+                                        <place>
+                                            <placeName key="#jesuiten_place__8">Győr</placeName>
                                         </place>
-                                        <place key="#jesuiten_place__9">
-                                            <placeName>Ljubljana</placeName>
+                                        <place>
+                                            <placeName key="#jesuiten_place__9">Ljubljana</placeName>
                                         </place>
-                                        <place key="#jesuiten_place__11">
-                                            <placeName>Krems</placeName>
+                                        <place>
+                                            <placeName key="#jesuiten_place__11">Krems</placeName>
                                         </place>
-                                        <place key="#jesuiten_place__14">
-                                            <placeName>Kőszeg (Güns / Ginsium)</placeName>
+                                        <place>
+                                            <placeName key="#jesuiten_place__14">Kőszeg (Güns / Ginsium)</placeName>
                                         </place>
-                                        <place key="#jesuiten_place__15">
-                                            <placeName>Buda</placeName>
+                                        <place>
+                                            <placeName key="#jesuiten_place__15">Buda</placeName>
                                         </place>
-                                        <place key="#jesuiten_place__19">
-                                            <placeName>Banská Bystrica (Neosolium)</placeName>
+                                        <place>
+                                            <placeName key="#jesuiten_place__19">Banská Bystrica (Neosolium)</placeName>
                                         </place>
-                                        <place key="#jesuiten_place__20">
-                                            <placeName>Levoča (Leutschau)</placeName>
+                                        <place>
+                                            <placeName key="#jesuiten_place__20">Levoča (Leutschau)</placeName>
                                         </place>
-                                        <place key="#jesuiten_place__21">
-                                            <placeName>Košice</placeName>
+                                        <place>
+                                            <placeName key="#jesuiten_place__21">Košice</placeName>
                                         </place>
-                                        <place key="#jesuiten_place__24">
-                                            <placeName>Leoben</placeName>
+                                        <place>
+                                            <placeName key="#jesuiten_place__24">Leoben</placeName>
                                         </place>
-                                        <place key="#jesuiten_place__25">
-                                            <placeName>Judenburg</placeName>
+                                        <place>
+                                            <placeName key="#jesuiten_place__25">Judenburg</placeName>
                                         </place>
-                                        <place key="#jesuiten_place__26">
-                                            <placeName>Klagenfurt</placeName>
+                                        <place>
+                                            <placeName key="#jesuiten_place__26">Klagenfurt</placeName>
                                         </place>
-                                        <place key="#jesuiten_place__29">
-                                            <placeName>Rijeka (Flumen / Fiume)</placeName>
+                                        <place>
+                                            <placeName key="#jesuiten_place__29">Rijeka (Flumen / Fiume)</placeName>
                                         </place>
-                                        <place key="#jesuiten_place__33">
-                                            <placeName>Cluj-Napoca</placeName>
+                                        <place>
+                                            <placeName key="#jesuiten_place__33">Cluj-Napoca</placeName>
                                         </place>
                                     </listPlace>
                                     <listOrg>
-                                        <org key="#jesuiten_org__1">
-                                            <orgName>Domus Professa Viennensis</orgName>
+                                        <org>
+                                            <orgName key="#jesuiten_org__1">Domus Professa Viennensis</orgName>
                                         </org>
-                                        <org key="#jesuiten_org__2">
-                                            <orgName>Collegium Viennense Academicum</orgName>
+                                        <org>
+                                            <orgName key="#jesuiten_org__2">Collegium Viennense Academicum</orgName>
                                         </org>
                                     </listOrg>
                                 </item>
@@ -160,5 +157,6 @@
         </fileDesc>
     </teiHeader>
     <text>
+        <body><p/></body>
     </text>
 </TEI>

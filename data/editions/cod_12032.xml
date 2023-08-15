@@ -30,9 +30,6 @@
                         <title/>
                         <origDate notBefore="0001" notAfter="0010">1635-01-01</origDate>
                         <origPlace ref="#jesuiten_place__1">Wien (?)</origPlace>
-                        <note type="facs">
-                            <ref target=""/>
-                        </note>
                         <note type="catalogue">
                             <ref target="http://data.onb.ac.at/rec/AC13948851"/>
                         </note>
@@ -61,5 +58,6 @@
         </fileDesc>
     </teiHeader>
     <text>
+        <body><p/></body>
     </text>
 </TEI>

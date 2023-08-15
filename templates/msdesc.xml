@@ -30,9 +30,11 @@
                         <title>{{ title }}</title>
                         <origDate notBefore="0001" notAfter="0010">{{ date }}</origDate>
                         <origPlace ref="#jesuiten_place__1">Wien (?)</origPlace>
+                        {% if note_type_facs %}
                         <note type="facs">
                             <ref target="{{ note_type_facs }}" />
                         </note>
+                        {% endif %}
                         <note type="catalogue">
                             <ref target="{{ note_type_catalogue }}"/>
                         </note>
@@ -48,8 +50,8 @@
                                     {% if x.places %}
                                     <listPlace>
                                         {% for y in x.places %}
-                                        <place key="#jesuiten_place__{{ y.id }}">
-                                            <placeName>{{ y.value }}</placeName>
+                                        <place>
+                                            <placeName key="#jesuiten_place__{{ y.id }}">{{ y.value }}</placeName>
                                         </place>
                                         {% endfor %}
                                     </listPlace>
@@ -57,8 +59,8 @@
                                     {% if x.orgs %}
                                     <listOrg>
                                         {% for y in x.orgs %}
-                                        <org key="#jesuiten_org__{{ y.id }}">
-                                            <orgName>{{ y.value }}</orgName>
+                                        <org>
+                                            <orgName key="#jesuiten_org__{{ y.id }}">{{ y.value }}</orgName>
                                         </org>
                                         {% endfor %}
                                     </listOrg>
@@ -91,5 +93,6 @@
         </fileDesc>
     </teiHeader>
     <text>
+        <body><p/></body>
     </text>
 </TEI>
