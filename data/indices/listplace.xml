@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://oenb.ac.at" xml:id="listplace.xml" prev="https://oenb.ac.at/listorg.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -63,7 +63,7 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2778067/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q13298</idno>
-               <noteGrp><note target="cod_12123.xml" type="mentions">Beschreibung von  Cod. 12123</note></noteGrp></place>
+               </place>
                <place xml:id="jesuiten_place__3">
                   <placeName>Linz</placeName>
                   <location type="coords">
@@ -107,14 +107,14 @@
                      <geo>47.68333 17.63512</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/3052009/</idno>
-               <noteGrp><note target="cod_12123.xml" type="mentions">Beschreibung von  Cod. 12123</note></noteGrp></place>
+               </place>
                <place xml:id="jesuiten_place__9">
                   <placeName>Ljubljana</placeName>
                   <location type="coords">
                      <geo>46.05108 14.50513</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/3196359/</idno>
-               <noteGrp><note target="cod_12123.xml" type="mentions">Beschreibung von  Cod. 12123</note></noteGrp></place>
+               </place>
                <place xml:id="jesuiten_place__10">
                   <placeName>Zagreb</placeName>
                   <location type="coords">
@@ -129,7 +129,7 @@
                      <geo>48.40921 15.61415</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2773549/</idno>
-               <noteGrp><note target="cod_12123.xml" type="mentions">Beschreibung von  Cod. 12123</note></noteGrp></place>
+               </place>
                <place xml:id="jesuiten_place__12">
                   <placeName>Wiener Neustadt</placeName>
                   <location type="coords">
@@ -152,7 +152,7 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/3049366/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q613813</idno>
-               <noteGrp><note target="cod_12123.xml" type="mentions">Beschreibung von  Cod. 12123</note></noteGrp></place>
+               </place>
                <place xml:id="jesuiten_place__15">
                   <placeName>Buda</placeName>
                   <location type="coords">
@@ -160,7 +160,7 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/3054667/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q193478</idno>
-               <noteGrp><note target="cod_12123.xml" type="mentions">Beschreibung von  Cod. 12123</note></noteGrp></place>
+               </place>
                <place xml:id="jesuiten_place__16">
                   <placeName>Komárom</placeName>
                   <location type="coords">
@@ -192,7 +192,7 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/3061186/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q144983</idno>
-               <noteGrp><note target="cod_12123.xml" type="mentions">Beschreibung von  Cod. 12123</note></noteGrp></place>
+               </place>
                <place xml:id="jesuiten_place__20">
                   <placeName>Levoča (Leutschau)</placeName>
                   <location type="coords">
@@ -200,7 +200,7 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/724294/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q242478</idno>
-               <noteGrp><note target="cod_12123.xml" type="mentions">Beschreibung von  Cod. 12123</note></noteGrp></place>
+               </place>
                <place xml:id="jesuiten_place__21">
                   <placeName>Košice</placeName>
                   <location type="coords">
@@ -208,7 +208,7 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/724443/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q25409</idno>
-               <noteGrp><note target="cod_12123.xml" type="mentions">Beschreibung von  Cod. 12123</note></noteGrp></place>
+               </place>
                <place xml:id="jesuiten_place__22">
                   <placeName>Sabinov</placeName>
                   <location type="coords">
@@ -230,21 +230,21 @@
                      <geo>47.37650 15.09144</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2772649/</idno>
-               <noteGrp><note target="cod_12123.xml" type="mentions">Beschreibung von  Cod. 12123</note></noteGrp></place>
+               </place>
                <place xml:id="jesuiten_place__25">
                   <placeName>Judenburg</placeName>
                   <location type="coords">
                      <geo>47.16667 14.66667</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2775020/</idno>
-               <noteGrp><note target="cod_12123.xml" type="mentions">Beschreibung von  Cod. 12123</note></noteGrp></place>
+               </place>
                <place xml:id="jesuiten_place__26">
                   <placeName>Klagenfurt</placeName>
                   <location type="coords">
                      <geo>46.62472 14.30528</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2774326/</idno>
-               <noteGrp><note target="cod_12123.xml" type="mentions">Beschreibung von  Cod. 12123</note></noteGrp></place>
+               </place>
                <place xml:id="jesuiten_place__27">
                   <placeName>Gorizia</placeName>
                   <location type="coords">
@@ -268,7 +268,7 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/3191648/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q1647</idno>
-               <noteGrp><note target="cod_12123.xml" type="mentions">Beschreibung von  Cod. 12123</note></noteGrp></place>
+               </place>
                <place xml:id="jesuiten_place__30">
                   <placeName>Varaždin</placeName>
                   <location type="coords">
@@ -297,7 +297,7 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/681290/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q100188</idno>
-               <noteGrp><note target="cod_12123.xml" type="mentions">Beschreibung von  Cod. 12123</note></noteGrp></place>
+               </place>
                <place xml:id="jesuiten_place__34">
                   <placeName>Belgrade</placeName>
                   <location type="coords">
@@ -683,8 +683,40 @@
                <place xml:id="jesuiten_place__88">
                   <placeName>Munkazinum</placeName>
                </place>
+               <place xml:id="jesuiten_place__89">
+                  <placeName>Sonderburg</placeName>
+                  <location type="coords">
+                     <geo>54.90896 9.78917</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2613102/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q21179</idno>
+               </place>
+               <place xml:id="jesuiten_place__90">
+                  <placeName>Eisenerz</placeName>
+                  <location type="coords">
+                     <geo>47.53333 14.88333</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2780207/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q284596</idno>
+               </place>
+               <place xml:id="jesuiten_place__91">
+                  <placeName>Zadar</placeName>
+                  <location type="coords">
+                     <geo>44.11578 15.22514</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3186952/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q58146</idno>
+               </place>
+               <place xml:id="jesuiten_place__92">
+                  <placeName>Pašman</placeName>
+                  <location type="coords">
+                     <geo>43.95750 15.38500</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3193599/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q579274</idno>
+               </place>
             </listPlace>
          </div>
       </body>
-   <back/></text>
+   </text>
 </TEI>
