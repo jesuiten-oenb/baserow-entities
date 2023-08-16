@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cod_12032.xml" xml:base="https://oenb.ac.at" prev="https://oenb.ac.at/cod_12031.xml" next="https://oenb.ac.at/cod_12033.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="jesuiten_msdesc__2">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -28,8 +28,11 @@
                     </msIdentifier>
                     <head>
                         <title/>
-                        <origDate notBefore="0001" notAfter="0010">1635-01-01</origDate>
+                        <origDate notBefore="1635-01-01" notAfter="0010">ab 1635</origDate>
                         <origPlace ref="#jesuiten_place__1">Wien (?)</origPlace>
+                        <note type="facs">
+                            <ref target="http://data.onb.ac.at/dtl/9135782"/>
+                        </note>
                         <note type="catalogue">
                             <ref target="http://data.onb.ac.at/rec/AC13948851"/>
                         </note>
@@ -47,7 +50,7 @@
                                         <width/>
                                     </dimensions>
                                 </extent>
-                                <foliation>Paginiert 1-161. Vorsatzblätter foliiert I und I*-II*.</foliation>
+                                <foliation>None</foliation>
                                 <collation/>
                             </supportDesc>
                         </objectDesc>
@@ -59,5 +62,5 @@
     </teiHeader>
     <text>
         <body><p/></body>
-    <back/></text>
+    </text>
 </TEI>

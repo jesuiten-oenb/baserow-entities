@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cod_12031.xml" xml:base="https://oenb.ac.at" next="https://oenb.ac.at/cod_12032.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="jesuiten_msdesc__1">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -28,13 +28,328 @@
                     </msIdentifier>
                     <head>
                         <title/>
-                        <origDate notBefore="0001" notAfter="0010">1633-01-01</origDate>
+                        <origDate notBefore="1633-01-01" notAfter="0010">ab 1633</origDate>
                         <origPlace ref="#jesuiten_place__1">Wien (?)</origPlace>
+                        <note type="facs">
+                            <ref target="https://data.onb.ac.at/rep/131ABE3B"/>
+                        </note>
                         <note type="catalogue">
                             <ref target="http://data.onb.ac.at/rec/AC13948850"/>
                         </note>
                     </head>
                     <msContents>
+                        <summary>
+                                Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist nach Orten bzw. Häusern gegliedert.
+                            <list>
+                                <item n="1">
+                                    <locus from="1r" to="1r">1r-1r</locus>Allgemein
+                                </item>
+                                <item n="2">
+                                    <locus from="2r" to="7r">2r-7r</locus>
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__1">Profeßhaus Wien</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="3">
+                                    <locus from="7r" to="10r">7r-10r</locus>
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__2">Jesuitenkolleg Wien</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="4">
+                                    <locus from="10r" to="10r">10r-10r</locus>
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__3">Jesuitenresidenz S. Bernardi</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="5">
+                                    <locus from="10r" to="11v">10r-11v</locus>
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__4">Probationshaus Wien</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="12r" to="15r">12r-15r</locus>
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__5">Jesuitenkolleg Graz</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="15r" to="15r">15r-15r</locus>
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__6">Ferdinandeum</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="15v" to="18v">15v-18v</locus>
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__7">Jesuitenresidenz Millstatt</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="19r" to="20v">19r-20v</locus>
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__13">Jesuitenkolleg Ljubljana</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="20v" to="20v">20v-20v</locus>
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__14">Jesuitenresidenz Šentjernej</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="21r" to="22r">21r-22r</locus>
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__16">Jesuitenkolleg Klagenfurt</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="22r" to="23v">22r-23v</locus>
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__18">Jesuitenkolleg Zagreb</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="23v" to="25r">23v-25r</locus>
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__8">Jesuitenkolleg Linz</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="25r" to="25v">25r-25v</locus>
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__19">Jesuitenmission Waizenkirchen</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="25v" to="27r">25v-27r</locus>
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__20">Missio Nadrabacensis</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="27r" to="28r">27r-28r</locus>
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__21">Jesuitenmission Schwanenstadt</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="28r" to="28v">28r-28v</locus>
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__22">Jesuitenmission Pfarrkirchen</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="29r" to="29r">29r-29r</locus>
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__23">Missio ad illustrem dominum comitem Keuenhiller</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="30r" to="30r">30r-30r</locus>
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__24">Jesuitenmission Zell</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="30v" to="30v">30v-30v</locus>
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__25">Missio Pulgrensis</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="31r" to="32r">31r-32r</locus>
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__26">Jesuitenresidenz Steyr</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="32r" to="34r">32r-34r</locus>
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__10">Jesuitenkolleg Passau</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="34r" to="34v">34r-34v</locus>
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__27">Jesuitenresidenz Traunkirchen</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="34v" to="35v">34v-35v</locus>
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__11">Jesuitenkolleg Trnava</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="35v" to="36r">35v-36r</locus>
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__28">Jesuitenmission Levice</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="36r" to="36v">36r-36v</locus>
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__29">Jesuitenmission Spiš</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="36v" to="37r">36v-37r</locus>
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__30">Missio Palatina</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="37r" to="38r">37r-38r</locus>
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__31">Missio Bitsensis</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="38r" to="39r">38r-39r</locus>
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__32">Jesuitenmission in Košice</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="39r" to="39v">39r-39v</locus>
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__33">Jesuitenresidenz Humenné</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="39v" to="41v">39v-41v</locus>
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__34">Jesuitenresidenz Pécs</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="42r" to="43r">42r-43r</locus>
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__35">Jesuitenkolleg Krems</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="43r" to="44r">43r-44r</locus>
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__36">Jesuitenkolleg Görz</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="44r" to="44v">44r-44v</locus>
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__37">Jesuitenkolleg Judenburg</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="46r" to="47v">46r-47v</locus>
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__38">Jesuitenkolleg Trieste</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="47v" to="48v">47v-48v</locus>
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__9">Jesuitenkolleg Bratislava</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="48v" to="50r">48v-50r</locus>
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__12">Jesuitenkolleg Győr</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="50r" to="51r">50r-51r</locus>
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__39">Probationshaus Leoben</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="51r" to="52v">51r-52v</locus>
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__40">Jesuitenkolleg Rijeka</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                            </list>
+                        </summary>
                         <textLang mainLang="lat"/>
                     </msContents>
                     <physDesc>
@@ -47,7 +362,7 @@
                                         <width/>
                                     </dimensions>
                                 </extent>
-                                <foliation>Paginiert 1-161. Vorsatzblätter foliiert I und I*-II*.</foliation>
+                                <foliation>Neue Foliierung 1-54. Alte Paginierung 1-102.</foliation>
                                 <collation/>
                             </supportDesc>
                         </objectDesc>
@@ -59,5 +374,5 @@
     </teiHeader>
     <text>
         <body><p/></body>
-    <back/></text>
+    </text>
 </TEI>

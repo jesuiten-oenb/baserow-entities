@@ -28,7 +28,7 @@
                     </msIdentifier>
                     <head>
                         <title>{{ title }}</title>
-                        <origDate notBefore="0001" notAfter="0010">{{ date }}</origDate>
+                        <origDate notBefore="{{ not_before }}-01-01" notAfter="0010">{{ date }}</origDate>
                         <origPlace ref="#jesuiten_place__1">Wien (?)</origPlace>
                         {% if note_type_facs %}
                         <note type="facs">
@@ -42,7 +42,7 @@
                     <msContents>
                     {% if ms_items %}
                         <summary>
-                                Der Bericht gliedert sich in folgende Abschnitte:
+                                {{ summary }}
                             <list>
                             {% for x in ms_items %}
                                 <item n="{{ x.order_number }}">
@@ -82,7 +82,7 @@
                                         <width/>
                                     </dimensions>
                                 </extent>
-                                <foliation>Paginiert 1-161. Vorsatzblätter foliiert I und I*-II*.</foliation>
+                                <foliation>{{ foliation }}</foliation>
                                 <collation/>
                             </supportDesc>
                         </objectDesc>

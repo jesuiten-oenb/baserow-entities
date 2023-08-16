@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cod_12066.xml" xml:base="https://oenb.ac.at" prev="https://oenb.ac.at/cod_12033.xml" next="https://oenb.ac.at/cod_12123.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="jesuiten_msdesc__4">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -28,7 +28,7 @@
                     </msIdentifier>
                     <head>
                         <title/>
-                        <origDate notBefore="0001" notAfter="0010">None</origDate>
+                        <origDate notBefore="1669-01-01" notAfter="0010">ab 1669</origDate>
                         <origPlace ref="#jesuiten_place__1">Wien (?)</origPlace>
                         <note type="facs">
                             <ref target="https://data.onb.ac.at/rep/131ABEA7"/>
@@ -39,7 +39,7 @@
                     </head>
                     <msContents>
                         <summary>
-                                Der Bericht gliedert sich in folgende Abschnitte:
+                                None
                             <list>
                                 <item n="1">
                                     <locus from="1" to="4">1-4</locus>Personarum numerus et distributio
@@ -127,7 +127,7 @@
                                         <width/>
                                     </dimensions>
                                 </extent>
-                                <foliation>Paginiert 1-161. Vorsatzblätter foliiert I und I*-II*.</foliation>
+                                <foliation>None</foliation>
                                 <collation/>
                             </supportDesc>
                         </objectDesc>
@@ -139,5 +139,5 @@
     </teiHeader>
     <text>
         <body><p/></body>
-    <back/></text>
+    </text>
 </TEI>
