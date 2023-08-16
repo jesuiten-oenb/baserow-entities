@@ -7,23 +7,23 @@
     "mentioned_orgs": [
       {
         "id": 1,
-        "value": "Domus Professa Viennensis"
+        "value": "Profeßhaus Wien"
       },
       {
         "id": 2,
-        "value": "Collegium Viennense Academicum"
+        "value": "Jesuitenkolleg Wien"
       },
       {
         "id": 3,
-        "value": "Residentia S. Bernardi"
+        "value": "Jesuitenresidenz S. Bernardi"
       },
       {
         "id": 4,
-        "value": "Domus probationis S. Anna"
+        "value": "Probationshaus Wien"
       },
       {
         "id": 5,
-        "value": "Collegium Graecense"
+        "value": "Jesuitenkolleg Graz"
       },
       {
         "id": 6,
@@ -31,35 +31,35 @@
       },
       {
         "id": 7,
-        "value": "Residentia Millestadiensis"
+        "value": "Jesuitenresidenz Millstatt"
       },
       {
         "id": 8,
-        "value": "Collegium Lincium / Lincense"
+        "value": "Jesuitenkolleg Linz"
       },
       {
         "id": 9,
-        "value": "Collegium Posoniensis"
+        "value": "Jesuitenkolleg Bratislava"
       },
       {
         "id": 10,
-        "value": "Collegium Passaviense"
+        "value": "Jesuitenkolleg Passau"
       },
       {
         "id": 11,
-        "value": "Collegium Tyrnaviense"
+        "value": "Jesuitenkolleg Trnava"
       },
       {
         "id": 12,
-        "value": "Collegium Jaurinense"
+        "value": "Jesuitenkolleg Győr"
       },
       {
         "id": 13,
-        "value": "Collegium Labacense"
+        "value": "Jesuitenkolleg Ljubljana"
       },
       {
         "id": 14,
-        "value": "Residentia Pletriacensis"
+        "value": "Jesuitenresidenz Šentjernej"
       },
       {
         "id": 15,
@@ -67,19 +67,19 @@
       },
       {
         "id": 16,
-        "value": "Collegium Clagenfurtense"
+        "value": "Jesuitenkolleg Klagenfurt"
       },
       {
         "id": 17,
-        "value": "Residentia Eberndoffensis / Oberndorfensi"
+        "value": "Jesuitenresidenz Eberndorf"
       },
       {
         "id": 18,
-        "value": "Collegium Zagrabiense"
+        "value": "Jesuitenkolleg Zagreb"
       },
       {
         "id": 19,
-        "value": "Missio Waizenkirchana"
+        "value": "Jesuitenmission Waizenkirchen"
       },
       {
         "id": 20,
@@ -87,11 +87,11 @@
       },
       {
         "id": 21,
-        "value": "Missio Schwanstadiana"
+        "value": "Jesuitenmission Schwanenstadt"
       },
       {
         "id": 22,
-        "value": "Missio Pfarkirchensis"
+        "value": "Jesuitenmission Pfarrkirchen"
       },
       {
         "id": 23,
@@ -99,7 +99,7 @@
       },
       {
         "id": 24,
-        "value": "Missio Zellensis"
+        "value": "Jesuitenmission Zell"
       },
       {
         "id": 25,
@@ -107,19 +107,19 @@
       },
       {
         "id": 26,
-        "value": "Residentia Styrensis"
+        "value": "Jesuitenresidenz Steyr"
       },
       {
         "id": 27,
-        "value": "Residentia Traunkirchensis"
+        "value": "Jesuitenresidenz Traunkirchen"
       },
       {
         "id": 28,
-        "value": "Missio Levensis"
+        "value": "Jesuitenmission Levice"
       },
       {
         "id": 29,
-        "value": "Missio scepussensis"
+        "value": "Jesuitenmission Spiš"
       },
       {
         "id": 30,
@@ -131,57 +131,61 @@
       },
       {
         "id": 32,
-        "value": "Missio Cassoviensis"
+        "value": "Jesuitenmission in Košice"
       },
       {
         "id": 33,
-        "value": "Residentia Homonensis"
+        "value": "Jesuitenresidenz Humenné"
       },
       {
         "id": 34,
-        "value": "Residentia / Sedes Quinqueecclesiensis"
+        "value": "Jesuitenresidenz Pécs"
       },
       {
         "id": 35,
-        "value": "Collegium Crembsense"
+        "value": "Jesuitenkolleg Krems"
       },
       {
         "id": 36,
-        "value": "Collegium Goritiense"
+        "value": "Jesuitenkolleg Görz"
       },
       {
         "id": 37,
-        "value": "Collegium Judenburgense"
+        "value": "Jesuitenkolleg Judenburg"
       },
       {
         "id": 38,
-        "value": "Collegium Tergestinum"
+        "value": "Jesuitenkolleg Trieste"
       },
       {
         "id": 39,
-        "value": "Domus Probationis Leobiensis"
+        "value": "Probationshaus Leoben"
       },
       {
         "id": 40,
-        "value": "Collegium Fluminense"
+        "value": "Jesuitenkolleg Rijeka"
       },
       {
         "id": 45,
-        "value": "Missio Waldtpergensis"
+        "value": "Jesuitenmission Waldberg"
       }
     ],
     "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948850",
     "titel": "Litterae annuae provinciae Austriae Societatis Iesu a. 1633",
-    "date": "1633-01-01",
+    "date": "ab 1633",
     "persons": [],
     "mentioned_places": [],
-    "note_type_facs": "",
+    "note_type_facs": "https://data.onb.ac.at/rep/131ABE3B",
     "xml_id": "cod_12031",
-    "extent": null,
-    "height": null,
-    "width": null,
-    "foliation": null,
-    "acc_mat": null
+    "extent": "54",
+    "height": "293",
+    "width": "198",
+    "foliation": "Neue Foliierung 1-54. Alte Paginierung 1-102.",
+    "acc_mat": null,
+    "binding": "Papierumschlag.",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist nach Orten bzw. Häusern gegliedert.",
+    "not_before": "1633",
+    "not_after": null
   },
   "2": {
     "id": 2,
@@ -191,79 +195,79 @@
     "mentioned_orgs": [
       {
         "id": 1,
-        "value": "Domus Professa Viennensis"
+        "value": "Profeßhaus Wien"
       },
       {
         "id": 2,
-        "value": "Collegium Viennense Academicum"
+        "value": "Jesuitenkolleg Wien"
       },
       {
         "id": 4,
-        "value": "Domus probationis S. Anna"
+        "value": "Probationshaus Wien"
       },
       {
         "id": 5,
-        "value": "Collegium Graecense"
+        "value": "Jesuitenkolleg Graz"
       },
       {
         "id": 7,
-        "value": "Residentia Millestadiensis"
+        "value": "Jesuitenresidenz Millstatt"
       },
       {
         "id": 8,
-        "value": "Collegium Lincium / Lincense"
+        "value": "Jesuitenkolleg Linz"
       },
       {
         "id": 9,
-        "value": "Collegium Posoniensis"
+        "value": "Jesuitenkolleg Bratislava"
       },
       {
         "id": 10,
-        "value": "Collegium Passaviense"
+        "value": "Jesuitenkolleg Passau"
       },
       {
         "id": 11,
-        "value": "Collegium Tyrnaviense"
+        "value": "Jesuitenkolleg Trnava"
       },
       {
         "id": 12,
-        "value": "Collegium Jaurinense"
+        "value": "Jesuitenkolleg Győr"
       },
       {
         "id": 13,
-        "value": "Collegium Labacense"
+        "value": "Jesuitenkolleg Ljubljana"
       },
       {
         "id": 16,
-        "value": "Collegium Clagenfurtense"
+        "value": "Jesuitenkolleg Klagenfurt"
       },
       {
         "id": 18,
-        "value": "Collegium Zagrabiense"
+        "value": "Jesuitenkolleg Zagreb"
       },
       {
         "id": 27,
-        "value": "Residentia Traunkirchensis"
+        "value": "Jesuitenresidenz Traunkirchen"
       },
       {
         "id": 36,
-        "value": "Collegium Goritiense"
+        "value": "Jesuitenkolleg Görz"
       },
       {
         "id": 37,
-        "value": "Collegium Judenburgense"
+        "value": "Jesuitenkolleg Judenburg"
       },
       {
         "id": 38,
-        "value": "Collegium Tergestinum"
+        "value": "Jesuitenkolleg Trieste"
       },
       {
         "id": 39,
-        "value": "Domus Probationis Leobiensis"
+        "value": "Probationshaus Leoben"
       },
       {
         "id": 40,
-        "value": "Collegium Fluminense"
+        "value": "Jesuitenkolleg Rijeka"
       },
       {
         "id": 41,
@@ -271,7 +275,7 @@
       },
       {
         "id": 42,
-        "value": "Missio Ensersdorffiana"
+        "value": "Jesuitenmission Enzersdorf"
       },
       {
         "id": 43,
@@ -279,21 +283,25 @@
       },
       {
         "id": 44,
-        "value": "Residentia Varasdinensis"
+        "value": "Jesuitenresidenz Varaždin"
       }
     ],
     "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948851",
     "titel": "Litterae annuae provinciae Austriae Societatis Iesu a. 1635",
-    "date": "1635-01-01",
+    "date": "ab 1635",
     "persons": [],
     "mentioned_places": [],
-    "note_type_facs": "",
+    "note_type_facs": "http://data.onb.ac.at/dtl/9135782",
     "xml_id": "cod_12032",
     "extent": null,
     "height": null,
     "width": null,
     "foliation": null,
-    "acc_mat": null
+    "acc_mat": null,
+    "binding": null,
+    "summary": null,
+    "not_before": "1635",
+    "not_after": null
   },
   "3": {
     "id": 3,
@@ -303,36 +311,36 @@
     "mentioned_orgs": [
       {
         "id": 17,
-        "value": "Residentia Eberndoffensis / Oberndorfensi"
+        "value": "Jesuitenresidenz Eberndorf"
       },
       {
         "id": 34,
-        "value": "Residentia / Sedes Quinqueecclesiensis"
+        "value": "Jesuitenresidenz Pécs"
       },
       {
         "id": 46,
-        "value": "Residentia Monostoriensis"
+        "value": "Jesuitenresidenz Cluj-Napoca"
       },
       {
         "id": 47,
-        "value": "Residentia Gyongyosiensis"
+        "value": "Jesuitenresidenz Gyöngyös"
       },
       {
         "id": 48,
-        "value": "Collegium Szakmarinum"
+        "value": "Jesuitenkolleg Satu Mare"
       },
       {
         "id": 49,
-        "value": "Missio Werthsensis"
+        "value": "Jesuitenmission Wörthersee"
       },
       {
         "id": 53,
-        "value": "Collegium Styrense"
+        "value": "Jesuitenkolleg Steyr"
       }
     ],
     "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948973",
     "titel": "Litterae annuae provinciae Austriae Societatis Iesu a. 1639",
-    "date": "1636-01-01",
+    "date": "ab 1636",
     "persons": [
       {
         "id": 1,
@@ -368,13 +376,17 @@
       }
     ],
     "mentioned_places": [],
-    "note_type_facs": "",
+    "note_type_facs": "http://data.onb.ac.at/dtl/9134751",
     "xml_id": "cod_12033",
     "extent": null,
     "height": null,
     "width": null,
     "foliation": null,
-    "acc_mat": null
+    "acc_mat": null,
+    "binding": null,
+    "summary": null,
+    "not_before": "1636",
+    "not_after": null
   },
   "4": {
     "id": 4,
@@ -384,32 +396,32 @@
     "mentioned_orgs": [
       {
         "id": 1,
-        "value": "Domus Professa Viennensis"
+        "value": "Profeßhaus Wien"
       },
       {
         "id": 4,
-        "value": "Domus probationis S. Anna"
+        "value": "Probationshaus Wien"
       },
       {
         "id": 10,
-        "value": "Collegium Passaviense"
+        "value": "Jesuitenkolleg Passau"
       },
       {
         "id": 61,
-        "value": "Missio Szacolzensis"
+        "value": "Jesuitenmission Skalica"
       },
       {
         "id": 62,
-        "value": "Residentia Scepusiensis"
+        "value": "Jesuitenresidenz Spis"
       },
       {
         "id": 64,
-        "value": "Residentia Turociensis"
+        "value": "Jesuitenreisidenz Kláštor pod Znievom"
       }
     ],
     "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948213",
-    "titel": "",
-    "date": null,
+    "titel": "Litterae annuae provinciae Austriae Societatis Iesu a. 1669",
+    "date": "ab 1669",
     "persons": [],
     "mentioned_places": [
       {
@@ -567,25 +579,447 @@
     "height": null,
     "width": null,
     "foliation": null,
-    "acc_mat": null
+    "acc_mat": null,
+    "binding": null,
+    "summary": null,
+    "not_before": "1669",
+    "not_after": null
   },
   "6": {
     "id": 6,
     "order": "5.00000000000000000000",
     "signatur": "Cod. 12123",
     "jesuiten_id": "jesuiten_msdesc__6",
-    "mentioned_orgs": [],
+    "mentioned_orgs": [
+      {
+        "id": 1,
+        "value": "Profeßhaus Wien"
+      },
+      {
+        "id": 2,
+        "value": "Jesuitenkolleg Wien"
+      },
+      {
+        "id": 4,
+        "value": "Probationshaus Wien"
+      },
+      {
+        "id": 18,
+        "value": "Jesuitenkolleg Zagreb"
+      },
+      {
+        "id": 56,
+        "value": "Jesuitenkolleg Ungarn"
+      },
+      {
+        "id": 57,
+        "value": "Jesuitenresidenz Alba Julia"
+      },
+      {
+        "id": 58,
+        "value": "Jesuitenresidenz Eger"
+      },
+      {
+        "id": 59,
+        "value": "Jesuitenresidenz Bratislava"
+      },
+      {
+        "id": 60,
+        "value": "Jesuitenmission Székesfehérvár"
+      }
+    ],
     "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948903",
+    "titel": "Litterae annuae provinciae Austriae Societatis Iesu a. 1729",
+    "date": "ab 1729",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 2,
+        "value": "Graz"
+      },
+      {
+        "id": 3,
+        "value": "Linz"
+      },
+      {
+        "id": 4,
+        "value": "Steyr"
+      },
+      {
+        "id": 5,
+        "value": "Bratislava"
+      },
+      {
+        "id": 6,
+        "value": "Trnava (Nagyszombat)"
+      },
+      {
+        "id": 7,
+        "value": "Passau"
+      },
+      {
+        "id": 8,
+        "value": "Győr"
+      },
+      {
+        "id": 9,
+        "value": "Ljubljana"
+      },
+      {
+        "id": 11,
+        "value": "Krems"
+      },
+      {
+        "id": 12,
+        "value": "Wiener Neustadt"
+      },
+      {
+        "id": 13,
+        "value": "Sopron (Ödenburg)"
+      },
+      {
+        "id": 14,
+        "value": "Kőszeg (Güns / Ginsium)"
+      },
+      {
+        "id": 15,
+        "value": "Buda"
+      },
+      {
+        "id": 16,
+        "value": "Komárom"
+      },
+      {
+        "id": 17,
+        "value": "Skalica"
+      },
+      {
+        "id": 18,
+        "value": "Trenčín"
+      },
+      {
+        "id": 19,
+        "value": "Banská Bystrica (Neosolium)"
+      },
+      {
+        "id": 20,
+        "value": "Levoča (Leutschau)"
+      },
+      {
+        "id": 21,
+        "value": "Košice"
+      },
+      {
+        "id": 24,
+        "value": "Leoben"
+      },
+      {
+        "id": 25,
+        "value": "Judenburg"
+      },
+      {
+        "id": 26,
+        "value": "Klagenfurt"
+      },
+      {
+        "id": 28,
+        "value": "Trieste (Tergestinum)"
+      },
+      {
+        "id": 29,
+        "value": "Rijeka (Flumen / Fiume)"
+      },
+      {
+        "id": 30,
+        "value": "Varaždin"
+      },
+      {
+        "id": 31,
+        "value": "Pécs (Quinque ecclesiae)"
+      },
+      {
+        "id": 33,
+        "value": "Cluj-Napoca"
+      },
+      {
+        "id": 34,
+        "value": "Belgrade"
+      },
+      {
+        "id": 44,
+        "value": "Traunkirchen"
+      },
+      {
+        "id": 50,
+        "value": "Millstatt"
+      },
+      {
+        "id": 57,
+        "value": "Gyöngyös"
+      },
+      {
+        "id": 58,
+        "value": "Satu Mare"
+      },
+      {
+        "id": 64,
+        "value": "Žireč"
+      },
+      {
+        "id": 68,
+        "value": "Leopoldov"
+      },
+      {
+        "id": 69,
+        "value": "Petrovaradin"
+      },
+      {
+        "id": 71,
+        "value": "Târgu-Mureş"
+      },
+      {
+        "id": 72,
+        "value": "Prešov (Eperiesinum)"
+      },
+      {
+        "id": 73,
+        "value": "Sibiu"
+      },
+      {
+        "id": 74,
+        "value": "Baia Mare"
+      },
+      {
+        "id": 75,
+        "value": "Banská Štiavnica"
+      },
+      {
+        "id": 76,
+        "value": "Sárospatak"
+      },
+      {
+        "id": 77,
+        "value": "Rožňava"
+      },
+      {
+        "id": 78,
+        "value": "Spiš"
+      },
+      {
+        "id": 80,
+        "value": "Esztergom"
+      },
+      {
+        "id": 81,
+        "value": "Kláštor pod Znievom"
+      },
+      {
+        "id": 82,
+        "value": "Oradea"
+      },
+      {
+        "id": 83,
+        "value": "Odorheiu Secuiesc"
+      },
+      {
+        "id": 85,
+        "value": "Brașov"
+      },
+      {
+        "id": 86,
+        "value": "Osijek"
+      },
+      {
+        "id": 87,
+        "value": "Špania Dolina"
+      }
+    ],
+    "note_type_facs": "",
+    "xml_id": "cod_12123",
+    "extent": "152",
+    "height": "326",
+    "width": "200",
+    "foliation": "Neue Foliierung 1-152.",
+    "acc_mat": "",
+    "binding": "Weißer Pergamenteinband über Pappdeckeln.",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist in 14 Kapitel gegliedert, der erste davon (2r-5v) über die Anzahl der aktuellen Mitglieder, der letzte (101v-151v) über die verstorbenen.",
+    "not_before": "1729",
+    "not_after": "1730"
+  },
+  "7": {
+    "id": 7,
+    "order": "6.00000000000000000000",
+    "signatur": "Cod. 12057",
+    "jesuiten_id": "jesuiten_msdesc__7",
+    "mentioned_orgs": [
+      {
+        "id": 1,
+        "value": "Profeßhaus Wien"
+      },
+      {
+        "id": 3,
+        "value": "Jesuitenresidenz S. Bernardi"
+      },
+      {
+        "id": 4,
+        "value": "Probationshaus Wien"
+      },
+      {
+        "id": 65,
+        "value": "Jesuitenmission Sonderburg"
+      },
+      {
+        "id": 66,
+        "value": "Jesuitenresidenz Rožňava"
+      }
+    ],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13947676",
+    "titel": "Litterae annuae provinciae Austriae Societatis Iesu a. 1660",
+    "date": "ab 1660",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 1,
+        "value": "Wien"
+      },
+      {
+        "id": 2,
+        "value": "Graz"
+      },
+      {
+        "id": 3,
+        "value": "Linz"
+      },
+      {
+        "id": 4,
+        "value": "Steyr"
+      },
+      {
+        "id": 5,
+        "value": "Bratislava"
+      },
+      {
+        "id": 6,
+        "value": "Trnava (Nagyszombat)"
+      },
+      {
+        "id": 8,
+        "value": "Győr"
+      },
+      {
+        "id": 9,
+        "value": "Ljubljana"
+      },
+      {
+        "id": 10,
+        "value": "Zagreb"
+      },
+      {
+        "id": 11,
+        "value": "Krems"
+      },
+      {
+        "id": 13,
+        "value": "Sopron (Ödenburg)"
+      },
+      {
+        "id": 16,
+        "value": "Komárom"
+      },
+      {
+        "id": 19,
+        "value": "Banská Bystrica (Neosolium)"
+      },
+      {
+        "id": 21,
+        "value": "Košice"
+      },
+      {
+        "id": 24,
+        "value": "Leoben"
+      },
+      {
+        "id": 25,
+        "value": "Judenburg"
+      },
+      {
+        "id": 26,
+        "value": "Klagenfurt"
+      },
+      {
+        "id": 28,
+        "value": "Trieste (Tergestinum)"
+      },
+      {
+        "id": 30,
+        "value": "Varaždin"
+      },
+      {
+        "id": 44,
+        "value": "Traunkirchen"
+      },
+      {
+        "id": 58,
+        "value": "Satu Mare"
+      },
+      {
+        "id": 75,
+        "value": "Banská Štiavnica"
+      },
+      {
+        "id": 77,
+        "value": "Rožňava"
+      },
+      {
+        "id": 89,
+        "value": "Sonderburg"
+      },
+      {
+        "id": 90,
+        "value": "Eisenerz"
+      },
+      {
+        "id": 91,
+        "value": "Zadar"
+      },
+      {
+        "id": 92,
+        "value": "Pašman"
+      }
+    ],
+    "note_type_facs": "http://data.onb.ac.at/dtl/9227068",
+    "xml_id": "cod_12057",
+    "extent": "39",
+    "height": "295",
+    "width": "190",
+    "foliation": "Paginiert 1-71. Vorsatzblätter foliiert I-II.",
+    "acc_mat": "",
+    "binding": "Weißer Pergamenteinband über Pappdeckeln.",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit. Es gibt keine Überschriften; Randbemerkungen zu den erwähnten Häusern und Themen (u.a. 'Fundatio residentiae Rosnaviensis', 'Vita et morum correctio', 'Conciones et catecheses', 'Scholae', 'Missiones castrenses', 'Excursio ad vicinam Iadra insula', 'Persecutiones missionarium' etc.).",
+    "not_before": "1660",
+    "not_after": "1663"
+  },
+  "8": {
+    "id": 8,
+    "order": "7.00000000000000000000",
+    "signatur": "",
+    "jesuiten_id": "jesuiten_msdesc__8",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "",
     "titel": "",
-    "date": null,
+    "date": "",
     "persons": [],
     "mentioned_places": [],
     "note_type_facs": "",
-    "xml_id": "cod_12123",
+    "xml_id": "",
     "extent": null,
     "height": null,
     "width": null,
-    "foliation": null,
-    "acc_mat": null
+    "foliation": "",
+    "acc_mat": "",
+    "binding": "",
+    "summary": "",
+    "not_before": null,
+    "not_after": null
   }
 }
