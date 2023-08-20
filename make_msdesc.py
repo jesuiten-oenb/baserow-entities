@@ -26,13 +26,14 @@ ms_item_data = [value for key, value in ms_item_data.items()]
 
 
 for key, context in data.items():
-    save_path = os.path.join(out_dir, f"{context['xml_id']}.xml")
-    context["project_title"] = PROJECT_TITLE
-    ms_item_list = list(filter(lambda x: x["msdesc"][0]["value"] == context["signatur"], ms_item_data))
-    # context["ms_items"] = sorted(ms_item_list, key=lambda x: int(x["order_number"]))
-    context["ms_items"] = ms_item_list
-    xml_data = template.render(context)
-    doc = TeiReader(xml_data)
-    doc.tree_to_file(save_path)
+    if context['xml_id']:
+        save_path = os.path.join(out_dir, f"{context['xml_id']}.xml")
+        context["project_title"] = PROJECT_TITLE
+        ms_item_list = list(filter(lambda x: x["msdesc"][0]["value"] == context["signatur"], ms_item_data))
+        # context["ms_items"] = sorted(ms_item_list, key=lambda x: int(x["order_number"]))
+        context["ms_items"] = ms_item_list
+        xml_data = template.render(context)
+        doc = TeiReader(xml_data)
+        doc.tree_to_file(save_path)
 
 

@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="jesuiten_msdesc__7">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="jesuiten_msdesc__10">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">Beschreibung von  Cod. 12057</title>
+                <title type="main">Beschreibung von  Cod. 12138</title>
                 <title type="sub">Jesuiten Littera annuae</title>
                 <respStmt>
                     <resp>Beschreibung und TEI-encoding</resp>
@@ -19,22 +19,19 @@
                 </availability>
             </publicationStmt>
             <sourceDesc>
-                <msDesc xml:lang="de" xml:id="cod_12057">
+                <msDesc xml:lang="de" xml:id="cod_12138">
                     <msIdentifier>
                         <country>Österreich</country>
                         <settlement>Wien</settlement>
                         <repository>Österreichische Nationalbibliothek</repository>
-                        <idno>Cod. 12057</idno>
+                        <idno>Cod. 12138</idno>
                     </msIdentifier>
                     <head>
                         <title/>
-                        <origDate notBefore="1660-01-01" notAfter="0010">1660-1663</origDate>
+                        <origDate notBefore="1744-01-01" notAfter="0010">1744-1746</origDate>
                         <origPlace ref="#jesuiten_place__1">Wien (?)</origPlace>
-                        <note type="facs">
-                            <ref target="http://data.onb.ac.at/dtl/9227068"/>
-                        </note>
                         <note type="catalogue">
-                            <ref target="http://data.onb.ac.at/rec/AC13947676"/>
+                            <ref target="http://data.onb.ac.at/rec/AC13948939"/>
                         </note>
                     </head>
                     <msContents>
@@ -50,7 +47,7 @@
                                         <width/>
                                     </dimensions>
                                 </extent>
-                                <foliation>Paginiert 1-71. Vorsatzblätter foliiert I-II.</foliation>
+                                <foliation>Vorsatz- und Nachstoßblätter foliiert I-II bzw. I*-II*. Durchgehend Paginierung 1-143 (18. Jhdt.), die von S. 72 auf 81 springt und nach S. 100 zurück auf 97 geht (moderne Korrektur: S. 97*-100*).</foliation>
                                 <collation/>
                             </supportDesc>
                         </objectDesc>
