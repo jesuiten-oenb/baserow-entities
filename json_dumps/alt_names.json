@@ -510,5 +510,37 @@
         "value": "Târgu-Mureş"
       }
     ]
+  },
+  "33": {
+    "id": 33,
+    "order": "33.00000000000000000000",
+    "Name": "Znoyma",
+    "Notes": {
+      "id": 11393,
+      "value": "lat",
+      "color": "dark-gray"
+    },
+    "places": [
+      {
+        "id": 36,
+        "value": "Znojmo"
+      }
+    ]
+  },
+  "34": {
+    "id": 34,
+    "order": "34.00000000000000000000",
+    "Name": "Bruna",
+    "Notes": {
+      "id": 11393,
+      "value": "lat",
+      "color": "dark-gray"
+    },
+    "places": [
+      {
+        "id": 94,
+        "value": "Brno"
+      }
+    ]
   }
 }

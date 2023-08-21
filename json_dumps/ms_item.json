@@ -2025,5 +2025,79 @@
         "value": "Jesuitenkolleg Rijeka"
       }
     ]
+  },
+  "118": {
+    "id": 118,
+    "order": "80.00000000000000000000",
+    "name": [
+      {
+        "id": 13,
+        "value": "cod_12288__118"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 13,
+        "value": "Cod. 12288"
+      }
+    ],
+    "order_number": null,
+    "incipit": "tabellarische Auflistung der Anzahl der Communicantes, Conversos, Dictiones ad populum, Catecheses, Sodalitates, Studioses und Seminaristas.",
+    "locus_from": "4r",
+    "locus_to": "5r",
+    "locus_text": "4r-5r",
+    "places": [],
+    "orgs": []
+  },
+  "119": {
+    "id": 119,
+    "order": "81.00000000000000000000",
+    "name": [
+      {
+        "id": 13,
+        "value": "cod_12288__119"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 13,
+        "value": "Cod. 12288"
+      }
+    ],
+    "order_number": null,
+    "incipit": "",
+    "locus_from": "6r",
+    "locus_to": "7v",
+    "locus_text": "6r-7v",
+    "places": [],
+    "orgs": [
+      {
+        "id": 92,
+        "value": "Profeßhaus Prag"
+      }
+    ]
+  },
+  "120": {
+    "id": 120,
+    "order": "82.00000000000000000000",
+    "name": [
+      {
+        "id": 13,
+        "value": "cod_12288__120"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 13,
+        "value": "Cod. 12288"
+      }
+    ],
+    "order_number": null,
+    "incipit": "Missio castrensis; Missio suecica",
+    "locus_from": "8r",
+    "locus_to": "11v",
+    "locus_text": "8r-11v",
+    "places": [],
+    "orgs": []
   }
 }

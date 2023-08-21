@@ -4012,5 +4012,30 @@
         "alt_name": "Collegium Varasdinense",
         "notes": "",
         "persons": []
+    },
+    "92": {
+        "id": 92,
+        "order": "92.00000000000000000000",
+        "name": "Profeßhaus Prag",
+        "jesuiten_id": "jesuiten_org__92",
+        "located_in": [
+            {
+                "id": 93,
+                "order": "90.00000000000000000000",
+                "name": "Prague",
+                "jesuiten_id": "jesuiten_place__93",
+                "geonames": "https://www.geonames.org/3067696/prague.html",
+                "lat": "50.08804",
+                "long": "14.42076",
+                "wikidata": "https://www.wikidata.org/wiki/Q1085",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Domus professae Pragae ad Sanctum Nicolaum",
+        "notes": "",
+        "persons": []
     }
 }

@@ -1057,7 +1057,12 @@
     "lat": "48.85550",
     "long": "16.04880",
     "wikidata": "",
-    "alt_names": [],
+    "alt_names": [
+      {
+        "id": 33,
+        "value": "Znoyma"
+      }
+    ],
     "msdesc": []
   },
   "37": {
@@ -2059,5 +2064,34 @@
         "value": "Cod. 12057"
       }
     ]
+  },
+  "93": {
+    "id": 93,
+    "order": "90.00000000000000000000",
+    "name": "Prague",
+    "jesuiten_id": "jesuiten_place__93",
+    "geonames": "https://www.geonames.org/3067696/prague.html",
+    "lat": "50.08804",
+    "long": "14.42076",
+    "wikidata": "https://www.wikidata.org/wiki/Q1085",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "94": {
+    "id": 94,
+    "order": "91.00000000000000000000",
+    "name": "Brno",
+    "jesuiten_id": "jesuiten_place__94",
+    "geonames": "https://www.geonames.org/3078610/brno.html",
+    "lat": "49.19522",
+    "long": "16.60796",
+    "wikidata": "",
+    "alt_names": [
+      {
+        "id": 34,
+        "value": "Bruna"
+      }
+    ],
+    "msdesc": []
   }
 }
