@@ -1363,6 +1363,10 @@
         "value": "Jesuitenresidenz Spiš"
       },
       {
+        "id": 64,
+        "value": "Jesuitenreisidenz Kláštor pod Znievom"
+      },
+      {
         "id": 66,
         "value": "Jesuitenresidenz Rožňava"
       },
@@ -1397,10 +1401,6 @@
       {
         "id": 74,
         "value": "Jesuitenresidenz Satu Mare"
-      },
-      {
-        "id": 75,
-        "value": "Jesuitenresidenz Kláštor pod Znievom"
       },
       {
         "id": 76,
@@ -1641,6 +1641,126 @@
     "binding": "Pappeinband",
     "summary": "Nach dem Vermerk 2r-v wurde der Jahresbericht in der Zeit vom 5. Februar 1703 (?) bis April 1704 (?) in verschiedenen Häusern in Böhmen verlesen. Danach wurde er an das Archiv in Prag zurückgegeben.",
     "not_before": "1703",
+    "not_after": null
+  },
+  "14": {
+    "id": 14,
+    "order": "11.00000000000000000000",
+    "signatur": "Cod. 12034",
+    "jesuiten_id": "jesuiten_msdesc__14",
+    "mentioned_orgs": [
+      {
+        "id": 1,
+        "value": "Profeßhaus Wien"
+      },
+      {
+        "id": 2,
+        "value": "Jesuitenkolleg Wien"
+      },
+      {
+        "id": 4,
+        "value": "Probationshaus Wien"
+      },
+      {
+        "id": 5,
+        "value": "Jesuitenkolleg Graz"
+      },
+      {
+        "id": 6,
+        "value": "Ferdinandeum"
+      },
+      {
+        "id": 7,
+        "value": "Jesuitenresidenz Millstatt"
+      },
+      {
+        "id": 9,
+        "value": "Jesuitenkolleg Bratislava"
+      },
+      {
+        "id": 11,
+        "value": "Jesuitenkolleg Trnava"
+      },
+      {
+        "id": 12,
+        "value": "Jesuitenkolleg Győr"
+      },
+      {
+        "id": 18,
+        "value": "Jesuitenkolleg Zagreb"
+      },
+      {
+        "id": 28,
+        "value": "Jesuitenmission Levice"
+      },
+      {
+        "id": 33,
+        "value": "Jesuitenresidenz Humenné"
+      },
+      {
+        "id": 38,
+        "value": "Jesuitenkolleg Trieste"
+      },
+      {
+        "id": 40,
+        "value": "Jesuitenkolleg Rijeka"
+      },
+      {
+        "id": 44,
+        "value": "Jesuitenresidenz Varaždin"
+      },
+      {
+        "id": 47,
+        "value": "Jesuitenresidenz Gyöngyös"
+      },
+      {
+        "id": 50,
+        "value": "Jesuitenresidenz Sopron"
+      },
+      {
+        "id": 55,
+        "value": "Jesuitenresidenz Žireč"
+      },
+      {
+        "id": 64,
+        "value": "Jesuitenreisidenz Kláštor pod Znievom"
+      },
+      {
+        "id": 125,
+        "value": "Jesuitenkolleg Convictorum S. Spiritus"
+      },
+      {
+        "id": 126,
+        "value": "Jesuitenresidenz Geyracensis"
+      },
+      {
+        "id": 127,
+        "value": "Jesuitenmission Šurianky"
+      },
+      {
+        "id": 128,
+        "value": "Jesuitenmission Pécs"
+      },
+      {
+        "id": 129,
+        "value": "Jesuitenmission Komárom"
+      }
+    ],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948971",
+    "titel": "Litterae annuae provinciae Austriae Societatis Iesu a. 1637",
+    "date": "ab 1638",
+    "persons": [],
+    "mentioned_places": [],
+    "note_type_facs": "http://data.onb.ac.at/dtl/9144428",
+    "xml_id": "cod_12034",
+    "extent": "66",
+    "height": null,
+    "width": null,
+    "foliation": "Moderne Foliierung 1-66.",
+    "acc_mat": "Makulatur: 1 geschnittenes Doppelblatt aus einem gedruckten Missal.",
+    "binding": "Pergamenteinband.",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist nach Orten bzw. Häusern gegliedert.",
+    "not_before": "1638",
     "not_after": null
   }
 }

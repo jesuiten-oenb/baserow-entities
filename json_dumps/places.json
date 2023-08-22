@@ -2085,13 +2085,359 @@
     "geonames": "https://www.geonames.org/3078610/brno.html",
     "lat": "49.19522",
     "long": "16.60796",
-    "wikidata": "",
+    "wikidata": "https://www.wikidata.org/wiki/Q14960",
     "alt_names": [
       {
         "id": 34,
         "value": "Bruna"
       }
     ],
+    "msdesc": []
+  },
+  "95": {
+    "id": 95,
+    "order": "92.00000000000000000000",
+    "name": "Świdnica",
+    "jesuiten_id": "jesuiten_place__95",
+    "geonames": "https://www.geonames.org/3084093/swidnica.html",
+    "lat": "50.84378",
+    "long": "16.48859",
+    "wikidata": "https://www.wikidata.org/wiki/Q387396",
+    "alt_names": [
+      {
+        "id": 35,
+        "value": "Schwidnicium"
+      }
+    ],
+    "msdesc": []
+  },
+  "96": {
+    "id": 96,
+    "order": "93.00000000000000000000",
+    "name": "Brzeźnica",
+    "jesuiten_id": "jesuiten_place__96",
+    "geonames": "https://www.geonames.org/3102368/brzeznica.html",
+    "lat": "51.71437",
+    "long": "15.39348",
+    "wikidata": "",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "97": {
+    "id": 97,
+    "order": "94.00000000000000000000",
+    "name": "Svatá",
+    "jesuiten_id": "jesuiten_place__97",
+    "geonames": "https://www.geonames.org/6295565/svata.html",
+    "lat": "49.93913",
+    "long": "13.96162",
+    "wikidata": "https://www.wikidata.org/wiki/Q2174620",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "98": {
+    "id": 98,
+    "order": "95.00000000000000000000",
+    "name": "Chomutov",
+    "jesuiten_id": "jesuiten_place__98",
+    "geonames": "https://www.geonames.org/3077685/chomutov.html",
+    "lat": "50.46048",
+    "long": "13.41779",
+    "wikidata": "https://www.wikidata.org/wiki/Q146356",
+    "alt_names": [
+      {
+        "id": 36,
+        "value": "Commotovium"
+      }
+    ],
+    "msdesc": []
+  },
+  "99": {
+    "id": 99,
+    "order": "96.00000000000000000000",
+    "name": "Český Krumlov",
+    "jesuiten_id": "jesuiten_place__99",
+    "geonames": "https://www.geonames.org/3077889/cesky-krumlov.html",
+    "lat": "48.81091",
+    "long": "14.31521",
+    "wikidata": "https://www.wikidata.org/wiki/Q188082",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "100": {
+    "id": 100,
+    "order": "97.00000000000000000000",
+    "name": "Nysa",
+    "jesuiten_id": "jesuiten_place__100",
+    "geonames": "https://www.geonames.org/3090436/nysa.html",
+    "lat": "50.47379",
+    "long": "17.33437",
+    "wikidata": "https://www.wikidata.org/wiki/Q815721",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "101": {
+    "id": 101,
+    "order": "98.00000000000000000000",
+    "name": "Cheb",
+    "jesuiten_id": "jesuiten_place__101",
+    "geonames": "https://www.geonames.org/3077835/cheb.html",
+    "lat": "50.07963",
+    "long": "12.37392",
+    "wikidata": "https://www.wikidata.org/wiki/Q193719",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "102": {
+    "id": 102,
+    "order": "99.00000000000000000000",
+    "name": "Jičín",
+    "jesuiten_id": "jesuiten_place__102",
+    "geonames": "https://www.geonames.org/3074204/jicin.html",
+    "lat": "50.43723",
+    "long": "15.35162",
+    "wikidata": "https://www.wikidata.org/wiki/Q656603",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "103": {
+    "id": 103,
+    "order": "100.00000000000000000000",
+    "name": "Kłodzko",
+    "jesuiten_id": "jesuiten_place__103",
+    "geonames": "https://www.geonames.org/3096053/klodzko.html",
+    "lat": "50.43488",
+    "long": "16.66145",
+    "wikidata": "https://www.wikidata.org/wiki/Q284604",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "104": {
+    "id": 104,
+    "order": "101.00000000000000000000",
+    "name": "Klatovy",
+    "jesuiten_id": "jesuiten_place__104",
+    "geonames": "https://www.geonames.org/3073660/klatovy.html",
+    "lat": "49.39552",
+    "long": "13.29505",
+    "wikidata": "https://www.wikidata.org/wiki/Q602976",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "105": {
+    "id": 105,
+    "order": "102.00000000000000000000",
+    "name": "Głogów",
+    "jesuiten_id": "jesuiten_place__105",
+    "geonames": "https://www.geonames.org/3099213/glogow.html",
+    "lat": "51.66361",
+    "long": "16.08450",
+    "wikidata": "https://www.wikidata.org/wiki/Q66013",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "106": {
+    "id": 106,
+    "order": "103.00000000000000000000",
+    "name": "Uherské Hradiště",
+    "jesuiten_id": "jesuiten_place__106",
+    "geonames": "https://www.geonames.org/3063739/uherske-hradiste.html",
+    "lat": "49.06975",
+    "long": "17.45969",
+    "wikidata": "https://www.wikidata.org/wiki/Q502993",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "107": {
+    "id": 107,
+    "order": "104.00000000000000000000",
+    "name": "Jihlava",
+    "jesuiten_id": "jesuiten_place__107",
+    "geonames": "https://www.geonames.org/3074199/jihlava.html",
+    "lat": "49.39610",
+    "long": "15.59124",
+    "wikidata": "https://www.wikidata.org/wiki/Q183111",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "108": {
+    "id": 108,
+    "order": "105.00000000000000000000",
+    "name": "Kutná Hora",
+    "jesuiten_id": "jesuiten_place__108",
+    "geonames": "https://www.geonames.org/3072463/kutna-hora.html",
+    "lat": "49.94839",
+    "long": "15.26816",
+    "wikidata": "https://www.wikidata.org/wiki/Q155975",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "109": {
+    "id": 109,
+    "order": "106.00000000000000000000",
+    "name": "Golčův Jeníkov",
+    "jesuiten_id": "jesuiten_place__109",
+    "geonames": "https://www.geonames.org/3076098/golcuv-jenikov.html",
+    "lat": "49.81626",
+    "long": "15.47686",
+    "wikidata": "https://www.wikidata.org/wiki/Q1011641",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "110": {
+    "id": 110,
+    "order": "107.00000000000000000000",
+    "name": "Legnica",
+    "jesuiten_id": "jesuiten_place__110",
+    "geonames": "https://www.geonames.org/3093692/legnica.html",
+    "lat": "51.21006",
+    "long": "16.16190",
+    "wikidata": "https://www.wikidata.org/wiki/Q106274",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "111": {
+    "id": 111,
+    "order": "108.00000000000000000000",
+    "name": "Otyń",
+    "jesuiten_id": "jesuiten_place__111",
+    "geonames": "https://www.geonames.org/3089612/otyn.html",
+    "lat": "51.84766",
+    "long": "15.71105",
+    "wikidata": "https://www.wikidata.org/wiki/Q991590",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "112": {
+    "id": 112,
+    "order": "109.00000000000000000000",
+    "name": "Litoměřice",
+    "jesuiten_id": "jesuiten_place__112",
+    "geonames": "https://www.geonames.org/3071677/litomerice.html",
+    "lat": "50.53348",
+    "long": "14.13180",
+    "wikidata": "https://www.wikidata.org/wiki/Q384403",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "113": {
+    "id": 113,
+    "order": "110.00000000000000000000",
+    "name": "Jindřichův Hradec",
+    "jesuiten_id": "jesuiten_place__113",
+    "geonames": "https://www.geonames.org/3074149/jindrichuv-hradec.html",
+    "lat": "49.14404",
+    "long": "15.00301",
+    "wikidata": "https://www.wikidata.org/wiki/Q368929",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "114": {
+    "id": 114,
+    "order": "111.00000000000000000000",
+    "name": "Olomouc",
+    "jesuiten_id": "jesuiten_place__114",
+    "geonames": "https://www.geonames.org/3069011/olomouc.html",
+    "lat": "49.59552",
+    "long": "17.25175",
+    "wikidata": "https://www.wikidata.org/wiki/Q81137",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "115": {
+    "id": 115,
+    "order": "112.00000000000000000000",
+    "name": "Opava",
+    "jesuiten_id": "jesuiten_place__115",
+    "geonames": "https://www.geonames.org/3068927/opava.html",
+    "lat": "49.93866",
+    "long": "17.90257",
+    "wikidata": "https://www.wikidata.org/wiki/Q156080",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "116": {
+    "id": 116,
+    "order": "113.00000000000000000000",
+    "name": "Opole",
+    "jesuiten_id": "jesuiten_place__116",
+    "geonames": "https://www.geonames.org/3090048/opole.html",
+    "lat": "50.67211",
+    "long": "17.92533",
+    "wikidata": "https://www.wikidata.org/wiki/Q92212",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "117": {
+    "id": 117,
+    "order": "114.00000000000000000000",
+    "name": "Hradec Králové",
+    "jesuiten_id": "jesuiten_place__117",
+    "geonames": "https://www.geonames.org/3074967/hradec-kralove.html",
+    "lat": "50.20923",
+    "long": "15.83277",
+    "wikidata": "https://www.wikidata.org/wiki/Q180139",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "118": {
+    "id": 118,
+    "order": "115.00000000000000000000",
+    "name": "Żagań",
+    "jesuiten_id": "jesuiten_place__118",
+    "geonames": "https://www.geonames.org/3080944/zagan.html",
+    "lat": "51.61759",
+    "long": "15.31486",
+    "wikidata": "https://www.wikidata.org/wiki/Q158459",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "119": {
+    "id": 119,
+    "order": "116.00000000000000000000",
+    "name": "Świdnica",
+    "jesuiten_id": "jesuiten_place__119",
+    "geonames": "https://www.geonames.org/3084093/swidnica.html",
+    "lat": "50.84378",
+    "long": "16.48859",
+    "wikidata": "https://www.wikidata.org/wiki/Q387396",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "120": {
+    "id": 120,
+    "order": "117.00000000000000000000",
+    "name": "Telč",
+    "jesuiten_id": "jesuiten_place__120",
+    "geonames": "https://www.geonames.org/3064316/telc.html",
+    "lat": "49.18418",
+    "long": "15.45275",
+    "wikidata": "https://www.wikidata.org/wiki/Q373804",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "121": {
+    "id": 121,
+    "order": "118.00000000000000000000",
+    "name": "Wrocław",
+    "jesuiten_id": "jesuiten_place__121",
+    "geonames": "https://www.geonames.org/3081368/wroclaw.html",
+    "lat": "51.10000",
+    "long": "17.03333",
+    "wikidata": "https://www.wikidata.org/wiki/Q1799",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "122": {
+    "id": 122,
+    "order": "119.00000000000000000000",
+    "name": "Tuřany",
+    "jesuiten_id": "jesuiten_place__122",
+    "geonames": "https://www.geonames.org/3063858/turany.html",
+    "lat": "49.14758",
+    "long": "16.66798",
+    "wikidata": "",
+    "alt_names": [],
     "msdesc": []
   }
 }

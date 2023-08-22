@@ -158,13 +158,27 @@
     </teiHeader>
     <text>
         <body><p/></body>
-    <back><listPlace><place xml:id="jesuiten_place__29">
-                  <placeName>Rijeka (Flumen / Fiume)</placeName>
+    <back><listPlace><place xml:id="jesuiten_place__20">
+                  <placeName>Levoča (Leutschau)</placeName>
                   <location type="coords">
-                     <geo>45.32673 14.44241</geo>
+                     <geo>49.02173 20.59212</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/3191648/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q1647</idno>
+                  <idno type="geonames">https://sws.geonames.org/724294/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q242478</idno>
+               <noteGrp><note target="cod_12123.xml" type="mentions">Beschreibung von  Cod. 12123</note></noteGrp></place>
+               <place xml:id="jesuiten_place__8">
+                  <placeName>Győr</placeName>
+                  <location type="coords">
+                     <geo>47.68333 17.63512</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3052009/</idno>
+               <noteGrp><note target="cod_12123.xml" type="mentions">Beschreibung von  Cod. 12123</note></noteGrp></place>
+               <place xml:id="jesuiten_place__9">
+                  <placeName>Ljubljana</placeName>
+                  <location type="coords">
+                     <geo>46.05108 14.50513</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3196359/</idno>
                <noteGrp><note target="cod_12123.xml" type="mentions">Beschreibung von  Cod. 12123</note></noteGrp></place>
                <place xml:id="jesuiten_place__11">
                   <placeName>Krems</placeName>
@@ -173,20 +187,12 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2773549/</idno>
                <noteGrp><note target="cod_12123.xml" type="mentions">Beschreibung von  Cod. 12123</note></noteGrp></place>
-               <place xml:id="jesuiten_place__15">
-                  <placeName>Buda</placeName>
+               <place xml:id="jesuiten_place__25">
+                  <placeName>Judenburg</placeName>
                   <location type="coords">
-                     <geo>47.50000 19.03333</geo>
+                     <geo>47.16667 14.66667</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/3054667/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q193478</idno>
-               <noteGrp><note target="cod_12123.xml" type="mentions">Beschreibung von  Cod. 12123</note></noteGrp></place>
-               <place xml:id="jesuiten_place__26">
-                  <placeName>Klagenfurt</placeName>
-                  <location type="coords">
-                     <geo>46.62472 14.30528</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2774326/</idno>
+                  <idno type="geonames">https://sws.geonames.org/2775020/</idno>
                <noteGrp><note target="cod_12123.xml" type="mentions">Beschreibung von  Cod. 12123</note></noteGrp></place>
                <place xml:id="jesuiten_place__2">
                   <placeName>Graz</placeName>
@@ -196,20 +202,29 @@
                   <idno type="geonames">https://sws.geonames.org/2778067/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q13298</idno>
                <noteGrp><note target="cod_12123.xml" type="mentions">Beschreibung von  Cod. 12123</note></noteGrp></place>
-               <place xml:id="jesuiten_place__20">
-                  <placeName>Levoča (Leutschau)</placeName>
+               <place xml:id="jesuiten_place__21">
+                  <placeName>Košice</placeName>
                   <location type="coords">
-                     <geo>49.02173 20.59212</geo>
+                     <geo>48.71395 21.25808</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/724294/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q242478</idno>
+                  <idno type="geonames">https://sws.geonames.org/724443/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q25409</idno>
                <noteGrp><note target="cod_12123.xml" type="mentions">Beschreibung von  Cod. 12123</note></noteGrp></place>
-               <place xml:id="jesuiten_place__24">
-                  <placeName>Leoben</placeName>
+               <place xml:id="jesuiten_place__29">
+                  <placeName>Rijeka (Flumen / Fiume)</placeName>
                   <location type="coords">
-                     <geo>47.37650 15.09144</geo>
+                     <geo>45.32673 14.44241</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/2772649/</idno>
+                  <idno type="geonames">https://sws.geonames.org/3191648/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1647</idno>
+               <noteGrp><note target="cod_12123.xml" type="mentions">Beschreibung von  Cod. 12123</note></noteGrp></place>
+               <place xml:id="jesuiten_place__15">
+                  <placeName>Buda</placeName>
+                  <location type="coords">
+                     <geo>47.50000 19.03333</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3054667/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q193478</idno>
                <noteGrp><note target="cod_12123.xml" type="mentions">Beschreibung von  Cod. 12123</note></noteGrp></place>
                <place xml:id="jesuiten_place__33">
                   <placeName>Cluj-Napoca</placeName>
@@ -219,35 +234,12 @@
                   <idno type="geonames">https://sws.geonames.org/681290/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q100188</idno>
                <noteGrp><note target="cod_12123.xml" type="mentions">Beschreibung von  Cod. 12123</note></noteGrp></place>
-               <place xml:id="jesuiten_place__9">
-                  <placeName>Ljubljana</placeName>
+               <place xml:id="jesuiten_place__26">
+                  <placeName>Klagenfurt</placeName>
                   <location type="coords">
-                     <geo>46.05108 14.50513</geo>
+                     <geo>46.62472 14.30528</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/3196359/</idno>
-               <noteGrp><note target="cod_12123.xml" type="mentions">Beschreibung von  Cod. 12123</note></noteGrp></place>
-               <place xml:id="jesuiten_place__19">
-                  <placeName>Banská Bystrica (Neosolium)</placeName>
-                  <location type="coords">
-                     <geo>48.73946 19.15349</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3061186/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q144983</idno>
-               <noteGrp><note target="cod_12123.xml" type="mentions">Beschreibung von  Cod. 12123</note></noteGrp></place>
-               <place xml:id="jesuiten_place__21">
-                  <placeName>Košice</placeName>
-                  <location type="coords">
-                     <geo>48.71395 21.25808</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/724443/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q25409</idno>
-               <noteGrp><note target="cod_12123.xml" type="mentions">Beschreibung von  Cod. 12123</note></noteGrp></place>
-               <place xml:id="jesuiten_place__25">
-                  <placeName>Judenburg</placeName>
-                  <location type="coords">
-                     <geo>47.16667 14.66667</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2775020/</idno>
+                  <idno type="geonames">https://sws.geonames.org/2774326/</idno>
                <noteGrp><note target="cod_12123.xml" type="mentions">Beschreibung von  Cod. 12123</note></noteGrp></place>
                <place xml:id="jesuiten_place__14">
                   <placeName>Kőszeg (Güns / Ginsium)</placeName>
@@ -257,12 +249,20 @@
                   <idno type="geonames">https://sws.geonames.org/3049366/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q613813</idno>
                <noteGrp><note target="cod_12123.xml" type="mentions">Beschreibung von  Cod. 12123</note></noteGrp></place>
-               <place xml:id="jesuiten_place__8">
-                  <placeName>Győr</placeName>
+               <place xml:id="jesuiten_place__19">
+                  <placeName>Banská Bystrica (Neosolium)</placeName>
                   <location type="coords">
-                     <geo>47.68333 17.63512</geo>
+                     <geo>48.73946 19.15349</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/3052009/</idno>
+                  <idno type="geonames">https://sws.geonames.org/3061186/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q144983</idno>
+               <noteGrp><note target="cod_12123.xml" type="mentions">Beschreibung von  Cod. 12123</note></noteGrp></place>
+               <place xml:id="jesuiten_place__24">
+                  <placeName>Leoben</placeName>
+                  <location type="coords">
+                     <geo>47.37650 15.09144</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2772649/</idno>
                <noteGrp><note target="cod_12123.xml" type="mentions">Beschreibung von  Cod. 12123</note></noteGrp></place>
                </listPlace><listOrg><org xml:id="jesuiten_org__1">
                   <orgName>Profeßhaus Wien</orgName>

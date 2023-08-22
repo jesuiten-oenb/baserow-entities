@@ -542,5 +542,33 @@
         "value": "Brno"
       }
     ]
+  },
+  "35": {
+    "id": 35,
+    "order": "35.00000000000000000000",
+    "Name": "Schwidnicium",
+    "Notes": {
+      "id": 11393,
+      "value": "lat",
+      "color": "dark-gray"
+    },
+    "places": [
+      {
+        "id": 95,
+        "value": "Świdnica"
+      }
+    ]
+  },
+  "36": {
+    "id": 36,
+    "order": "36.00000000000000000000",
+    "Name": "Commotovium",
+    "Notes": null,
+    "places": [
+      {
+        "id": 98,
+        "value": "Chomutov"
+      }
+    ]
   }
 }
