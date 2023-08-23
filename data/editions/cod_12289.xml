@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cod_12288.xml" xml:base="https://oenb.ac.at" prev="https://oenb.ac.at/cod_12266.xml" next="https://oenb.ac.at/cod_12289.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cod_12289.xml" xml:base="https://oenb.ac.at" prev="https://oenb.ac.at/cod_12288.xml" next="https://oenb.ac.at/cod_12290.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">Beschreibung von  Cod. 12288</title>
+                <title type="main">Beschreibung von  Cod. 12289</title>
                 <title type="sub">Jesuiten Littera annuae</title>
                 <respStmt>
                     <resp>Beschreibung und TEI-encoding</resp>
@@ -19,30 +19,27 @@
                 </availability>
             </publicationStmt>
             <sourceDesc>
-                <msDesc xml:lang="de" xml:id="cod_12288">
+                <msDesc xml:lang="de" xml:id="cod_12289">
                     <msIdentifier>
                         <country>Österreich</country>
                         <settlement>Wien</settlement>
                         <repository>Österreichische Nationalbibliothek</repository>
-                        <idno>Cod. 12288</idno>
+                        <idno>Cod. 12289</idno>
                     </msIdentifier>
                     <head>
                         <title/>
-                        <origDate notBefore="1703-01-01" notAfter="0010">ab 1703</origDate>
+                        <origDate notBefore="1704-01-01" notAfter="0010">ab 1704</origDate>
                         <origPlace ref="#jesuiten_place__1">Wien (?)</origPlace>
                         <note type="catalogue">
-                            <ref target="http://data.onb.ac.at/rec/AC13946916"/>
+                            <ref target="http://data.onb.ac.at/rec/AC13946917"/>
                         </note>
                     </head>
                     <msContents>
                         <summary>
-                                Zusammengesetzte Handschrift. Nach dem Vermerk 2r-v wurde der Jahresbericht in der Zeit vom 5. Februar 1703 (?) bis April 1704 (?) in verschiedenen Häusern in Böhmen verlesen. Danach wurde er an das Archiv in Prag zurückgegeben.
+                                Zusammengesetzte Handschrift. Der Bericht ist nach den Orten bzw. Häusern in Kapitel gegliedert. Auf ff. 1r-3v allgemeine Anzahl der Mitglieder und eine tabellarische Auflistung der Anzahl der Communicantes, Conversos, Dictiones ad populum, Catecheses, Sodalitates, Studioses und Seminaristas.
                             <list>
                                 <item n="None">
-                                    <locus from="4r" to="5r">4r-5r</locus>tabellarische Auflistung der Anzahl der Communicantes, Conversos, Dictiones ad populum, Catecheses, Sodalitates, Studioses und Seminaristas.
-                                </item>
-                                <item n="None">
-                                    <locus from="6r" to="7v">6r-7v</locus>
+                                    <locus from="4r" to="9r">4r-9r</locus>
                                     <listOrg>
                                         <org>
                                             <orgName key="#jesuiten_org__92">Profeßhaus Prag</orgName>
@@ -50,10 +47,10 @@
                                     </listOrg>
                                 </item>
                                 <item n="None">
-                                    <locus from="8r" to="11v">8r-11v</locus>Missio castrensis; Missio suecica
+                                    <locus from="9r" to="12r">9r-12r</locus>Missio castrensis
                                 </item>
                                 <item n="None">
-                                    <locus from="12r" to="13v">12r-13v</locus>
+                                    <locus from="13r" to="14r">13r-14r</locus>
                                     <listOrg>
                                         <org>
                                             <orgName key="#jesuiten_org__93">Jesuitenkolleg Březnice</orgName>
@@ -61,7 +58,7 @@
                                     </listOrg>
                                 </item>
                                 <item n="None">
-                                    <locus from="14r" to="25r">14r-25r</locus>
+                                    <locus from="15r" to="18v">15r-18v</locus>
                                     <listOrg>
                                         <org>
                                             <orgName key="#jesuiten_org__94">Jesuitenresidenz in Svata</orgName>
@@ -69,7 +66,7 @@
                                     </listOrg>
                                 </item>
                                 <item n="None">
-                                    <locus from="26r" to="29v">26r-29v</locus>
+                                    <locus from="19r" to="21v">19r-21v</locus>
                                     <listOrg>
                                         <org>
                                             <orgName key="#jesuiten_org__95">Jesuitenkolleg Chomutov</orgName>
@@ -77,7 +74,15 @@
                                     </listOrg>
                                 </item>
                                 <item n="None">
-                                    <locus from="33r" to="36r">33r-36r</locus>
+                                    <locus from="22r" to="22v">22r-22v</locus>
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__142">Jesuitenresidenz Maria Scheinensis</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="23r" to="26v">23r-26v</locus>
                                     <listOrg>
                                         <org>
                                             <orgName key="#jesuiten_org__96">Jesuitenkolleg Krumlov</orgName>
@@ -85,7 +90,7 @@
                                     </listOrg>
                                 </item>
                                 <item n="None">
-                                    <locus from="37r" to="39v">37r-39v</locus>
+                                    <locus from="27r" to="27v">27r-27v</locus>
                                     <listOrg>
                                         <org>
                                             <orgName key="#jesuiten_org__97">Jesuitenkolleg Cheb</orgName>
@@ -93,7 +98,7 @@
                                     </listOrg>
                                 </item>
                                 <item n="None">
-                                    <locus from="40r" to="45v">40r-45v</locus>
+                                    <locus from="28r" to="32v">28r-32v</locus>
                                     <listOrg>
                                         <org>
                                             <orgName key="#jesuiten_org__98">Jesuitenkolleg Jičín</orgName>
@@ -101,7 +106,10 @@
                                     </listOrg>
                                 </item>
                                 <item n="None">
-                                    <locus from="46r" to="49r">46r-49r</locus>
+                                    <locus from="33r" to="35v">33r-35v</locus>Annua missionariorum Gitzinii
+                                </item>
+                                <item n="None">
+                                    <locus from="36r" to="39v">36r-39v</locus>
                                     <listOrg>
                                         <org>
                                             <orgName key="#jesuiten_org__99">Jesuitenkolleg Kłodzko</orgName>
@@ -109,7 +117,7 @@
                                     </listOrg>
                                 </item>
                                 <item n="None">
-                                    <locus from="50r" to="53r">50r-53r</locus>
+                                    <locus from="40r" to="41v">40r-41v</locus>
                                     <listOrg>
                                         <org>
                                             <orgName key="#jesuiten_org__100">Jesuitenkolleg Klatovy</orgName>
@@ -117,7 +125,7 @@
                                     </listOrg>
                                 </item>
                                 <item n="None">
-                                    <locus from="54r" to="57v">54r-57v</locus>
+                                    <locus from="42r" to="45v">42r-45v</locus>
                                     <listOrg>
                                         <org>
                                             <orgName key="#jesuiten_org__101">Jesuitenkolleg Głogów</orgName>
@@ -125,7 +133,7 @@
                                     </listOrg>
                                 </item>
                                 <item n="None">
-                                    <locus from="58r" to="59v">58r-59v</locus>
+                                    <locus from="46r" to="49v">46r-49v</locus>
                                     <listOrg>
                                         <org>
                                             <orgName key="#jesuiten_org__102">Jesuitenkolleg Uherské Hradiště</orgName>
@@ -133,7 +141,7 @@
                                     </listOrg>
                                 </item>
                                 <item n="None">
-                                    <locus from="61r" to="62r">61r-62r</locus>
+                                    <locus from="50r" to="51v">50r-51v</locus>
                                     <listOrg>
                                         <org>
                                             <orgName key="#jesuiten_org__103">Jesuitenkolleg Jihlava</orgName>
@@ -141,7 +149,7 @@
                                     </listOrg>
                                 </item>
                                 <item n="None">
-                                    <locus from="63r" to="65r">63r-65r</locus>
+                                    <locus from="52r" to="53v">52r-53v</locus>
                                     <listOrg>
                                         <org>
                                             <orgName key="#jesuiten_org__104">Jesuitenkolleg Kutná Hora</orgName>
@@ -149,7 +157,7 @@
                                     </listOrg>
                                 </item>
                                 <item n="None">
-                                    <locus from="65r" to="66r">65r-66r</locus>
+                                    <locus from="54r" to="54v">54r-54v</locus>
                                     <listOrg>
                                         <org>
                                             <orgName key="#jesuiten_org__105">Jesuitenresidenz Golčův Jeníkov</orgName>
@@ -157,7 +165,7 @@
                                     </listOrg>
                                 </item>
                                 <item n="None">
-                                    <locus from="67r" to="68v">67r-68v</locus>
+                                    <locus from="55r" to="56v">55r-56v</locus>
                                     <listOrg>
                                         <org>
                                             <orgName key="#jesuiten_org__106">Jesuitenkolleg Legnica</orgName>
@@ -165,7 +173,7 @@
                                     </listOrg>
                                 </item>
                                 <item n="None">
-                                    <locus from="69r" to="70r">69r-70r</locus>
+                                    <locus from="57r" to="58v">57r-58v</locus>
                                     <listOrg>
                                         <org>
                                             <orgName key="#jesuiten_org__107">Jesuitenresidenz Otyń</orgName>
@@ -173,7 +181,7 @@
                                     </listOrg>
                                 </item>
                                 <item n="None">
-                                    <locus from="71r" to="74v">71r-74v</locus>
+                                    <locus from="59r" to="62v">59r-62v</locus>
                                     <listOrg>
                                         <org>
                                             <orgName key="#jesuiten_org__108">Jesuitenkolleg Litoměřice</orgName>
@@ -181,7 +189,7 @@
                                     </listOrg>
                                 </item>
                                 <item n="None">
-                                    <locus from="75r" to="78r">75r-78r</locus>
+                                    <locus from="63r" to="64v">63r-64v</locus>
                                     <listOrg>
                                         <org>
                                             <orgName key="#jesuiten_org__109">Jesuitenkolleg Prague</orgName>
@@ -189,7 +197,7 @@
                                     </listOrg>
                                 </item>
                                 <item n="None">
-                                    <locus from="79r" to="82r">79r-82r</locus>
+                                    <locus from="65r" to="67v">65r-67v</locus>
                                     <listOrg>
                                         <org>
                                             <orgName key="#jesuiten_org__110">Jesuitenkolleg Nysa</orgName>
@@ -197,7 +205,7 @@
                                     </listOrg>
                                 </item>
                                 <item n="None">
-                                    <locus from="83r" to="88v">83r-88v</locus>
+                                    <locus from="68r" to="71v">68r-71v</locus>
                                     <listOrg>
                                         <org>
                                             <orgName key="#jesuiten_org__111">Jesuitenkolleg Jindřichův Hradec</orgName>
@@ -205,7 +213,7 @@
                                     </listOrg>
                                 </item>
                                 <item n="None">
-                                    <locus from="89r" to="90v">89r-90v</locus>
+                                    <locus from="72r" to="73v">72r-73v</locus>
                                     <listOrg>
                                         <org>
                                             <orgName key="#jesuiten_org__112">Jesuitenkolleg Olomouc</orgName>
@@ -213,7 +221,7 @@
                                     </listOrg>
                                 </item>
                                 <item n="None">
-                                    <locus from="91r" to="93v">91r-93v</locus>
+                                    <locus from="74r" to="75v">74r-75v</locus>
                                     <listOrg>
                                         <org>
                                             <orgName key="#jesuiten_org__113">Jesuitenkolleg Opava</orgName>
@@ -221,23 +229,23 @@
                                     </listOrg>
                                 </item>
                                 <item n="None">
-                                    <locus from="93v" to="94v">93v-94v</locus>
+                                    <locus from="76r" to="77r">76r-77r</locus>
                                     <listOrg>
                                         <org>
-                                            <orgName key="#jesuiten_org__140">Jesuitenresidenz Cieszyn</orgName>
+                                            <orgName key="#jesuiten_org__133">Jesuitenmission Pommersdorf</orgName>
                                         </org>
                                     </listOrg>
                                 </item>
                                 <item n="None">
-                                    <locus from="95r" to="96v">95r-96v</locus>
+                                    <locus from="78r" to="78v">78r-78v</locus>
                                     <listOrg>
                                         <org>
-                                            <orgName key="#jesuiten_org__132">Jesuitenmission Brantice</orgName>
+                                            <orgName key="#jesuiten_org__141">Jesuitenresidenz und Mission Telč</orgName>
                                         </org>
                                     </listOrg>
                                 </item>
                                 <item n="None">
-                                    <locus from="97r" to="98v">97r-98v</locus>
+                                    <locus from="79r" to="81v">79r-81v</locus>
                                     <listOrg>
                                         <org>
                                             <orgName key="#jesuiten_org__115">Jesuitenkolleg Opole</orgName>
@@ -245,7 +253,7 @@
                                     </listOrg>
                                 </item>
                                 <item n="None">
-                                    <locus from="99r" to="102v">99r-102v</locus>
+                                    <locus from="82r" to="83v">82r-83v</locus>
                                     <listOrg>
                                         <org>
                                             <orgName key="#jesuiten_org__134">Jesutienresidenz Piekary</orgName>
@@ -253,7 +261,7 @@
                                     </listOrg>
                                 </item>
                                 <item n="None">
-                                    <locus from="103r" to="104r">103r-104r</locus>
+                                    <locus from="84r" to="84v">84r-84v</locus>
                                     <listOrg>
                                         <org>
                                             <orgName key="#jesuiten_org__135">Jesuitenmission Tarnowskie Góry</orgName>
@@ -261,7 +269,7 @@
                                     </listOrg>
                                 </item>
                                 <item n="None">
-                                    <locus from="105r" to="109r">105r-109r</locus>
+                                    <locus from="85r" to="93v">85r-93v</locus>
                                     <listOrg>
                                         <org>
                                             <orgName key="#jesuiten_org__116">Jesuitenkolleg Sankt Clementinum</orgName>
@@ -269,7 +277,7 @@
                                     </listOrg>
                                 </item>
                                 <item n="None">
-                                    <locus from="110r" to="113v">110r-113v</locus>
+                                    <locus from="94r" to="95v">94r-95v</locus>
                                     <listOrg>
                                         <org>
                                             <orgName key="#jesuiten_org__117">Jesuitenkolleg Hradec Králové</orgName>
@@ -277,7 +285,7 @@
                                     </listOrg>
                                 </item>
                                 <item n="None">
-                                    <locus from="114r" to="118v">114r-118v</locus>
+                                    <locus from="96r" to="97v">96r-97v</locus>
                                     <listOrg>
                                         <org>
                                             <orgName key="#jesuiten_org__136">Jesuitenresidenz Chlumek u Luže</orgName>
@@ -285,7 +293,7 @@
                                     </listOrg>
                                 </item>
                                 <item n="None">
-                                    <locus from="119r" to="122r">119r-122r</locus>
+                                    <locus from="98r" to="101r">98r-101r</locus>
                                     <listOrg>
                                         <org>
                                             <orgName key="#jesuiten_org__118">Jesuitenkolleg Żagań</orgName>
@@ -293,7 +301,7 @@
                                     </listOrg>
                                 </item>
                                 <item n="None">
-                                    <locus from="123r" to="127r">123r-127r</locus>
+                                    <locus from="102r" to="104v">102r-104v</locus>
                                     <listOrg>
                                         <org>
                                             <orgName key="#jesuiten_org__119">Jesutienkolleg Świdnica</orgName>
@@ -301,7 +309,7 @@
                                     </listOrg>
                                 </item>
                                 <item n="None">
-                                    <locus from="127r" to="127v">127r-127v</locus>
+                                    <locus from="104v" to="105v">104v-105v</locus>
                                     <listOrg>
                                         <org>
                                             <orgName key="#jesuiten_org__137">Jesuitenrisidenz Jelenia Góra</orgName>
@@ -309,7 +317,7 @@
                                     </listOrg>
                                 </item>
                                 <item n="None">
-                                    <locus from="128" to="133r">128-133r</locus>
+                                    <locus from="106r" to="111v">106r-111v</locus>
                                     <listOrg>
                                         <org>
                                             <orgName key="#jesuiten_org__120">Jesuitenkolleg Telč</orgName>
@@ -320,7 +328,7 @@
                                     </listOrg>
                                 </item>
                                 <item n="None">
-                                    <locus from="134r" to="139v">134r-139v</locus>
+                                    <locus from="112r" to="115v">112r-115v</locus>
                                     <listOrg>
                                         <org>
                                             <orgName key="#jesuiten_org__121">Jesuitenkolleg Wrocław</orgName>
@@ -328,7 +336,7 @@
                                     </listOrg>
                                 </item>
                                 <item n="None">
-                                    <locus from="139v" to="140v">139v-140v</locus>
+                                    <locus from="116r" to="117r">116r-117r</locus>
                                     <listOrg>
                                         <org>
                                             <orgName key="#jesuiten_org__139">Jesuitenmission Brzeg</orgName>
@@ -336,7 +344,7 @@
                                     </listOrg>
                                 </item>
                                 <item n="None">
-                                    <locus from="141r" to="144r">141r-144r</locus>
+                                    <locus from="118r" to="120r">118r-120r</locus>
                                     <listOrg>
                                         <org>
                                             <orgName key="#jesuiten_org__122">Jesuitenkolleg Znoymo</orgName>
@@ -344,7 +352,7 @@
                                     </listOrg>
                                 </item>
                                 <item n="None">
-                                    <locus from="145r" to="146v">145r-146v</locus>
+                                    <locus from="121r" to="122v">121r-122v</locus>
                                     <listOrg>
                                         <org>
                                             <orgName key="#jesuiten_org__123">Jesuitenkolleg und Probationshaus Brno</orgName>
@@ -352,7 +360,7 @@
                                     </listOrg>
                                 </item>
                                 <item n="None">
-                                    <locus from="147r" to="148v">147r-148v</locus>
+                                    <locus from="123r" to="124v">123r-124v</locus>
                                     <listOrg>
                                         <org>
                                             <orgName key="#jesuiten_org__124">Jesuitenresidenz Tuřany</orgName>
@@ -373,7 +381,7 @@
                                         <width/>
                                     </dimensions>
                                 </extent>
-                                <foliation>Moderne Foliierung 1-148.</foliation>
+                                <foliation>Moderne Foliierung 1-124.</foliation>
                                 <collation/>
                             </supportDesc>
                         </objectDesc>
@@ -450,7 +458,20 @@
                      <note type="idno"><idno type="geonames">https://sws.geonames.org/3083440/</idno></note>
                   </location>
                <noteGrp><note target="cod_12288.xml" type="mentions">Beschreibung von  Cod. 12288</note><note target="cod_12289.xml" type="mentions">Beschreibung von  Cod. 12289</note><note target="cod_12290.xml" type="mentions">Beschreibung von  Cod. 12290</note></noteGrp></org>
-               <org xml:id="jesuiten_org__98">
+               <org xml:id="jesuiten_org__141">
+                  <orgName>Jesuitenresidenz und Mission Telč</orgName>
+                  <orgName type="alt">Residentia et missio Telchinensis</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__120">Telč</placeName>
+                     <geo>49.18418 15.45275</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/3064316/</idno></note>
+                  </location>
+               <noteGrp><note target="cod_12289.xml" type="mentions">Beschreibung von  Cod. 12289</note></noteGrp></org>
+               <org xml:id="jesuiten_org__142">
+                  <orgName>Jesuitenresidenz Maria Scheinensis</orgName>
+                  <orgName type="alt">Residentia Maria Scheinensis</orgName>
+               <noteGrp><note target="cod_12289.xml" type="mentions">Beschreibung von  Cod. 12289</note><note target="cod_12290.xml" type="mentions">Beschreibung von  Cod. 12290</note></noteGrp></org>
+            <org xml:id="jesuiten_org__98">
                   <orgName>Jesuitenkolleg Jičín</orgName>
                   <orgName type="alt">Collegium Gitzinense</orgName>
                   <location type="located_in_place">
@@ -534,16 +555,6 @@
                      <note type="idno"><idno type="geonames">https://sws.geonames.org/3063739/</idno></note>
                   </location>
                   <note>http://reholnici.hiu.cas.cz/katalog/l.dll?hal~1000099843</note>
-               <noteGrp><note target="cod_12288.xml" type="mentions">Beschreibung von  Cod. 12288</note><note target="cod_12289.xml" type="mentions">Beschreibung von  Cod. 12289</note><note target="cod_12290.xml" type="mentions">Beschreibung von  Cod. 12290</note></noteGrp></org>
-               <org xml:id="jesuiten_org__116">
-                  <orgName>Jesuitenkolleg Sankt Clementinum</orgName>
-                  <orgName type="alt">Clementinum</orgName>
-                  <location type="located_in_place">
-                     <placeName key="jesuiten_place__93">Prague</placeName>
-                     <geo>50.08804 14.42076</geo>
-                     <note type="idno"><idno type="geonames">https://sws.geonames.org/3067696/</idno></note>
-                  </location>
-                  <idno type="gnd">https://d-nb.info/gnd/4355860-4</idno>
                <noteGrp><note target="cod_12288.xml" type="mentions">Beschreibung von  Cod. 12288</note><note target="cod_12289.xml" type="mentions">Beschreibung von  Cod. 12289</note><note target="cod_12290.xml" type="mentions">Beschreibung von  Cod. 12290</note></noteGrp></org>
                <org xml:id="jesuiten_org__113">
                   <orgName>Jesuitenkolleg Opava</orgName>
@@ -640,6 +651,10 @@
                   </location>
                   <note>http://reholnici.hiu.cas.cz/katalog/l.dll?hal~1000099847</note>
                <noteGrp><note target="cod_12288.xml" type="mentions">Beschreibung von  Cod. 12288</note><note target="cod_12289.xml" type="mentions">Beschreibung von  Cod. 12289</note><note target="cod_12290.xml" type="mentions">Beschreibung von  Cod. 12290</note></noteGrp></org>
+               <org xml:id="jesuiten_org__133">
+                  <orgName>Jesuitenmission Pommersdorf</orgName>
+                  <orgName type="alt">Missio Pommersdorffensis</orgName>
+               <noteGrp><note target="cod_12289.xml" type="mentions">Beschreibung von  Cod. 12289</note><note target="cod_12290.xml" type="mentions">Beschreibung von  Cod. 12290</note></noteGrp></org>
                <org xml:id="jesuiten_org__136">
                   <orgName>Jesuitenresidenz Chlumek u Luže</orgName>
                   <orgName type="alt">Residentia Kossumbergensis</orgName>
@@ -667,15 +682,6 @@
                   </location>
                   <note>http://reholnici.hiu.cas.cz/katalog/l.dll?hal~1000099852</note>
                <noteGrp><note target="cod_12288.xml" type="mentions">Beschreibung von  Cod. 12288</note><note target="cod_12289.xml" type="mentions">Beschreibung von  Cod. 12289</note><note target="cod_12290.xml" type="mentions">Beschreibung von  Cod. 12290</note></noteGrp></org>
-               <org xml:id="jesuiten_org__132">
-                  <orgName>Jesuitenmission Brantice</orgName>
-                  <orgName type="alt">Missio Bransdorffensis</orgName>
-                  <location type="located_in_place">
-                     <placeName key="jesuiten_place__123">Brantice</placeName>
-                     <geo>50.06351 17.62911</geo>
-                     <note type="idno"><idno type="geonames">https://sws.geonames.org/3078812/</idno></note>
-                  </location>
-               <noteGrp><note target="cod_12288.xml" type="mentions">Beschreibung von  Cod. 12288</note><note target="cod_12290.xml" type="mentions">Beschreibung von  Cod. 12290</note></noteGrp></org>
                <org xml:id="jesuiten_org__123">
                   <orgName>Jesuitenkolleg und Probationshaus Brno</orgName>
                   <orgName type="alt">Domus primae probationis et collegium Brunense</orgName>
@@ -725,15 +731,16 @@
                   </location>
                   <note>http://reholnici.hiu.cas.cz/katalog/l.dll?hal~1000099835</note>
                <noteGrp><note target="cod_12288.xml" type="mentions">Beschreibung von  Cod. 12288</note><note target="cod_12289.xml" type="mentions">Beschreibung von  Cod. 12289</note><note target="cod_12290.xml" type="mentions">Beschreibung von  Cod. 12290</note></noteGrp></org>
-               <org xml:id="jesuiten_org__140">
-                  <orgName>Jesuitenresidenz Cieszyn</orgName>
-                  <orgName type="alt">Residentia Teschinensis</orgName>
+               <org xml:id="jesuiten_org__116">
+                  <orgName>Jesuitenkolleg Sankt Clementinum</orgName>
+                  <orgName type="alt">Clementinum</orgName>
                   <location type="located_in_place">
-                     <placeName key="jesuiten_place__129">Cieszyn</placeName>
-                     <geo>49.75133 18.63213</geo>
-                     <note type="idno"><idno type="geonames">https://sws.geonames.org/3101321/</idno></note>
+                     <placeName key="jesuiten_place__93">Prague</placeName>
+                     <geo>50.08804 14.42076</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/3067696/</idno></note>
                   </location>
-               <noteGrp><note target="cod_12288.xml" type="mentions">Beschreibung von  Cod. 12288</note></noteGrp></org>
+                  <idno type="gnd">https://d-nb.info/gnd/4355860-4</idno>
+               <noteGrp><note target="cod_12288.xml" type="mentions">Beschreibung von  Cod. 12288</note><note target="cod_12289.xml" type="mentions">Beschreibung von  Cod. 12289</note><note target="cod_12290.xml" type="mentions">Beschreibung von  Cod. 12290</note></noteGrp></org>
                <org xml:id="jesuiten_org__112">
                   <orgName>Jesuitenkolleg Olomouc</orgName>
                   <orgName type="alt">Collegium Olomucense</orgName>

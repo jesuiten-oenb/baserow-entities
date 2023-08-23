@@ -4257,19 +4257,19 @@
             {
                 "id": 97,
                 "order": "94.00000000000000000000",
-                "name": "Svatá",
+                "name": "Svatá Hora",
                 "jesuiten_id": "jesuiten_place__97",
-                "geonames": "https://www.geonames.org/6295565/svata.html",
+                "geonames": "https://www.geonames.org/3064614/svata-hora.html",
                 "lat": "49.93913",
                 "long": "13.96162",
-                "wikidata": "https://www.wikidata.org/wiki/Q2174620",
+                "wikidata": "https://www.wikidata.org/wiki/Q593540",
                 "alt_names": [],
                 "msdesc": []
             }
         ],
         "gnd": "",
         "msdesc": [],
-        "alt_name": "Residentia in Sancto Monte",
+        "alt_name": "Residentia in Sancto Monte, Residentia Sacro-montana",
         "notes": "",
         "persons": []
     },
@@ -4299,8 +4299,8 @@
         ],
         "gnd": "",
         "msdesc": [],
-        "alt_name": "",
-        "notes": "",
+        "alt_name": "Collegium Commotoviense",
+        "notes": "http://reholnici.hiu.cas.cz/katalog/l.dll?hal~1000099827",
         "persons": []
     },
     "96": {
@@ -4756,7 +4756,7 @@
     "114": {
         "id": 114,
         "order": "114.00000000000000000000",
-        "name": "Jesuitenkolleg Tessinium",
+        "name": "Jesuitenresidenz Tessinium",
         "jesuiten_id": "jesuiten_org__114",
         "located_in": [],
         "gnd": "",
@@ -5003,7 +5003,7 @@
     "124": {
         "id": 124,
         "order": "124.00000000000000000000",
-        "name": "Jesuitenkolleg Tuřany",
+        "name": "Jesuitenresidenz Tuřany",
         "jesuiten_id": "jesuiten_org__124",
         "located_in": [
             {
@@ -5221,6 +5221,18 @@
         "notes": "",
         "persons": []
     },
+    "133": {
+        "id": 133,
+        "order": "130.50000000000000000000",
+        "name": "Jesuitenmission Pommersdorf",
+        "jesuiten_id": "jesuiten_org__133",
+        "located_in": [],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Pommersdorffensis",
+        "notes": "",
+        "persons": []
+    },
     "131": {
         "id": 131,
         "order": "131.00000000000000000000",
@@ -5235,6 +5247,243 @@
             }
         ],
         "alt_name": "Missio Caroliensis",
+        "notes": "",
+        "persons": []
+    },
+    "132": {
+        "id": 132,
+        "order": "132.00000000000000000000",
+        "name": "Jesuitenmission Brantice",
+        "jesuiten_id": "jesuiten_org__132",
+        "located_in": [
+            {
+                "id": 123,
+                "order": "120.00000000000000000000",
+                "name": "Brantice",
+                "jesuiten_id": "jesuiten_place__123",
+                "geonames": "https://www.geonames.org/3078812/brantice.html",
+                "lat": "50.06351",
+                "long": "17.62911",
+                "wikidata": "https://www.wikidata.org/wiki/Q2364648",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Bransdorffensis",
+        "notes": "",
+        "persons": []
+    },
+    "134": {
+        "id": 134,
+        "order": "133.00000000000000000000",
+        "name": "Jesutienresidenz Piekary",
+        "jesuiten_id": "jesuiten_org__134",
+        "located_in": [
+            {
+                "id": 124,
+                "order": "121.00000000000000000000",
+                "name": "Piekary Śląskie",
+                "jesuiten_id": "jesuiten_place__124",
+                "geonames": "https://www.geonames.org/3089125/piekary-slaskie.html",
+                "lat": "50.38017",
+                "long": "18.92653",
+                "wikidata": "https://www.wikidata.org/wiki/Q158488",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Residentia Piekariensis",
+        "notes": "",
+        "persons": []
+    },
+    "135": {
+        "id": 135,
+        "order": "134.00000000000000000000",
+        "name": "Jesuitenmission Tarnowskie Góry",
+        "jesuiten_id": "jesuiten_org__135",
+        "located_in": [
+            {
+                "id": 125,
+                "order": "122.00000000000000000000",
+                "name": "Tarnowskie Góry",
+                "jesuiten_id": "jesuiten_place__125",
+                "geonames": "https://www.geonames.org/3083440/tarnowskie-gory.html",
+                "lat": "50.44548",
+                "long": "18.86147",
+                "wikidata": "https://www.wikidata.org/wiki/Q329833",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Tarnomontana",
+        "notes": "",
+        "persons": []
+    },
+    "136": {
+        "id": 136,
+        "order": "135.00000000000000000000",
+        "name": "Jesuitenresidenz Chlumek u Luže",
+        "jesuiten_id": "jesuiten_org__136",
+        "located_in": [
+            {
+                "id": 126,
+                "order": "123.00000000000000000000",
+                "name": "Chlumek (Luže)",
+                "jesuiten_id": "jesuiten_place__126",
+                "geonames": "",
+                "lat": "49.88948",
+                "long": "16.03229",
+                "wikidata": "https://www.wikidata.org/wiki/Q58465310",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Residentia Kossumbergensis",
+        "notes": "",
+        "persons": []
+    },
+    "137": {
+        "id": 137,
+        "order": "136.00000000000000000000",
+        "name": "Jesuitenrisidenz Jelenia Góra",
+        "jesuiten_id": "jesuiten_org__137",
+        "located_in": [
+            {
+                "id": 127,
+                "order": "124.00000000000000000000",
+                "name": "Jelenia Góra",
+                "jesuiten_id": "jesuiten_place__127",
+                "geonames": "https://www.geonames.org/3097257/jelenia-gora.html",
+                "lat": "50.89973",
+                "long": "15.72899",
+                "wikidata": "https://www.wikidata.org/wiki/Q147934",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Residentia Hirschbergensis",
+        "notes": "",
+        "persons": []
+    },
+    "138": {
+        "id": 138,
+        "order": "137.00000000000000000000",
+        "name": "Probationshaus Telč",
+        "jesuiten_id": "jesuiten_org__138",
+        "located_in": [
+            {
+                "id": 120,
+                "order": "117.00000000000000000000",
+                "name": "Telč",
+                "jesuiten_id": "jesuiten_place__120",
+                "geonames": "https://www.geonames.org/3064316/telc.html",
+                "lat": "49.18418",
+                "long": "15.45275",
+                "wikidata": "https://www.wikidata.org/wiki/Q373804",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Domus Tertiae probationis Telczii",
+        "notes": "",
+        "persons": []
+    },
+    "139": {
+        "id": 139,
+        "order": "138.00000000000000000000",
+        "name": "Jesuitenmission Brzeg",
+        "jesuiten_id": "jesuiten_org__139",
+        "located_in": [
+            {
+                "id": 128,
+                "order": "125.00000000000000000000",
+                "name": "Brzeg",
+                "jesuiten_id": "jesuiten_place__128",
+                "geonames": "https://www.geonames.org/3102459/brzeg.html",
+                "lat": "50.86079",
+                "long": "17.46740",
+                "wikidata": "https://www.wikidata.org/wiki/Q214640",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Brigensis",
+        "notes": "",
+        "persons": []
+    },
+    "140": {
+        "id": 140,
+        "order": "139.00000000000000000000",
+        "name": "Jesuitenresidenz Cieszyn",
+        "jesuiten_id": "jesuiten_org__140",
+        "located_in": [
+            {
+                "id": 129,
+                "order": "126.00000000000000000000",
+                "name": "Cieszyn",
+                "jesuiten_id": "jesuiten_place__129",
+                "geonames": "https://www.geonames.org/3101321/cieszyn.html",
+                "lat": "49.75133",
+                "long": "18.63213",
+                "wikidata": "https://www.wikidata.org/wiki/Q321197",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Residentia Teschinensis",
+        "notes": "",
+        "persons": []
+    },
+    "141": {
+        "id": 141,
+        "order": "140.00000000000000000000",
+        "name": "Jesuitenresidenz und Mission Telč",
+        "jesuiten_id": "jesuiten_org__141",
+        "located_in": [
+            {
+                "id": 120,
+                "order": "117.00000000000000000000",
+                "name": "Telč",
+                "jesuiten_id": "jesuiten_place__120",
+                "geonames": "https://www.geonames.org/3064316/telc.html",
+                "lat": "49.18418",
+                "long": "15.45275",
+                "wikidata": "https://www.wikidata.org/wiki/Q373804",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Residentia et missio Telchinensis",
+        "notes": "",
+        "persons": []
+    },
+    "142": {
+        "id": 142,
+        "order": "141.00000000000000000000",
+        "name": "Jesuitenresidenz Maria Scheinensis",
+        "jesuiten_id": "jesuiten_org__142",
+        "located_in": [],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Residentia Maria Scheinensis",
         "notes": "",
         "persons": []
     }

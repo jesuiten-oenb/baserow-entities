@@ -747,12 +747,12 @@
                   <idno type="geonames">https://sws.geonames.org/3102368/</idno>
                </place>
                <place xml:id="jesuiten_place__97">
-                  <placeName>Svatá</placeName>
+                  <placeName>Svatá Hora</placeName>
                   <location type="coords">
                      <geo>49.93913 13.96162</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/6295565/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q2174620</idno>
+                  <idno type="geonames">https://sws.geonames.org/3064614/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q593540</idno>
                </place>
                <place xml:id="jesuiten_place__98">
                   <placeName>Chomutov</placeName>
@@ -952,6 +952,61 @@
                      <geo>49.14758 16.66798</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/3063858/</idno>
+               </place>
+               <place xml:id="jesuiten_place__123">
+                  <placeName>Brantice</placeName>
+                  <location type="coords">
+                     <geo>50.06351 17.62911</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3078812/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q2364648</idno>
+               </place>
+               <place xml:id="jesuiten_place__124">
+                  <placeName>Piekary Śląskie</placeName>
+                  <location type="coords">
+                     <geo>50.38017 18.92653</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3089125/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q158488</idno>
+               </place>
+               <place xml:id="jesuiten_place__125">
+                  <placeName>Tarnowskie Góry</placeName>
+                  <location type="coords">
+                     <geo>50.44548 18.86147</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3083440/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q329833</idno>
+               </place>
+               <place xml:id="jesuiten_place__126">
+                  <placeName>Chlumek (Luže)</placeName>
+                  <location type="coords">
+                     <geo>49.88948 16.03229</geo>
+                  </location>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q58465310</idno>
+               </place>
+               <place xml:id="jesuiten_place__127">
+                  <placeName>Jelenia Góra</placeName>
+                  <location type="coords">
+                     <geo>50.89973 15.72899</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3097257/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q147934</idno>
+               </place>
+               <place xml:id="jesuiten_place__128">
+                  <placeName>Brzeg</placeName>
+                  <location type="coords">
+                     <geo>50.86079 17.46740</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3102459/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q214640</idno>
+               </place>
+               <place xml:id="jesuiten_place__129">
+                  <placeName>Cieszyn</placeName>
+                  <location type="coords">
+                     <geo>49.75133 18.63213</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3101321/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q321197</idno>
                </place>
             </listPlace>
          </div>
