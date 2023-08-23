@@ -1602,7 +1602,12 @@
     "order": "9.00000000000000000000",
     "signatur": "Cod. 12407",
     "jesuiten_id": "jesuiten_msdesc__12",
-    "mentioned_orgs": [],
+    "mentioned_orgs": [
+      {
+        "id": 2,
+        "value": "Jesuitenkolleg Wien"
+      }
+    ],
     "note_type_catalogue": "http://data.onb.ac.at/rec/AC13956180",
     "titel": "Examen candidatorum Societatis Iesu in collegio Viennensi a. 1648-1678",
     "date": "",
@@ -1674,8 +1679,16 @@
         "value": "Jesuitenresidenz Millstatt"
       },
       {
+        "id": 8,
+        "value": "Jesuitenkolleg Linz"
+      },
+      {
         "id": 9,
         "value": "Jesuitenkolleg Bratislava"
+      },
+      {
+        "id": 10,
+        "value": "Jesuitenkolleg Passau"
       },
       {
         "id": 11,
@@ -1686,8 +1699,28 @@
         "value": "Jesuitenkolleg Győr"
       },
       {
+        "id": 13,
+        "value": "Jesuitenkolleg Ljubljana"
+      },
+      {
+        "id": 14,
+        "value": "Jesuitenresidenz Šentjernej"
+      },
+      {
+        "id": 16,
+        "value": "Jesuitenkolleg Klagenfurt"
+      },
+      {
+        "id": 17,
+        "value": "Jesuitenresidenz Eberndorf"
+      },
+      {
         "id": 18,
         "value": "Jesuitenkolleg Zagreb"
+      },
+      {
+        "id": 27,
+        "value": "Jesuitenresidenz Traunkirchen"
       },
       {
         "id": 28,
@@ -1696,6 +1729,10 @@
       {
         "id": 33,
         "value": "Jesuitenresidenz Humenné"
+      },
+      {
+        "id": 35,
+        "value": "Jesuitenkolleg Krems"
       },
       {
         "id": 38,
@@ -1718,12 +1755,24 @@
         "value": "Jesuitenresidenz Sopron"
       },
       {
+        "id": 52,
+        "value": "Jesuitenkolleg Leoben"
+      },
+      {
+        "id": 53,
+        "value": "Jesuitenkolleg Steyr"
+      },
+      {
         "id": 55,
         "value": "Jesuitenresidenz Žireč"
       },
       {
         "id": 64,
         "value": "Jesuitenreisidenz Kláštor pod Znievom"
+      },
+      {
+        "id": 83,
+        "value": "Jesuitenkolleg Gorizia"
       },
       {
         "id": 125,
@@ -1757,10 +1806,154 @@
     "height": null,
     "width": null,
     "foliation": "Moderne Foliierung 1-66.",
-    "acc_mat": "Makulatur: 1 geschnittenes Doppelblatt aus einem gedruckten Missal.",
-    "binding": "Pergamenteinband.",
+    "acc_mat": "Fragment eines Bibeldruckes, 15./16. Jhdt.",
+    "binding": "Pergamentumschlag.",
     "summary": "Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist nach Orten bzw. Häusern gegliedert.",
     "not_before": "1638",
     "not_after": null
+  },
+  "15": {
+    "id": 15,
+    "order": "12.00000000000000000000",
+    "signatur": "Cod. 12035",
+    "jesuiten_id": "jesuiten_msdesc__15",
+    "mentioned_orgs": [
+      {
+        "id": 1,
+        "value": "Profeßhaus Wien"
+      },
+      {
+        "id": 2,
+        "value": "Jesuitenkolleg Wien"
+      },
+      {
+        "id": 4,
+        "value": "Probationshaus Wien"
+      },
+      {
+        "id": 5,
+        "value": "Jesuitenkolleg Graz"
+      },
+      {
+        "id": 7,
+        "value": "Jesuitenresidenz Millstatt"
+      },
+      {
+        "id": 8,
+        "value": "Jesuitenkolleg Linz"
+      },
+      {
+        "id": 9,
+        "value": "Jesuitenkolleg Bratislava"
+      },
+      {
+        "id": 10,
+        "value": "Jesuitenkolleg Passau"
+      },
+      {
+        "id": 11,
+        "value": "Jesuitenkolleg Trnava"
+      },
+      {
+        "id": 13,
+        "value": "Jesuitenkolleg Ljubljana"
+      },
+      {
+        "id": 14,
+        "value": "Jesuitenresidenz Šentjernej"
+      },
+      {
+        "id": 16,
+        "value": "Jesuitenkolleg Klagenfurt"
+      },
+      {
+        "id": 17,
+        "value": "Jesuitenresidenz Eberndorf"
+      },
+      {
+        "id": 18,
+        "value": "Jesuitenkolleg Zagreb"
+      },
+      {
+        "id": 27,
+        "value": "Jesuitenresidenz Traunkirchen"
+      },
+      {
+        "id": 28,
+        "value": "Jesuitenmission Levice"
+      },
+      {
+        "id": 33,
+        "value": "Jesuitenresidenz Humenné"
+      },
+      {
+        "id": 35,
+        "value": "Jesuitenkolleg Krems"
+      },
+      {
+        "id": 37,
+        "value": "Jesuitenkolleg Judenburg"
+      },
+      {
+        "id": 38,
+        "value": "Jesuitenkolleg Trieste"
+      },
+      {
+        "id": 39,
+        "value": "Probationshaus Leoben"
+      },
+      {
+        "id": 40,
+        "value": "Jesuitenkolleg Rijeka"
+      },
+      {
+        "id": 44,
+        "value": "Jesuitenresidenz Varaždin"
+      },
+      {
+        "id": 47,
+        "value": "Jesuitenresidenz Gyöngyös"
+      },
+      {
+        "id": 50,
+        "value": "Jesuitenresidenz Sopron"
+      },
+      {
+        "id": 53,
+        "value": "Jesuitenkolleg Steyr"
+      },
+      {
+        "id": 128,
+        "value": "Jesuitenmission Pécs"
+      },
+      {
+        "id": 129,
+        "value": "Jesuitenmission Komárom"
+      },
+      {
+        "id": 130,
+        "value": "Jesuitenmission Palatina"
+      },
+      {
+        "id": 131,
+        "value": "Jesuitenmission Carolina"
+      }
+    ],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948972",
+    "titel": "Litterae annuae provinciae Austriae Societatis Iesu a. 1638",
+    "date": "1639",
+    "persons": [],
+    "mentioned_places": [],
+    "note_type_facs": "http://data.onb.ac.at/dtl/9083108",
+    "xml_id": "cod_12035",
+    "extent": "65",
+    "height": null,
+    "width": null,
+    "foliation": "Moderne Foliierung 1-65.",
+    "acc_mat": "Fragment eines Bibeldruckes, 15./16. Jhdt.",
+    "binding": "Pergamentumschlag.",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist nach Orten bzw. Häusern gegliedert.",
+    "not_before": "1639",
+    "not_after": "1639"
   }
 }
