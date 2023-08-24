@@ -1008,6 +1008,54 @@
                   <idno type="geonames">https://sws.geonames.org/3101321/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q321197</idno>
                </place>
+               <place xml:id="jesuiten_place__130">
+                  <placeName>Eisenstadt</placeName>
+                  <location type="coords">
+                     <geo>47.84565 16.52327</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2780190/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q126321</idno>
+               </place>
+               <place xml:id="jesuiten_place__131">
+                  <placeName>Orth an der Donau</placeName>
+                  <location type="coords">
+                     <geo>48.14524 16.70145</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2769410/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q871563</idno>
+               <noteGrp><note target="cod_12038.xml" type="mentions">Beschreibung von  Cod. 12038</note></noteGrp></place>
+               <place xml:id="jesuiten_place__132">
+                  <placeName>Dresden</placeName>
+                  <location type="coords">
+                     <geo>51.05089 13.73832</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2935022/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1731</idno>
+               <noteGrp><note target="cod_12038.xml" type="mentions">Beschreibung von  Cod. 12038</note></noteGrp></place>
+               <place xml:id="jesuiten_place__133">
+                  <placeName>Pardubice</placeName>
+                  <location type="coords">
+                     <geo>50.04075 15.77659</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3068582/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q36989</idno>
+               </place>
+               <place xml:id="jesuiten_place__134">
+                  <placeName>Greinburg</placeName>
+                  <location type="coords">
+                     <geo>48.22576 14.85085</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2778038/</idno>
+                  <idno type="wikidata">https://de.wikipedia.org/wiki/Schloss_Greinburg</idno>
+               </place>
+               <place xml:id="jesuiten_place__135">
+                  <placeName>Szendrő</placeName>
+                  <location type="coords">
+                     <geo>48.40000 20.73333</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/715355/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q590583</idno>
+               </place>
             </listPlace>
          </div>
       </body>

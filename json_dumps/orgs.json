@@ -1742,7 +1742,7 @@
     "36": {
         "id": 36,
         "order": "36.00000000000000000000",
-        "name": "Jesuitenkolleg Görz",
+        "name": "Jesuitenkolleg Gorizia",
         "jesuiten_id": "jesuiten_org__36",
         "located_in": [
             {
@@ -1781,6 +1781,14 @@
             {
                 "id": 2,
                 "value": "Cod. 12032"
+            },
+            {
+                "id": 11,
+                "value": "Cod. 12266"
+            },
+            {
+                "id": 14,
+                "value": "Cod. 12034"
             }
         ],
         "alt_name": "Collegium Goritiense",
@@ -3811,54 +3819,6 @@
         "notes": "",
         "persons": []
     },
-    "83": {
-        "id": 83,
-        "order": "83.00000000000000000000",
-        "name": "Jesuitenkolleg Gorizia",
-        "jesuiten_id": "jesuiten_org__83",
-        "located_in": [
-            {
-                "id": 27,
-                "order": "27.00000000000000000000",
-                "name": "Gorizia",
-                "jesuiten_id": "jesuiten_place__27",
-                "geonames": "https://www.geonames.org/3175986/gorizia.html",
-                "lat": "45.94088",
-                "long": "13.62167",
-                "wikidata": "https://www.wikidata.org/wiki/Q6596",
-                "alt_names": [
-                    {
-                        "id": 13,
-                        "value": "Görz"
-                    }
-                ],
-                "msdesc": [
-                    {
-                        "id": 4,
-                        "value": "Cod. 12066"
-                    },
-                    {
-                        "id": 10,
-                        "value": "Cod. 12138"
-                    }
-                ]
-            }
-        ],
-        "gnd": "",
-        "msdesc": [
-            {
-                "id": 11,
-                "value": "Cod. 12266"
-            },
-            {
-                "id": 14,
-                "value": "Cod. 12034"
-            }
-        ],
-        "alt_name": "Collegium Goritiense",
-        "notes": "",
-        "persons": []
-    },
     "84": {
         "id": 84,
         "order": "84.00000000000000000000",
@@ -5484,6 +5444,378 @@
         "gnd": "",
         "msdesc": [],
         "alt_name": "Residentia Maria Scheinensis",
+        "notes": "",
+        "persons": []
+    },
+    "143": {
+        "id": 143,
+        "order": "142.00000000000000000000",
+        "name": "Jesuitenmission Eisenstadt",
+        "jesuiten_id": "jesuiten_org__143",
+        "located_in": [
+            {
+                "id": 130,
+                "order": "127.00000000000000000000",
+                "name": "Eisenstadt",
+                "jesuiten_id": "jesuiten_place__130",
+                "geonames": "https://www.geonames.org/2780190/eisenstadt.html",
+                "lat": "47.84565",
+                "long": "16.52327",
+                "wikidata": "https://www.wikidata.org/wiki/Q126321",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio ad comitatum Eisenstadiensem",
+        "notes": "",
+        "persons": []
+    },
+    "144": {
+        "id": 144,
+        "order": "143.00000000000000000000",
+        "name": "Seminar der Bischof Leopold aus Österreich",
+        "jesuiten_id": "jesuiten_org__144",
+        "located_in": [],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Seminarium Leopoldianum",
+        "notes": "",
+        "persons": []
+    },
+    "145": {
+        "id": 145,
+        "order": "144.00000000000000000000",
+        "name": "Jesuitenkolleg Humenné",
+        "jesuiten_id": "jesuiten_org__145",
+        "located_in": [
+            {
+                "id": 48,
+                "order": "48.00000000000000000000",
+                "name": "Humenné (Homonna)",
+                "jesuiten_id": "jesuiten_place__48",
+                "geonames": "https://www.geonames.org/724627/humenne.html",
+                "lat": "48.93707",
+                "long": "21.91625",
+                "wikidata": "",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Collegium Homonense",
+        "notes": "Hoc tandem anno [1639], Residentiae nomine sublato, Homonense Collegium Rectorem accepit (Cod. 12036).",
+        "persons": []
+    },
+    "146": {
+        "id": 146,
+        "order": "145.00000000000000000000",
+        "name": "Jesuitenmission Papensis",
+        "jesuiten_id": "jesuiten_org__146",
+        "located_in": [],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Papensis ad illustrissimum comitem Stephanum Esterhazii",
+        "notes": "",
+        "persons": []
+    },
+    "147": {
+        "id": 147,
+        "order": "146.00000000000000000000",
+        "name": "Seminarium Werdenbergicum",
+        "jesuiten_id": "jesuiten_org__147",
+        "located_in": [
+            {
+                "id": 27,
+                "order": "27.00000000000000000000",
+                "name": "Gorizia",
+                "jesuiten_id": "jesuiten_place__27",
+                "geonames": "https://www.geonames.org/3175986/gorizia.html",
+                "lat": "45.94088",
+                "long": "13.62167",
+                "wikidata": "https://www.wikidata.org/wiki/Q6596",
+                "alt_names": [
+                    {
+                        "id": 13,
+                        "value": "Görz"
+                    }
+                ],
+                "msdesc": [
+                    {
+                        "id": 4,
+                        "value": "Cod. 12066"
+                    },
+                    {
+                        "id": 10,
+                        "value": "Cod. 12138"
+                    }
+                ]
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Seminarium Werdenbergicum",
+        "notes": "",
+        "persons": []
+    },
+    "148": {
+        "id": 148,
+        "order": "147.00000000000000000000",
+        "name": "Jesuitenmission Strasburg (?)",
+        "jesuiten_id": "jesuiten_org__148",
+        "located_in": [],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Strasburgensis",
+        "notes": "apud reverendissimum et illustrissimum principem episcopum Curcensem (Cod. 12037).",
+        "persons": []
+    },
+    "149": {
+        "id": 149,
+        "order": "148.00000000000000000000",
+        "name": "Missio Hamburgensis",
+        "jesuiten_id": "jesuiten_org__149",
+        "located_in": [],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Hamburgensis",
+        "notes": "",
+        "persons": []
+    },
+    "150": {
+        "id": 150,
+        "order": "149.00000000000000000000",
+        "name": "Jesuitenmission Gyöngyös",
+        "jesuiten_id": "jesuiten_org__150",
+        "located_in": [
+            {
+                "id": 57,
+                "order": "57.00000000000000000000",
+                "name": "Gyöngyös",
+                "jesuiten_id": "jesuiten_place__57",
+                "geonames": "https://www.geonames.org/3052040/gyoengyoes.html",
+                "lat": "47.78257",
+                "long": "19.92800",
+                "wikidata": "",
+                "alt_names": [],
+                "msdesc": [
+                    {
+                        "id": 4,
+                        "value": "Cod. 12066"
+                    },
+                    {
+                        "id": 6,
+                        "value": "Cod. 12123"
+                    },
+                    {
+                        "id": 10,
+                        "value": "Cod. 12138"
+                    }
+                ]
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Gyongyosinensis",
+        "notes": "",
+        "persons": []
+    },
+    "151": {
+        "id": 151,
+        "order": "150.00000000000000000000",
+        "name": "Jesuitenresidenz Satu Mare",
+        "jesuiten_id": "jesuiten_org__151",
+        "located_in": [
+            {
+                "id": 58,
+                "order": "58.00000000000000000000",
+                "name": "Satu Mare",
+                "jesuiten_id": "jesuiten_place__58",
+                "geonames": "https://www.geonames.org/667873/satu-mare.html",
+                "lat": "47.79926",
+                "long": "22.86255",
+                "wikidata": "",
+                "alt_names": [
+                    {
+                        "id": 24,
+                        "value": "Szat(t)marinum"
+                    }
+                ],
+                "msdesc": [
+                    {
+                        "id": 4,
+                        "value": "Cod. 12066"
+                    },
+                    {
+                        "id": 6,
+                        "value": "Cod. 12123"
+                    },
+                    {
+                        "id": 7,
+                        "value": "Cod. 12057"
+                    }
+                ]
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Residentia Szatmariensis",
+        "notes": "",
+        "persons": []
+    },
+    "152": {
+        "id": 152,
+        "order": "151.00000000000000000000",
+        "name": "Jesuitenresidenz Szendrő",
+        "jesuiten_id": "jesuiten_org__152",
+        "located_in": [
+            {
+                "id": 135,
+                "order": "132.00000000000000000000",
+                "name": "Szendrő",
+                "jesuiten_id": "jesuiten_place__135",
+                "geonames": "https://www.geonames.org/715355/szendro.html",
+                "lat": "48.40000",
+                "long": "20.73333",
+                "wikidata": "https://www.wikidata.org/wiki/Q590583",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Residentia Szendoroviensis",
+        "notes": "",
+        "persons": []
+    },
+    "153": {
+        "id": 153,
+        "order": "152.00000000000000000000",
+        "name": "Jesuitenmission Pardubice",
+        "jesuiten_id": "jesuiten_org__153",
+        "located_in": [
+            {
+                "id": 133,
+                "order": "130.00000000000000000000",
+                "name": "Pardubice",
+                "jesuiten_id": "jesuiten_place__133",
+                "geonames": "https://www.geonames.org/3068582/pardubice.html",
+                "lat": "50.04075",
+                "long": "15.77659",
+                "wikidata": "https://www.wikidata.org/wiki/Q36989",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Pardubitcensis in Bohemia",
+        "notes": "",
+        "persons": []
+    },
+    "154": {
+        "id": 154,
+        "order": "153.00000000000000000000",
+        "name": "Convictus nobilium et seminarium S. Adalberti",
+        "jesuiten_id": "jesuiten_org__154",
+        "located_in": [],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "",
+        "notes": "",
+        "persons": []
+    },
+    "155": {
+        "id": 155,
+        "order": "154.00000000000000000000",
+        "name": "Jesuitenmission Coppan ?",
+        "jesuiten_id": "jesuiten_org__155",
+        "located_in": [],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Coppaniensis missio",
+        "notes": "Coppan oppidum Vespriniensi in spiritualibus episcopo subditum; in Turcia finibus",
+        "persons": []
+    },
+    "156": {
+        "id": 156,
+        "order": "155.00000000000000000000",
+        "name": "Jesuitenmission Greinburg",
+        "jesuiten_id": "jesuiten_org__156",
+        "located_in": [
+            {
+                "id": 134,
+                "order": "131.00000000000000000000",
+                "name": "Greinburg",
+                "jesuiten_id": "jesuiten_place__134",
+                "geonames": "https://www.geonames.org/2778038/greinburg.html",
+                "lat": "48.22576",
+                "long": "14.85085",
+                "wikidata": "https://de.wikipedia.org/wiki/Schloss_Greinburg",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Greinburgensis",
+        "notes": "",
+        "persons": []
+    },
+    "157": {
+        "id": 157,
+        "order": "156.00000000000000000000",
+        "name": "Jesuitenresidenz Košice",
+        "jesuiten_id": "jesuiten_org__157",
+        "located_in": [
+            {
+                "id": 21,
+                "order": "21.00000000000000000000",
+                "name": "Košice",
+                "jesuiten_id": "jesuiten_place__21",
+                "geonames": "https://www.geonames.org/724443/kosice.html",
+                "lat": "48.71395",
+                "long": "21.25808",
+                "wikidata": "https://www.wikidata.org/wiki/Q25409",
+                "alt_names": [
+                    {
+                        "id": 2,
+                        "value": "Cassovia"
+                    },
+                    {
+                        "id": 3,
+                        "value": "Kaschau"
+                    }
+                ],
+                "msdesc": [
+                    {
+                        "id": 4,
+                        "value": "Cod. 12066"
+                    },
+                    {
+                        "id": 6,
+                        "value": "Cod. 12123"
+                    },
+                    {
+                        "id": 7,
+                        "value": "Cod. 12057"
+                    },
+                    {
+                        "id": 10,
+                        "value": "Cod. 12138"
+                    },
+                    {
+                        "id": 11,
+                        "value": "Cod. 12266"
+                    }
+                ]
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Residentia Cassoviensis",
         "notes": "",
         "persons": []
     }
