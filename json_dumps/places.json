@@ -278,7 +278,16 @@
     "lat": "46.05108",
     "long": "14.50513",
     "wikidata": "",
-    "alt_names": [],
+    "alt_names": [
+      {
+        "id": 49,
+        "value": "Labacum"
+      },
+      {
+        "id": 50,
+        "value": "Laibach"
+      }
+    ],
     "msdesc": [
       {
         "id": 4,
@@ -736,7 +745,12 @@
     "lat": "47.37650",
     "long": "15.09144",
     "wikidata": "",
-    "alt_names": [],
+    "alt_names": [
+      {
+        "id": 47,
+        "value": "Leobium"
+      }
+    ],
     "msdesc": [
       {
         "id": 4,
@@ -1089,18 +1103,6 @@
         "value": "Znoyma"
       }
     ],
-    "msdesc": []
-  },
-  "37": {
-    "id": 37,
-    "order": "37.00000000000000000000",
-    "name": "Litoměřice (Leitmeritz)",
-    "jesuiten_id": "jesuiten_place__37",
-    "geonames": "https://www.geonames.org/3071677/litomerice.html",
-    "lat": "50.53348",
-    "long": "14.13180",
-    "wikidata": "",
-    "alt_names": [],
     "msdesc": []
   },
   "38": {
@@ -2241,7 +2243,20 @@
     "lat": "50.43723",
     "long": "15.35162",
     "wikidata": "https://www.wikidata.org/wiki/Q656603",
-    "alt_names": [],
+    "alt_names": [
+      {
+        "id": 51,
+        "value": "Gitzinum"
+      },
+      {
+        "id": 52,
+        "value": "Jitschin"
+      },
+      {
+        "id": 53,
+        "value": "Gitschin"
+      }
+    ],
     "msdesc": []
   },
   "103": {
@@ -2301,7 +2316,12 @@
     "lat": "49.39610",
     "long": "15.59124",
     "wikidata": "https://www.wikidata.org/wiki/Q183111",
-    "alt_names": [],
+    "alt_names": [
+      {
+        "id": 54,
+        "value": "Iglavia"
+      }
+    ],
     "msdesc": []
   },
   "108": {
@@ -2361,7 +2381,12 @@
     "lat": "50.53348",
     "long": "14.13180",
     "wikidata": "https://www.wikidata.org/wiki/Q384403",
-    "alt_names": [],
+    "alt_names": [
+      {
+        "id": 48,
+        "value": "Leitmeritz"
+      }
+    ],
     "msdesc": []
   },
   "113": {

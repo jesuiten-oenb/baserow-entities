@@ -855,7 +855,16 @@
                 "lat": "46.05108",
                 "long": "14.50513",
                 "wikidata": "",
-                "alt_names": [],
+                "alt_names": [
+                    {
+                        "id": 49,
+                        "value": "Labacum"
+                    },
+                    {
+                        "id": 50,
+                        "value": "Laibach"
+                    }
+                ],
                 "msdesc": [
                     {
                         "id": 4,
@@ -1949,7 +1958,12 @@
                 "lat": "47.37650",
                 "long": "15.09144",
                 "wikidata": "",
-                "alt_names": [],
+                "alt_names": [
+                    {
+                        "id": 47,
+                        "value": "Leobium"
+                    }
+                ],
                 "msdesc": [
                     {
                         "id": 4,
@@ -2498,7 +2512,12 @@
                 "lat": "47.37650",
                 "long": "15.09144",
                 "wikidata": "",
-                "alt_names": [],
+                "alt_names": [
+                    {
+                        "id": 47,
+                        "value": "Leobium"
+                    }
+                ],
                 "msdesc": [
                     {
                         "id": 4,
@@ -4381,7 +4400,20 @@
                 "lat": "50.43723",
                 "long": "15.35162",
                 "wikidata": "https://www.wikidata.org/wiki/Q656603",
-                "alt_names": [],
+                "alt_names": [
+                    {
+                        "id": 51,
+                        "value": "Gitzinum"
+                    },
+                    {
+                        "id": 52,
+                        "value": "Jitschin"
+                    },
+                    {
+                        "id": 53,
+                        "value": "Gitschin"
+                    }
+                ],
                 "msdesc": []
             }
         ],
@@ -4506,7 +4538,12 @@
                 "lat": "49.39610",
                 "long": "15.59124",
                 "wikidata": "https://www.wikidata.org/wiki/Q183111",
-                "alt_names": [],
+                "alt_names": [
+                    {
+                        "id": 54,
+                        "value": "Iglavia"
+                    }
+                ],
                 "msdesc": []
             }
         ],
@@ -4631,7 +4668,12 @@
                 "lat": "50.53348",
                 "long": "14.13180",
                 "wikidata": "https://www.wikidata.org/wiki/Q384403",
-                "alt_names": [],
+                "alt_names": [
+                    {
+                        "id": 48,
+                        "value": "Leitmeritz"
+                    }
+                ],
                 "msdesc": []
             }
         ],
@@ -4983,10 +5025,40 @@
         "notes": "",
         "persons": []
     },
+    "160": {
+        "id": 160,
+        "order": "122.50000000000000000000",
+        "name": "Probationshaus Brno",
+        "jesuiten_id": "jesuiten_org__160",
+        "located_in": [
+            {
+                "id": 94,
+                "order": "91.00000000000000000000",
+                "name": "Brno",
+                "jesuiten_id": "jesuiten_place__94",
+                "geonames": "https://www.geonames.org/3078610/brno.html",
+                "lat": "49.19522",
+                "long": "16.60796",
+                "wikidata": "https://www.wikidata.org/wiki/Q14960",
+                "alt_names": [
+                    {
+                        "id": 34,
+                        "value": "Bruna"
+                    }
+                ],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Domus probationis Brunae",
+        "notes": "",
+        "persons": []
+    },
     "123": {
         "id": 123,
         "order": "123.00000000000000000000",
-        "name": "Jesuitenkolleg und Probationshaus Brno",
+        "name": "Jesuitenkolleg Brno",
         "jesuiten_id": "jesuiten_org__123",
         "located_in": [
             {
@@ -5009,7 +5081,7 @@
         ],
         "gnd": "",
         "msdesc": [],
-        "alt_name": "Domus primae probationis et collegium Brunense",
+        "alt_name": "Collegium Brunense",
         "notes": "",
         "persons": []
     },
@@ -5438,7 +5510,7 @@
         ],
         "gnd": "",
         "msdesc": [],
-        "alt_name": "Missio Brigensis",
+        "alt_name": "Missio Brigensis; Missio Brigae",
         "notes": "",
         "persons": []
     },
@@ -5879,26 +5951,76 @@
     "159": {
         "id": 159,
         "order": "157.00000000000000000000",
-        "name": "Probationshaus Hucin (?)",
+        "name": "Probationshaus Jičín",
         "jesuiten_id": "jesuiten_org__159",
         "located_in": [
             {
-                "id": 136,
-                "order": "133.00000000000000000000",
-                "name": "Hucín",
-                "jesuiten_id": "jesuiten_place__136",
-                "geonames": "https://www.geonames.org/724629/hucin.html",
-                "lat": "48.56416",
-                "long": "20.29673",
-                "wikidata": "https://www.wikidata.org/wiki/Q964214",
+                "id": 102,
+                "order": "99.00000000000000000000",
+                "name": "Jičín",
+                "jesuiten_id": "jesuiten_place__102",
+                "geonames": "https://www.geonames.org/3074204/jicin.html",
+                "lat": "50.43723",
+                "long": "15.35162",
+                "wikidata": "https://www.wikidata.org/wiki/Q656603",
+                "alt_names": [
+                    {
+                        "id": 51,
+                        "value": "Gitzinum"
+                    },
+                    {
+                        "id": 52,
+                        "value": "Jitschin"
+                    },
+                    {
+                        "id": 53,
+                        "value": "Gitschin"
+                    }
+                ],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Domus Tertiae Probationis Giczinii (Cod. 12294) / Gitzinii",
+        "notes": "",
+        "persons": []
+    },
+    "161": {
+        "id": 161,
+        "order": "158.00000000000000000000",
+        "name": "Jesuitenmission Dresden",
+        "jesuiten_id": "jesuiten_org__161",
+        "located_in": [
+            {
+                "id": 132,
+                "order": "129.00000000000000000000",
+                "name": "Dresden",
+                "jesuiten_id": "jesuiten_place__132",
+                "geonames": "https://www.geonames.org/2935022/dresden.html",
+                "lat": "51.05089",
+                "long": "13.73832",
+                "wikidata": "https://www.wikidata.org/wiki/Q1731",
                 "alt_names": [],
                 "msdesc": []
             }
         ],
         "gnd": "",
         "msdesc": [],
-        "alt_name": "Domus Tertiae Probationis Giczinii",
-        "notes": "Unklar ob Giczinium Hucin (HU Gice) ist.",
+        "alt_name": "Missio Saxa-Dresdensis",
+        "notes": "",
+        "persons": []
+    },
+    "162": {
+        "id": 162,
+        "order": "159.00000000000000000000",
+        "name": "Jesuitenmission Pannonia",
+        "jesuiten_id": "jesuiten_org__162",
+        "located_in": [],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio in montanis Pannoniam versus",
+        "notes": "",
         "persons": []
     }
 }
