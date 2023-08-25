@@ -136,7 +136,20 @@
     "lat": "48.14816",
     "long": "17.10674",
     "wikidata": "https://www.wikidata.org/wiki/Q1780",
-    "alt_names": [],
+    "alt_names": [
+      {
+        "id": 39,
+        "value": "Posonium"
+      },
+      {
+        "id": 40,
+        "value": "Poszony"
+      },
+      {
+        "id": 41,
+        "value": "Pressburg"
+      }
+    ],
     "msdesc": [
       {
         "id": 4,
@@ -412,13 +425,22 @@
   "14": {
     "id": 14,
     "order": "14.00000000000000000000",
-    "name": "Kőszeg (Güns / Ginsium)",
+    "name": "Kőszeg",
     "jesuiten_id": "jesuiten_place__14",
     "geonames": "https://www.geonames.org/3049366/koszeg.html",
     "lat": "47.38922",
     "long": "16.54100",
     "wikidata": "https://www.wikidata.org/wiki/Q613813",
-    "alt_names": [],
+    "alt_names": [
+      {
+        "id": 44,
+        "value": "Ginsium"
+      },
+      {
+        "id": 45,
+        "value": "Güns"
+      }
+    ],
     "msdesc": [
       {
         "id": 6,
@@ -480,6 +502,10 @@
       {
         "id": 5,
         "value": "Comara"
+      },
+      {
+        "id": 43,
+        "value": "Comoromium"
       }
     ],
     "msdesc": [
@@ -1327,13 +1353,18 @@
   "56": {
     "id": 56,
     "order": "56.00000000000000000000",
-    "name": "Lendva castle (Alsolindua arx)",
+    "name": "Lendva castle",
     "jesuiten_id": "jesuiten_place__56",
     "geonames": "",
     "lat": "46.56689",
     "long": "16.45276",
     "wikidata": "",
-    "alt_names": [],
+    "alt_names": [
+      {
+        "id": 46,
+        "value": "Alsolindua arx"
+      }
+    ],
     "msdesc": []
   },
   "57": {
@@ -1923,6 +1954,10 @@
       {
         "id": 31,
         "value": "Corona"
+      },
+      {
+        "id": 42,
+        "value": "Kronstadt"
       }
     ],
     "msdesc": [
@@ -2185,7 +2220,16 @@
     "lat": "50.07963",
     "long": "12.37392",
     "wikidata": "https://www.wikidata.org/wiki/Q193719",
-    "alt_names": [],
+    "alt_names": [
+      {
+        "id": 37,
+        "value": "Eger"
+      },
+      {
+        "id": 38,
+        "value": "Egra"
+      }
+    ],
     "msdesc": []
   },
   "102": {
@@ -2593,6 +2637,18 @@
     "lat": "48.40000",
     "long": "20.73333",
     "wikidata": "https://www.wikidata.org/wiki/Q590583",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "136": {
+    "id": 136,
+    "order": "133.00000000000000000000",
+    "name": "Hucín",
+    "jesuiten_id": "jesuiten_place__136",
+    "geonames": "https://www.geonames.org/724629/hucin.html",
+    "lat": "48.56416",
+    "long": "20.29673",
+    "wikidata": "https://www.wikidata.org/wiki/Q964214",
     "alt_names": [],
     "msdesc": []
   }

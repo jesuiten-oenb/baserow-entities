@@ -185,7 +185,8 @@
     "binding": "Papierumschlag.",
     "summary": "Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist nach Orten bzw. Häusern gegliedert.",
     "not_before": "1633",
-    "not_after": null
+    "not_after": null,
+    "# when": null
   },
   "2": {
     "id": 2,
@@ -301,7 +302,8 @@
     "binding": "Pergamentumschlag (Makulatur).",
     "summary": "Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist nach Orten bzw. Häusern gegliedert.",
     "not_before": "1635",
-    "not_after": null
+    "not_after": null,
+    "# when": null
   },
   "3": {
     "id": 3,
@@ -386,7 +388,8 @@
     "binding": "Pergamentumschlag (Makulatur).",
     "summary": "Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist nach Orten bzw. Häusern gegliedert.",
     "not_before": "1637",
-    "not_after": "1638"
+    "not_after": "1638",
+    "# when": null
   },
   "4": {
     "id": 4,
@@ -583,7 +586,8 @@
     "binding": "Restauriert 1917.",
     "summary": "Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist thematisch in 24 Kapitel gegliedert; der letzte davon auf ff. 146-162 trägt den Titel 'Eulogia defunctorum'.",
     "not_before": "1670",
-    "not_after": null
+    "not_after": null,
+    "# when": null
   },
   "6": {
     "id": 6,
@@ -679,7 +683,7 @@
       },
       {
         "id": 14,
-        "value": "Kőszeg (Güns / Ginsium)"
+        "value": "Kőszeg"
       },
       {
         "id": 15,
@@ -844,7 +848,8 @@
     "binding": "Weißer Pergamenteinband über Pappdeckeln.",
     "summary": "Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist in 14 Kapitel gegliedert, der erste davon (2r-5v) über die Anzahl der aktuellen Mitglieder, der letzte (101v-151v) über die verstorbenen.",
     "not_before": "1729",
-    "not_after": "1730"
+    "not_after": "1730",
+    "# when": null
   },
   "7": {
     "id": 7,
@@ -997,7 +1002,8 @@
     "binding": "Weißer Pergamenteinband über Pappdeckeln.",
     "summary": "Die Handschrift besteht aus einer kodikologischen Einheit. Es gibt keine Überschriften; Randbemerkungen zu den erwähnten Häusern und Themen (u.a. 'Fundatio residentiae Rosnaviensis', 'Vita et morum correctio', 'Conciones et catecheses', 'Scholae', 'Missiones castrenses', 'Excursio ad vicinam Iadra insula', 'Persecutiones missionarium' etc.).",
     "not_before": "1660",
-    "not_after": "1663"
+    "not_after": "1663",
+    "# when": null
   },
   "10": {
     "id": 10,
@@ -1085,7 +1091,7 @@
       },
       {
         "id": 14,
-        "value": "Kőszeg (Güns / Ginsium)"
+        "value": "Kőszeg"
       },
       {
         "id": 15,
@@ -1246,7 +1252,8 @@
     "binding": "Weißer Pergamenteinband über Pappdeckeln.",
     "summary": "Die Handschrift besteht aus einer kodikologischen Einheit, geschrieben von mehreren Händen. Der Bericht ist thematisch in 15 Kapiteln gegliedert: u.a. 1. Sacramentorum, paenitentiae, cum primis et eucharistiae dispensatio (1-4); 7. Quinam fuerint nostrorum conatus in obeuntis missionibus (38-64); 8. Quanam incrementa res sodalitatum acceperint (64-84); 11. Quibus incrementis ingeniorum et morum cultura in scholis promota sit? (96-102); 12. Quis fuerit hoc anno status convictuum et seminariorum? (102-105); 13. Quanam fuerint rerum temporalium per provinciam augmenta vel jactura? (105-111); 14. De restituta in Transylvaniam Societate (111-116); Caput ultimum: Defunctorum eulogia (117-143).",
     "not_before": "1744",
-    "not_after": "1746"
+    "not_after": "1746",
+    "# when": null
   },
   "11": {
     "id": 11,
@@ -1518,7 +1525,7 @@
       },
       {
         "id": 14,
-        "value": "Kőszeg (Güns / Ginsium)"
+        "value": "Kőszeg"
       },
       {
         "id": 15,
@@ -1594,8 +1601,9 @@
     "acc_mat": "",
     "binding": "Weißer Pergamenteinband über Pappdeckeln.",
     "summary": "Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist thematisch gegliedert. Überschrifte ohne Kapitelzählung. U. a.: Numerus personarum (inkl. Nomina defunctorum (4r-v) und Eulogia (5r-29r); Sacramenta paenitentiae et eucharistiae administrata (29v-34r); Expeditiones apostolicae (41v-64v); Reductio haereticorum (64v-67v); Sodalitates piae sub variis titulis (71r-77v); Scholae et seminaria (93r-104r).",
-    "not_before": "1735",
-    "not_after": "1735"
+    "not_before": null,
+    "not_after": null,
+    "# when": "1735"
   },
   "12": {
     "id": 12,
@@ -1623,7 +1631,8 @@
     "binding": "Weißer Pergamenteinband über Pappdeckeln.",
     "summary": "Das Manuskript besteht aus einer kodikologischen Einheit, wurde aber über einen Zeitraum von mehreren Jahren (1648-1678) geschrieben. Dementsprechend ist die Handschrift chronologisch geordnet.\nAnweisungen an die Prüfer (1r und 5r-6r). Es folgen die Prüfungsberichte in chronologischer Reihenfolge. Jeder Prüfungsbericht beginnt auf einer neuen Seite mit dem Namen, der Staatsangehörigkeit und dem Alter des Prüflings. Das Datum der Prüfung wird oben auf der Seite vermerkt.",
     "not_before": "1648",
-    "not_after": null
+    "not_after": null,
+    "# when": null
   },
   "13": {
     "id": 13,
@@ -1646,7 +1655,8 @@
     "binding": "Pappeinband mit roten Papier überzogen.",
     "summary": "Zusammengesetzte Handschrift. Nach dem Vermerk 2r-v wurde der Jahresbericht in der Zeit vom 5. Februar 1703 (?) bis April 1704 (?) in verschiedenen Häusern in Böhmen verlesen. Danach wurde er an das Archiv in Prag zurückgegeben.",
     "not_before": "1703",
-    "not_after": null
+    "not_after": null,
+    "# when": null
   },
   "14": {
     "id": 14,
@@ -1810,7 +1820,8 @@
     "binding": "Pergamentumschlag (Makulatur).",
     "summary": "Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist nach Orten bzw. Häusern gegliedert.",
     "not_before": "1638",
-    "not_after": null
+    "not_after": null,
+    "# when": null
   },
   "15": {
     "id": 15,
@@ -1953,8 +1964,9 @@
     "acc_mat": "Fragment eines Missaldruckes, 15./16. Jhdt.",
     "binding": "Pergamentumschlag (Makulatur).",
     "summary": "Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist nach Orten bzw. Häusern gegliedert.",
-    "not_before": "1639",
-    "not_after": "1639"
+    "not_before": null,
+    "not_after": null,
+    "# when": "1639"
   },
   "16": {
     "id": 16,
@@ -1977,7 +1989,8 @@
     "binding": "Neuzeitlicher Pappeinband mit grünlichem Buntpapier kaschiert.",
     "summary": "Zusammengesetzte Handschrift. Der Bericht ist nach den Orten bzw. Häusern in Kapitel gegliedert. Auf ff. 1r-3v allgemeine Anzahl der Mitglieder und eine tabellarische Auflistung der Anzahl der Communicantes, Conversos, Dictiones ad populum, Catecheses, Sodalitates, Studioses und Seminaristas.",
     "not_before": "1704",
-    "not_after": null
+    "not_after": null,
+    "# when": null
   },
   "17": {
     "id": 17,
@@ -2000,7 +2013,8 @@
     "binding": "Neuzeitlicher Pappeinband mit Buntpapier kaschiert.",
     "summary": "Zusammengesetzte Handschrift. Der Bericht ist nach den Orten bzw. Häusern in Kapitel gegliedert. Auf ff. 1r-2v allgemeine Anzahl der Mitglieder und eine tabellarische Auflistung der Anzahl der Communicantes, Conversos, Dictiones ad populum, Catecheses, Sodalitates, Studioses und Seminaristas.",
     "not_before": "1705",
-    "not_after": null
+    "not_after": null,
+    "# when": null
   },
   "18": {
     "id": 18,
@@ -2023,7 +2037,8 @@
     "binding": "Neuzeitlicher Pappeinband mit grünlichem Buntpapier kaschiert.",
     "summary": "Zusammengesetzte Handschrift aus den Berichten verschiedenen Häusern in Böhmen. Auf ff. 1r-3v allgemeine Anzahl der Mitglieder und eine tabellarische Auflistung der Anzahl der Communicantes, Conversos, Dictiones ad populum, Catecheses, Sodalitates, Studioses und Seminaristas.",
     "not_before": "1706",
-    "not_after": null
+    "not_after": null,
+    "# when": null
   },
   "19": {
     "id": 19,
@@ -2046,7 +2061,8 @@
     "binding": "Pergamentumschlag, 17. Jhdt.",
     "summary": "Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist nach Orten bzw. Häusern gegliedert.",
     "not_before": "1640",
-    "not_after": null
+    "not_after": null,
+    "# when": null
   },
   "20": {
     "id": 20,
@@ -2069,7 +2085,8 @@
     "binding": "Einband 1915 ausgebessert: die beiden ersten und die letzte Lage neu geheftet.",
     "summary": "",
     "not_before": "1641",
-    "not_after": "1642"
+    "not_after": "1642",
+    "# when": null
   },
   "21": {
     "id": 21,
@@ -2092,7 +2109,8 @@
     "binding": "",
     "summary": "",
     "not_before": "1642",
-    "not_after": null
+    "not_after": null,
+    "# when": null
   },
   "22": {
     "id": 22,
@@ -2115,7 +2133,8 @@
     "binding": "Pergamentumschlag (Makulatur). Einband 1915 restauriert (die beiden ersten und die letzte Lage neu geheftet.",
     "summary": "",
     "not_before": "1643",
-    "not_after": "1644"
+    "not_after": "1644",
+    "# when": null
   },
   "23": {
     "id": 23,
@@ -2125,7 +2144,7 @@
     "mentioned_orgs": [],
     "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948654",
     "titel": "Litterae annuae provinciae Bohemiae Societatis Iesu a. 1706",
-    "date": "ab 1707",
+    "date": "1707",
     "persons": [],
     "mentioned_places": [],
     "note_type_facs": "",
@@ -2137,7 +2156,80 @@
     "acc_mat": "",
     "binding": "Neuzeitlicher Pappeinband mit braunem Buntpapier kaschiert.",
     "summary": "Zusammengesetzte Handschrift aus den Berichten verschiedenen Häusern in Böhmen. Auf ff. 1r-2v allgemeine Anzahl der Mitglieder und eine tabellarische Auflistung der Anzahl der Communicantes, Conversos, Dictiones ad populum, Catecheses, Sodalitates, Studioses und Seminaristas.",
-    "not_before": "1707",
-    "not_after": "1707"
+    "not_before": null,
+    "not_after": null,
+    "# when": "1707"
+  },
+  "24": {
+    "id": 24,
+    "order": "21.00000000000000000000",
+    "signatur": "Cod. 12293",
+    "jesuiten_id": "jesuiten_msdesc__24",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948655",
+    "titel": "Litterae annuae provinciae Bohemiae Societatis Iesu a. 1707",
+    "date": "1708",
+    "persons": [],
+    "mentioned_places": [],
+    "note_type_facs": "",
+    "xml_id": "cod_12293",
+    "extent": "123",
+    "height": "270",
+    "width": "193",
+    "foliation": "Moderne Foliierung: , 1-123",
+    "acc_mat": "",
+    "binding": "Neuzeitlicher Pappeinband mit braunem Buntpapier kaschiert.",
+    "summary": "Zusammengesetzte Handschrift aus den Berichten verschiedenen Häusern in Böhmen. Auf ff. 1r-2v allgemeine Anzahl der Mitglieder und eine tabellarische Auflistung der Anzahl der Communicantes, Conversos, Dictiones ad populum, Catecheses, Sodalitates, Studioses und Seminaristas.",
+    "not_before": null,
+    "not_after": null,
+    "# when": "1708"
+  },
+  "25": {
+    "id": 25,
+    "order": "22.00000000000000000000",
+    "signatur": "Cod. 12294",
+    "jesuiten_id": "jesuiten_msdesc__25",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948656",
+    "titel": "Litterae annuae provinciae Bohemiae Societatis Iesu a. 1708",
+    "date": "ab 1709",
+    "persons": [],
+    "mentioned_places": [],
+    "note_type_facs": "",
+    "xml_id": "cod_12294",
+    "extent": "134",
+    "height": "267",
+    "width": "190",
+    "foliation": "Moderne Foliierung: I-II, 1-134, III.",
+    "acc_mat": "",
+    "binding": "Neuzeitlicher Pappeinband mit Buntpapier kaschiert.",
+    "summary": "Zusammengesetzte Handschrift aus den Berichten verschiedenen Häusern in Böhmen. Auf ff. 1r-3v allgemeine Anzahl der Mitglieder und eine tabellarische Auflistung der Anzahl der Communicantes, Conversos, Dictiones ad populum, Catecheses, Sodalitates, Studioses und Seminaristas.",
+    "not_before": "1709",
+    "not_after": null,
+    "# when": ""
+  },
+  "26": {
+    "id": 26,
+    "order": "23.00000000000000000000",
+    "signatur": "Cod. 12295",
+    "jesuiten_id": "jesuiten_msdesc__26",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948657",
+    "titel": "Litterae annuae provinciae Bohemiae Societatis Iesu a. 1709",
+    "date": "1710",
+    "persons": [],
+    "mentioned_places": [],
+    "note_type_facs": "",
+    "xml_id": "cod_12295",
+    "extent": "130",
+    "height": "268",
+    "width": "189",
+    "foliation": "Moderne Foliierung: I-II, 1-130, III-IV.",
+    "acc_mat": "",
+    "binding": "Neuzeitlicher Pappeinband mit Buntpapier kaschiert.",
+    "summary": "Zusammengesetzte Handschrift aus den Berichten für das Jahr 1709 verschiedenen Häusern in Böhmen. Auf ff. 1r-2v allgemeine Anzahl der Mitglieder und eine tabellarische Auflistung der Anzahl der Communicantes, Conversos, Dictiones ad populum, Catecheses, Sodalitates, Studioses und Seminaristas.",
+    "not_before": null,
+    "not_after": null,
+    "# when": "1710"
   }
 }

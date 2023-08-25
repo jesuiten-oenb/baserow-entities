@@ -1,0 +1,241 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cod_12295.xml" xml:base="https://oenb.ac.at" prev="https://oenb.ac.at/cod_12294.xml" next="https://oenb.ac.at/cod_12407.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Beschreibung von  Cod. 12295</title>
+                <title type="sub">Jesuiten Littera annuae</title>
+                <respStmt>
+                    <resp>Beschreibung und TEI-encoding</resp>
+                    <persName>
+                        <forename>Ivana</forename>
+                        <surname>Dobcheva</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="restricted">
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">This document is published under the Creative Commons licence Attribution 4.0 International (CC BY 4.0).</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:lang="de" xml:id="cod_12295">
+                    <msIdentifier>
+                        <country>Österreich</country>
+                        <settlement>Wien</settlement>
+                        <repository>Österreichische Nationalbibliothek</repository>
+                        <idno>Cod. 12295</idno>
+                    </msIdentifier>
+                    <head>
+                        <title/>
+                        <origDate notBefore="None-01-01" notAfter="0010">1710</origDate>
+                        <origPlace ref="#jesuiten_place__1">Wien (?)</origPlace>
+                        <note type="catalogue">
+                            <ref target="http://data.onb.ac.at/rec/AC13948657"/>
+                        </note>
+                    </head>
+                    <msContents>
+                        <summary>
+                                Zusammengesetzte Handschrift aus den Berichten für das Jahr 1709 verschiedenen Häusern in Böhmen. Auf ff. 1r-2v allgemeine Anzahl der Mitglieder und eine tabellarische Auflistung der Anzahl der Communicantes, Conversos, Dictiones ad populum, Catecheses, Sodalitates, Studioses und Seminaristas.
+                            <list>
+                                <item n="None">
+                                    <locus from="5r" to="10v">5r-10v</locus>
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__92">Profeßhaus Prag</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="11r" to="14v">11r-14v</locus>
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__93">Jesuitenkolleg Březnice</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="15r" to="16r">15r-16r</locus>
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__94">Jesuitenresidenz in Svata</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="17r" to="20v">17r-20v</locus>
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__95">Jesuitenkolleg Chomutov</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="21r" to="23v">21r-23v</locus>
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__142">Jesuitenresidenz Maria Scheinensis</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="24r" to="27r">24r-27r</locus>
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__96">Jesuitenkolleg Krumlov</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="28r" to="31r">28r-31r</locus>
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__97">Jesuitenkolleg Cheb</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="32r" to="">32r-</locus>
+                                </item>
+                                <item n="None">
+                                    <locus from="" to="">-</locus>
+                                </item>
+                                <item n="None">
+                                    <locus from="" to="">-</locus>
+                                </item>
+                                <item n="None">
+                                    <locus from="" to="">-</locus>
+                                </item>
+                                <item n="None">
+                                    <locus from="" to="">-</locus>
+                                </item>
+                                <item n="None">
+                                    <locus from="" to="">-</locus>
+                                </item>
+                                <item n="None">
+                                    <locus from="" to="">-</locus>
+                                </item>
+                                <item n="None">
+                                    <locus from="" to="">-</locus>
+                                </item>
+                                <item n="None">
+                                    <locus from="" to="">-</locus>
+                                </item>
+                                <item n="None">
+                                    <locus from="" to="">-</locus>
+                                </item>
+                                <item n="None">
+                                    <locus from="" to="">-</locus>
+                                </item>
+                                <item n="None">
+                                    <locus from="" to="">-</locus>
+                                </item>
+                                <item n="None">
+                                    <locus from="" to="">-</locus>
+                                </item>
+                                <item n="None">
+                                    <locus from="" to="">-</locus>
+                                </item>
+                                <item n="None">
+                                    <locus from="" to="">-</locus>
+                                </item>
+                                <item n="None">
+                                    <locus from="" to="">-</locus>
+                                </item>
+                                <item n="None">
+                                    <locus from="" to="">-</locus>
+                                </item>
+                                <item n="None">
+                                    <locus from="" to="">-</locus>
+                                </item>
+                                <item n="None">
+                                    <locus from="" to="">-</locus>
+                                </item>
+                            </list>
+                        </summary>
+                        <textLang mainLang="lat"/>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="codex">
+                            <supportDesc material="paper">
+                                <extent>
+                                    <measure type="leavesCount" quantity="81" unit="folio">i + 81 + ii fols.</measure>
+                                    <dimensions type="leaf_current" unit="mm">
+                                        <height/>
+                                        <width/>
+                                    </dimensions>
+                                </extent>
+                                <foliation>Moderne Foliierung: I-II, 1-130, III-IV.</foliation>
+                                <collation/>
+                            </supportDesc>
+                        </objectDesc>
+                        <accMat>Makulatur ausgelöst.</accMat>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><p/></body>
+    <back><listOrg><org xml:id="jesuiten_org__97">
+                  <orgName>Jesuitenkolleg Cheb</orgName>
+                  <orgName type="alt">Collegium Egrense</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__101">Cheb</placeName>
+                     <geo>50.07963 12.37392</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/3077835/</idno></note>
+                  </location>
+                  <note>http://reholnici.hiu.cas.cz/katalog/l.dll?hal~1000099837</note>
+               <noteGrp><note target="cod_12288.xml" type="mentions">Beschreibung von  Cod. 12288</note><note target="cod_12289.xml" type="mentions">Beschreibung von  Cod. 12289</note><note target="cod_12290.xml" type="mentions">Beschreibung von  Cod. 12290</note><note target="cod_12291.xml" type="mentions">Beschreibung von  Cod. 12291</note><note target="cod_12292.xml" type="mentions">Beschreibung von  Cod. 12292</note><note target="cod_12293.xml" type="mentions">Beschreibung von  Cod. 12293</note><note target="cod_12294.xml" type="mentions">Beschreibung von  Cod. 12294</note><note target="cod_12295.xml" type="mentions">Beschreibung von  Cod. 12295</note></noteGrp></org>
+               <org xml:id="jesuiten_org__142">
+                  <orgName>Jesuitenresidenz Maria Scheinensis</orgName>
+                  <orgName type="alt">Residentia Maria Scheinensis</orgName>
+               <noteGrp><note target="cod_12289.xml" type="mentions">Beschreibung von  Cod. 12289</note><note target="cod_12290.xml" type="mentions">Beschreibung von  Cod. 12290</note><note target="cod_12291.xml" type="mentions">Beschreibung von  Cod. 12291</note><note target="cod_12292.xml" type="mentions">Beschreibung von  Cod. 12292</note><note target="cod_12293.xml" type="mentions">Beschreibung von  Cod. 12293</note><note target="cod_12294.xml" type="mentions">Beschreibung von  Cod. 12294</note><note target="cod_12295.xml" type="mentions">Beschreibung von  Cod. 12295</note></noteGrp></org>
+               <org xml:id="jesuiten_org__96">
+                  <orgName>Jesuitenkolleg Krumlov</orgName>
+                  <orgName type="alt">Collegium Crumloviense</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__99">Český Krumlov</placeName>
+                     <geo>48.81091 14.31521</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/3077889/</idno></note>
+                  </location>
+               <noteGrp><note target="cod_12288.xml" type="mentions">Beschreibung von  Cod. 12288</note><note target="cod_12289.xml" type="mentions">Beschreibung von  Cod. 12289</note><note target="cod_12290.xml" type="mentions">Beschreibung von  Cod. 12290</note><note target="cod_12291.xml" type="mentions">Beschreibung von  Cod. 12291</note><note target="cod_12292.xml" type="mentions">Beschreibung von  Cod. 12292</note><note target="cod_12293.xml" type="mentions">Beschreibung von  Cod. 12293</note><note target="cod_12294.xml" type="mentions">Beschreibung von  Cod. 12294</note><note target="cod_12295.xml" type="mentions">Beschreibung von  Cod. 12295</note></noteGrp></org>
+               <org xml:id="jesuiten_org__92">
+                  <orgName>Profeßhaus Prag</orgName>
+                  <orgName type="alt">Domus professae Pragae ad Sanctum Nicolaum</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__93">Prague</placeName>
+                     <geo>50.08804 14.42076</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/3067696/</idno></note>
+                  </location>
+               <noteGrp><note target="cod_12288.xml" type="mentions">Beschreibung von  Cod. 12288</note><note target="cod_12289.xml" type="mentions">Beschreibung von  Cod. 12289</note><note target="cod_12290.xml" type="mentions">Beschreibung von  Cod. 12290</note><note target="cod_12291.xml" type="mentions">Beschreibung von  Cod. 12291</note><note target="cod_12292.xml" type="mentions">Beschreibung von  Cod. 12292</note><note target="cod_12293.xml" type="mentions">Beschreibung von  Cod. 12293</note><note target="cod_12294.xml" type="mentions">Beschreibung von  Cod. 12294</note><note target="cod_12295.xml" type="mentions">Beschreibung von  Cod. 12295</note></noteGrp></org>
+               <org xml:id="jesuiten_org__95">
+                  <orgName>Jesuitenkolleg Chomutov</orgName>
+                  <orgName type="alt">Collegium Commotoviense</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__98">Chomutov</placeName>
+                     <geo>50.46048 13.41779</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/3077685/</idno></note>
+                  </location>
+                  <note>http://reholnici.hiu.cas.cz/katalog/l.dll?hal~1000099827</note>
+               <noteGrp><note target="cod_12288.xml" type="mentions">Beschreibung von  Cod. 12288</note><note target="cod_12289.xml" type="mentions">Beschreibung von  Cod. 12289</note><note target="cod_12290.xml" type="mentions">Beschreibung von  Cod. 12290</note><note target="cod_12291.xml" type="mentions">Beschreibung von  Cod. 12291</note><note target="cod_12292.xml" type="mentions">Beschreibung von  Cod. 12292</note><note target="cod_12293.xml" type="mentions">Beschreibung von  Cod. 12293</note><note target="cod_12294.xml" type="mentions">Beschreibung von  Cod. 12294</note><note target="cod_12295.xml" type="mentions">Beschreibung von  Cod. 12295</note></noteGrp></org>
+               <org xml:id="jesuiten_org__93">
+                  <orgName>Jesuitenkolleg Březnice</orgName>
+                  <orgName type="alt">Collegium Brzeznicense</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__96">Brzeźnica</placeName>
+                     <geo>51.71437 15.39348</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/3102368/</idno></note>
+                  </location>
+               <noteGrp><note target="cod_12288.xml" type="mentions">Beschreibung von  Cod. 12288</note><note target="cod_12289.xml" type="mentions">Beschreibung von  Cod. 12289</note><note target="cod_12290.xml" type="mentions">Beschreibung von  Cod. 12290</note><note target="cod_12291.xml" type="mentions">Beschreibung von  Cod. 12291</note><note target="cod_12292.xml" type="mentions">Beschreibung von  Cod. 12292</note><note target="cod_12293.xml" type="mentions">Beschreibung von  Cod. 12293</note><note target="cod_12294.xml" type="mentions">Beschreibung von  Cod. 12294</note><note target="cod_12295.xml" type="mentions">Beschreibung von  Cod. 12295</note></noteGrp></org>
+               <org xml:id="jesuiten_org__94">
+                  <orgName>Jesuitenresidenz in Svata</orgName>
+                  <orgName type="alt">Residentia in Sancto Monte, Residentia Sacro-montana</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__97">Svatá Hora</placeName>
+                     <geo>49.93913 13.96162</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/3064614/</idno></note>
+                  </location>
+               <noteGrp><note target="cod_12288.xml" type="mentions">Beschreibung von  Cod. 12288</note><note target="cod_12289.xml" type="mentions">Beschreibung von  Cod. 12289</note><note target="cod_12290.xml" type="mentions">Beschreibung von  Cod. 12290</note><note target="cod_12291.xml" type="mentions">Beschreibung von  Cod. 12291</note><note target="cod_12292.xml" type="mentions">Beschreibung von  Cod. 12292</note><note target="cod_12293.xml" type="mentions">Beschreibung von  Cod. 12293</note><note target="cod_12294.xml" type="mentions">Beschreibung von  Cod. 12294</note><note target="cod_12295.xml" type="mentions">Beschreibung von  Cod. 12295</note></noteGrp></org>
+               </listOrg></back></text>
+</TEI>

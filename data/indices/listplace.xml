@@ -146,7 +146,7 @@
                   <idno type="geonames">https://sws.geonames.org/3045190/</idno>
                </place>
                <place xml:id="jesuiten_place__14">
-                  <placeName>Kőszeg (Güns / Ginsium)</placeName>
+                  <placeName>Kőszeg</placeName>
                   <location type="coords">
                      <geo>47.38922 16.54100</geo>
                   </location>
@@ -456,7 +456,7 @@
                   <idno type="geonames">https://sws.geonames.org/2607243/</idno>
                </place>
                <place xml:id="jesuiten_place__56">
-                  <placeName>Lendva castle (Alsolindua arx)</placeName>
+                  <placeName>Lendva castle</placeName>
                   <location type="coords">
                      <geo>46.56689 16.45276</geo>
                   </location>
@@ -1055,6 +1055,14 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/715355/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q590583</idno>
+               </place>
+               <place xml:id="jesuiten_place__136">
+                  <placeName>Hucín</placeName>
+                  <location type="coords">
+                     <geo>48.56416 20.29673</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/724629/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q964214</idno>
                </place>
             </listPlace>
          </div>
