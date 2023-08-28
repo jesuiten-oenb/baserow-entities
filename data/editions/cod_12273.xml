@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cod_12266.xml" xml:base="https://oenb.ac.at" prev="https://oenb.ac.at/cod_12138.xml" next="https://oenb.ac.at/cod_12273.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cod_12273.xml" xml:base="https://oenb.ac.at" prev="https://oenb.ac.at/cod_12266.xml" next="https://oenb.ac.at/cod_12276.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">Beschreibung von  Cod. 12266</title>
+                <title type="main">Beschreibung von  Cod. 12273</title>
                 <title type="sub">Jesuiten Littera annuae</title>
                 <respStmt>
                     <resp>Beschreibung und TEI-encoding</resp>
@@ -19,19 +19,19 @@
                 </availability>
             </publicationStmt>
             <sourceDesc>
-                <msDesc xml:lang="de" xml:id="cod_12266">
+                <msDesc xml:lang="de" xml:id="cod_12273">
                     <msIdentifier>
                         <country>Österreich</country>
                         <settlement>Wien</settlement>
                         <repository>Österreichische Nationalbibliothek</repository>
-                        <idno>Cod. 12266</idno>
+                        <idno>Cod. 12273</idno>
                     </msIdentifier>
                     <head>
                         <title/>
-                        <origDate notBefore="None-01-01" notAfter="0010">1735</origDate>
+                        <origDate notBefore="None-01-01" notAfter="0010"/>
                         <origPlace ref="#jesuiten_place__1">Wien (?)</origPlace>
                         <note type="catalogue">
-                            <ref target="http://data.onb.ac.at/rec/AC13949758"/>
+                            <ref target="http://data.onb.ac.at/rec/AC13947265"/>
                         </note>
                     </head>
                     <msContents>
@@ -47,7 +47,7 @@
                                         <width/>
                                     </dimensions>
                                 </extent>
-                                <foliation>Moderne Foliierung 1-109; Nachstoßblätter foliiert I*-IV*.</foliation>
+                                <foliation/>
                                 <collation/>
                             </supportDesc>
                         </objectDesc>
