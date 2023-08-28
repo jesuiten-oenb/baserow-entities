@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cod_12273.xml" xml:base="https://oenb.ac.at" prev="https://oenb.ac.at/cod_12266.xml" next="https://oenb.ac.at/cod_12276.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cod_12273.xml" xml:base="https://oenb.ac.at" prev="https://oenb.ac.at/cod_12266.xml" next="https://oenb.ac.at/cod_12274.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -28,7 +28,7 @@
                     </msIdentifier>
                     <head>
                         <title/>
-                        <origDate notBefore="None-01-01" notAfter="0010"/>
+                        <origDate notBefore="1752-01-01" notAfter="0010">ab 1752</origDate>
                         <origPlace ref="#jesuiten_place__1">Wien (?)</origPlace>
                         <note type="catalogue">
                             <ref target="http://data.onb.ac.at/rec/AC13947265"/>
@@ -47,7 +47,7 @@
                                         <width/>
                                     </dimensions>
                                 </extent>
-                                <foliation/>
+                                <foliation>Zeitgenössische fehlerhafte Foliierung in Tinte - gezählt wurde durchgehend jedes zweites Blatt. Moderne Foliierung.</foliation>
                                 <collation/>
                             </supportDesc>
                         </objectDesc>

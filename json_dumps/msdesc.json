@@ -186,7 +186,8 @@
     "summary": "Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist nach Orten bzw. Häusern gegliedert.",
     "not_before": "1633",
     "not_after": null,
-    "# when": null
+    "# when": null,
+    "date_letter": null
   },
   "2": {
     "id": 2,
@@ -303,7 +304,8 @@
     "summary": "Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist nach Orten bzw. Häusern gegliedert.",
     "not_before": "1635",
     "not_after": null,
-    "# when": null
+    "# when": null,
+    "date_letter": null
   },
   "3": {
     "id": 3,
@@ -389,7 +391,8 @@
     "summary": "Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist nach Orten bzw. Häusern gegliedert.",
     "not_before": "1637",
     "not_after": "1638",
-    "# when": null
+    "# when": null,
+    "date_letter": null
   },
   "4": {
     "id": 4,
@@ -587,7 +590,8 @@
     "summary": "Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist thematisch in 24 Kapitel gegliedert; der letzte davon auf ff. 146-162 trägt den Titel 'Eulogia defunctorum'.",
     "not_before": "1670",
     "not_after": null,
-    "# when": null
+    "# when": null,
+    "date_letter": null
   },
   "6": {
     "id": 6,
@@ -845,11 +849,12 @@
     "width": "200",
     "foliation": "Neue Foliierung 1-152.",
     "acc_mat": "",
-    "binding": "Weißer Pergamenteinband über Pappdeckeln.",
+    "binding": "Weißes Pergament über Pappdeckeln, 18. Jhdt.",
     "summary": "Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist in 14 Kapitel gegliedert, der erste davon (2r-5v) über die Anzahl der aktuellen Mitglieder, der letzte (101v-151v) über die verstorbenen.",
     "not_before": "1729",
     "not_after": "1730",
-    "# when": null
+    "# when": null,
+    "date_letter": null
   },
   "7": {
     "id": 7,
@@ -1003,7 +1008,8 @@
     "summary": "Die Handschrift besteht aus einer kodikologischen Einheit. Es gibt keine Überschriften; Randbemerkungen zu den erwähnten Häusern und Themen (u.a. 'Fundatio residentiae Rosnaviensis', 'Vita et morum correctio', 'Conciones et catecheses', 'Scholae', 'Missiones castrenses', 'Excursio ad vicinam Iadra insula', 'Persecutiones missionarium' etc.).",
     "not_before": "1660",
     "not_after": "1663",
-    "# when": null
+    "# when": null,
+    "date_letter": null
   },
   "10": {
     "id": 10,
@@ -1246,14 +1252,65 @@
     "xml_id": "cod_12138",
     "extent": "71",
     "height": "325",
-    "width": "220",
+    "width": "202",
     "foliation": "Vorsatz- und Nachstoßblätter foliiert I-II bzw. I*-II*. Durchgehend Paginierung 1-143 (18. Jhdt.), die von S. 72 auf 81 springt und nach S. 100 zurück auf 97 geht (moderne Korrektur: S. 97*-100*).",
     "acc_mat": "",
-    "binding": "Weißer Pergamenteinband über Pappdeckeln.",
+    "binding": "Weißes Pergament über Pappdeckeln, 18. Jhdt.",
     "summary": "Die Handschrift besteht aus einer kodikologischen Einheit, geschrieben von mehreren Händen. Der Bericht ist thematisch in 15 Kapiteln gegliedert: u.a. 1. Sacramentorum, paenitentiae, cum primis et eucharistiae dispensatio (1-4); 7. Quinam fuerint nostrorum conatus in obeuntis missionibus (38-64); 8. Quanam incrementa res sodalitatum acceperint (64-84); 11. Quibus incrementis ingeniorum et morum cultura in scholis promota sit? (96-102); 12. Quis fuerit hoc anno status convictuum et seminariorum? (102-105); 13. Quanam fuerint rerum temporalium per provinciam augmenta vel jactura? (105-111); 14. De restituta in Transylvaniam Societate (111-116); Caput ultimum: Defunctorum eulogia (117-143).",
     "not_before": "1744",
     "not_after": "1746",
-    "# when": null
+    "# when": null,
+    "date_letter": null
+  },
+  "36": {
+    "id": 36,
+    "order": "7.50000000000000000000",
+    "signatur": "Cod. 12247",
+    "jesuiten_id": "jesuiten_msdesc__36",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13949641",
+    "titel": "Litterae annuae provinciae Austriae Societatis Iesu a. 1636",
+    "date": "ab 1637",
+    "persons": [],
+    "mentioned_places": [],
+    "note_type_facs": "",
+    "xml_id": "cod_12247",
+    "extent": "38",
+    "height": "298",
+    "width": "204",
+    "foliation": "Moderne Foliierung I, 1-31, 31*, 32-37, I*.",
+    "acc_mat": "Fragment eines gedruckten liturgischen Textes (Usuarium ?), 15./16. Jhdt.",
+    "binding": "Pergamenteinband (Makulatur). Restauriert 1916.",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist nach Orten bzw. Häusern gegliedert.",
+    "not_before": "1637",
+    "not_after": null,
+    "# when": "",
+    "date_letter": "1636"
+  },
+  "38": {
+    "id": 38,
+    "order": "7.66666666666666696273",
+    "signatur": "Cod. 12249",
+    "jesuiten_id": "jesuiten_msdesc__38",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13949643",
+    "titel": "Litterae annuae provinciae Austriae Societatis Iesu a. 1638",
+    "date": "ab 1639",
+    "persons": [],
+    "mentioned_places": [],
+    "note_type_facs": "",
+    "xml_id": "cod_12249",
+    "extent": "12",
+    "height": "286",
+    "width": "190",
+    "foliation": "Zeitgenössische Paginierung 1-22; moderne Foliierung der Vor- und Nachsatzblätter: I-III, I*.",
+    "acc_mat": "",
+    "binding": "Pappeinband mit buntem Papier kaschiert. Wien, 19. Jhdt.",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist nach Orten bzw. Häusern gegliedert.",
+    "not_before": "1639",
+    "not_after": null,
+    "# when": "",
+    "date_letter": "1638"
   },
   "11": {
     "id": 11,
@@ -1599,11 +1656,12 @@
     "width": "206",
     "foliation": "Moderne Foliierung 1-109; Nachstoßblätter foliiert I*-IV*.",
     "acc_mat": "",
-    "binding": "Weißer Pergamenteinband über Pappdeckeln.",
+    "binding": "Weißes Pergament über Pappdeckeln, 18. Jhdt.",
     "summary": "Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist thematisch gegliedert. Überschrifte ohne Kapitelzählung. U. a.: Numerus personarum (inkl. Nomina defunctorum (4r-v) und Eulogia (5r-29r); Sacramenta paenitentiae et eucharistiae administrata (29v-34r); Expeditiones apostolicae (41v-64v); Reductio haereticorum (64v-67v); Sodalitates piae sub variis titulis (71r-77v); Scholae et seminaria (93r-104r).",
     "not_before": null,
     "not_after": null,
-    "# when": "1735"
+    "# when": "1735",
+    "date_letter": null
   },
   "12": {
     "id": 12,
@@ -1628,11 +1686,243 @@
     "width": "152",
     "foliation": "Moderne Foliierung: I + 1-193.",
     "acc_mat": "",
-    "binding": "Weißer Pergamenteinband über Pappdeckeln.",
+    "binding": "Weißes Pergament über Pappdeckeln, 18. Jhdt.",
     "summary": "Das Manuskript besteht aus einer kodikologischen Einheit, wurde aber über einen Zeitraum von mehreren Jahren (1648-1678) geschrieben. Dementsprechend ist die Handschrift chronologisch geordnet.\nAnweisungen an die Prüfer (1r und 5r-6r). Es folgen die Prüfungsberichte in chronologischer Reihenfolge. Jeder Prüfungsbericht beginnt auf einer neuen Seite mit dem Namen, der Staatsangehörigkeit und dem Alter des Prüflings. Das Datum der Prüfung wird oben auf der Seite vermerkt.",
     "not_before": "1648",
     "not_after": null,
-    "# when": null
+    "# when": null,
+    "date_letter": null
+  },
+  "31": {
+    "id": 31,
+    "order": "9.50000000000000000000",
+    "signatur": "Cod. 12273",
+    "jesuiten_id": "jesuiten_msdesc__31",
+    "mentioned_orgs": [
+      {
+        "id": 1,
+        "value": "Profeßhaus Wien"
+      },
+      {
+        "id": 2,
+        "value": "Jesuitenkolleg Wien"
+      },
+      {
+        "id": 4,
+        "value": "Probationshaus Wien"
+      },
+      {
+        "id": 73,
+        "value": "Jesuitenresidenz Esztergom"
+      }
+    ],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13947265",
+    "titel": "Litterae annuae provinciae Austriae Societatis Iesu a. 1752",
+    "date": "ab 1752",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 1,
+        "value": "Wien"
+      },
+      {
+        "id": 2,
+        "value": "Graz"
+      },
+      {
+        "id": 3,
+        "value": "Linz"
+      },
+      {
+        "id": 4,
+        "value": "Steyr"
+      },
+      {
+        "id": 5,
+        "value": "Bratislava"
+      },
+      {
+        "id": 6,
+        "value": "Trnava (Nagyszombat)"
+      },
+      {
+        "id": 7,
+        "value": "Passau"
+      },
+      {
+        "id": 8,
+        "value": "Győr"
+      },
+      {
+        "id": 10,
+        "value": "Zagreb"
+      },
+      {
+        "id": 11,
+        "value": "Krems"
+      },
+      {
+        "id": 12,
+        "value": "Wiener Neustadt"
+      },
+      {
+        "id": 13,
+        "value": "Sopron (Ödenburg)"
+      },
+      {
+        "id": 14,
+        "value": "Kőszeg"
+      },
+      {
+        "id": 15,
+        "value": "Buda"
+      },
+      {
+        "id": 16,
+        "value": "Komárom"
+      },
+      {
+        "id": 17,
+        "value": "Skalica"
+      },
+      {
+        "id": 18,
+        "value": "Trenčín"
+      },
+      {
+        "id": 19,
+        "value": "Banská Bystrica (Neosolium)"
+      },
+      {
+        "id": 20,
+        "value": "Levoča (Leutschau)"
+      },
+      {
+        "id": 21,
+        "value": "Košice"
+      },
+      {
+        "id": 23,
+        "value": "Eger"
+      },
+      {
+        "id": 24,
+        "value": "Leoben"
+      },
+      {
+        "id": 25,
+        "value": "Judenburg"
+      },
+      {
+        "id": 26,
+        "value": "Klagenfurt"
+      },
+      {
+        "id": 27,
+        "value": "Gorizia"
+      },
+      {
+        "id": 28,
+        "value": "Trieste (Tergestinum)"
+      },
+      {
+        "id": 29,
+        "value": "Rijeka (Flumen / Fiume)"
+      },
+      {
+        "id": 30,
+        "value": "Varaždin"
+      },
+      {
+        "id": 31,
+        "value": "Pécs (Quinque ecclesiae)"
+      },
+      {
+        "id": 32,
+        "value": "Požega"
+      },
+      {
+        "id": 44,
+        "value": "Traunkirchen"
+      },
+      {
+        "id": 50,
+        "value": "Millstatt"
+      },
+      {
+        "id": 57,
+        "value": "Gyöngyös"
+      },
+      {
+        "id": 58,
+        "value": "Satu Mare"
+      },
+      {
+        "id": 70,
+        "value": "Alba Julia (Carolina)"
+      },
+      {
+        "id": 71,
+        "value": "Târgu-Mureş"
+      },
+      {
+        "id": 72,
+        "value": "Prešov (Eperiesinum)"
+      },
+      {
+        "id": 73,
+        "value": "Sibiu"
+      },
+      {
+        "id": 74,
+        "value": "Baia Mare"
+      },
+      {
+        "id": 75,
+        "value": "Banská Štiavnica"
+      },
+      {
+        "id": 76,
+        "value": "Sárospatak"
+      },
+      {
+        "id": 77,
+        "value": "Rožňava"
+      },
+      {
+        "id": 79,
+        "value": "Žilina"
+      },
+      {
+        "id": 81,
+        "value": "Kláštor pod Znievom"
+      },
+      {
+        "id": 83,
+        "value": "Odorheiu Secuiesc"
+      },
+      {
+        "id": 86,
+        "value": "Osijek"
+      },
+      {
+        "id": 139,
+        "value": "Baia Sprie"
+      }
+    ],
+    "note_type_facs": "",
+    "xml_id": "cod_12273",
+    "extent": null,
+    "height": "329",
+    "width": "199",
+    "foliation": "Zeitgenössische fehlerhafte Foliierung in Tinte - gezählt wurde durchgehend jedes zweites Blatt. Moderne Foliierung.",
+    "acc_mat": "",
+    "binding": "Kartoneinband, 18. Jhdt.",
+    "summary": "Das Manuskript besteht aus einer kodikologischen Einheit, die von einer Hand geschrieben wurde. Der Bericht ist thematisch in Kapitel gegliedert. U. a. cap. 6 'Quo fructu obitae sunt missiones', 'Caput ultimum: Defunctorum eulogia'. Von diesem Jahresbericht sind insgesamt 5 Exemplare vorhanden: Cod. 12273-12277.",
+    "not_before": "1752",
+    "not_after": null,
+    "# when": "",
+    "date_letter": null
   },
   "13": {
     "id": 13,
@@ -1656,7 +1946,8 @@
     "summary": "Zusammengesetzte Handschrift. Nach dem Vermerk 2r-v wurde der Jahresbericht in der Zeit vom 5. Februar 1703 (?) bis April 1704 (?) in verschiedenen Häusern in Böhmen verlesen. Danach wurde er an das Archiv in Prag zurückgegeben.",
     "not_before": "1703",
     "not_after": null,
-    "# when": null
+    "# when": null,
+    "date_letter": null
   },
   "14": {
     "id": 14,
@@ -1821,7 +2112,8 @@
     "summary": "Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist nach Orten bzw. Häusern gegliedert.",
     "not_before": "1638",
     "not_after": null,
-    "# when": null
+    "# when": null,
+    "date_letter": null
   },
   "15": {
     "id": 15,
@@ -1966,7 +2258,8 @@
     "summary": "Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist nach Orten bzw. Häusern gegliedert.",
     "not_before": null,
     "not_after": null,
-    "# when": "1639"
+    "# when": "1639",
+    "date_letter": null
   },
   "16": {
     "id": 16,
@@ -1986,11 +2279,12 @@
     "width": "187",
     "foliation": "Moderne Foliierung 1-124.",
     "acc_mat": "",
-    "binding": "Neuzeitlicher Pappeinband mit grünlichem Buntpapier kaschiert.",
+    "binding": "Pappeinband mit grünlichem Buntpapier kaschiert. Wien, 19. Jhdt.",
     "summary": "Zusammengesetzte Handschrift. Der Bericht ist nach den Orten bzw. Häusern in Kapitel gegliedert. Auf ff. 1r-3v allgemeine Anzahl der Mitglieder und eine tabellarische Auflistung der Anzahl der Communicantes, Conversos, Dictiones ad populum, Catecheses, Sodalitates, Studioses und Seminaristas.",
     "not_before": "1704",
     "not_after": null,
-    "# when": null
+    "# when": null,
+    "date_letter": null
   },
   "17": {
     "id": 17,
@@ -2010,11 +2304,12 @@
     "width": "195",
     "foliation": "Moderne Foliierung I, 1-4, 4*, 5-79, 79*, 80-94, 94*, 95-116, I*.",
     "acc_mat": "",
-    "binding": "Neuzeitlicher Pappeinband mit Buntpapier kaschiert.",
+    "binding": "Pappeinband mit grünlichem Buntpapier kaschiert. Wien, 19. Jhdt.",
     "summary": "Zusammengesetzte Handschrift. Der Bericht ist nach den Orten bzw. Häusern in Kapitel gegliedert. Auf ff. 1r-2v allgemeine Anzahl der Mitglieder und eine tabellarische Auflistung der Anzahl der Communicantes, Conversos, Dictiones ad populum, Catecheses, Sodalitates, Studioses und Seminaristas.",
     "not_before": "1705",
     "not_after": null,
-    "# when": null
+    "# when": null,
+    "date_letter": null
   },
   "18": {
     "id": 18,
@@ -2034,11 +2329,12 @@
     "width": "193",
     "foliation": "Moderne Foliierung: I, 1-121.",
     "acc_mat": "",
-    "binding": "Neuzeitlicher Pappeinband mit grünlichem Buntpapier kaschiert.",
+    "binding": "Pappeinband mit grünlichem Buntpapier kaschiert. Wien, 19. Jhdt.",
     "summary": "Zusammengesetzte Handschrift aus den Berichten verschiedenen Häusern in Böhmen. Auf ff. 1r-3v allgemeine Anzahl der Mitglieder und eine tabellarische Auflistung der Anzahl der Communicantes, Conversos, Dictiones ad populum, Catecheses, Sodalitates, Studioses und Seminaristas.",
     "not_before": "1706",
     "not_after": null,
-    "# when": null
+    "# when": null,
+    "date_letter": null
   },
   "19": {
     "id": 19,
@@ -2062,7 +2358,8 @@
     "summary": "Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist nach Orten bzw. Häusern gegliedert.",
     "not_before": "1640",
     "not_after": null,
-    "# when": null
+    "# when": null,
+    "date_letter": null
   },
   "20": {
     "id": 20,
@@ -2086,7 +2383,8 @@
     "summary": "",
     "not_before": "1641",
     "not_after": "1642",
-    "# when": null
+    "# when": null,
+    "date_letter": null
   },
   "21": {
     "id": 21,
@@ -2110,7 +2408,8 @@
     "summary": "",
     "not_before": "1642",
     "not_after": null,
-    "# when": null
+    "# when": null,
+    "date_letter": null
   },
   "22": {
     "id": 22,
@@ -2134,7 +2433,8 @@
     "summary": "",
     "not_before": "1643",
     "not_after": "1644",
-    "# when": null
+    "# when": null,
+    "date_letter": null
   },
   "23": {
     "id": 23,
@@ -2154,11 +2454,12 @@
     "width": "190",
     "foliation": "Moderne Foliierung: I-III, 1-117, IV-V.",
     "acc_mat": "",
-    "binding": "Neuzeitlicher Pappeinband mit braunem Buntpapier kaschiert.",
+    "binding": "Pappeinband mit grünlichem Buntpapier kaschiert. Wien, 19. Jhdt.",
     "summary": "Zusammengesetzte Handschrift aus den Berichten verschiedenen Häusern in Böhmen. Auf ff. 1r-2v allgemeine Anzahl der Mitglieder und eine tabellarische Auflistung der Anzahl der Communicantes, Conversos, Dictiones ad populum, Catecheses, Sodalitates, Studioses und Seminaristas.",
     "not_before": null,
     "not_after": null,
-    "# when": "1707"
+    "# when": "1707",
+    "date_letter": null
   },
   "24": {
     "id": 24,
@@ -2178,11 +2479,12 @@
     "width": "193",
     "foliation": "Moderne Foliierung: , 1-123",
     "acc_mat": "",
-    "binding": "Neuzeitlicher Pappeinband mit braunem Buntpapier kaschiert.",
+    "binding": "Pappeinband mit grünlichem Buntpapier kaschiert. Wien, 19. Jhdt.",
     "summary": "Zusammengesetzte Handschrift aus den Berichten verschiedenen Häusern in Böhmen. Auf ff. 1r-2v allgemeine Anzahl der Mitglieder und eine tabellarische Auflistung der Anzahl der Communicantes, Conversos, Dictiones ad populum, Catecheses, Sodalitates, Studioses und Seminaristas.",
     "not_before": null,
     "not_after": null,
-    "# when": "1708"
+    "# when": "1708",
+    "date_letter": null
   },
   "25": {
     "id": 25,
@@ -2202,11 +2504,12 @@
     "width": "190",
     "foliation": "Moderne Foliierung: I-II, 1-134, III.",
     "acc_mat": "",
-    "binding": "Neuzeitlicher Pappeinband mit Buntpapier kaschiert.",
+    "binding": "Pappeinband mit grünlichem Buntpapier kaschiert. Wien, 19. Jhdt.",
     "summary": "Zusammengesetzte Handschrift aus den Berichten verschiedenen Häusern in Böhmen. Auf ff. 1r-3v allgemeine Anzahl der Mitglieder und eine tabellarische Auflistung der Anzahl der Communicantes, Conversos, Dictiones ad populum, Catecheses, Sodalitates, Studioses und Seminaristas.",
     "not_before": "1709",
     "not_after": null,
-    "# when": ""
+    "# when": "",
+    "date_letter": null
   },
   "26": {
     "id": 26,
@@ -2226,11 +2529,12 @@
     "width": "189",
     "foliation": "Moderne Foliierung: I-II, 1-130, III-IV.",
     "acc_mat": "",
-    "binding": "Neuzeitlicher Pappeinband mit Buntpapier kaschiert.",
+    "binding": "Pappeinband mit grünlichem Buntpapier kaschiert. Wien, 19. Jhdt.",
     "summary": "Zusammengesetzte Handschrift aus den Berichten für das Jahr 1709 verschiedenen Häusern in Böhmen. Auf ff. 1r-2v allgemeine Anzahl der Mitglieder und eine tabellarische Auflistung der Anzahl der Communicantes, Conversos, Dictiones ad populum, Catecheses, Sodalitates, Studioses und Seminaristas.",
     "not_before": null,
     "not_after": null,
-    "# when": "1710"
+    "# when": "1710",
+    "date_letter": null
   },
   "27": {
     "id": 27,
@@ -2250,58 +2554,1039 @@
     "width": "188",
     "foliation": "Moderne Foliierung: I, 1-127, II.",
     "acc_mat": "",
-    "binding": "Neuzeitlicher Pappeinband mit Buntpapier kaschiert.",
+    "binding": "Pappeinband mit grünlichem Buntpapier kaschiert. Wien, 19. Jhdt.",
     "summary": "Zusammengesetzte Handschrift aus den Berichten für das Jahr 1710 verschiedenen Häusern in Böhmen. Auf ff. 2r-3v allgemeine Anzahl der Mitglieder und eine tabellarische Auflistung der Anzahl der Communicantes, Conversos, Dictiones ad populum, Catecheses, Sodalitates, Studioses und Seminaristas.",
     "not_before": null,
     "not_after": null,
-    "# when": "1711"
+    "# when": "1711",
+    "date_letter": null
   },
-  "28": {
-    "id": 28,
-    "order": "25.00000000000000000000",
+  "32": {
+    "id": 32,
+    "order": "26.50000000000000000000",
+    "signatur": "Cod. 12274",
+    "jesuiten_id": "jesuiten_msdesc__32",
+    "mentioned_orgs": [
+      {
+        "id": 1,
+        "value": "Profeßhaus Wien"
+      },
+      {
+        "id": 2,
+        "value": "Jesuitenkolleg Wien"
+      },
+      {
+        "id": 4,
+        "value": "Probationshaus Wien"
+      },
+      {
+        "id": 73,
+        "value": "Jesuitenresidenz Esztergom"
+      }
+    ],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13955916",
+    "titel": "Litterae annuae provinciae Austriae Societatis Iesu a. 1752",
+    "date": "ab 1752",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 1,
+        "value": "Wien"
+      },
+      {
+        "id": 2,
+        "value": "Graz"
+      },
+      {
+        "id": 3,
+        "value": "Linz"
+      },
+      {
+        "id": 4,
+        "value": "Steyr"
+      },
+      {
+        "id": 5,
+        "value": "Bratislava"
+      },
+      {
+        "id": 6,
+        "value": "Trnava (Nagyszombat)"
+      },
+      {
+        "id": 7,
+        "value": "Passau"
+      },
+      {
+        "id": 8,
+        "value": "Győr"
+      },
+      {
+        "id": 10,
+        "value": "Zagreb"
+      },
+      {
+        "id": 11,
+        "value": "Krems"
+      },
+      {
+        "id": 12,
+        "value": "Wiener Neustadt"
+      },
+      {
+        "id": 13,
+        "value": "Sopron (Ödenburg)"
+      },
+      {
+        "id": 14,
+        "value": "Kőszeg"
+      },
+      {
+        "id": 15,
+        "value": "Buda"
+      },
+      {
+        "id": 16,
+        "value": "Komárom"
+      },
+      {
+        "id": 17,
+        "value": "Skalica"
+      },
+      {
+        "id": 18,
+        "value": "Trenčín"
+      },
+      {
+        "id": 19,
+        "value": "Banská Bystrica (Neosolium)"
+      },
+      {
+        "id": 20,
+        "value": "Levoča (Leutschau)"
+      },
+      {
+        "id": 21,
+        "value": "Košice"
+      },
+      {
+        "id": 23,
+        "value": "Eger"
+      },
+      {
+        "id": 24,
+        "value": "Leoben"
+      },
+      {
+        "id": 25,
+        "value": "Judenburg"
+      },
+      {
+        "id": 26,
+        "value": "Klagenfurt"
+      },
+      {
+        "id": 27,
+        "value": "Gorizia"
+      },
+      {
+        "id": 28,
+        "value": "Trieste (Tergestinum)"
+      },
+      {
+        "id": 29,
+        "value": "Rijeka (Flumen / Fiume)"
+      },
+      {
+        "id": 30,
+        "value": "Varaždin"
+      },
+      {
+        "id": 31,
+        "value": "Pécs (Quinque ecclesiae)"
+      },
+      {
+        "id": 32,
+        "value": "Požega"
+      },
+      {
+        "id": 44,
+        "value": "Traunkirchen"
+      },
+      {
+        "id": 50,
+        "value": "Millstatt"
+      },
+      {
+        "id": 57,
+        "value": "Gyöngyös"
+      },
+      {
+        "id": 58,
+        "value": "Satu Mare"
+      },
+      {
+        "id": 70,
+        "value": "Alba Julia (Carolina)"
+      },
+      {
+        "id": 71,
+        "value": "Târgu-Mureş"
+      },
+      {
+        "id": 72,
+        "value": "Prešov (Eperiesinum)"
+      },
+      {
+        "id": 73,
+        "value": "Sibiu"
+      },
+      {
+        "id": 74,
+        "value": "Baia Mare"
+      },
+      {
+        "id": 75,
+        "value": "Banská Štiavnica"
+      },
+      {
+        "id": 76,
+        "value": "Sárospatak"
+      },
+      {
+        "id": 77,
+        "value": "Rožňava"
+      },
+      {
+        "id": 79,
+        "value": "Žilina"
+      },
+      {
+        "id": 81,
+        "value": "Kláštor pod Znievom"
+      },
+      {
+        "id": 83,
+        "value": "Odorheiu Secuiesc"
+      },
+      {
+        "id": 86,
+        "value": "Osijek"
+      },
+      {
+        "id": 139,
+        "value": "Baia Sprie"
+      }
+    ],
+    "note_type_facs": "",
+    "xml_id": "cod_12274",
+    "extent": "67",
+    "height": "330",
+    "width": "210",
+    "foliation": "Moderne Foliierung I-III, 1-67, I*-II*.",
+    "acc_mat": "",
+    "binding": "Kartoneinband, 18. Jhdt.",
+    "summary": "Die Handschrift wurde von mehreren Händen geschrieben. Der Bericht ist thematisch in Kapitel unterteilt. U. a.: (14r-19v) Kap. 6 Quo fructu obita sint missiones; (45r-50r) Quae fuerit sors Oeconomia; (50r-66v) Defunctorum eulogia. Von diesem Jahresbericht sind insgesamt 5 Exemplare vorhanden: Cod. 12273-12277.",
+    "not_before": "1752",
+    "not_after": null,
+    "# when": "",
+    "date_letter": null
+  },
+  "33": {
+    "id": 33,
+    "order": "26.66666666666666785090",
+    "signatur": "Cod. 12275",
+    "jesuiten_id": "jesuiten_msdesc__33",
+    "mentioned_orgs": [
+      {
+        "id": 1,
+        "value": "Profeßhaus Wien"
+      },
+      {
+        "id": 2,
+        "value": "Jesuitenkolleg Wien"
+      },
+      {
+        "id": 4,
+        "value": "Probationshaus Wien"
+      },
+      {
+        "id": 73,
+        "value": "Jesuitenresidenz Esztergom"
+      }
+    ],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13955917",
+    "titel": "Litterae annuae provinciae Austriae Societatis Iesu a. 1752",
+    "date": "ab 1752",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 1,
+        "value": "Wien"
+      },
+      {
+        "id": 2,
+        "value": "Graz"
+      },
+      {
+        "id": 3,
+        "value": "Linz"
+      },
+      {
+        "id": 4,
+        "value": "Steyr"
+      },
+      {
+        "id": 5,
+        "value": "Bratislava"
+      },
+      {
+        "id": 6,
+        "value": "Trnava (Nagyszombat)"
+      },
+      {
+        "id": 7,
+        "value": "Passau"
+      },
+      {
+        "id": 8,
+        "value": "Győr"
+      },
+      {
+        "id": 10,
+        "value": "Zagreb"
+      },
+      {
+        "id": 11,
+        "value": "Krems"
+      },
+      {
+        "id": 12,
+        "value": "Wiener Neustadt"
+      },
+      {
+        "id": 13,
+        "value": "Sopron (Ödenburg)"
+      },
+      {
+        "id": 14,
+        "value": "Kőszeg"
+      },
+      {
+        "id": 15,
+        "value": "Buda"
+      },
+      {
+        "id": 16,
+        "value": "Komárom"
+      },
+      {
+        "id": 17,
+        "value": "Skalica"
+      },
+      {
+        "id": 18,
+        "value": "Trenčín"
+      },
+      {
+        "id": 19,
+        "value": "Banská Bystrica (Neosolium)"
+      },
+      {
+        "id": 20,
+        "value": "Levoča (Leutschau)"
+      },
+      {
+        "id": 21,
+        "value": "Košice"
+      },
+      {
+        "id": 23,
+        "value": "Eger"
+      },
+      {
+        "id": 24,
+        "value": "Leoben"
+      },
+      {
+        "id": 25,
+        "value": "Judenburg"
+      },
+      {
+        "id": 26,
+        "value": "Klagenfurt"
+      },
+      {
+        "id": 27,
+        "value": "Gorizia"
+      },
+      {
+        "id": 28,
+        "value": "Trieste (Tergestinum)"
+      },
+      {
+        "id": 29,
+        "value": "Rijeka (Flumen / Fiume)"
+      },
+      {
+        "id": 30,
+        "value": "Varaždin"
+      },
+      {
+        "id": 31,
+        "value": "Pécs (Quinque ecclesiae)"
+      },
+      {
+        "id": 32,
+        "value": "Požega"
+      },
+      {
+        "id": 44,
+        "value": "Traunkirchen"
+      },
+      {
+        "id": 50,
+        "value": "Millstatt"
+      },
+      {
+        "id": 57,
+        "value": "Gyöngyös"
+      },
+      {
+        "id": 58,
+        "value": "Satu Mare"
+      },
+      {
+        "id": 70,
+        "value": "Alba Julia (Carolina)"
+      },
+      {
+        "id": 71,
+        "value": "Târgu-Mureş"
+      },
+      {
+        "id": 72,
+        "value": "Prešov (Eperiesinum)"
+      },
+      {
+        "id": 73,
+        "value": "Sibiu"
+      },
+      {
+        "id": 74,
+        "value": "Baia Mare"
+      },
+      {
+        "id": 75,
+        "value": "Banská Štiavnica"
+      },
+      {
+        "id": 76,
+        "value": "Sárospatak"
+      },
+      {
+        "id": 77,
+        "value": "Rožňava"
+      },
+      {
+        "id": 79,
+        "value": "Žilina"
+      },
+      {
+        "id": 81,
+        "value": "Kláštor pod Znievom"
+      },
+      {
+        "id": 83,
+        "value": "Odorheiu Secuiesc"
+      },
+      {
+        "id": 86,
+        "value": "Osijek"
+      },
+      {
+        "id": 137,
+        "value": "Marburg"
+      },
+      {
+        "id": 139,
+        "value": "Baia Sprie"
+      }
+    ],
+    "note_type_facs": "",
+    "xml_id": "cod_12275",
+    "extent": "69",
+    "height": "328",
+    "width": "210",
+    "foliation": "Moderne Foliierung I-III, 1-69. Zeitgenössische Zählung durchgehend jedes zweites Blatt des ersten und letzten kodikologischen Teils (ff. 1r-36v) 1-18 bzw. (ff. 49r-69v) 1-9.",
+    "acc_mat": "",
+    "binding": "Kartoneinband, 18. Jhdt.",
+    "summary": "Die Handschrift wurde von mehreren Händen geschrieben, die z.T. für einzelne kodikologische Teile verantwortlich waren. Der Bericht ist thematisch in Kapitel unterteilt. U. a.: (18r-23r) Kap. 6 Quo fructu obita sint missiones; (53r-66v) Defunctorum eulogia. Von diesem Jahresbericht sind insgesamt 5 Exemplare vorhanden: Cod. 12273-12277.",
+    "not_before": "1752",
+    "not_after": null,
+    "# when": "",
+    "date_letter": null
+  },
+  "34": {
+    "id": 34,
+    "order": "26.75000000000000000000",
     "signatur": "Cod. 12276",
-    "jesuiten_id": "jesuiten_msdesc__28",
-    "mentioned_orgs": [],
+    "jesuiten_id": "jesuiten_msdesc__34",
+    "mentioned_orgs": [
+      {
+        "id": 1,
+        "value": "Profeßhaus Wien"
+      },
+      {
+        "id": 2,
+        "value": "Jesuitenkolleg Wien"
+      },
+      {
+        "id": 4,
+        "value": "Probationshaus Wien"
+      },
+      {
+        "id": 73,
+        "value": "Jesuitenresidenz Esztergom"
+      }
+    ],
     "note_type_catalogue": "http://data.onb.ac.at/rec/AC13955918",
     "titel": "Litterae annuae provinciae Austriae Societatis Iesu a. 1752",
     "date": "ab 1752",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 1,
+        "value": "Wien"
+      },
+      {
+        "id": 2,
+        "value": "Graz"
+      },
+      {
+        "id": 3,
+        "value": "Linz"
+      },
+      {
+        "id": 4,
+        "value": "Steyr"
+      },
+      {
+        "id": 5,
+        "value": "Bratislava"
+      },
+      {
+        "id": 6,
+        "value": "Trnava (Nagyszombat)"
+      },
+      {
+        "id": 7,
+        "value": "Passau"
+      },
+      {
+        "id": 8,
+        "value": "Győr"
+      },
+      {
+        "id": 10,
+        "value": "Zagreb"
+      },
+      {
+        "id": 11,
+        "value": "Krems"
+      },
+      {
+        "id": 12,
+        "value": "Wiener Neustadt"
+      },
+      {
+        "id": 13,
+        "value": "Sopron (Ödenburg)"
+      },
+      {
+        "id": 14,
+        "value": "Kőszeg"
+      },
+      {
+        "id": 15,
+        "value": "Buda"
+      },
+      {
+        "id": 16,
+        "value": "Komárom"
+      },
+      {
+        "id": 17,
+        "value": "Skalica"
+      },
+      {
+        "id": 18,
+        "value": "Trenčín"
+      },
+      {
+        "id": 19,
+        "value": "Banská Bystrica (Neosolium)"
+      },
+      {
+        "id": 20,
+        "value": "Levoča (Leutschau)"
+      },
+      {
+        "id": 21,
+        "value": "Košice"
+      },
+      {
+        "id": 23,
+        "value": "Eger"
+      },
+      {
+        "id": 24,
+        "value": "Leoben"
+      },
+      {
+        "id": 25,
+        "value": "Judenburg"
+      },
+      {
+        "id": 26,
+        "value": "Klagenfurt"
+      },
+      {
+        "id": 27,
+        "value": "Gorizia"
+      },
+      {
+        "id": 28,
+        "value": "Trieste (Tergestinum)"
+      },
+      {
+        "id": 29,
+        "value": "Rijeka (Flumen / Fiume)"
+      },
+      {
+        "id": 30,
+        "value": "Varaždin"
+      },
+      {
+        "id": 31,
+        "value": "Pécs (Quinque ecclesiae)"
+      },
+      {
+        "id": 32,
+        "value": "Požega"
+      },
+      {
+        "id": 44,
+        "value": "Traunkirchen"
+      },
+      {
+        "id": 50,
+        "value": "Millstatt"
+      },
+      {
+        "id": 57,
+        "value": "Gyöngyös"
+      },
+      {
+        "id": 58,
+        "value": "Satu Mare"
+      },
+      {
+        "id": 70,
+        "value": "Alba Julia (Carolina)"
+      },
+      {
+        "id": 71,
+        "value": "Târgu-Mureş"
+      },
+      {
+        "id": 72,
+        "value": "Prešov (Eperiesinum)"
+      },
+      {
+        "id": 73,
+        "value": "Sibiu"
+      },
+      {
+        "id": 74,
+        "value": "Baia Mare"
+      },
+      {
+        "id": 75,
+        "value": "Banská Štiavnica"
+      },
+      {
+        "id": 76,
+        "value": "Sárospatak"
+      },
+      {
+        "id": 77,
+        "value": "Rožňava"
+      },
+      {
+        "id": 79,
+        "value": "Žilina"
+      },
+      {
+        "id": 81,
+        "value": "Kláštor pod Znievom"
+      },
+      {
+        "id": 83,
+        "value": "Odorheiu Secuiesc"
+      },
+      {
+        "id": 86,
+        "value": "Osijek"
+      },
+      {
+        "id": 139,
+        "value": "Baia Sprie"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_12276",
     "extent": "57",
     "height": "324",
-    "width": "240",
+    "width": "204",
     "foliation": "Moderne Foliierung I-III, 1-57.",
     "acc_mat": "",
-    "binding": "Neuzeitlicher Pappeinband.",
-    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit, die thematisch in 13 Kapitel unterteilt ist. Die Kapitel sind teilweise nummeriert und mit Überschriften versehen. Das letzte Kapitel (ff. 43v-54v) trägt der Titel 'Defunctorum eulogia'.",
+    "binding": "Kartoneinband, 18. Jhdt.",
+    "summary": "Die Handschrift wurde von mindestens drei Händen geschrieben. Der Bericht ist thematisch in Kapitel unterteilt. U. a.: (14r-18r) Kap. 6 Quo fructu obita sint missiones; (41r-43v) Quae fuerit sors Oeconomia; (43v-54v) Defunctorum eulogia. Von diesem Jahresbericht sind insgesamt 5 Exemplare vorhanden: Cod. 12273-12277.",
     "not_before": "1752",
     "not_after": null,
-    "# when": ""
+    "# when": "",
+    "date_letter": null
   },
-  "29": {
-    "id": 29,
-    "order": "26.00000000000000000000",
-    "signatur": "Cod. 12273",
-    "jesuiten_id": "jesuiten_msdesc__29",
-    "mentioned_orgs": [],
-    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13947265",
+  "30": {
+    "id": 30,
+    "order": "27.00000000000000000000",
+    "signatur": "Cod. 12277",
+    "jesuiten_id": "jesuiten_msdesc__30",
+    "mentioned_orgs": [
+      {
+        "id": 1,
+        "value": "Profeßhaus Wien"
+      },
+      {
+        "id": 2,
+        "value": "Jesuitenkolleg Wien"
+      },
+      {
+        "id": 4,
+        "value": "Probationshaus Wien"
+      },
+      {
+        "id": 73,
+        "value": "Jesuitenresidenz Esztergom"
+      }
+    ],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13955919",
     "titel": "Litterae annuae provinciae Austriae Societatis Iesu a. 1752",
+    "date": "ab 1752",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 1,
+        "value": "Wien"
+      },
+      {
+        "id": 2,
+        "value": "Graz"
+      },
+      {
+        "id": 3,
+        "value": "Linz"
+      },
+      {
+        "id": 4,
+        "value": "Steyr"
+      },
+      {
+        "id": 5,
+        "value": "Bratislava"
+      },
+      {
+        "id": 6,
+        "value": "Trnava (Nagyszombat)"
+      },
+      {
+        "id": 7,
+        "value": "Passau"
+      },
+      {
+        "id": 8,
+        "value": "Győr"
+      },
+      {
+        "id": 10,
+        "value": "Zagreb"
+      },
+      {
+        "id": 11,
+        "value": "Krems"
+      },
+      {
+        "id": 12,
+        "value": "Wiener Neustadt"
+      },
+      {
+        "id": 13,
+        "value": "Sopron (Ödenburg)"
+      },
+      {
+        "id": 14,
+        "value": "Kőszeg"
+      },
+      {
+        "id": 15,
+        "value": "Buda"
+      },
+      {
+        "id": 16,
+        "value": "Komárom"
+      },
+      {
+        "id": 17,
+        "value": "Skalica"
+      },
+      {
+        "id": 18,
+        "value": "Trenčín"
+      },
+      {
+        "id": 19,
+        "value": "Banská Bystrica (Neosolium)"
+      },
+      {
+        "id": 20,
+        "value": "Levoča (Leutschau)"
+      },
+      {
+        "id": 21,
+        "value": "Košice"
+      },
+      {
+        "id": 23,
+        "value": "Eger"
+      },
+      {
+        "id": 24,
+        "value": "Leoben"
+      },
+      {
+        "id": 25,
+        "value": "Judenburg"
+      },
+      {
+        "id": 26,
+        "value": "Klagenfurt"
+      },
+      {
+        "id": 27,
+        "value": "Gorizia"
+      },
+      {
+        "id": 28,
+        "value": "Trieste (Tergestinum)"
+      },
+      {
+        "id": 29,
+        "value": "Rijeka (Flumen / Fiume)"
+      },
+      {
+        "id": 30,
+        "value": "Varaždin"
+      },
+      {
+        "id": 31,
+        "value": "Pécs (Quinque ecclesiae)"
+      },
+      {
+        "id": 32,
+        "value": "Požega"
+      },
+      {
+        "id": 44,
+        "value": "Traunkirchen"
+      },
+      {
+        "id": 50,
+        "value": "Millstatt"
+      },
+      {
+        "id": 57,
+        "value": "Gyöngyös"
+      },
+      {
+        "id": 58,
+        "value": "Satu Mare"
+      },
+      {
+        "id": 70,
+        "value": "Alba Julia (Carolina)"
+      },
+      {
+        "id": 71,
+        "value": "Târgu-Mureş"
+      },
+      {
+        "id": 72,
+        "value": "Prešov (Eperiesinum)"
+      },
+      {
+        "id": 73,
+        "value": "Sibiu"
+      },
+      {
+        "id": 74,
+        "value": "Baia Mare"
+      },
+      {
+        "id": 75,
+        "value": "Banská Štiavnica"
+      },
+      {
+        "id": 76,
+        "value": "Sárospatak"
+      },
+      {
+        "id": 77,
+        "value": "Rožňava"
+      },
+      {
+        "id": 79,
+        "value": "Žilina"
+      },
+      {
+        "id": 81,
+        "value": "Kláštor pod Znievom"
+      },
+      {
+        "id": 83,
+        "value": "Odorheiu Secuiesc"
+      },
+      {
+        "id": 86,
+        "value": "Osijek"
+      },
+      {
+        "id": 139,
+        "value": "Baia Sprie"
+      }
+    ],
+    "note_type_facs": "",
+    "xml_id": "cod_12277",
+    "extent": "60",
+    "height": "330",
+    "width": "210",
+    "foliation": "Zeitgenössische Paginierung der dritten kodikologischen Teil (ff. 38r-60v): 1-44. Moderne Foliierung: I-II, 1-60, I*-II*.",
+    "acc_mat": "",
+    "binding": "Kartoneinband, 18. Jhdt.",
+    "summary": "Die Handschrift wurde von mindestens drei Händen geschrieben, von denen jede für eine kodikologische Einheit verantwortlich war. Der Bericht ist thematisch in Kapitel unterteilt. U. a.: (12r-14v) Kap. 6 Quo fructu obita sint missiones; (38r-42v) Quae fuerit sors Oeconomia; (42v-59v) Defunctorum eulogia. Von diesem Jahresbericht sind insgesamt 5 Exemplare vorhanden: Cod. 12273-12277.",
+    "not_before": "1752",
+    "not_after": null,
+    "# when": "",
+    "date_letter": null
+  },
+  "35": {
+    "id": 35,
+    "order": "28.00000000000000000000",
+    "signatur": "Cod. 12246",
+    "jesuiten_id": "jesuiten_msdesc__35",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13949640",
+    "titel": "Litterae annuae provinciae Austriae Societatis Iesu a. 1635",
+    "date": "ab 1636",
+    "persons": [],
+    "mentioned_places": [],
+    "note_type_facs": "",
+    "xml_id": "cod_12246",
+    "extent": "28",
+    "height": "290",
+    "width": "195",
+    "foliation": "Moderne Foliierung: I-II, 1-28, I*.",
+    "acc_mat": "",
+    "binding": "Pappeinband mit buntem Papier kaschiert. Wien, 19. Jhdt.",
+    "summary": "Die Handschrift wurde von mehreren Händen geschrieben, von denen einige für einzelne kodikologische Teile verantwortlich waren. Der Bericht ist nach Kollegen bzw. Residenzen und Missiones gegliedert.",
+    "not_before": "1636",
+    "not_after": null,
+    "# when": "",
+    "date_letter": "1635"
+  },
+  "37": {
+    "id": 37,
+    "order": "29.00000000000000000000",
+    "signatur": "Cod. 12248",
+    "jesuiten_id": "jesuiten_msdesc__37",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13949642",
+    "titel": "Litterae annuae provinciae Austriae Societatis Iesu a. 1637",
+    "date": "ab 1638",
+    "persons": [],
+    "mentioned_places": [],
+    "note_type_facs": "",
+    "xml_id": "cod_12248",
+    "extent": "55",
+    "height": "301",
+    "width": "198",
+    "foliation": "Zeitgenössische Paginierung 1-108. Vor- und Nachsatzblätter foliiert 2023: I-II und I*.",
+    "acc_mat": "Fragment eines Missaldrucks (15.-16. Jh.)",
+    "binding": "Pergamenteinband (Makulatur). Restauriert 1918.",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist nach Orten bzw. Häusern gegliedert.",
+    "not_before": "1638",
+    "not_after": null,
+    "# when": "",
+    "date_letter": "1637"
+  },
+  "39": {
+    "id": 39,
+    "order": "30.00000000000000000000",
+    "signatur": "Cod. 12250",
+    "jesuiten_id": "jesuiten_msdesc__39",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13949644",
+    "titel": "Litterae annuae provinciae Austriae Societatis Iesu a. 1639",
+    "date": "ab 1640",
+    "persons": [],
+    "mentioned_places": [],
+    "note_type_facs": "",
+    "xml_id": "cod_12250",
+    "extent": "12",
+    "height": "297",
+    "width": "188",
+    "foliation": "Moderne Foliierung 1-12.",
+    "acc_mat": "",
+    "binding": "Pappeinband mit buntem Papier kaschiert. Wien, 19. Jhdt.",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist nach Orten bzw. Häusern gegliedert; bricht unerwartet mitten in einem Wort auf f. 12v.",
+    "not_before": "1640",
+    "not_after": null,
+    "# when": "",
+    "date_letter": "1639"
+  },
+  "40": {
+    "id": 40,
+    "order": "31.00000000000000000000",
+    "signatur": "Cod. 12251",
+    "jesuiten_id": "jesuiten_msdesc__40",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "",
+    "titel": "",
     "date": "",
     "persons": [],
     "mentioned_places": [],
     "note_type_facs": "",
-    "xml_id": "cod_12273",
-    "extent": null,
-    "height": null,
-    "width": null,
-    "foliation": "",
+    "xml_id": "cod_12251",
+    "extent": "86",
+    "height": "297",
+    "width": "185",
+    "foliation": "Zeitgenössische Paginierung 1-172.",
     "acc_mat": "",
-    "binding": "",
-    "summary": "",
+    "binding": "Pergament- oder Wildledereinband, 18. Jhdt.",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit; vorwiegend von einer Hand geschrieben. Der Bericht ist nach Orten bzw. Häusern gegliedert.",
     "not_before": null,
     "not_after": null,
-    "# when": ""
+    "# when": "",
+    "date_letter": null
   }
 }
