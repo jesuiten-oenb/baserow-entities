@@ -495,6 +495,10 @@
         "value": "Cod. 12138"
       },
       {
+        "id": 43,
+        "value": "Cod. 12254"
+      },
+      {
         "id": 11,
         "value": "Cod. 12266"
       },
@@ -1492,6 +1496,10 @@
         "value": "Cod. 12138"
       },
       {
+        "id": 43,
+        "value": "Cod. 12254"
+      },
+      {
         "id": 11,
         "value": "Cod. 12266"
       },
@@ -1685,6 +1693,10 @@
       {
         "id": 10,
         "value": "Cod. 12138"
+      },
+      {
+        "id": 43,
+        "value": "Cod. 12254"
       }
     ]
   },
@@ -2253,6 +2265,10 @@
         "value": "Cod. 12138"
       },
       {
+        "id": 43,
+        "value": "Cod. 12254"
+      },
+      {
         "id": 31,
         "value": "Cod. 12273"
       },
@@ -2475,6 +2491,10 @@
       {
         "id": 10,
         "value": "Cod. 12138"
+      },
+      {
+        "id": 43,
+        "value": "Cod. 12254"
       },
       {
         "id": 31,
@@ -2701,6 +2721,10 @@
       {
         "id": 10,
         "value": "Cod. 12138"
+      },
+      {
+        "id": 43,
+        "value": "Cod. 12254"
       }
     ]
   },
@@ -2803,6 +2827,10 @@
       {
         "id": 10,
         "value": "Cod. 12138"
+      },
+      {
+        "id": 43,
+        "value": "Cod. 12254"
       },
       {
         "id": 31,
@@ -3663,5 +3691,29 @@
         "value": "Cod. 12277"
       }
     ]
+  },
+  "140": {
+    "id": 140,
+    "order": "137.00000000000000000000",
+    "name": "Gógánfa",
+    "jesuiten_id": "jesuiten_place__140",
+    "geonames": "https://www.geonames.org/3052223/goganfa.html",
+    "lat": "47.02133",
+    "long": "17.18759",
+    "wikidata": "https://www.wikidata.org/wiki/Q1031427",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "141": {
+    "id": 141,
+    "order": "138.00000000000000000000",
+    "name": "Strasburg",
+    "jesuiten_id": "jesuiten_place__141",
+    "geonames": "https://www.geonames.org/2764186/strassburg-stadt.html",
+    "lat": "46.89444",
+    "long": "14.32861",
+    "wikidata": "https://www.wikidata.org/wiki/Q660945",
+    "alt_names": [],
+    "msdesc": []
   }
 }

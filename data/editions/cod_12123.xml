@@ -158,7 +158,22 @@
     </teiHeader>
     <text>
         <body><p/></body>
-    <back><listPlace><place xml:id="jesuiten_place__15">
+    <back><listPlace><place xml:id="jesuiten_place__19">
+                  <placeName>Banská Bystrica (Neosolium)</placeName>
+                  <location type="coords">
+                     <geo>48.73946 19.15349</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3061186/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q144983</idno>
+               <noteGrp><note target="cod_12123.xml" type="mentions">Beschreibung von  Cod. 12123</note></noteGrp></place>
+               <place xml:id="jesuiten_place__11">
+                  <placeName>Krems</placeName>
+                  <location type="coords">
+                     <geo>48.40921 15.61415</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2773549/</idno>
+               <noteGrp><note target="cod_12123.xml" type="mentions">Beschreibung von  Cod. 12123</note></noteGrp></place>
+               <place xml:id="jesuiten_place__15">
                   <placeName>Buda</placeName>
                   <location type="coords">
                      <geo>47.50000 19.03333</geo>
@@ -182,13 +197,12 @@
                   <idno type="geonames">https://sws.geonames.org/724443/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q25409</idno>
                <noteGrp><note target="cod_12123.xml" type="mentions">Beschreibung von  Cod. 12123</note></noteGrp></place>
-               <place xml:id="jesuiten_place__19">
-                  <placeName>Banská Bystrica (Neosolium)</placeName>
+               <place xml:id="jesuiten_place__9">
+                  <placeName>Ljubljana</placeName>
                   <location type="coords">
-                     <geo>48.73946 19.15349</geo>
+                     <geo>46.05108 14.50513</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/3061186/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q144983</idno>
+                  <idno type="geonames">https://sws.geonames.org/3196359/</idno>
                <noteGrp><note target="cod_12123.xml" type="mentions">Beschreibung von  Cod. 12123</note></noteGrp></place>
                <place xml:id="jesuiten_place__14">
                   <placeName>Kőszeg</placeName>
@@ -198,12 +212,20 @@
                   <idno type="geonames">https://sws.geonames.org/3049366/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q613813</idno>
                <noteGrp><note target="cod_12123.xml" type="mentions">Beschreibung von  Cod. 12123</note></noteGrp></place>
-               <place xml:id="jesuiten_place__24">
-                  <placeName>Leoben</placeName>
+               <place xml:id="jesuiten_place__20">
+                  <placeName>Levoča (Leutschau)</placeName>
                   <location type="coords">
-                     <geo>47.37650 15.09144</geo>
+                     <geo>49.02173 20.59212</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/2772649/</idno>
+                  <idno type="geonames">https://sws.geonames.org/724294/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q242478</idno>
+               <noteGrp><note target="cod_12123.xml" type="mentions">Beschreibung von  Cod. 12123</note></noteGrp></place>
+               <place xml:id="jesuiten_place__25">
+                  <placeName>Judenburg</placeName>
+                  <location type="coords">
+                     <geo>47.16667 14.66667</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2775020/</idno>
                <noteGrp><note target="cod_12123.xml" type="mentions">Beschreibung von  Cod. 12123</note></noteGrp></place>
                <place xml:id="jesuiten_place__26">
                   <placeName>Klagenfurt</placeName>
@@ -211,20 +233,6 @@
                      <geo>46.62472 14.30528</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2774326/</idno>
-               <noteGrp><note target="cod_12123.xml" type="mentions">Beschreibung von  Cod. 12123</note></noteGrp></place>
-               <place xml:id="jesuiten_place__11">
-                  <placeName>Krems</placeName>
-                  <location type="coords">
-                     <geo>48.40921 15.61415</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2773549/</idno>
-               <noteGrp><note target="cod_12123.xml" type="mentions">Beschreibung von  Cod. 12123</note></noteGrp></place>
-               <place xml:id="jesuiten_place__9">
-                  <placeName>Ljubljana</placeName>
-                  <location type="coords">
-                     <geo>46.05108 14.50513</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3196359/</idno>
                <noteGrp><note target="cod_12123.xml" type="mentions">Beschreibung von  Cod. 12123</note></noteGrp></place>
                <place xml:id="jesuiten_place__2">
                   <placeName>Graz</placeName>
@@ -234,13 +242,6 @@
                   <idno type="geonames">https://sws.geonames.org/2778067/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q13298</idno>
                <noteGrp><note target="cod_12123.xml" type="mentions">Beschreibung von  Cod. 12123</note></noteGrp></place>
-               <place xml:id="jesuiten_place__25">
-                  <placeName>Judenburg</placeName>
-                  <location type="coords">
-                     <geo>47.16667 14.66667</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2775020/</idno>
-               <noteGrp><note target="cod_12123.xml" type="mentions">Beschreibung von  Cod. 12123</note></noteGrp></place>
                <place xml:id="jesuiten_place__29">
                   <placeName>Rijeka (Flumen / Fiume)</placeName>
                   <location type="coords">
@@ -249,13 +250,12 @@
                   <idno type="geonames">https://sws.geonames.org/3191648/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q1647</idno>
                <noteGrp><note target="cod_12123.xml" type="mentions">Beschreibung von  Cod. 12123</note></noteGrp></place>
-               <place xml:id="jesuiten_place__20">
-                  <placeName>Levoča (Leutschau)</placeName>
+               <place xml:id="jesuiten_place__24">
+                  <placeName>Leoben</placeName>
                   <location type="coords">
-                     <geo>49.02173 20.59212</geo>
+                     <geo>47.37650 15.09144</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/724294/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q242478</idno>
+                  <idno type="geonames">https://sws.geonames.org/2772649/</idno>
                <noteGrp><note target="cod_12123.xml" type="mentions">Beschreibung von  Cod. 12123</note></noteGrp></place>
                <place xml:id="jesuiten_place__8">
                   <placeName>Győr</placeName>
@@ -273,7 +273,7 @@
                      <note type="idno"><idno type="geonames">https://sws.geonames.org/2761369/</idno></note>
                   </location>
                   <idno type="gnd">https://d-nb.info/gnd/5556265-6</idno>
-               <noteGrp><note target="cod_12031.xml" type="mentions">Beschreibung von  Cod. 12031</note><note target="cod_12036.xml" type="mentions">Beschreibung von  Cod. 12036</note><note target="cod_12037.xml" type="mentions">Beschreibung von  Cod. 12037</note><note target="cod_12038.xml" type="mentions">Beschreibung von  Cod. 12038</note><note target="cod_12039.xml" type="mentions">Beschreibung von  Cod. 12039</note><note target="cod_12123.xml" type="mentions">Beschreibung von  Cod. 12123</note><note target="cod_12246.xml" type="mentions">Beschreibung von  Cod. 12246</note><note target="cod_12247.xml" type="mentions">Beschreibung von  Cod. 12247</note><note target="cod_12248.xml" type="mentions">Beschreibung von  Cod. 12248</note><note target="cod_12249.xml" type="mentions">Beschreibung von  Cod. 12249</note><note target="cod_12250.xml" type="mentions">Beschreibung von  Cod. 12250</note></noteGrp></org>
+               <noteGrp><note target="cod_12031.xml" type="mentions">Beschreibung von  Cod. 12031</note><note target="cod_12036.xml" type="mentions">Beschreibung von  Cod. 12036</note><note target="cod_12037.xml" type="mentions">Beschreibung von  Cod. 12037</note><note target="cod_12038.xml" type="mentions">Beschreibung von  Cod. 12038</note><note target="cod_12039.xml" type="mentions">Beschreibung von  Cod. 12039</note><note target="cod_12123.xml" type="mentions">Beschreibung von  Cod. 12123</note><note target="cod_12246.xml" type="mentions">Beschreibung von  Cod. 12246</note><note target="cod_12247.xml" type="mentions">Beschreibung von  Cod. 12247</note><note target="cod_12248.xml" type="mentions">Beschreibung von  Cod. 12248</note><note target="cod_12249.xml" type="mentions">Beschreibung von  Cod. 12249</note><note target="cod_12250.xml" type="mentions">Beschreibung von  Cod. 12250</note><note target="cod_12251.xml" type="mentions">Beschreibung von  Cod. 12251</note><note target="cod_12252.xml" type="mentions">Beschreibung von  Cod. 12252</note><note target="cod_12253.xml" type="mentions">Beschreibung von  Cod. 12253</note></noteGrp></org>
                <org xml:id="jesuiten_org__2">
                   <orgName>Jesuitenkolleg Wien</orgName>
                   <orgName type="alt">Collegium Viennense Academicum</orgName>
@@ -282,6 +282,6 @@
                      <geo>48.20849 16.37208</geo>
                      <note type="idno"><idno type="geonames">https://sws.geonames.org/2761369/</idno></note>
                   </location>
-               <noteGrp><note target="cod_12031.xml" type="mentions">Beschreibung von  Cod. 12031</note><note target="cod_12036.xml" type="mentions">Beschreibung von  Cod. 12036</note><note target="cod_12037.xml" type="mentions">Beschreibung von  Cod. 12037</note><note target="cod_12038.xml" type="mentions">Beschreibung von  Cod. 12038</note><note target="cod_12039.xml" type="mentions">Beschreibung von  Cod. 12039</note><note target="cod_12123.xml" type="mentions">Beschreibung von  Cod. 12123</note><note target="cod_12246.xml" type="mentions">Beschreibung von  Cod. 12246</note><note target="cod_12247.xml" type="mentions">Beschreibung von  Cod. 12247</note><note target="cod_12248.xml" type="mentions">Beschreibung von  Cod. 12248</note><note target="cod_12249.xml" type="mentions">Beschreibung von  Cod. 12249</note><note target="cod_12250.xml" type="mentions">Beschreibung von  Cod. 12250</note></noteGrp></org>
+               <noteGrp><note target="cod_12031.xml" type="mentions">Beschreibung von  Cod. 12031</note><note target="cod_12036.xml" type="mentions">Beschreibung von  Cod. 12036</note><note target="cod_12037.xml" type="mentions">Beschreibung von  Cod. 12037</note><note target="cod_12038.xml" type="mentions">Beschreibung von  Cod. 12038</note><note target="cod_12039.xml" type="mentions">Beschreibung von  Cod. 12039</note><note target="cod_12123.xml" type="mentions">Beschreibung von  Cod. 12123</note><note target="cod_12246.xml" type="mentions">Beschreibung von  Cod. 12246</note><note target="cod_12247.xml" type="mentions">Beschreibung von  Cod. 12247</note><note target="cod_12248.xml" type="mentions">Beschreibung von  Cod. 12248</note><note target="cod_12249.xml" type="mentions">Beschreibung von  Cod. 12249</note><note target="cod_12250.xml" type="mentions">Beschreibung von  Cod. 12250</note><note target="cod_12251.xml" type="mentions">Beschreibung von  Cod. 12251</note><note target="cod_12252.xml" type="mentions">Beschreibung von  Cod. 12252</note><note target="cod_12253.xml" type="mentions">Beschreibung von  Cod. 12253</note></noteGrp></org>
                </listOrg></back></text>
 </TEI>
