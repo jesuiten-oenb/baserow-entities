@@ -874,5 +874,33 @@
         "value": "Baia Sprie"
       }
     ]
+  },
+  "56": {
+    "id": 56,
+    "order": "56.00000000000000000000",
+    "Name": "Imperium Sinarum",
+    "Notes": null,
+    "places": [
+      {
+        "id": 148,
+        "value": "China"
+      }
+    ]
+  },
+  "57": {
+    "id": 57,
+    "order": "57.00000000000000000000",
+    "Name": "Marienburg",
+    "Notes": {
+      "id": 11394,
+      "value": "ger",
+      "color": "green"
+    },
+    "places": [
+      {
+        "id": 159,
+        "value": "Malbork"
+      }
+    ]
   }
 }

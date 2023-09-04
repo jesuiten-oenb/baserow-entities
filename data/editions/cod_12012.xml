@@ -1,0 +1,700 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cod_12012.xml" xml:base="https://oenb.ac.at" prev="https://oenb.ac.at/cod_11954.xml" next="https://oenb.ac.at/cod_12031.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Beschreibung von  Cod. 12012</title>
+                <title type="sub">Jesuiten Littera annuae</title>
+                <respStmt>
+                    <resp>Beschreibung und TEI-encoding</resp>
+                    <persName>
+                        <forename>Ivana</forename>
+                        <surname>Dobcheva</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="restricted">
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">This document is published under the Creative Commons licence Attribution 4.0 International (CC BY 4.0).</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:lang="de" xml:id="cod_12012">
+                    <msIdentifier>
+                        <country>Österreich</country>
+                        <settlement>Wien</settlement>
+                        <repository>Österreichische Nationalbibliothek</repository>
+                        <idno>Cod. 12012</idno>
+                    </msIdentifier>
+                    <head>
+                        <title/>
+                        <origDate notBefore="1631-01-01" notAfter="0010">1631-1659</origDate>
+                        <origPlace ref="#jesuiten_place__1">Wien (?)</origPlace>
+                        <note type="catalogue">
+                            <ref target="http://data.onb.ac.at/rec/AC13948844"/>
+                        </note>
+                    </head>
+                    <msContents>
+                        <summary>
+                                Zusammengesetzte Handschrift aus den Berichten mehreren jesuitischen Häusern. Die Berichte sind als einzelne kodikologischen Einheiten mit oft stark variierten Blattmaße gut erkennbar. Auf dem ersten Blatt ist ein rot bemaltes Papier (Druckmakulatur) aufgeklebt mit dem Titel: 'Historia collegium ab Anno 1630 ad anno 1659. Et anni multi et multa collegia intermissa'.
+                            <list>
+                                <item n="None">
+                                    <locus from="1r" to="10v">1r-10v</locus>a. 1630, 1631
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__165">Jesuitenkolleg Lublin</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="11r" to="12v">11r-12v</locus>a. 1633
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__165">Jesuitenkolleg Lublin</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="14r" to="18v">14r-18v</locus>a. 1636-1639
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__166">Jesuitenkolleg Lviv</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="19r" to="34r">19r-34r</locus>Provincia Polonia, Jahre 1635-1650
+                                </item>
+                                <item n="None">
+                                    <locus from="35r" to="37r">35r-37r</locus>a. 1653, 1654, 1655.
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__167">Jesuitenkolleg Vinnytsya</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="38r" to="38r">38r-38r</locus>a. 1653
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__168">Jesuitenresidenz Jarosław</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="40r" to="40v">40r-40v</locus>a. 1658
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__168">Jesuitenresidenz Jarosław</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="41r" to="42r">41r-42r</locus>a. 1659
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__168">Jesuitenresidenz Jarosław</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="43r" to="43v">43r-43v</locus>a. 1657, 1658, 1659
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__169">Jesuitenkolleg Gdańsk</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="44r" to="44v">44r-44v</locus>a. 1658, 1659, 1660
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__170">Jesuitenkolleg Bydgoszcz</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="45r" to="46v">45r-46v</locus>a. 1647, 1648, 1649
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__171">Jesuitenkolleg Jarosław</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="47r" to="52v">47r-52v</locus>Summaria informatio legationis ex imperio Sinarum ad S. sedem apostolicam a. 1653; interpretatio literarum sinicarum.
+                                    <listPlace>
+                                        <place>
+                                            <placeName key="#jesuiten_place__148">China</placeName>
+                                        </place>
+                                    </listPlace>
+                                </item>
+                                <item n="None">
+                                    <locus from="55r" to="61r">55r-61r</locus>Annua provinciae poloniae a. 1616
+                                </item>
+                                <item n="None">
+                                    <locus from="55r" to="57r">55r-57r</locus>a. 1616
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__172">Profeßhaus Kraków</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="57r" to="57v">57r-57v</locus>a. 1616
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__173">Probationshaus Kraków</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="57v" to="58r">57v-58r</locus>a. 1616
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__174">Jesuitenkolleg Poznań</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="58v" to="58v">58v-58v</locus>a. 1616
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__175">Jesuitenkolleg Kalisz</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="58v" to="59r">58v-59r</locus>a. 1616
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__171">Jesuitenkolleg Jarosław</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="59r" to="59v">59r-59v</locus>a. 1616
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__176">Jesuitenkolleg Sandomierz</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="59v" to="59v">59v-59v</locus>a. 1616
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__169">Jesuitenkolleg Gdańsk</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="60r" to="60v">60r-60v</locus>a. 1616
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__165">Jesuitenkolleg Lublin</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="61r" to="61r">61r-61r</locus>a. 1616
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__177">Jesuitenkolleg Torun</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="62r" to="71r">62r-71r</locus>Annua provinciae Polonae a. 1658 / 1655
+                                </item>
+                                <item n="None">
+                                    <locus from="64r" to="64r">64r-64r</locus>a. 1655
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__170">Jesuitenkolleg Bydgoszcz</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="64r" to="64r">64r-64r</locus>a. 1655
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__178">Jesuitenkolleg Brzesko</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="64v" to="65r">64v-65r</locus>a. 1655
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__175">Jesuitenkolleg Kalisz</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="65r" to="65v">65r-65v</locus>a. 1655
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__179">Jesuitenkolleg Kamieniec</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="65v" to="65v">65v-65v</locus>a. 1655
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__180">Jesuitenresidenz Konitz</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="65v" to="66r">65v-66r</locus>a. 1655
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__172">Profeßhaus Kraków</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="66r" to="66v">66r-66v</locus>a. 1655
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__181">Jesuitenkolleg Kraków</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="66v" to="66v">66v-66v</locus>a. 1655
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__173">Probationshaus Kraków</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="66v" to="67r">66v-67r</locus>a. 1655
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__182">Jesuitenkolleg Krosno</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="67r" to="67r">67r-67r</locus>a. 1655
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__169">Jesuitenkolleg Gdańsk</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="67r" to="67v">67r-67v</locus>a. 1655
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__183">Jesuitenkolleg Grudziądz</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="67v" to="67V">67v-67V</locus>a. 1655
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__171">Jesuitenkolleg Jarosław</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="67v" to="67v">67v-67v</locus>a. 1655
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__168">Jesuitenresidenz Jarosław</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="67v" to="68r">67v-68r</locus>a. 1655
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__166">Jesuitenkolleg Lviv</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="68r" to="68v">68r-68v</locus>a. 1655
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__165">Jesuitenkolleg Lublin</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="68v" to="68v">68v-68v</locus>a. 1655
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__184">Jesuitenkolleg Łucka</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="68v" to="69r">68v-69r</locus>a. 1655
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__185">Jesuitenresidenz Malbork</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="69r" to="69v">69r-69v</locus>a. 1655
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__186">Jesuitenkolleg Ostroh</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="69v" to="70r">69v-70r</locus>a. 1655
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__174">Jesuitenkolleg Poznań</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="70r" to="70r">70r-70r</locus>a. 1655
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__187">Jesuitenkolleg Przemyśl</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="70r" to="70v">70r-70v</locus>a. 1655
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__188">Jesuitenkolleg Rawa</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="70v" to="70v">70v-70v</locus>a. 1655
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__176">Jesuitenkolleg Sandomierz</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="70v" to="70v">70v-70v</locus>a. 1655
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__177">Jesuitenkolleg Torun</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="70v" to="71r">70v-71r</locus>a. 1655
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__189">Jesuitenresidenz Wałcz</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="72r" to="75r">72r-75r</locus>Supplementum historiae collegii Bidgostiensis SJ a. 1658, 1659, 1660
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__170">Jesuitenkolleg Bydgoszcz</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="76r" to="77v">76r-77v</locus>Supplementum historiae collegii Brestensis a. 1658
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__178">Jesuitenkolleg Brzesko</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="78r" to="80v">78r-80v</locus>a. 1658, 1659
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__166">Jesuitenkolleg Lviv</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="82r" to="86v">82r-86v</locus>a. 1658, 1659, 1660
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__179">Jesuitenkolleg Kamieniec</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="88r" to="89v">88r-89v</locus>a. 1658, 1659
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__176">Jesuitenkolleg Sandomierz</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="90r" to="90v">90r-90v</locus>a. 1659
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__177">Jesuitenkolleg Torun</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                            </list>
+                        </summary>
+                        <textLang mainLang="lat"/>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="codex">
+                            <supportDesc material="paper">
+                                <extent>
+                                    <measure type="leavesCount" quantity="81" unit="folio">i + 81 + ii fols.</measure>
+                                    <dimensions type="leaf_current" unit="mm">
+                                        <height/>
+                                        <width/>
+                                    </dimensions>
+                                </extent>
+                                <foliation>Moderne Foliierung: I, 1-32, 32*-90, I*.</foliation>
+                                <collation/>
+                            </supportDesc>
+                        </objectDesc>
+                        <accMat>Makulatur ausgelöst.</accMat>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><p/></body>
+    <back><listOrg><org xml:id="jesuiten_org__176">
+                  <orgName>Jesuitenkolleg Sandomierz</orgName>
+                  <orgName type="alt">Sandomiriense Collegium</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__152">Sandomierz</placeName>
+                     <geo>50.68265 21.74898</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/759603/</idno></note>
+                  </location>
+               <noteGrp><note target="cod_12012.xml" type="mentions">Beschreibung von  Cod. 12012</note></noteGrp></org>
+               <org xml:id="jesuiten_org__170">
+                  <orgName>Jesuitenkolleg Bydgoszcz</orgName>
+                  <orgName type="alt">Collegium Bidgostiense</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__147">Bydgoszcz</placeName>
+                     <geo>53.12350 18.00762</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/3102014/</idno></note>
+                  </location>
+               <noteGrp><note target="cod_12012.xml" type="mentions">Beschreibung von  Cod. 12012</note></noteGrp></org>
+               <org xml:id="jesuiten_org__178">
+                  <orgName>Jesuitenkolleg Brzesko</orgName>
+                  <orgName type="alt">Brestense Collegium</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__154">Brzesko</placeName>
+                     <geo>49.96911 20.60606</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/775183/</idno></note>
+                  </location>
+               <noteGrp><note target="cod_12012.xml" type="mentions">Beschreibung von  Cod. 12012</note></noteGrp></org>
+               <org xml:id="jesuiten_org__172">
+                  <orgName>Profeßhaus Kraków</orgName>
+                  <orgName type="alt">Domus Professa ad S. Barbara Cracoviensis</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__149">Kraków</placeName>
+                     <geo>50.06143 19.93658</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/3094802/</idno></note>
+                  </location>
+               <noteGrp><note target="cod_12012.xml" type="mentions">Beschreibung von  Cod. 12012</note></noteGrp></org>
+               <org xml:id="jesuiten_org__171">
+                  <orgName>Jesuitenkolleg Jarosław</orgName>
+                  <orgName type="alt">Collegium Jaroslaviense</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__145">Jarosław</placeName>
+                     <geo>50.01623 22.67776</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/770380/</idno></note>
+                  </location>
+               <noteGrp><note target="cod_12012.xml" type="mentions">Beschreibung von  Cod. 12012</note></noteGrp></org>
+               <org xml:id="jesuiten_org__180">
+                  <orgName>Jesuitenresidenz Konitz</orgName>
+                  <orgName type="alt">Residentia Choinecensis</orgName>
+               <noteGrp><note target="cod_12012.xml" type="mentions">Beschreibung von  Cod. 12012</note></noteGrp></org>
+               <org xml:id="jesuiten_org__177">
+                  <orgName>Jesuitenkolleg Torun</orgName>
+                  <orgName type="alt">Torunense Collegium</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__153">Torun</placeName>
+                     <geo>53.01375 18.59814</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/3083271/</idno></note>
+                  </location>
+               <noteGrp><note target="cod_12012.xml" type="mentions">Beschreibung von  Cod. 12012</note></noteGrp></org>
+               <org xml:id="jesuiten_org__165">
+                  <orgName>Jesuitenkolleg Lublin</orgName>
+                  <orgName type="alt">Collegium Lublinense</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__142">Lublin</placeName>
+                     <geo>51.25000 22.56667</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/765876/</idno></note>
+                  </location>
+               <noteGrp><note target="cod_12012.xml" type="mentions">Beschreibung von  Cod. 12012</note></noteGrp></org>
+               <org xml:id="jesuiten_org__182">
+                  <orgName>Jesuitenkolleg Krosno</orgName>
+                  <orgName type="alt">Crosnenfe Collegium</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__156">Krosno</placeName>
+                     <geo>49.68866 21.77058</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/767470/</idno></note>
+                  </location>
+               <noteGrp><note target="cod_12012.xml" type="mentions">Beschreibung von  Cod. 12012</note></noteGrp></org>
+               <org xml:id="jesuiten_org__168">
+                  <orgName>Jesuitenresidenz Jarosław</orgName>
+                  <orgName type="alt">Residentia suburbana Jaroslaviensis / Domus suburbana</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__145">Jarosław</placeName>
+                     <geo>50.01623 22.67776</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/770380/</idno></note>
+                  </location>
+               <noteGrp><note target="cod_12012.xml" type="mentions">Beschreibung von  Cod. 12012</note></noteGrp></org>
+               <org xml:id="jesuiten_org__175">
+                  <orgName>Jesuitenkolleg Kalisz</orgName>
+                  <orgName type="alt">Calissiense Collegium</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__151">Kalisz</placeName>
+                     <geo>51.76109 18.09102</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/3096880/</idno></note>
+                  </location>
+               <noteGrp><note target="cod_12012.xml" type="mentions">Beschreibung von  Cod. 12012</note></noteGrp></org>
+               <org xml:id="jesuiten_org__179">
+                  <orgName>Jesuitenkolleg Kamieniec</orgName>
+                  <orgName type="alt">Camenecense Collegium</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__155">Kamieniec</placeName>
+                     <geo>52.16614 16.46164</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/3096797/</idno></note>
+                  </location>
+               <noteGrp><note target="cod_12012.xml" type="mentions">Beschreibung von  Cod. 12012</note></noteGrp></org>
+               <org xml:id="jesuiten_org__185">
+                  <orgName>Jesuitenresidenz Malbork</orgName>
+                  <orgName type="alt">Residentia Mariaeburgensis</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__159">Malbork</placeName>
+                     <geo>54.03591 19.02660</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/3092472/</idno></note>
+                  </location>
+               <noteGrp><note target="cod_12012.xml" type="mentions">Beschreibung von  Cod. 12012</note></noteGrp></org>
+               <org xml:id="jesuiten_org__183">
+                  <orgName>Jesuitenkolleg Grudziądz</orgName>
+                  <orgName type="alt">Graudentinense Collegium</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__157">Grudziądz</placeName>
+                     <geo>53.48411 18.75366</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/3098218/</idno></note>
+                  </location>
+               <noteGrp><note target="cod_12012.xml" type="mentions">Beschreibung von  Cod. 12012</note></noteGrp></org>
+               <org xml:id="jesuiten_org__167">
+                  <orgName>Jesuitenkolleg Vinnytsya</orgName>
+                  <orgName type="alt">Collegium Vinnicensis</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__144">Vinnytsia</placeName>
+                     <geo>49.23220 28.46871</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/689558/</idno></note>
+                  </location>
+               <noteGrp><note target="cod_12012.xml" type="mentions">Beschreibung von  Cod. 12012</note></noteGrp></org>
+               <org xml:id="jesuiten_org__189">
+                  <orgName>Jesuitenresidenz Wałcz</orgName>
+                  <orgName type="alt">Residentia Valcensis</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__163">Wałcz</placeName>
+                     <geo>53.27787 16.47122</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/3082704/</idno></note>
+                  </location>
+               <noteGrp><note target="cod_12012.xml" type="mentions">Beschreibung von  Cod. 12012</note></noteGrp></org>
+            <org xml:id="jesuiten_org__174">
+                  <orgName>Jesuitenkolleg Poznań</orgName>
+                  <orgName type="alt">Posnaniense Collegium</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__150">Poznań</placeName>
+                     <geo>52.40692 16.92993</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/3088171/</idno></note>
+                  </location>
+               <noteGrp><note target="cod_12012.xml" type="mentions">Beschreibung von  Cod. 12012</note></noteGrp></org>
+               <org xml:id="jesuiten_org__184">
+                  <orgName>Jesuitenkolleg Łucka</orgName>
+                  <orgName type="alt">Luceoriense Collegium</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__158">Łucka</placeName>
+                     <geo>51.43646 22.63578</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/765824/</idno></note>
+                  </location>
+               <noteGrp><note target="cod_12012.xml" type="mentions">Beschreibung von  Cod. 12012</note></noteGrp></org>
+               <org xml:id="jesuiten_org__166">
+                  <orgName>Jesuitenkolleg Lviv</orgName>
+                  <orgName type="alt">Collegium Leopoliense</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__143">Lviv</placeName>
+                     <geo>49.83826 24.02324</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/702550/</idno></note>
+                  </location>
+               <noteGrp><note target="cod_12012.xml" type="mentions">Beschreibung von  Cod. 12012</note></noteGrp></org>
+               <org xml:id="jesuiten_org__186">
+                  <orgName>Jesuitenkolleg Ostroh</orgName>
+                  <orgName type="alt">Ostrogiense Collegium</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__160">Ostroh</placeName>
+                     <geo>50.32942 26.51425</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/698232/</idno></note>
+                  </location>
+               <noteGrp><note target="cod_12012.xml" type="mentions">Beschreibung von  Cod. 12012</note></noteGrp></org>
+               <org xml:id="jesuiten_org__173">
+                  <orgName>Probationshaus Kraków</orgName>
+                  <orgName type="alt">Cracoviensis Domus Primae Probationis</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__149">Kraków</placeName>
+                     <geo>50.06143 19.93658</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/3094802/</idno></note>
+                  </location>
+               <noteGrp><note target="cod_12012.xml" type="mentions">Beschreibung von  Cod. 12012</note></noteGrp></org>
+               <org xml:id="jesuiten_org__169">
+                  <orgName>Jesuitenkolleg Gdańsk</orgName>
+                  <orgName type="alt">Collegium Gedanense</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__146">Gdańsk</placeName>
+                     <geo>54.35227 18.64912</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/3099434/</idno></note>
+                  </location>
+               <noteGrp><note target="cod_12012.xml" type="mentions">Beschreibung von  Cod. 12012</note></noteGrp></org>
+               <org xml:id="jesuiten_org__187">
+                  <orgName>Jesuitenkolleg Przemyśl</orgName>
+                  <orgName type="alt">Premisliense Collegium</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__161">Przemyśl</placeName>
+                     <geo>49.78498 22.76728</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/761168/</idno></note>
+                  </location>
+               <noteGrp><note target="cod_12012.xml" type="mentions">Beschreibung von  Cod. 12012</note></noteGrp></org>
+               <org xml:id="jesuiten_org__188">
+                  <orgName>Jesuitenkolleg Rawa</orgName>
+                  <orgName type="alt">Ravense Collegium</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__162">Rawa</placeName>
+                     <geo>51.76437 20.25493</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/760584/</idno></note>
+                  </location>
+               <noteGrp><note target="cod_12012.xml" type="mentions">Beschreibung von  Cod. 12012</note></noteGrp></org>
+               <org xml:id="jesuiten_org__181">
+                  <orgName>Jesuitenkolleg Kraków</orgName>
+                  <orgName type="alt">Collegium Cracoviense</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__149">Kraków</placeName>
+                     <geo>50.06143 19.93658</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/3094802/</idno></note>
+                  </location>
+               <noteGrp><note target="cod_12012.xml" type="mentions">Beschreibung von  Cod. 12012</note></noteGrp></org>
+               </listOrg><listPlace><place xml:id="jesuiten_place__148">
+                  <placeName>China</placeName>
+               <noteGrp><note target="cod_12012.xml" type="mentions">Beschreibung von  Cod. 12012</note></noteGrp></place>
+               </listPlace></back></text>
+</TEI>

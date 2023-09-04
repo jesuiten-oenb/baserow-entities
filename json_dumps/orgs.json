@@ -7529,5 +7529,689 @@
         "alt_name": "Coggannensis nova missio in Turciae finibus",
         "notes": "Coggan oppidum Vespriniense in spiritualibus episcopo subditum, quod ad occasum quatuor circiter inde milliaribus Ungaricis, lacum Ungariae totius praecipuum habet, Balaton dictum; a meridie Dravum, a septemtrione Albam Regalem pari prope modum disjuncta interuallo; at uero ab oriente Sygethum (Cod. 12253, f. .21r).",
         "persons": []
+    },
+    "164": {
+        "id": 164,
+        "order": "161.00000000000000000000",
+        "name": "Jesuitenresidenz Wiener Neustadt (Leopoldina)",
+        "jesuiten_id": "jesuiten_org__164",
+        "located_in": [
+            {
+                "id": 12,
+                "order": "12.00000000000000000000",
+                "name": "Wiener Neustadt",
+                "jesuiten_id": "jesuiten_place__12",
+                "geonames": "https://www.geonames.org/2761353/wiener-neustadt.html",
+                "lat": "47.80485",
+                "long": "16.23196",
+                "wikidata": "https://www.wikidata.org/wiki/Q131612",
+                "alt_names": [],
+                "msdesc": [
+                    {
+                        "id": 4,
+                        "value": "Cod. 12066"
+                    },
+                    {
+                        "id": 6,
+                        "value": "Cod. 12123"
+                    },
+                    {
+                        "id": 10,
+                        "value": "Cod. 12138"
+                    },
+                    {
+                        "id": 11,
+                        "value": "Cod. 12266"
+                    },
+                    {
+                        "id": 31,
+                        "value": "Cod. 12273"
+                    },
+                    {
+                        "id": 32,
+                        "value": "Cod. 12274"
+                    },
+                    {
+                        "id": 33,
+                        "value": "Cod. 12275"
+                    },
+                    {
+                        "id": 34,
+                        "value": "Cod. 12276"
+                    },
+                    {
+                        "id": 30,
+                        "value": "Cod. 12277"
+                    }
+                ]
+            }
+        ],
+        "gnd": "",
+        "msdesc": [
+            {
+                "id": 44,
+                "value": "Cod. 12406"
+            }
+        ],
+        "alt_name": "Residentia Leopoldina; Residentia S. J. Neostad.",
+        "notes": "1674 durch testamentarische Stiftung des Erzherzogs Leopold Wilhelm erhielt Wiener Neustadt ein Kolleg. Seit 1740 bestand in der Stadt eine zweite Niederlassung (z. hl. Leopold).",
+        "persons": []
+    },
+    "165": {
+        "id": 165,
+        "order": "162.00000000000000000000",
+        "name": "Jesuitenkolleg Lublin",
+        "jesuiten_id": "jesuiten_org__165",
+        "located_in": [
+            {
+                "id": 142,
+                "order": "139.00000000000000000000",
+                "name": "Lublin",
+                "jesuiten_id": "jesuiten_place__142",
+                "geonames": "https://www.geonames.org/765876/lublin.html",
+                "lat": "51.25000",
+                "long": "22.56667",
+                "wikidata": "https://www.wikidata.org/wiki/Q37333",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Collegium Lublinense",
+        "notes": "",
+        "persons": []
+    },
+    "166": {
+        "id": 166,
+        "order": "163.00000000000000000000",
+        "name": "Jesuitenkolleg Lviv",
+        "jesuiten_id": "jesuiten_org__166",
+        "located_in": [
+            {
+                "id": 143,
+                "order": "140.00000000000000000000",
+                "name": "Lviv",
+                "jesuiten_id": "jesuiten_place__143",
+                "geonames": "https://www.geonames.org/702550/lviv.html",
+                "lat": "49.83826",
+                "long": "24.02324",
+                "wikidata": "https://www.wikidata.org/wiki/Q36036",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Collegium Leopoliense",
+        "notes": "",
+        "persons": []
+    },
+    "167": {
+        "id": 167,
+        "order": "164.00000000000000000000",
+        "name": "Jesuitenkolleg Vinnytsya",
+        "jesuiten_id": "jesuiten_org__167",
+        "located_in": [
+            {
+                "id": 144,
+                "order": "141.00000000000000000000",
+                "name": "Vinnytsia",
+                "jesuiten_id": "jesuiten_place__144",
+                "geonames": "https://www.geonames.org/689558/vinnytsya.html",
+                "lat": "49.23220",
+                "long": "28.46871",
+                "wikidata": "https://www.wikidata.org/wiki/Q157144",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Collegium Vinnicensis",
+        "notes": "",
+        "persons": []
+    },
+    "168": {
+        "id": 168,
+        "order": "165.00000000000000000000",
+        "name": "Jesuitenresidenz Jarosław",
+        "jesuiten_id": "jesuiten_org__168",
+        "located_in": [
+            {
+                "id": 145,
+                "order": "142.00000000000000000000",
+                "name": "Jarosław",
+                "jesuiten_id": "jesuiten_place__145",
+                "geonames": "https://www.geonames.org/770380/jaroslaw.html",
+                "lat": "50.01623",
+                "long": "22.67776",
+                "wikidata": "https://www.wikidata.org/wiki/Q721928",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Residentia suburbana Jaroslaviensis / Domus suburbana",
+        "notes": "",
+        "persons": []
+    },
+    "169": {
+        "id": 169,
+        "order": "166.00000000000000000000",
+        "name": "Jesuitenkolleg Gdańsk",
+        "jesuiten_id": "jesuiten_org__169",
+        "located_in": [
+            {
+                "id": 146,
+                "order": "143.00000000000000000000",
+                "name": "Gdańsk",
+                "jesuiten_id": "jesuiten_place__146",
+                "geonames": "https://www.geonames.org/3099434/gdansk.html",
+                "lat": "54.35227",
+                "long": "18.64912",
+                "wikidata": "https://www.wikidata.org/wiki/Q1792",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Collegium Gedanense",
+        "notes": "",
+        "persons": []
+    },
+    "170": {
+        "id": 170,
+        "order": "167.00000000000000000000",
+        "name": "Jesuitenkolleg Bydgoszcz",
+        "jesuiten_id": "jesuiten_org__170",
+        "located_in": [
+            {
+                "id": 147,
+                "order": "144.00000000000000000000",
+                "name": "Bydgoszcz",
+                "jesuiten_id": "jesuiten_place__147",
+                "geonames": "https://www.geonames.org/3102014/bydgoszcz.html",
+                "lat": "53.12350",
+                "long": "18.00762",
+                "wikidata": "https://www.wikidata.org/wiki/Q41252",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Collegium Bidgostiense",
+        "notes": "",
+        "persons": []
+    },
+    "171": {
+        "id": 171,
+        "order": "168.00000000000000000000",
+        "name": "Jesuitenkolleg Jarosław",
+        "jesuiten_id": "jesuiten_org__171",
+        "located_in": [
+            {
+                "id": 145,
+                "order": "142.00000000000000000000",
+                "name": "Jarosław",
+                "jesuiten_id": "jesuiten_place__145",
+                "geonames": "https://www.geonames.org/770380/jaroslaw.html",
+                "lat": "50.01623",
+                "long": "22.67776",
+                "wikidata": "https://www.wikidata.org/wiki/Q721928",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Collegium Jaroslaviense",
+        "notes": "",
+        "persons": []
+    },
+    "172": {
+        "id": 172,
+        "order": "169.00000000000000000000",
+        "name": "Profeßhaus Kraków",
+        "jesuiten_id": "jesuiten_org__172",
+        "located_in": [
+            {
+                "id": 149,
+                "order": "146.00000000000000000000",
+                "name": "Kraków",
+                "jesuiten_id": "jesuiten_place__149",
+                "geonames": "https://www.geonames.org/3094802/krakow.html",
+                "lat": "50.06143",
+                "long": "19.93658",
+                "wikidata": "https://www.wikidata.org/wiki/Q31487",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Domus Professa ad S. Barbara Cracoviensis",
+        "notes": "",
+        "persons": []
+    },
+    "173": {
+        "id": 173,
+        "order": "170.00000000000000000000",
+        "name": "Probationshaus Kraków",
+        "jesuiten_id": "jesuiten_org__173",
+        "located_in": [
+            {
+                "id": 149,
+                "order": "146.00000000000000000000",
+                "name": "Kraków",
+                "jesuiten_id": "jesuiten_place__149",
+                "geonames": "https://www.geonames.org/3094802/krakow.html",
+                "lat": "50.06143",
+                "long": "19.93658",
+                "wikidata": "https://www.wikidata.org/wiki/Q31487",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Cracoviensis Domus Primae Probationis",
+        "notes": "",
+        "persons": []
+    },
+    "174": {
+        "id": 174,
+        "order": "171.00000000000000000000",
+        "name": "Jesuitenkolleg Poznań",
+        "jesuiten_id": "jesuiten_org__174",
+        "located_in": [
+            {
+                "id": 150,
+                "order": "147.00000000000000000000",
+                "name": "Poznań",
+                "jesuiten_id": "jesuiten_place__150",
+                "geonames": "https://www.geonames.org/3088171/poznan.html",
+                "lat": "52.40692",
+                "long": "16.92993",
+                "wikidata": "https://www.wikidata.org/wiki/Q268",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Posnaniense Collegium",
+        "notes": "",
+        "persons": []
+    },
+    "175": {
+        "id": 175,
+        "order": "172.00000000000000000000",
+        "name": "Jesuitenkolleg Kalisz",
+        "jesuiten_id": "jesuiten_org__175",
+        "located_in": [
+            {
+                "id": 151,
+                "order": "148.00000000000000000000",
+                "name": "Kalisz",
+                "jesuiten_id": "jesuiten_place__151",
+                "geonames": "https://www.geonames.org/3096880/kalisz.html",
+                "lat": "51.76109",
+                "long": "18.09102",
+                "wikidata": "https://www.wikidata.org/wiki/Q52842",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Calissiense Collegium",
+        "notes": "",
+        "persons": []
+    },
+    "176": {
+        "id": 176,
+        "order": "173.00000000000000000000",
+        "name": "Jesuitenkolleg Sandomierz",
+        "jesuiten_id": "jesuiten_org__176",
+        "located_in": [
+            {
+                "id": 152,
+                "order": "149.00000000000000000000",
+                "name": "Sandomierz",
+                "jesuiten_id": "jesuiten_place__152",
+                "geonames": "https://www.geonames.org/759603/sandomierz.html",
+                "lat": "50.68265",
+                "long": "21.74898",
+                "wikidata": "https://www.wikidata.org/wiki/Q193177",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Sandomiriense Collegium",
+        "notes": "",
+        "persons": []
+    },
+    "177": {
+        "id": 177,
+        "order": "174.00000000000000000000",
+        "name": "Jesuitenkolleg Torun",
+        "jesuiten_id": "jesuiten_org__177",
+        "located_in": [
+            {
+                "id": 153,
+                "order": "150.00000000000000000000",
+                "name": "Torun",
+                "jesuiten_id": "jesuiten_place__153",
+                "geonames": "https://www.geonames.org/3083271/torun.html",
+                "lat": "53.01375",
+                "long": "18.59814",
+                "wikidata": "https://www.wikidata.org/wiki/Q47554",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Torunense Collegium",
+        "notes": "",
+        "persons": []
+    },
+    "178": {
+        "id": 178,
+        "order": "175.00000000000000000000",
+        "name": "Jesuitenkolleg Brzesko",
+        "jesuiten_id": "jesuiten_org__178",
+        "located_in": [
+            {
+                "id": 154,
+                "order": "151.00000000000000000000",
+                "name": "Brzesko",
+                "jesuiten_id": "jesuiten_place__154",
+                "geonames": "https://www.geonames.org/775183/brzesko.html",
+                "lat": "49.96911",
+                "long": "20.60606",
+                "wikidata": "https://www.wikidata.org/wiki/Q324884",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Brestense Collegium",
+        "notes": "",
+        "persons": []
+    },
+    "179": {
+        "id": 179,
+        "order": "176.00000000000000000000",
+        "name": "Jesuitenkolleg Kamieniec",
+        "jesuiten_id": "jesuiten_org__179",
+        "located_in": [
+            {
+                "id": 155,
+                "order": "152.00000000000000000000",
+                "name": "Kamieniec",
+                "jesuiten_id": "jesuiten_place__155",
+                "geonames": "https://www.geonames.org/3096797/kamieniec.html",
+                "lat": "52.16614",
+                "long": "16.46164",
+                "wikidata": "",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Camenecense Collegium",
+        "notes": "",
+        "persons": []
+    },
+    "180": {
+        "id": 180,
+        "order": "177.00000000000000000000",
+        "name": "Jesuitenresidenz Konitz",
+        "jesuiten_id": "jesuiten_org__180",
+        "located_in": [],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Residentia Choinecensis",
+        "notes": "",
+        "persons": []
+    },
+    "181": {
+        "id": 181,
+        "order": "178.00000000000000000000",
+        "name": "Jesuitenkolleg Kraków",
+        "jesuiten_id": "jesuiten_org__181",
+        "located_in": [
+            {
+                "id": 149,
+                "order": "146.00000000000000000000",
+                "name": "Kraków",
+                "jesuiten_id": "jesuiten_place__149",
+                "geonames": "https://www.geonames.org/3094802/krakow.html",
+                "lat": "50.06143",
+                "long": "19.93658",
+                "wikidata": "https://www.wikidata.org/wiki/Q31487",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Collegium Cracoviense",
+        "notes": "",
+        "persons": []
+    },
+    "182": {
+        "id": 182,
+        "order": "179.00000000000000000000",
+        "name": "Jesuitenkolleg Krosno",
+        "jesuiten_id": "jesuiten_org__182",
+        "located_in": [
+            {
+                "id": 156,
+                "order": "153.00000000000000000000",
+                "name": "Krosno",
+                "jesuiten_id": "jesuiten_place__156",
+                "geonames": "https://www.geonames.org/767470/krosno.html",
+                "lat": "49.68866",
+                "long": "21.77058",
+                "wikidata": "https://www.wikidata.org/wiki/Q826068",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Crosnenfe Collegium",
+        "notes": "",
+        "persons": []
+    },
+    "183": {
+        "id": 183,
+        "order": "180.00000000000000000000",
+        "name": "Jesuitenkolleg Grudziądz",
+        "jesuiten_id": "jesuiten_org__183",
+        "located_in": [
+            {
+                "id": 157,
+                "order": "154.00000000000000000000",
+                "name": "Grudziądz",
+                "jesuiten_id": "jesuiten_place__157",
+                "geonames": "https://www.geonames.org/3098218/grudziadz.html",
+                "lat": "53.48411",
+                "long": "18.75366",
+                "wikidata": "https://www.wikidata.org/wiki/Q123511",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Graudentinense Collegium",
+        "notes": "",
+        "persons": []
+    },
+    "184": {
+        "id": 184,
+        "order": "181.00000000000000000000",
+        "name": "Jesuitenkolleg Łucka",
+        "jesuiten_id": "jesuiten_org__184",
+        "located_in": [
+            {
+                "id": 158,
+                "order": "155.00000000000000000000",
+                "name": "Łucka",
+                "jesuiten_id": "jesuiten_place__158",
+                "geonames": "https://www.geonames.org/765824/lucka.html",
+                "lat": "51.43646",
+                "long": "22.63578",
+                "wikidata": "",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Luceoriense Collegium",
+        "notes": "",
+        "persons": []
+    },
+    "185": {
+        "id": 185,
+        "order": "182.00000000000000000000",
+        "name": "Jesuitenresidenz Malbork",
+        "jesuiten_id": "jesuiten_org__185",
+        "located_in": [
+            {
+                "id": 159,
+                "order": "156.00000000000000000000",
+                "name": "Malbork",
+                "jesuiten_id": "jesuiten_place__159",
+                "geonames": "https://www.geonames.org/3092472/malbork.html",
+                "lat": "54.03591",
+                "long": "19.02660",
+                "wikidata": "https://de.wikipedia.org/wiki/Malbork",
+                "alt_names": [
+                    {
+                        "id": 57,
+                        "value": "Marienburg"
+                    }
+                ],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Residentia Mariaeburgensis",
+        "notes": "",
+        "persons": []
+    },
+    "186": {
+        "id": 186,
+        "order": "183.00000000000000000000",
+        "name": "Jesuitenkolleg Ostroh",
+        "jesuiten_id": "jesuiten_org__186",
+        "located_in": [
+            {
+                "id": 160,
+                "order": "157.00000000000000000000",
+                "name": "Ostroh",
+                "jesuiten_id": "jesuiten_place__160",
+                "geonames": "https://www.geonames.org/698232/ostroh.html",
+                "lat": "50.32942",
+                "long": "26.51425",
+                "wikidata": "https://de.wikipedia.org/wiki/Ostroh",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Ostrogiense Collegium",
+        "notes": "",
+        "persons": []
+    },
+    "187": {
+        "id": 187,
+        "order": "184.00000000000000000000",
+        "name": "Jesuitenkolleg Przemyśl",
+        "jesuiten_id": "jesuiten_org__187",
+        "located_in": [
+            {
+                "id": 161,
+                "order": "158.00000000000000000000",
+                "name": "Przemyśl",
+                "jesuiten_id": "jesuiten_place__161",
+                "geonames": "https://www.geonames.org/761168/przemysl.html",
+                "lat": "49.78498",
+                "long": "22.76728",
+                "wikidata": "https://de.wikipedia.org/wiki/Przemy%C5%9Bl",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Premisliense Collegium",
+        "notes": "",
+        "persons": []
+    },
+    "188": {
+        "id": 188,
+        "order": "185.00000000000000000000",
+        "name": "Jesuitenkolleg Rawa",
+        "jesuiten_id": "jesuiten_org__188",
+        "located_in": [
+            {
+                "id": 162,
+                "order": "159.00000000000000000000",
+                "name": "Rawa",
+                "jesuiten_id": "jesuiten_place__162",
+                "geonames": "https://www.geonames.org/760584/rawa-mazowiecka.html",
+                "lat": "51.76437",
+                "long": "20.25493",
+                "wikidata": "https://www.wikidata.org/wiki/Q149059",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Ravense Collegium",
+        "notes": "",
+        "persons": []
+    },
+    "189": {
+        "id": 189,
+        "order": "186.00000000000000000000",
+        "name": "Jesuitenresidenz Wałcz",
+        "jesuiten_id": "jesuiten_org__189",
+        "located_in": [
+            {
+                "id": 163,
+                "order": "160.00000000000000000000",
+                "name": "Wałcz",
+                "jesuiten_id": "jesuiten_place__163",
+                "geonames": "https://www.geonames.org/3082704/walcz.html",
+                "lat": "53.27787",
+                "long": "16.47122",
+                "wikidata": "https://www.wikidata.org/wiki/Q935744",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Residentia Valcensis",
+        "notes": "",
+        "persons": []
     }
 }
