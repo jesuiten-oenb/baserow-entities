@@ -1262,6 +1262,26 @@
                   <idno type="geonames">https://sws.geonames.org/3082704/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q935744</idno>
                </place>
+               <place xml:id="jesuiten_place__164">
+                  <placeName>Moldavia</placeName>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q10957559</idno>
+               <noteGrp><note target="cod_12041.xml" type="mentions">Beschreibung von  Cod. 12041</note></noteGrp></place>
+               <place xml:id="jesuiten_place__165">
+                  <placeName>Celje</placeName>
+                  <location type="coords">
+                     <geo>46.23092 15.26044</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3202781/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1012</idno>
+               </place>
+               <place xml:id="jesuiten_place__166">
+                  <placeName>Muráň Castle</placeName>
+                  <location type="coords">
+                     <geo>48.74097 20.04961</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/724096/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q573241</idno>
+               </place>
             </listPlace>
          </div>
       </body>

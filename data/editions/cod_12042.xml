@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cod_12251.xml" xml:base="https://oenb.ac.at" prev="https://oenb.ac.at/cod_12250.xml" next="https://oenb.ac.at/cod_12252.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cod_12042.xml" xml:base="https://oenb.ac.at" prev="https://oenb.ac.at/cod_12041.xml" next="https://oenb.ac.at/cod_12043.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">Beschreibung von  Cod. 12251</title>
+                <title type="main">Beschreibung von  Cod. 12042</title>
                 <title type="sub">Jesuiten Littera annuae</title>
                 <respStmt>
                     <resp>Beschreibung und TEI-encoding</resp>
@@ -19,27 +19,30 @@
                 </availability>
             </publicationStmt>
             <sourceDesc>
-                <msDesc xml:lang="de" xml:id="cod_12251">
+                <msDesc xml:lang="de" xml:id="cod_12042">
                     <msIdentifier>
                         <country>Österreich</country>
                         <settlement>Wien</settlement>
                         <repository>Österreichische Nationalbibliothek</repository>
-                        <idno>Cod. 12251</idno>
+                        <idno>Cod. 12042</idno>
                     </msIdentifier>
                     <head>
                         <title/>
-                        <origDate notBefore="1641-01-01" notAfter="0010">1641–1642</origDate>
+                        <origDate notBefore="1646-01-01" notAfter="0010">1646–Jan. 1648</origDate>
                         <origPlace ref="#jesuiten_place__1">Wien (?)</origPlace>
+                        <note type="facs">
+                            <ref target="http://data.onb.ac.at/dtl/9065776"/>
+                        </note>
                         <note type="catalogue">
-                            <ref target="http://data.onb.ac.at/rec/AC13949645"/>
+                            <ref target="http://data.onb.ac.at/rec/AC13947707"/>
                         </note>
                     </head>
                     <msContents>
                         <summary>
-                                Die Handschrift besteht aus einer kodikologischen Einheit; vorwiegend von einer Hand geschrieben. Der Bericht ist nach Orten bzw. Häusern gegliedert.
+                                Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist nach Orten bzw. Häusern gegliedert.
                             <list>
                                 <item n="None">
-                                    <locus from="5" to="11">5-11</locus>
+                                    <locus from="3" to="23">3-23</locus>
                                     <listOrg>
                                         <org>
                                             <orgName key="#jesuiten_org__1">Profeßhaus Wien</orgName>
@@ -47,31 +50,15 @@
                                     </listOrg>
                                 </item>
                                 <item n="None">
-                                    <locus from="11" to="18">11-18</locus>
+                                    <locus from="23" to="28">23-28</locus>
                                     <listOrg>
                                         <org>
-                                            <orgName key="#jesuiten_org__2">Jesuitenkolleg Wien</orgName>
+                                            <orgName key="#jesuiten_org__41">Missio Castrensis</orgName>
                                         </org>
                                     </listOrg>
                                 </item>
                                 <item n="None">
-                                    <locus from="18" to="19">18-19</locus>
-                                    <listOrg>
-                                        <org>
-                                            <orgName key="#jesuiten_org__3">Jesuitenresidenz S. Bernardi</orgName>
-                                        </org>
-                                    </listOrg>
-                                </item>
-                                <item n="None">
-                                    <locus from="19" to="23">19-23</locus>
-                                    <listOrg>
-                                        <org>
-                                            <orgName key="#jesuiten_org__50">Jesuitenresidenz Sopron</orgName>
-                                        </org>
-                                    </listOrg>
-                                </item>
-                                <item n="None">
-                                    <locus from="23" to="30">23-30</locus>
+                                    <locus from="29" to="35">29-35</locus>
                                     <listOrg>
                                         <org>
                                             <orgName key="#jesuiten_org__4">Probationshaus Wien</orgName>
@@ -79,7 +66,15 @@
                                     </listOrg>
                                 </item>
                                 <item n="None">
-                                    <locus from="30" to="39">30-39</locus>
+                                    <locus from="35" to="36">35-36</locus>
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__55">Jesuitenresidenz Žireč</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="36" to="45">36-45</locus>
                                     <listOrg>
                                         <org>
                                             <orgName key="#jesuiten_org__5">Jesuitenkolleg Graz</orgName>
@@ -87,7 +82,7 @@
                                     </listOrg>
                                 </item>
                                 <item n="None">
-                                    <locus from="39" to="40">39-40</locus>
+                                    <locus from="46" to="49">46-49</locus>
                                     <listOrg>
                                         <org>
                                             <orgName key="#jesuiten_org__7">Jesuitenresidenz Millstatt</orgName>
@@ -95,15 +90,7 @@
                                     </listOrg>
                                 </item>
                                 <item n="None">
-                                    <locus from="40" to="41">40-41</locus>
-                                    <listOrg>
-                                        <org>
-                                            <orgName key="#jesuiten_org__6">Ferdinandeum</orgName>
-                                        </org>
-                                    </listOrg>
-                                </item>
-                                <item n="None">
-                                    <locus from="41" to="47">41-47</locus>
+                                    <locus from="49" to="59">49-59</locus>
                                     <listOrg>
                                         <org>
                                             <orgName key="#jesuiten_org__11">Jesuitenkolleg Trnava</orgName>
@@ -111,58 +98,39 @@
                                     </listOrg>
                                 </item>
                                 <item n="None">
-                                    <locus from="47" to="48">47-48</locus>
+                                    <locus from="59" to="60">59-60</locus>
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__64">Jesuitenreisidenz Kláštor pod Znievom</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="60" to="62">60-62</locus>
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__47">Jesuitenresidenz Gyöngyös</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="62" to="68">62-68</locus>
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__128">Jesuitenmission Pécs</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="68" to="69">68-69</locus>
                                     <listOrg>
                                         <org>
                                             <orgName key="#jesuiten_org__130">Jesuitenmission Palatina</orgName>
                                         </org>
-                                        <org>
-                                            <orgName key="#jesuiten_org__146">Jesuitenmission Papensis</orgName>
-                                        </org>
                                     </listOrg>
                                 </item>
                                 <item n="None">
-                                    <locus from="48" to="55">48-55</locus>
-                                    <listOrg>
-                                        <org>
-                                            <orgName key="#jesuiten_org__13">Jesuitenkolleg Ljubljana</orgName>
-                                        </org>
-                                    </listOrg>
-                                </item>
-                                <item n="None">
-                                    <locus from="55" to="55">55-55</locus>
-                                    <listOrg>
-                                        <org>
-                                            <orgName key="#jesuiten_org__14">Jesuitenresidenz Šentjernej</orgName>
-                                        </org>
-                                    </listOrg>
-                                </item>
-                                <item n="None">
-                                    <locus from="55" to="64">55-64</locus>
-                                    <listOrg>
-                                        <org>
-                                            <orgName key="#jesuiten_org__18">Jesuitenkolleg Zagreb</orgName>
-                                        </org>
-                                    </listOrg>
-                                </item>
-                                <item n="None">
-                                    <locus from="64" to="71">64-71</locus>
-                                    <listOrg>
-                                        <org>
-                                            <orgName key="#jesuiten_org__36">Jesuitenkolleg Gorizia</orgName>
-                                        </org>
-                                    </listOrg>
-                                </item>
-                                <item n="None">
-                                    <locus from="71" to="76">71-76</locus>
-                                    <listOrg>
-                                        <org>
-                                            <orgName key="#jesuiten_org__38">Jesuitenkolleg Trieste</orgName>
-                                        </org>
-                                    </listOrg>
-                                </item>
-                                <item n="None">
-                                    <locus from="76" to="79">76-79</locus>
+                                    <locus from="69" to="74">69-74</locus>
                                     <listOrg>
                                         <org>
                                             <orgName key="#jesuiten_org__16">Jesuitenkolleg Klagenfurt</orgName>
@@ -170,7 +138,7 @@
                                     </listOrg>
                                 </item>
                                 <item n="None">
-                                    <locus from="79" to="80">79-80</locus>
+                                    <locus from="74" to="76">74-76</locus>
                                     <listOrg>
                                         <org>
                                             <orgName key="#jesuiten_org__17">Jesuitenresidenz Eberndorf</orgName>
@@ -178,47 +146,7 @@
                                     </listOrg>
                                 </item>
                                 <item n="None">
-                                    <locus from="80" to="82">80-82</locus>
-                                    <listOrg>
-                                        <org>
-                                            <orgName key="#jesuiten_org__148">Jesuitenmission Straßburg (Kärnten)</orgName>
-                                        </org>
-                                    </listOrg>
-                                </item>
-                                <item n="None">
-                                    <locus from="82" to="88">82-88</locus>
-                                    <listOrg>
-                                        <org>
-                                            <orgName key="#jesuiten_org__8">Jesuitenkolleg Linz</orgName>
-                                        </org>
-                                    </listOrg>
-                                </item>
-                                <item n="None">
-                                    <locus from="88" to="93">88-93</locus>
-                                    <listOrg>
-                                        <org>
-                                            <orgName key="#jesuiten_org__10">Jesuitenkolleg Passau</orgName>
-                                        </org>
-                                    </listOrg>
-                                </item>
-                                <item n="None">
-                                    <locus from="93" to="93">93-93</locus>
-                                    <listOrg>
-                                        <org>
-                                            <orgName key="#jesuiten_org__27">Jesuitenresidenz Traunkirchen</orgName>
-                                        </org>
-                                    </listOrg>
-                                </item>
-                                <item n="None">
-                                    <locus from="93" to="110">93-110</locus>
-                                    <listOrg>
-                                        <org>
-                                            <orgName key="#jesuiten_org__52">Jesuitenkolleg Leoben</orgName>
-                                        </org>
-                                    </listOrg>
-                                </item>
-                                <item n="None">
-                                    <locus from="110" to="114">110-114</locus>
+                                    <locus from="76" to="82">76-82</locus>
                                     <listOrg>
                                         <org>
                                             <orgName key="#jesuiten_org__35">Jesuitenkolleg Krems</orgName>
@@ -226,15 +154,7 @@
                                     </listOrg>
                                 </item>
                                 <item n="None">
-                                    <locus from="115" to="125">115-125</locus>
-                                    <listOrg>
-                                        <org>
-                                            <orgName key="#jesuiten_org__37">Jesuitenkolleg Judenburg</orgName>
-                                        </org>
-                                    </listOrg>
-                                </item>
-                                <item n="None">
-                                    <locus from="125" to="130">125-130</locus>
+                                    <locus from="82" to="85">82-85</locus>
                                     <listOrg>
                                         <org>
                                             <orgName key="#jesuiten_org__40">Jesuitenkolleg Rijeka</orgName>
@@ -242,39 +162,15 @@
                                     </listOrg>
                                 </item>
                                 <item n="None">
-                                    <locus from="130" to="134">130-134</locus>
+                                    <locus from="85" to="87">85-87</locus>
                                     <listOrg>
                                         <org>
-                                            <orgName key="#jesuiten_org__53">Jesuitenkolleg Steyr</orgName>
+                                            <orgName key="#jesuiten_org__36">Jesuitenkolleg Gorizia</orgName>
                                         </org>
                                     </listOrg>
                                 </item>
                                 <item n="None">
-                                    <locus from="134" to="138">134-138</locus>
-                                    <listOrg>
-                                        <org>
-                                            <orgName key="#jesuiten_org__9">Jesuitenkolleg Bratislava</orgName>
-                                        </org>
-                                    </listOrg>
-                                </item>
-                                <item n="None">
-                                    <locus from="138" to="146">138-146</locus>
-                                    <listOrg>
-                                        <org>
-                                            <orgName key="#jesuiten_org__12">Jesuitenkolleg Győr</orgName>
-                                        </org>
-                                    </listOrg>
-                                </item>
-                                <item n="None">
-                                    <locus from="146" to="148">146-148</locus>
-                                    <listOrg>
-                                        <org>
-                                            <orgName key="#jesuiten_org__129">Jesuitenmission Komárom</orgName>
-                                        </org>
-                                    </listOrg>
-                                </item>
-                                <item n="None">
-                                    <locus from="148" to="160">148-160</locus>
+                                    <locus from="87" to="92">87-92</locus>
                                     <listOrg>
                                         <org>
                                             <orgName key="#jesuiten_org__145">Jesuitenkolleg Humenné</orgName>
@@ -282,15 +178,135 @@
                                     </listOrg>
                                 </item>
                                 <item n="None">
-                                    <locus from="160" to="161">160-161</locus>
+                                    <locus from="92" to="92">92-92</locus>
                                     <listOrg>
                                         <org>
-                                            <orgName key="#jesuiten_org__29">Jesuitenmission Spiš</orgName>
+                                            <orgName key="#jesuiten_org__131">Jesuitenmission Carolina</orgName>
                                         </org>
                                     </listOrg>
                                 </item>
                                 <item n="None">
-                                    <locus from="161" to="166">161-166</locus>
+                                    <locus from="92" to="92">92-92</locus>
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__190">Jesuitenmission</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="93" to="94">93-94</locus>
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__191">Jesuitenmission Timişoara</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="94" to="98">94-98</locus>
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__192">Jesuitenmission Moldavia</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="98" to="108">98-108</locus>
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__37">Jesuitenkolleg Judenburg</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="108" to="117">108-117</locus>
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__13">Jesuitenkolleg Ljubljana</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="117" to="177">117-177</locus>
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__14">Jesuitenresidenz Šentjernej</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="117" to="124">117-124</locus>
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__52">Jesuitenkolleg Leoben</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="124" to="130">124-130</locus>
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__8">Jesuitenkolleg Linz</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="130" to="132">130-132</locus>
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__10">Jesuitenkolleg Passau</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="132" to="133">132-133</locus>
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__27">Jesuitenresidenz Traunkirchen</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="133" to="137">133-137</locus>
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__9">Jesuitenkolleg Bratislava</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="137" to="141">137-141</locus>
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__53">Jesuitenkolleg Steyr</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="142" to="145">142-145</locus>
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__38">Jesuitenkolleg Trieste</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="145" to="156">145-156</locus>
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__18">Jesuitenkolleg Zagreb</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="157" to="159">157-159</locus>
+                                    <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__50">Jesuitenresidenz Sopron</orgName>
+                                        </org>
+                                    </listOrg>
+                                </item>
+                                <item n="None">
+                                    <locus from="159" to="162">159-162</locus>
                                     <listOrg>
                                         <org>
                                             <orgName key="#jesuiten_org__44">Jesuitenresidenz Varaždin</orgName>
@@ -298,10 +314,10 @@
                                     </listOrg>
                                 </item>
                                 <item n="None">
-                                    <locus from="166" to="172">166-172</locus>
+                                    <locus from="162" to="165">162-165</locus>
                                     <listOrg>
                                         <org>
-                                            <orgName key="#jesuiten_org__34">Jesuitenresidenz Pécs</orgName>
+                                            <orgName key="#jesuiten_org__2">Jesuitenkolleg Wien</orgName>
                                         </org>
                                     </listOrg>
                                 </item>
@@ -319,7 +335,7 @@
                                         <width/>
                                     </dimensions>
                                 </extent>
-                                <foliation>Zeitgenössische Paginierung 1-172.</foliation>
+                                <foliation>Zeitgenössische Paginierung 1–166.</foliation>
                                 <collation/>
                             </supportDesc>
                         </objectDesc>
@@ -350,15 +366,6 @@
                   </location>
                   <note>1632–1773</note>
                <noteGrp><note target="cod_12036.xml" type="mentions">Beschreibung von  Cod. 12036</note><note target="cod_12037.xml" type="mentions">Beschreibung von  Cod. 12037</note><note target="cod_12038.xml" type="mentions">Beschreibung von  Cod. 12038</note><note target="cod_12039.xml" type="mentions">Beschreibung von  Cod. 12039</note><note target="cod_12040.xml" type="mentions">Beschreibung von  Cod. 12040</note><note target="cod_12041.xml" type="mentions">Beschreibung von  Cod. 12041</note><note target="cod_12042.xml" type="mentions">Beschreibung von  Cod. 12042</note><note target="cod_12246.xml" type="mentions">Beschreibung von  Cod. 12246</note><note target="cod_12247.xml" type="mentions">Beschreibung von  Cod. 12247</note><note target="cod_12248.xml" type="mentions">Beschreibung von  Cod. 12248</note><note target="cod_12251.xml" type="mentions">Beschreibung von  Cod. 12251</note><note target="cod_12252.xml" type="mentions">Beschreibung von  Cod. 12252</note><note target="cod_12253.xml" type="mentions">Beschreibung von  Cod. 12253</note></noteGrp></org>
-               <org xml:id="jesuiten_org__34">
-                  <orgName>Jesuitenresidenz Pécs</orgName>
-                  <orgName type="alt">Residentia / Sedes Quinqueecclesiensis</orgName>
-                  <location type="located_in_place">
-                     <placeName key="jesuiten_place__31">Pécs (Quinque ecclesiae)</placeName>
-                     <geo>46.07250 18.23083</geo>
-                     <note type="idno"><idno type="geonames">https://sws.geonames.org/3046526/</idno></note>
-                  </location>
-               <noteGrp><note target="cod_12031.xml" type="mentions">Beschreibung von  Cod. 12031</note><note target="cod_12037.xml" type="mentions">Beschreibung von  Cod. 12037</note><note target="cod_12251.xml" type="mentions">Beschreibung von  Cod. 12251</note></noteGrp></org>
                <org xml:id="jesuiten_org__16">
                   <orgName>Jesuitenkolleg Klagenfurt</orgName>
                   <orgName type="alt">Collegium Clagenfurtense</orgName>
@@ -390,15 +397,29 @@
                   <idno type="gnd">https://d-nb.info/gnd/16128712-8</idno>
                   <note>1605 erste Niederlassung. 1612 Gründung eines Kollegs, (Stiftungsbrief aber erst 1615). Das Kolleg erhielt das ehemalige benediktinerinnenstift Traunkirchen mit den dazugehörigen Pfarreien als Mitgift.</note>
                <noteGrp><note target="cod_12031.xml" type="mentions">Beschreibung von  Cod. 12031</note><note target="cod_12036.xml" type="mentions">Beschreibung von  Cod. 12036</note><note target="cod_12037.xml" type="mentions">Beschreibung von  Cod. 12037</note><note target="cod_12038.xml" type="mentions">Beschreibung von  Cod. 12038</note><note target="cod_12039.xml" type="mentions">Beschreibung von  Cod. 12039</note><note target="cod_12040.xml" type="mentions">Beschreibung von  Cod. 12040</note><note target="cod_12041.xml" type="mentions">Beschreibung von  Cod. 12041</note><note target="cod_12042.xml" type="mentions">Beschreibung von  Cod. 12042</note><note target="cod_12043.xml" type="mentions">Beschreibung von  Cod. 12043</note><note target="cod_12246.xml" type="mentions">Beschreibung von  Cod. 12246</note><note target="cod_12247.xml" type="mentions">Beschreibung von  Cod. 12247</note><note target="cod_12248.xml" type="mentions">Beschreibung von  Cod. 12248</note><note target="cod_12251.xml" type="mentions">Beschreibung von  Cod. 12251</note><note target="cod_12252.xml" type="mentions">Beschreibung von  Cod. 12252</note><note target="cod_12253.xml" type="mentions">Beschreibung von  Cod. 12253</note></noteGrp></org>
-               <org xml:id="jesuiten_org__29">
-                  <orgName>Jesuitenmission Spiš</orgName>
-                  <orgName type="alt">Missio scepussensis</orgName>
+               <org xml:id="jesuiten_org__41">
+                  <orgName>Missio Castrensis</orgName>
+                  <orgName type="alt">Missio Castrensis</orgName>
+               <noteGrp><note target="cod_12041.xml" type="mentions">Beschreibung von  Cod. 12041</note><note target="cod_12042.xml" type="mentions">Beschreibung von  Cod. 12042</note><note target="cod_12246.xml" type="mentions">Beschreibung von  Cod. 12246</note><note target="cod_12291.xml" type="mentions">Beschreibung von  Cod. 12291</note><note target="cod_12292.xml" type="mentions">Beschreibung von  Cod. 12292</note><note target="cod_12296.xml" type="mentions">Beschreibung von  Cod. 12296</note></noteGrp></org>
+               <org xml:id="jesuiten_org__47">
+                  <orgName>Jesuitenresidenz Gyöngyös</orgName>
+                  <orgName type="alt">Residentia Gyongyosiensis</orgName>
                   <location type="located_in_place">
-                     <placeName key="jesuiten_place__78">Spiš</placeName>
-                     <geo>49.00056 20.76833</geo>
-                     <note type="idno"><idno type="geonames">https://sws.geonames.org/7627326/</idno></note>
+                     <placeName key="jesuiten_place__57">Gyöngyös</placeName>
+                     <geo>47.78257 19.92800</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/3052040/</idno></note>
                   </location>
-               <noteGrp><note target="cod_12031.xml" type="mentions">Beschreibung von  Cod. 12031</note><note target="cod_12036.xml" type="mentions">Beschreibung von  Cod. 12036</note><note target="cod_12037.xml" type="mentions">Beschreibung von  Cod. 12037</note><note target="cod_12038.xml" type="mentions">Beschreibung von  Cod. 12038</note><note target="cod_12040.xml" type="mentions">Beschreibung von  Cod. 12040</note><note target="cod_12041.xml" type="mentions">Beschreibung von  Cod. 12041</note><note target="cod_12251.xml" type="mentions">Beschreibung von  Cod. 12251</note><note target="cod_12252.xml" type="mentions">Beschreibung von  Cod. 12252</note></noteGrp></org>
+                  <note>1633–1773</note>
+               <noteGrp><note target="cod_12036.xml" type="mentions">Beschreibung von  Cod. 12036</note><note target="cod_12039.xml" type="mentions">Beschreibung von  Cod. 12039</note><note target="cod_12041.xml" type="mentions">Beschreibung von  Cod. 12041</note><note target="cod_12042.xml" type="mentions">Beschreibung von  Cod. 12042</note><note target="cod_12248.xml" type="mentions">Beschreibung von  Cod. 12248</note><note target="cod_12253.xml" type="mentions">Beschreibung von  Cod. 12253</note></noteGrp></org>
+               <org xml:id="jesuiten_org__40">
+                  <orgName>Jesuitenkolleg Rijeka</orgName>
+                  <orgName type="alt">Collegium Fluminense</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__29">Rijeka (Flumen / Fiume)</placeName>
+                     <geo>45.32673 14.44241</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/3191648/</idno></note>
+                  </location>
+               <noteGrp><note target="cod_12031.xml" type="mentions">Beschreibung von  Cod. 12031</note><note target="cod_12036.xml" type="mentions">Beschreibung von  Cod. 12036</note><note target="cod_12037.xml" type="mentions">Beschreibung von  Cod. 12037</note><note target="cod_12038.xml" type="mentions">Beschreibung von  Cod. 12038</note><note target="cod_12039.xml" type="mentions">Beschreibung von  Cod. 12039</note><note target="cod_12040.xml" type="mentions">Beschreibung von  Cod. 12040</note><note target="cod_12041.xml" type="mentions">Beschreibung von  Cod. 12041</note><note target="cod_12042.xml" type="mentions">Beschreibung von  Cod. 12042</note><note target="cod_12043.xml" type="mentions">Beschreibung von  Cod. 12043</note><note target="cod_12246.xml" type="mentions">Beschreibung von  Cod. 12246</note><note target="cod_12248.xml" type="mentions">Beschreibung von  Cod. 12248</note><note target="cod_12251.xml" type="mentions">Beschreibung von  Cod. 12251</note><note target="cod_12252.xml" type="mentions">Beschreibung von  Cod. 12252</note><note target="cod_12253.xml" type="mentions">Beschreibung von  Cod. 12253</note></noteGrp></org>
                <org xml:id="jesuiten_org__36">
                   <orgName>Jesuitenkolleg Gorizia</orgName>
                   <orgName type="alt">Collegium Goritiense</orgName>
@@ -409,33 +430,6 @@
                   </location>
                   <idno type="gnd">https://d-nb.info/gnd/7723168-5</idno>
                <noteGrp><note target="cod_12031.xml" type="mentions">Beschreibung von  Cod. 12031</note><note target="cod_12036.xml" type="mentions">Beschreibung von  Cod. 12036</note><note target="cod_12037.xml" type="mentions">Beschreibung von  Cod. 12037</note><note target="cod_12038.xml" type="mentions">Beschreibung von  Cod. 12038</note><note target="cod_12039.xml" type="mentions">Beschreibung von  Cod. 12039</note><note target="cod_12040.xml" type="mentions">Beschreibung von  Cod. 12040</note><note target="cod_12041.xml" type="mentions">Beschreibung von  Cod. 12041</note><note target="cod_12042.xml" type="mentions">Beschreibung von  Cod. 12042</note><note target="cod_12043.xml" type="mentions">Beschreibung von  Cod. 12043</note><note target="cod_12246.xml" type="mentions">Beschreibung von  Cod. 12246</note><note target="cod_12247.xml" type="mentions">Beschreibung von  Cod. 12247</note><note target="cod_12248.xml" type="mentions">Beschreibung von  Cod. 12248</note><note target="cod_12251.xml" type="mentions">Beschreibung von  Cod. 12251</note><note target="cod_12252.xml" type="mentions">Beschreibung von  Cod. 12252</note><note target="cod_12253.xml" type="mentions">Beschreibung von  Cod. 12253</note></noteGrp></org>
-               <org xml:id="jesuiten_org__40">
-                  <orgName>Jesuitenkolleg Rijeka</orgName>
-                  <orgName type="alt">Collegium Fluminense</orgName>
-                  <location type="located_in_place">
-                     <placeName key="jesuiten_place__29">Rijeka (Flumen / Fiume)</placeName>
-                     <geo>45.32673 14.44241</geo>
-                     <note type="idno"><idno type="geonames">https://sws.geonames.org/3191648/</idno></note>
-                  </location>
-               <noteGrp><note target="cod_12031.xml" type="mentions">Beschreibung von  Cod. 12031</note><note target="cod_12036.xml" type="mentions">Beschreibung von  Cod. 12036</note><note target="cod_12037.xml" type="mentions">Beschreibung von  Cod. 12037</note><note target="cod_12038.xml" type="mentions">Beschreibung von  Cod. 12038</note><note target="cod_12039.xml" type="mentions">Beschreibung von  Cod. 12039</note><note target="cod_12040.xml" type="mentions">Beschreibung von  Cod. 12040</note><note target="cod_12041.xml" type="mentions">Beschreibung von  Cod. 12041</note><note target="cod_12042.xml" type="mentions">Beschreibung von  Cod. 12042</note><note target="cod_12043.xml" type="mentions">Beschreibung von  Cod. 12043</note><note target="cod_12246.xml" type="mentions">Beschreibung von  Cod. 12246</note><note target="cod_12248.xml" type="mentions">Beschreibung von  Cod. 12248</note><note target="cod_12251.xml" type="mentions">Beschreibung von  Cod. 12251</note><note target="cod_12252.xml" type="mentions">Beschreibung von  Cod. 12252</note><note target="cod_12253.xml" type="mentions">Beschreibung von  Cod. 12253</note></noteGrp></org>
-               <org xml:id="jesuiten_org__3">
-                  <orgName>Jesuitenresidenz S. Bernardi</orgName>
-                  <orgName type="alt">Residentia S. Bernardi</orgName>
-                  <location type="located_in_place">
-                     <placeName key="jesuiten_place__1">Wien</placeName>
-                     <geo>48.20849 16.37208</geo>
-                     <note type="idno"><idno type="geonames">https://sws.geonames.org/2761369/</idno></note>
-                  </location>
-               <noteGrp><note target="cod_12031.xml" type="mentions">Beschreibung von  Cod. 12031</note><note target="cod_12036.xml" type="mentions">Beschreibung von  Cod. 12036</note><note target="cod_12037.xml" type="mentions">Beschreibung von  Cod. 12037</note><note target="cod_12038.xml" type="mentions">Beschreibung von  Cod. 12038</note><note target="cod_12039.xml" type="mentions">Beschreibung von  Cod. 12039</note><note target="cod_12040.xml" type="mentions">Beschreibung von  Cod. 12040</note><note target="cod_12041.xml" type="mentions">Beschreibung von  Cod. 12041</note><note target="cod_12043.xml" type="mentions">Beschreibung von  Cod. 12043</note><note target="cod_12250.xml" type="mentions">Beschreibung von  Cod. 12250</note><note target="cod_12251.xml" type="mentions">Beschreibung von  Cod. 12251</note><note target="cod_12252.xml" type="mentions">Beschreibung von  Cod. 12252</note><note target="cod_12253.xml" type="mentions">Beschreibung von  Cod. 12253</note></noteGrp></org>
-               <org xml:id="jesuiten_org__2">
-                  <orgName>Jesuitenkolleg Wien</orgName>
-                  <orgName type="alt">Collegium Viennense Academicum</orgName>
-                  <location type="located_in_place">
-                     <placeName key="jesuiten_place__1">Wien</placeName>
-                     <geo>48.20849 16.37208</geo>
-                     <note type="idno"><idno type="geonames">https://sws.geonames.org/2761369/</idno></note>
-                  </location>
-               <noteGrp><note target="cod_12031.xml" type="mentions">Beschreibung von  Cod. 12031</note><note target="cod_12036.xml" type="mentions">Beschreibung von  Cod. 12036</note><note target="cod_12037.xml" type="mentions">Beschreibung von  Cod. 12037</note><note target="cod_12038.xml" type="mentions">Beschreibung von  Cod. 12038</note><note target="cod_12039.xml" type="mentions">Beschreibung von  Cod. 12039</note><note target="cod_12040.xml" type="mentions">Beschreibung von  Cod. 12040</note><note target="cod_12041.xml" type="mentions">Beschreibung von  Cod. 12041</note><note target="cod_12042.xml" type="mentions">Beschreibung von  Cod. 12042</note><note target="cod_12043.xml" type="mentions">Beschreibung von  Cod. 12043</note><note target="cod_12123.xml" type="mentions">Beschreibung von  Cod. 12123</note><note target="cod_12246.xml" type="mentions">Beschreibung von  Cod. 12246</note><note target="cod_12247.xml" type="mentions">Beschreibung von  Cod. 12247</note><note target="cod_12248.xml" type="mentions">Beschreibung von  Cod. 12248</note><note target="cod_12249.xml" type="mentions">Beschreibung von  Cod. 12249</note><note target="cod_12250.xml" type="mentions">Beschreibung von  Cod. 12250</note><note target="cod_12251.xml" type="mentions">Beschreibung von  Cod. 12251</note><note target="cod_12252.xml" type="mentions">Beschreibung von  Cod. 12252</note><note target="cod_12253.xml" type="mentions">Beschreibung von  Cod. 12253</note></noteGrp></org>
                <org xml:id="jesuiten_org__35">
                   <orgName>Jesuitenkolleg Krems</orgName>
                   <orgName type="alt">Collegium Crembsense</orgName>
@@ -447,14 +441,26 @@
                   <idno type="gnd">https://d-nb.info/gnd/1086486803</idno>
                   <note>Im Frühjahr 1616, also vor gut 400 Jahren, wurde in der Stadt Krems bei der spätgotischen Frauenbergkirche (der heutigen Piaristenkirche) das „Collegium Crembsense" der „Gesellschaft Jesu" eröffnet.</note>
                <noteGrp><note target="cod_12031.xml" type="mentions">Beschreibung von  Cod. 12031</note><note target="cod_12037.xml" type="mentions">Beschreibung von  Cod. 12037</note><note target="cod_12038.xml" type="mentions">Beschreibung von  Cod. 12038</note><note target="cod_12039.xml" type="mentions">Beschreibung von  Cod. 12039</note><note target="cod_12040.xml" type="mentions">Beschreibung von  Cod. 12040</note><note target="cod_12041.xml" type="mentions">Beschreibung von  Cod. 12041</note><note target="cod_12042.xml" type="mentions">Beschreibung von  Cod. 12042</note><note target="cod_12043.xml" type="mentions">Beschreibung von  Cod. 12043</note><note target="cod_12246.xml" type="mentions">Beschreibung von  Cod. 12246</note><note target="cod_12247.xml" type="mentions">Beschreibung von  Cod. 12247</note><note target="cod_12248.xml" type="mentions">Beschreibung von  Cod. 12248</note><note target="cod_12251.xml" type="mentions">Beschreibung von  Cod. 12251</note><note target="cod_12252.xml" type="mentions">Beschreibung von  Cod. 12252</note><note target="cod_12253.xml" type="mentions">Beschreibung von  Cod. 12253</note></noteGrp></org>
-               <org xml:id="jesuiten_org__6">
-                  <orgName>Ferdinandeum</orgName>
+               <org xml:id="jesuiten_org__131">
+                  <orgName>Jesuitenmission Carolina</orgName>
+                  <orgName type="alt">Missio Caroliensis</orgName>
+               <noteGrp><note target="cod_12036.xml" type="mentions">Beschreibung von  Cod. 12036</note><note target="cod_12038.xml" type="mentions">Beschreibung von  Cod. 12038</note><note target="cod_12042.xml" type="mentions">Beschreibung von  Cod. 12042</note><note target="cod_12252.xml" type="mentions">Beschreibung von  Cod. 12252</note></noteGrp></org>
+               <org xml:id="jesuiten_org__2">
+                  <orgName>Jesuitenkolleg Wien</orgName>
+                  <orgName type="alt">Collegium Viennense Academicum</orgName>
                   <location type="located_in_place">
-                     <placeName key="jesuiten_place__2">Graz</placeName>
-                     <geo>47.06667 15.45000</geo>
-                     <note type="idno"><idno type="geonames">https://sws.geonames.org/2778067/</idno></note>
+                     <placeName key="jesuiten_place__1">Wien</placeName>
+                     <geo>48.20849 16.37208</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/2761369/</idno></note>
                   </location>
-               <noteGrp><note target="cod_12031.xml" type="mentions">Beschreibung von  Cod. 12031</note><note target="cod_12037.xml" type="mentions">Beschreibung von  Cod. 12037</note><note target="cod_12248.xml" type="mentions">Beschreibung von  Cod. 12248</note><note target="cod_12251.xml" type="mentions">Beschreibung von  Cod. 12251</note></noteGrp></org>
+               <noteGrp><note target="cod_12031.xml" type="mentions">Beschreibung von  Cod. 12031</note><note target="cod_12036.xml" type="mentions">Beschreibung von  Cod. 12036</note><note target="cod_12037.xml" type="mentions">Beschreibung von  Cod. 12037</note><note target="cod_12038.xml" type="mentions">Beschreibung von  Cod. 12038</note><note target="cod_12039.xml" type="mentions">Beschreibung von  Cod. 12039</note><note target="cod_12040.xml" type="mentions">Beschreibung von  Cod. 12040</note><note target="cod_12041.xml" type="mentions">Beschreibung von  Cod. 12041</note><note target="cod_12042.xml" type="mentions">Beschreibung von  Cod. 12042</note><note target="cod_12043.xml" type="mentions">Beschreibung von  Cod. 12043</note><note target="cod_12123.xml" type="mentions">Beschreibung von  Cod. 12123</note><note target="cod_12246.xml" type="mentions">Beschreibung von  Cod. 12246</note><note target="cod_12247.xml" type="mentions">Beschreibung von  Cod. 12247</note><note target="cod_12248.xml" type="mentions">Beschreibung von  Cod. 12248</note><note target="cod_12249.xml" type="mentions">Beschreibung von  Cod. 12249</note><note target="cod_12250.xml" type="mentions">Beschreibung von  Cod. 12250</note><note target="cod_12251.xml" type="mentions">Beschreibung von  Cod. 12251</note><note target="cod_12252.xml" type="mentions">Beschreibung von  Cod. 12252</note><note target="cod_12253.xml" type="mentions">Beschreibung von  Cod. 12253</note></noteGrp></org>
+               <org xml:id="jesuiten_org__192">
+                  <orgName>Jesuitenmission Moldavia</orgName>
+                  <orgName type="alt">Missio Moldavica</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__164">Moldavia</placeName>
+                  </location>
+               <noteGrp><note target="cod_12042.xml" type="mentions">Beschreibung von  Cod. 12042</note></noteGrp></org>
                <org xml:id="jesuiten_org__5">
                   <orgName>Jesuitenkolleg Graz</orgName>
                   <orgName type="alt">Collegium Graecense</orgName>
@@ -475,6 +481,15 @@
                   </location>
                   <note>Hoc tandem anno [1639], Residentiae nomine sublato, Homonense Collegium Rectorem accepit (Cod. 12036).</note>
                <noteGrp><note target="cod_12036.xml" type="mentions">Beschreibung von  Cod. 12036</note><note target="cod_12037.xml" type="mentions">Beschreibung von  Cod. 12037</note><note target="cod_12038.xml" type="mentions">Beschreibung von  Cod. 12038</note><note target="cod_12039.xml" type="mentions">Beschreibung von  Cod. 12039</note><note target="cod_12040.xml" type="mentions">Beschreibung von  Cod. 12040</note><note target="cod_12041.xml" type="mentions">Beschreibung von  Cod. 12041</note><note target="cod_12042.xml" type="mentions">Beschreibung von  Cod. 12042</note><note target="cod_12251.xml" type="mentions">Beschreibung von  Cod. 12251</note><note target="cod_12252.xml" type="mentions">Beschreibung von  Cod. 12252</note><note target="cod_12253.xml" type="mentions">Beschreibung von  Cod. 12253</note></noteGrp></org>
+               <org xml:id="jesuiten_org__191">
+                  <orgName>Jesuitenmission Timişoara</orgName>
+                  <orgName type="alt">Missio Temesuariensis</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__35">Timişoara (Freidorf / Josephstadt)</placeName>
+                     <geo>45.75372 21.22571</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/665087/</idno></note>
+                  </location>
+               <noteGrp><note target="cod_12042.xml" type="mentions">Beschreibung von  Cod. 12042</note></noteGrp></org>
                <org xml:id="jesuiten_org__27">
                   <orgName>Jesuitenresidenz Traunkirchen</orgName>
                   <orgName type="alt">Residentia Traunkirchensis</orgName>
@@ -494,6 +509,15 @@
                   </location>
                   <idno type="gnd">https://d-nb.info/gnd/1117829170</idno>
                <noteGrp><note target="cod_12031.xml" type="mentions">Beschreibung von  Cod. 12031</note><note target="cod_12036.xml" type="mentions">Beschreibung von  Cod. 12036</note><note target="cod_12037.xml" type="mentions">Beschreibung von  Cod. 12037</note><note target="cod_12038.xml" type="mentions">Beschreibung von  Cod. 12038</note><note target="cod_12039.xml" type="mentions">Beschreibung von  Cod. 12039</note><note target="cod_12040.xml" type="mentions">Beschreibung von  Cod. 12040</note><note target="cod_12041.xml" type="mentions">Beschreibung von  Cod. 12041</note><note target="cod_12042.xml" type="mentions">Beschreibung von  Cod. 12042</note><note target="cod_12043.xml" type="mentions">Beschreibung von  Cod. 12043</note><note target="cod_12246.xml" type="mentions">Beschreibung von  Cod. 12246</note><note target="cod_12247.xml" type="mentions">Beschreibung von  Cod. 12247</note><note target="cod_12248.xml" type="mentions">Beschreibung von  Cod. 12248</note><note target="cod_12251.xml" type="mentions">Beschreibung von  Cod. 12251</note><note target="cod_12252.xml" type="mentions">Beschreibung von  Cod. 12252</note><note target="cod_12253.xml" type="mentions">Beschreibung von  Cod. 12253</note></noteGrp></org>
+               <org xml:id="jesuiten_org__190">
+                  <orgName>Jesuitenmission</orgName>
+                  <orgName type="alt">Missio Monostoriensis in Transylvania</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__33">Cluj-Napoca</placeName>
+                     <geo>46.76667 23.60000</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/681290/</idno></note>
+                  </location>
+               <noteGrp><note target="cod_12042.xml" type="mentions">Beschreibung von  Cod. 12042</note></noteGrp></org>
                <org xml:id="jesuiten_org__37">
                   <orgName>Jesuitenkolleg Judenburg</orgName>
                   <orgName type="alt">Collegium Judenburgense</orgName>
@@ -524,25 +548,6 @@
                      <note type="idno"><idno type="geonames">https://sws.geonames.org/3165185/</idno></note>
                   </location>
                <noteGrp><note target="cod_12031.xml" type="mentions">Beschreibung von  Cod. 12031</note><note target="cod_12036.xml" type="mentions">Beschreibung von  Cod. 12036</note><note target="cod_12037.xml" type="mentions">Beschreibung von  Cod. 12037</note><note target="cod_12038.xml" type="mentions">Beschreibung von  Cod. 12038</note><note target="cod_12039.xml" type="mentions">Beschreibung von  Cod. 12039</note><note target="cod_12040.xml" type="mentions">Beschreibung von  Cod. 12040</note><note target="cod_12041.xml" type="mentions">Beschreibung von  Cod. 12041</note><note target="cod_12042.xml" type="mentions">Beschreibung von  Cod. 12042</note><note target="cod_12246.xml" type="mentions">Beschreibung von  Cod. 12246</note><note target="cod_12247.xml" type="mentions">Beschreibung von  Cod. 12247</note><note target="cod_12248.xml" type="mentions">Beschreibung von  Cod. 12248</note><note target="cod_12251.xml" type="mentions">Beschreibung von  Cod. 12251</note><note target="cod_12252.xml" type="mentions">Beschreibung von  Cod. 12252</note><note target="cod_12253.xml" type="mentions">Beschreibung von  Cod. 12253</note></noteGrp></org>
-               <org xml:id="jesuiten_org__12">
-                  <orgName>Jesuitenkolleg Győr</orgName>
-                  <orgName type="alt">Collegium Jaurinense</orgName>
-                  <location type="located_in_place">
-                     <placeName key="jesuiten_place__8">Győr</placeName>
-                     <geo>47.68333 17.63512</geo>
-                     <note type="idno"><idno type="geonames">https://sws.geonames.org/3052009/</idno></note>
-                  </location>
-                  <note>1718 wurde in Győr eine Jesuitenakademie gegründet, die eine philosophische und juristische Ausbildung anbot und an der ab 1745 auch weltliche Studenten zugelassen wurden.</note>
-               <noteGrp><note target="cod_12031.xml" type="mentions">Beschreibung von  Cod. 12031</note><note target="cod_12036.xml" type="mentions">Beschreibung von  Cod. 12036</note><note target="cod_12037.xml" type="mentions">Beschreibung von  Cod. 12037</note><note target="cod_12038.xml" type="mentions">Beschreibung von  Cod. 12038</note><note target="cod_12039.xml" type="mentions">Beschreibung von  Cod. 12039</note><note target="cod_12040.xml" type="mentions">Beschreibung von  Cod. 12040</note><note target="cod_12041.xml" type="mentions">Beschreibung von  Cod. 12041</note><note target="cod_12043.xml" type="mentions">Beschreibung von  Cod. 12043</note><note target="cod_12246.xml" type="mentions">Beschreibung von  Cod. 12246</note><note target="cod_12248.xml" type="mentions">Beschreibung von  Cod. 12248</note><note target="cod_12251.xml" type="mentions">Beschreibung von  Cod. 12251</note><note target="cod_12252.xml" type="mentions">Beschreibung von  Cod. 12252</note><note target="cod_12253.xml" type="mentions">Beschreibung von  Cod. 12253</note></noteGrp></org>
-               <org xml:id="jesuiten_org__129">
-                  <orgName>Jesuitenmission Komárom</orgName>
-                  <orgName type="alt">Missio Comaroniensis</orgName>
-                  <location type="located_in_place">
-                     <placeName key="jesuiten_place__16">Komárom</placeName>
-                     <geo>47.74318 18.11913</geo>
-                     <note type="idno"><idno type="geonames">https://sws.geonames.org/3049519/</idno></note>
-                  </location>
-               <noteGrp><note target="cod_12036.xml" type="mentions">Beschreibung von  Cod. 12036</note><note target="cod_12037.xml" type="mentions">Beschreibung von  Cod. 12037</note><note target="cod_12248.xml" type="mentions">Beschreibung von  Cod. 12248</note><note target="cod_12251.xml" type="mentions">Beschreibung von  Cod. 12251</note></noteGrp></org>
                <org xml:id="jesuiten_org__18">
                   <orgName>Jesuitenkolleg Zagreb</orgName>
                   <orgName type="alt">Collegium Zagrabiense</orgName>
@@ -566,10 +571,6 @@
                   </location>
                   <idno type="gnd">https://d-nb.info/gnd/5556265-6</idno>
                <noteGrp><note target="cod_12031.xml" type="mentions">Beschreibung von  Cod. 12031</note><note target="cod_12036.xml" type="mentions">Beschreibung von  Cod. 12036</note><note target="cod_12037.xml" type="mentions">Beschreibung von  Cod. 12037</note><note target="cod_12038.xml" type="mentions">Beschreibung von  Cod. 12038</note><note target="cod_12039.xml" type="mentions">Beschreibung von  Cod. 12039</note><note target="cod_12040.xml" type="mentions">Beschreibung von  Cod. 12040</note><note target="cod_12041.xml" type="mentions">Beschreibung von  Cod. 12041</note><note target="cod_12042.xml" type="mentions">Beschreibung von  Cod. 12042</note><note target="cod_12043.xml" type="mentions">Beschreibung von  Cod. 12043</note><note target="cod_12123.xml" type="mentions">Beschreibung von  Cod. 12123</note><note target="cod_12246.xml" type="mentions">Beschreibung von  Cod. 12246</note><note target="cod_12247.xml" type="mentions">Beschreibung von  Cod. 12247</note><note target="cod_12248.xml" type="mentions">Beschreibung von  Cod. 12248</note><note target="cod_12249.xml" type="mentions">Beschreibung von  Cod. 12249</note><note target="cod_12250.xml" type="mentions">Beschreibung von  Cod. 12250</note><note target="cod_12251.xml" type="mentions">Beschreibung von  Cod. 12251</note><note target="cod_12252.xml" type="mentions">Beschreibung von  Cod. 12252</note><note target="cod_12253.xml" type="mentions">Beschreibung von  Cod. 12253</note></noteGrp></org>
-               <org xml:id="jesuiten_org__146">
-                  <orgName>Jesuitenmission Papensis</orgName>
-                  <orgName type="alt">Missio Papensis ad illustrissimum comitem Stephanum Esterhazii</orgName>
-               <noteGrp><note target="cod_12037.xml" type="mentions">Beschreibung von  Cod. 12037</note><note target="cod_12251.xml" type="mentions">Beschreibung von  Cod. 12251</note></noteGrp></org>
                <org xml:id="jesuiten_org__52">
                   <orgName>Jesuitenkolleg Leoben</orgName>
                   <orgName type="alt">Collegium Leobiense</orgName>
@@ -600,6 +601,24 @@
 Gegen den Willen des Patriarchen von Aquileia, zu dessen Diözese damals Eberndorf gehörte, und gegen den Willen des Nuntius hatte Erzherzog Ferdinand 1603 das Stift für das Klagenfurter Kolleg bestimmt. Mit großer Überredungskunst konnte 1604 das Stift für die jesuitische Sache erworben werden. In Eberndorf wurde eine Residenz errichtet mit
 einigen Patres und Laienbrüdern. (Heilingsetzer, Florian. „Die Jesuiten an den Universitäten und Lyzeen in den österreichischen  Ländern bis zur Aufhebung des Ordens 1773“. Mag. Phil., Uni Wien, 2011. https://services.phaidra.univie.ac.at/api/object/o:1282302/get.)</note>
                <noteGrp><note target="cod_12036.xml" type="mentions">Beschreibung von  Cod. 12036</note><note target="cod_12037.xml" type="mentions">Beschreibung von  Cod. 12037</note><note target="cod_12039.xml" type="mentions">Beschreibung von  Cod. 12039</note><note target="cod_12040.xml" type="mentions">Beschreibung von  Cod. 12040</note><note target="cod_12041.xml" type="mentions">Beschreibung von  Cod. 12041</note><note target="cod_12042.xml" type="mentions">Beschreibung von  Cod. 12042</note><note target="cod_12043.xml" type="mentions">Beschreibung von  Cod. 12043</note><note target="cod_12247.xml" type="mentions">Beschreibung von  Cod. 12247</note><note target="cod_12248.xml" type="mentions">Beschreibung von  Cod. 12248</note><note target="cod_12251.xml" type="mentions">Beschreibung von  Cod. 12251</note><note target="cod_12253.xml" type="mentions">Beschreibung von  Cod. 12253</note></noteGrp></org>
+               <org xml:id="jesuiten_org__64">
+                  <orgName>Jesuitenreisidenz Kláštor pod Znievom</orgName>
+                  <orgName type="alt">Residentia Turociensis</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__81">Kláštor pod Znievom</placeName>
+                     <geo>48.97619 18.80264</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/3059508/</idno></note>
+                  </location>
+               <noteGrp><note target="cod_12040.xml" type="mentions">Beschreibung von  Cod. 12040</note><note target="cod_12041.xml" type="mentions">Beschreibung von  Cod. 12041</note><note target="cod_12042.xml" type="mentions">Beschreibung von  Cod. 12042</note><note target="cod_12043.xml" type="mentions">Beschreibung von  Cod. 12043</note><note target="cod_12248.xml" type="mentions">Beschreibung von  Cod. 12248</note></noteGrp></org>
+               <org xml:id="jesuiten_org__128">
+                  <orgName>Jesuitenmission Pécs</orgName>
+                  <orgName type="alt">Missio Quinqueecclesiensis</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__31">Pécs (Quinque ecclesiae)</placeName>
+                     <geo>46.07250 18.23083</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/3046526/</idno></note>
+                  </location>
+               <noteGrp><note target="cod_12036.xml" type="mentions">Beschreibung von  Cod. 12036</note><note target="cod_12042.xml" type="mentions">Beschreibung von  Cod. 12042</note><note target="cod_12248.xml" type="mentions">Beschreibung von  Cod. 12248</note></noteGrp></org>
                <org xml:id="jesuiten_org__14">
                   <orgName>Jesuitenresidenz Šentjernej</orgName>
                   <orgName type="alt">Pleterje</orgName>
@@ -621,16 +640,15 @@ einigen Patres und Laienbrüdern. (Heilingsetzer, Florian. „Die Jesuiten an de
                   </location>
                   <note>am 1. April 1573 räumte ihnen Kaiser Maximilian II. die Güter des erloschenen Wiener Klarissenklosters St. Anna zum Nutzgenuß ein</note>
                <noteGrp><note target="cod_12031.xml" type="mentions">Beschreibung von  Cod. 12031</note><note target="cod_12036.xml" type="mentions">Beschreibung von  Cod. 12036</note><note target="cod_12037.xml" type="mentions">Beschreibung von  Cod. 12037</note><note target="cod_12038.xml" type="mentions">Beschreibung von  Cod. 12038</note><note target="cod_12039.xml" type="mentions">Beschreibung von  Cod. 12039</note><note target="cod_12040.xml" type="mentions">Beschreibung von  Cod. 12040</note><note target="cod_12041.xml" type="mentions">Beschreibung von  Cod. 12041</note><note target="cod_12042.xml" type="mentions">Beschreibung von  Cod. 12042</note><note target="cod_12043.xml" type="mentions">Beschreibung von  Cod. 12043</note><note target="cod_12246.xml" type="mentions">Beschreibung von  Cod. 12246</note><note target="cod_12247.xml" type="mentions">Beschreibung von  Cod. 12247</note><note target="cod_12248.xml" type="mentions">Beschreibung von  Cod. 12248</note><note target="cod_12249.xml" type="mentions">Beschreibung von  Cod. 12249</note><note target="cod_12250.xml" type="mentions">Beschreibung von  Cod. 12250</note><note target="cod_12251.xml" type="mentions">Beschreibung von  Cod. 12251</note><note target="cod_12252.xml" type="mentions">Beschreibung von  Cod. 12252</note><note target="cod_12253.xml" type="mentions">Beschreibung von  Cod. 12253</note></noteGrp></org>
-               <org xml:id="jesuiten_org__148">
-                  <orgName>Jesuitenmission Straßburg (Kärnten)</orgName>
-                  <orgName type="alt">Missio Strasburgensis</orgName>
+               <org xml:id="jesuiten_org__55">
+                  <orgName>Jesuitenresidenz Žireč</orgName>
+                  <orgName type="alt">Residentia Schurzensis</orgName>
                   <location type="located_in_place">
-                     <placeName key="jesuiten_place__141">Strasburg</placeName>
-                     <geo>46.89444 14.32861</geo>
-                     <note type="idno"><idno type="geonames">https://sws.geonames.org/2764186/</idno></note>
+                     <placeName key="jesuiten_place__64">Žireč</placeName>
+                     <geo>50.41667 15.85000</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/3062992/</idno></note>
                   </location>
-                  <note>apud reverendissimum et illustrissimum principem episcopum Gurcensem (Cod. 12037, Cod. 12251, S. 80).</note>
-               <noteGrp><note target="cod_12037.xml" type="mentions">Beschreibung von  Cod. 12037</note><note target="cod_12038.xml" type="mentions">Beschreibung von  Cod. 12038</note><note target="cod_12251.xml" type="mentions">Beschreibung von  Cod. 12251</note><note target="cod_12252.xml" type="mentions">Beschreibung von  Cod. 12252</note></noteGrp></org>
+               <noteGrp><note target="cod_12036.xml" type="mentions">Beschreibung von  Cod. 12036</note><note target="cod_12039.xml" type="mentions">Beschreibung von  Cod. 12039</note><note target="cod_12041.xml" type="mentions">Beschreibung von  Cod. 12041</note><note target="cod_12042.xml" type="mentions">Beschreibung von  Cod. 12042</note><note target="cod_12043.xml" type="mentions">Beschreibung von  Cod. 12043</note><note target="cod_12248.xml" type="mentions">Beschreibung von  Cod. 12248</note><note target="cod_12253.xml" type="mentions">Beschreibung von  Cod. 12253</note></noteGrp></org>
                <org xml:id="jesuiten_org__7">
                   <orgName>Jesuitenresidenz Millstatt</orgName>
                   <orgName type="alt">Residentia Millestadiensis</orgName>

@@ -7365,7 +7365,7 @@
         "gnd": "",
         "msdesc": [],
         "alt_name": "Missio Greinburgensis",
-        "notes": "",
+        "notes": "\"Apud excellentissimum dominum Leonhardum comitem a Meggau\" - https://www.wikidata.org/wiki/Q1819218 (Cod. 12040, S. 35).",
         "persons": []
     },
     "157": {
@@ -8211,6 +8211,178 @@
         "gnd": "",
         "msdesc": [],
         "alt_name": "Residentia Valcensis",
+        "notes": "",
+        "persons": []
+    },
+    "190": {
+        "id": 190,
+        "order": "187.00000000000000000000",
+        "name": "Jesuitenmission",
+        "jesuiten_id": "jesuiten_org__190",
+        "located_in": [
+            {
+                "id": 33,
+                "order": "33.00000000000000000000",
+                "name": "Cluj-Napoca",
+                "jesuiten_id": "jesuiten_place__33",
+                "geonames": "https://www.geonames.org/681290/cluj-napoca.html",
+                "lat": "46.76667",
+                "long": "23.60000",
+                "wikidata": "https://www.wikidata.org/wiki/Q100188",
+                "alt_names": [
+                    {
+                        "id": 6,
+                        "value": "Claudiopolis"
+                    },
+                    {
+                        "id": 7,
+                        "value": "Klausenburg"
+                    },
+                    {
+                        "id": 8,
+                        "value": "Kolozsvár"
+                    }
+                ],
+                "msdesc": [
+                    {
+                        "id": 6,
+                        "value": "Cod. 12123"
+                    },
+                    {
+                        "id": 10,
+                        "value": "Cod. 12138"
+                    },
+                    {
+                        "id": 11,
+                        "value": "Cod. 12266"
+                    }
+                ]
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Monostoriensis in Transylvania",
+        "notes": "",
+        "persons": []
+    },
+    "191": {
+        "id": 191,
+        "order": "188.00000000000000000000",
+        "name": "Jesuitenmission Timişoara",
+        "jesuiten_id": "jesuiten_org__191",
+        "located_in": [
+            {
+                "id": 35,
+                "order": "35.00000000000000000000",
+                "name": "Timişoara (Freidorf / Josephstadt)",
+                "jesuiten_id": "jesuiten_place__35",
+                "geonames": "https://www.geonames.org/665087/timisoara.html",
+                "lat": "45.75372",
+                "long": "21.22571",
+                "wikidata": "https://www.wikidata.org/wiki/Q83404",
+                "alt_names": [],
+                "msdesc": [
+                    {
+                        "id": 10,
+                        "value": "Cod. 12138"
+                    },
+                    {
+                        "id": 43,
+                        "value": "Cod. 12254"
+                    }
+                ]
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Temesuariensis",
+        "notes": "",
+        "persons": []
+    },
+    "192": {
+        "id": 192,
+        "order": "189.00000000000000000000",
+        "name": "Jesuitenmission Moldavia",
+        "jesuiten_id": "jesuiten_org__192",
+        "located_in": [
+            {
+                "id": 164,
+                "order": "161.00000000000000000000",
+                "name": "Moldavia",
+                "jesuiten_id": "jesuiten_place__164",
+                "geonames": "",
+                "lat": null,
+                "long": null,
+                "wikidata": "https://www.wikidata.org/wiki/Q10957559",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Moldavica",
+        "notes": "",
+        "persons": []
+    },
+    "193": {
+        "id": 193,
+        "order": "190.00000000000000000000",
+        "name": "Jesuitenmission Celje",
+        "jesuiten_id": "jesuiten_org__193",
+        "located_in": [
+            {
+                "id": 165,
+                "order": "162.00000000000000000000",
+                "name": "Celje",
+                "jesuiten_id": "jesuiten_place__165",
+                "geonames": "https://www.geonames.org/3202781/celje.html",
+                "lat": "46.23092",
+                "long": "15.26044",
+                "wikidata": "https://www.wikidata.org/wiki/Q1012",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio ciliensis / celeensis",
+        "notes": "",
+        "persons": []
+    },
+    "194": {
+        "id": 194,
+        "order": "191.00000000000000000000",
+        "name": "Jesuitenmission Burg Muráň",
+        "jesuiten_id": "jesuiten_org__194",
+        "located_in": [
+            {
+                "id": 166,
+                "order": "163.00000000000000000000",
+                "name": "Muráň Castle",
+                "jesuiten_id": "jesuiten_place__166",
+                "geonames": "https://www.geonames.org/724096/muran.html",
+                "lat": "48.74097",
+                "long": "20.04961",
+                "wikidata": "https://www.wikidata.org/wiki/Q573241",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio ad Arcem Muran",
+        "notes": "",
+        "persons": []
+    },
+    "195": {
+        "id": 195,
+        "order": "192.00000000000000000000",
+        "name": "Jesuitenmission Nadasdiana",
+        "jesuiten_id": "jesuiten_org__195",
+        "located_in": [],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Nadasdiana",
         "notes": "",
         "persons": []
     }
