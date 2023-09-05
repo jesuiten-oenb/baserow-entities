@@ -22,7 +22,7 @@ with open(os.path.join(JSON_FOLDER, "msdesc.json"), "r") as f:
 with open(os.path.join(JSON_FOLDER, "ms_item.json"), "r") as f:
     ms_item_data = json.load(f)
 
-ms_item_data = [value for key, value in ms_item_data.items()]
+ms_item_data = [value for key, value in ms_item_data.items() if value["msdesc"]]
 
 
 for key, context in data.items():
