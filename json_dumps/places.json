@@ -109,7 +109,7 @@
     "geonames": "https://www.geonames.org/2772400/linz.html",
     "lat": "48.30639",
     "long": "14.28611",
-    "wikidata": "",
+    "wikidata": "https://www.wikidata.org/wiki/Q41329",
     "alt_names": [],
     "msdesc": [
       {
@@ -276,13 +276,18 @@
   "6": {
     "id": 6,
     "order": "6.00000000000000000000",
-    "name": "Trnava (Nagyszombat)",
+    "name": "Trnava",
     "jesuiten_id": "jesuiten_place__6",
     "geonames": "https://www.geonames.org/3057124/trnava.html",
     "lat": "48.37741",
     "long": "17.58723",
     "wikidata": "https://www.wikidata.org/wiki/Q26175",
-    "alt_names": [],
+    "alt_names": [
+      {
+        "id": 79,
+        "value": "Nagyszombat"
+      }
+    ],
     "msdesc": [
       {
         "id": 6,
@@ -379,7 +384,7 @@
     "geonames": "https://www.geonames.org/3052009/gyor.html",
     "lat": "47.68333",
     "long": "17.63512",
-    "wikidata": "",
+    "wikidata": "https://www.wikidata.org/wiki/Q134494",
     "alt_names": [
       {
         "id": 9,
@@ -437,7 +442,7 @@
     "geonames": "https://www.geonames.org/3196359/ljubljana.html",
     "lat": "46.05108",
     "long": "14.50513",
-    "wikidata": "",
+    "wikidata": "https://www.wikidata.org/wiki/Q437",
     "alt_names": [
       {
         "id": 49,
@@ -532,7 +537,7 @@
     "geonames": "https://www.geonames.org/2773549/krems-an-der-donau.html",
     "lat": "48.40921",
     "long": "15.61415",
-    "wikidata": "",
+    "wikidata": "https://www.wikidata.org/wiki/Q131266",
     "alt_names": [],
     "msdesc": [
       {
@@ -629,13 +634,18 @@
   "13": {
     "id": 13,
     "order": "13.00000000000000000000",
-    "name": "Sopron (Ödenburg)",
+    "name": "Sopron",
     "jesuiten_id": "jesuiten_place__13",
     "geonames": "https://www.geonames.org/3045190/sopron.html",
     "lat": "47.68501",
     "long": "16.59049",
     "wikidata": "",
-    "alt_names": [],
+    "alt_names": [
+      {
+        "id": 74,
+        "value": "Ödenburg"
+      }
+    ],
     "msdesc": [
       {
         "id": 4,
@@ -1003,13 +1013,18 @@
   "20": {
     "id": 20,
     "order": "20.00000000000000000000",
-    "name": "Levoča (Leutschau)",
+    "name": "Levoča",
     "jesuiten_id": "jesuiten_place__20",
     "geonames": "https://www.geonames.org/724294/levoca.html",
     "lat": "49.02173",
     "long": "20.59212",
     "wikidata": "https://www.wikidata.org/wiki/Q242478",
-    "alt_names": [],
+    "alt_names": [
+      {
+        "id": 68,
+        "value": "Leutschau"
+      }
+    ],
     "msdesc": [
       {
         "id": 6,
@@ -1168,7 +1183,7 @@
     "geonames": "https://www.geonames.org/2772649/leoben.html",
     "lat": "47.37650",
     "long": "15.09144",
-    "wikidata": "",
+    "wikidata": "https://www.wikidata.org/wiki/Q485294",
     "alt_names": [
       {
         "id": 47,
@@ -1226,7 +1241,7 @@
     "geonames": "https://www.geonames.org/2775020/judenburg.html",
     "lat": "47.16667",
     "long": "14.66667",
-    "wikidata": "",
+    "wikidata": "https://www.wikidata.org/wiki/Q263107",
     "alt_names": [],
     "msdesc": [
       {
@@ -1279,7 +1294,7 @@
     "geonames": "https://www.geonames.org/2774326/klagenfurt-am-woerthersee.html",
     "lat": "46.62472",
     "long": "14.30528",
-    "wikidata": "",
+    "wikidata": "https://www.wikidata.org/wiki/Q41753",
     "alt_names": [],
     "msdesc": [
       {
@@ -1373,13 +1388,18 @@
   "28": {
     "id": 28,
     "order": "28.00000000000000000000",
-    "name": "Trieste (Tergestinum)",
+    "name": "Trieste",
     "jesuiten_id": "jesuiten_place__28",
     "geonames": "https://www.geonames.org/3165185/trieste.html",
     "lat": "45.64953",
     "long": "13.77678",
     "wikidata": "https://www.wikidata.org/wiki/Q546",
-    "alt_names": [],
+    "alt_names": [
+      {
+        "id": 78,
+        "value": "Tergestinum"
+      }
+    ],
     "msdesc": [
       {
         "id": 4,
@@ -1422,13 +1442,18 @@
   "29": {
     "id": 29,
     "order": "29.00000000000000000000",
-    "name": "Rijeka (Flumen / Fiume)",
+    "name": "Rijeka",
     "jesuiten_id": "jesuiten_place__29",
     "geonames": "https://www.geonames.org/3191648/rijeka.html",
     "lat": "45.32673",
     "long": "14.44241",
     "wikidata": "https://www.wikidata.org/wiki/Q1647",
-    "alt_names": [],
+    "alt_names": [
+      {
+        "id": 73,
+        "value": "Flumen / Fiume"
+      }
+    ],
     "msdesc": [
       {
         "id": 4,
@@ -1528,13 +1553,18 @@
   "31": {
     "id": 31,
     "order": "31.00000000000000000000",
-    "name": "Pécs (Quinque ecclesiae)",
+    "name": "Pécs",
     "jesuiten_id": "jesuiten_place__31",
     "geonames": "https://www.geonames.org/3046526/pecs.html",
     "lat": "46.07250",
     "long": "18.23083",
     "wikidata": "",
-    "alt_names": [],
+    "alt_names": [
+      {
+        "id": 71,
+        "value": "Quinque ecclesiae"
+      }
+    ],
     "msdesc": [
       {
         "id": 4,
@@ -1682,13 +1712,22 @@
   "35": {
     "id": 35,
     "order": "35.00000000000000000000",
-    "name": "Timişoara (Freidorf / Josephstadt)",
+    "name": "Timişoara",
     "jesuiten_id": "jesuiten_place__35",
     "geonames": "https://www.geonames.org/665087/timisoara.html",
     "lat": "45.75372",
     "long": "21.22571",
     "wikidata": "https://www.wikidata.org/wiki/Q83404",
-    "alt_names": [],
+    "alt_names": [
+      {
+        "id": 76,
+        "value": "Josephstadt"
+      },
+      {
+        "id": 77,
+        "value": "Freidorf"
+      }
+    ],
     "msdesc": [
       {
         "id": 10,
@@ -1715,18 +1754,6 @@
         "value": "Znoyma"
       }
     ],
-    "msdesc": []
-  },
-  "38": {
-    "id": 38,
-    "order": "38.00000000000000000000",
-    "name": "Wroclaw (Breslau / Vratislavia)",
-    "jesuiten_id": "jesuiten_place__38",
-    "geonames": "https://www.geonames.org/3081368/wroclaw.html",
-    "lat": "51.10000",
-    "long": "17.03333",
-    "wikidata": "https://www.wikidata.org/wiki/Q1799",
-    "alt_names": [],
     "msdesc": []
   },
   "39": {
@@ -1847,7 +1874,7 @@
     "geonames": "https://www.geonames.org/3059101/levice.html",
     "lat": "48.21563",
     "long": "18.60705",
-    "wikidata": "",
+    "wikidata": "https://www.wikidata.org/wiki/Q506693",
     "alt_names": [],
     "msdesc": []
   },
@@ -1878,13 +1905,22 @@
   "48": {
     "id": 48,
     "order": "48.00000000000000000000",
-    "name": "Humenné (Homonna)",
+    "name": "Humenné",
     "jesuiten_id": "jesuiten_place__48",
     "geonames": "https://www.geonames.org/724627/humenne.html",
     "lat": "48.93707",
     "long": "21.91625",
-    "wikidata": "",
-    "alt_names": [],
+    "wikidata": "https://www.wikidata.org/wiki/Q502264",
+    "alt_names": [
+      {
+        "id": 61,
+        "value": "Homonna"
+      },
+      {
+        "id": 62,
+        "value": "Homenau"
+      }
+    ],
     "msdesc": []
   },
   "49": {
@@ -2012,7 +2048,7 @@
     "geonames": "",
     "lat": "46.56689",
     "long": "16.45276",
-    "wikidata": "",
+    "wikidata": "https://www.wikidata.org/wiki/Q15890",
     "alt_names": [
       {
         "id": 46,
@@ -2029,7 +2065,7 @@
     "geonames": "https://www.geonames.org/3052040/gyoengyoes.html",
     "lat": "47.78257",
     "long": "19.92800",
-    "wikidata": "",
+    "wikidata": "https://www.wikidata.org/wiki/Q209983",
     "alt_names": [],
     "msdesc": [
       {
@@ -2131,13 +2167,18 @@
   "60": {
     "id": 60,
     "order": "60.00000000000000000000",
-    "name": "Šurianky (Suranka)",
+    "name": "Šurianky",
     "jesuiten_id": "jesuiten_place__60",
     "geonames": "https://www.geonames.org/3057338/surianky.html",
     "lat": "48.42194",
     "long": "18.02305",
     "wikidata": "https://www.wikidata.org/wiki/Q1043971",
-    "alt_names": [],
+    "alt_names": [
+      {
+        "id": 75,
+        "value": "Suranka"
+      }
+    ],
     "msdesc": []
   },
   "61": {
@@ -2172,7 +2213,7 @@
     "geonames": "https://www.geonames.org/2777237/gurk.html",
     "lat": "46.87389",
     "long": "14.29167",
-    "wikidata": "",
+    "wikidata": "https://www.wikidata.org/wiki/Q662048",
     "alt_names": [],
     "msdesc": []
   },
@@ -2335,13 +2376,18 @@
   "72": {
     "id": 72,
     "order": "69.00000000000000000000",
-    "name": "Prešov (Eperiesinum)",
+    "name": "Prešov",
     "jesuiten_id": "jesuiten_place__72",
     "geonames": "https://www.geonames.org/723819/presov.html",
     "lat": "48.99839",
     "long": "21.23393",
     "wikidata": "https://www.wikidata.org/wiki/Q26119",
-    "alt_names": [],
+    "alt_names": [
+      {
+        "id": 72,
+        "value": "Eperiesinum"
+      }
+    ],
     "msdesc": [
       {
         "id": 6,
@@ -3133,6 +3179,10 @@
       {
         "id": 36,
         "value": "Commotovium"
+      },
+      {
+        "id": 58,
+        "value": "Komotau"
       }
     ],
     "msdesc": []
@@ -3146,7 +3196,16 @@
     "lat": "48.81091",
     "long": "14.31521",
     "wikidata": "https://www.wikidata.org/wiki/Q188082",
-    "alt_names": [],
+    "alt_names": [
+      {
+        "id": 82,
+        "value": "Böhmisch Krumau"
+      },
+      {
+        "id": 83,
+        "value": "Crumlovia"
+      }
+    ],
     "msdesc": []
   },
   "100": {
@@ -3216,7 +3275,12 @@
     "lat": "50.43488",
     "long": "16.66145",
     "wikidata": "https://www.wikidata.org/wiki/Q284604",
-    "alt_names": [],
+    "alt_names": [
+      {
+        "id": 59,
+        "value": "Glatz"
+      }
+    ],
     "msdesc": []
   },
   "104": {
@@ -3228,7 +3292,12 @@
     "lat": "49.39552",
     "long": "13.29505",
     "wikidata": "https://www.wikidata.org/wiki/Q602976",
-    "alt_names": [],
+    "alt_names": [
+      {
+        "id": 60,
+        "value": "Klattau"
+      }
+    ],
     "msdesc": []
   },
   "105": {
@@ -3442,7 +3511,16 @@
     "lat": "51.10000",
     "long": "17.03333",
     "wikidata": "https://www.wikidata.org/wiki/Q1799",
-    "alt_names": [],
+    "alt_names": [
+      {
+        "id": 80,
+        "value": "Breslau"
+      },
+      {
+        "id": 81,
+        "value": "Vratislavia"
+      }
+    ],
     "msdesc": []
   },
   "122": {
@@ -3496,12 +3574,12 @@
   "126": {
     "id": 126,
     "order": "123.00000000000000000000",
-    "name": "Chlumek (Luže)",
+    "name": "Košumberk (Luže)",
     "jesuiten_id": "jesuiten_place__126",
-    "geonames": "",
+    "geonames": "https://www.geonames.org/3073120/kosumberk.html",
     "lat": "49.88948",
     "long": "16.03229",
-    "wikidata": "https://www.wikidata.org/wiki/Q58465310",
+    "wikidata": "https://www.wikidata.org/wiki/Q12031338",
     "alt_names": [],
     "msdesc": []
   },
@@ -3865,28 +3943,21 @@
     "alt_names": [],
     "msdesc": []
   },
-  "154": {
-    "id": 154,
-    "order": "151.00000000000000000000",
-    "name": "Brzesko",
-    "jesuiten_id": "jesuiten_place__154",
-    "geonames": "https://www.geonames.org/775183/brzesko.html",
-    "lat": "49.96911",
-    "long": "20.60606",
-    "wikidata": "https://www.wikidata.org/wiki/Q324884",
-    "alt_names": [],
-    "msdesc": []
-  },
   "155": {
     "id": 155,
     "order": "152.00000000000000000000",
-    "name": "Kamieniec",
+    "name": "Kamianets-Podilskyi",
     "jesuiten_id": "jesuiten_place__155",
-    "geonames": "https://www.geonames.org/3096797/kamieniec.html",
-    "lat": "52.16614",
-    "long": "16.46164",
-    "wikidata": "",
-    "alt_names": [],
+    "geonames": "https://www.geonames.org/706950/kamianets-podilskyi.html",
+    "lat": "48.67882",
+    "long": "26.58516",
+    "wikidata": "https://www.wikidata.org/wiki/Q193965",
+    "alt_names": [
+      {
+        "id": 70,
+        "value": "Camenecum"
+      }
+    ],
     "msdesc": []
   },
   "156": {
@@ -3916,13 +3987,18 @@
   "158": {
     "id": 158,
     "order": "155.00000000000000000000",
-    "name": "Łucka",
+    "name": "Lutsk",
     "jesuiten_id": "jesuiten_place__158",
-    "geonames": "https://www.geonames.org/765824/lucka.html",
-    "lat": "51.43646",
-    "long": "22.63578",
-    "wikidata": "",
-    "alt_names": [],
+    "geonames": "https://www.geonames.org/702569/lutsk.html",
+    "lat": "50.75932",
+    "long": "25.34244",
+    "wikidata": "https://www.wikidata.org/wiki/Q7550",
+    "alt_names": [
+      {
+        "id": 69,
+        "value": "Luceoria"
+      }
+    ],
     "msdesc": []
   },
   "159": {
@@ -4023,6 +4099,39 @@
     "lat": "48.74097",
     "long": "20.04961",
     "wikidata": "https://www.wikidata.org/wiki/Q573241",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "167": {
+    "id": 167,
+    "order": "164.00000000000000000000",
+    "name": "Brest",
+    "jesuiten_id": "jesuiten_place__167",
+    "geonames": "https://www.geonames.org/629634/brest.html",
+    "lat": "52.09755",
+    "long": "23.68775",
+    "wikidata": "https://www.wikidata.org/wiki/Q140147",
+    "alt_names": [
+      {
+        "id": 65,
+        "value": "Brześć"
+      },
+      {
+        "id": 66,
+        "value": "Bresta"
+      }
+    ],
+    "msdesc": []
+  },
+  "168": {
+    "id": 168,
+    "order": "165.00000000000000000000",
+    "name": "Římov (České Budějovice District)",
+    "jesuiten_id": "jesuiten_place__168",
+    "geonames": "https://www.geonames.org/3066861/rimov.html",
+    "lat": "48.85561",
+    "long": "14.48684",
+    "wikidata": "https://www.wikidata.org/wiki/Q386944",
     "alt_names": [],
     "msdesc": []
   }

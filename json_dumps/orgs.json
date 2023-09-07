@@ -733,7 +733,7 @@
                 "geonames": "https://www.geonames.org/2772400/linz.html",
                 "lat": "48.30639",
                 "long": "14.28611",
-                "wikidata": "",
+                "wikidata": "https://www.wikidata.org/wiki/Q41329",
                 "alt_names": [],
                 "msdesc": [
                     {
@@ -1010,13 +1010,18 @@
             {
                 "id": 6,
                 "order": "6.00000000000000000000",
-                "name": "Trnava (Nagyszombat)",
+                "name": "Trnava",
                 "jesuiten_id": "jesuiten_place__6",
                 "geonames": "https://www.geonames.org/3057124/trnava.html",
                 "lat": "48.37741",
                 "long": "17.58723",
                 "wikidata": "https://www.wikidata.org/wiki/Q26175",
-                "alt_names": [],
+                "alt_names": [
+                    {
+                        "id": 79,
+                        "value": "Nagyszombat"
+                    }
+                ],
                 "msdesc": [
                     {
                         "id": 6,
@@ -1102,7 +1107,7 @@
                 "geonames": "https://www.geonames.org/3052009/gyor.html",
                 "lat": "47.68333",
                 "long": "17.63512",
-                "wikidata": "",
+                "wikidata": "https://www.wikidata.org/wiki/Q134494",
                 "alt_names": [
                     {
                         "id": 9,
@@ -1190,7 +1195,7 @@
                 "geonames": "https://www.geonames.org/3196359/ljubljana.html",
                 "lat": "46.05108",
                 "long": "14.50513",
-                "wikidata": "",
+                "wikidata": "https://www.wikidata.org/wiki/Q437",
                 "alt_names": [
                     {
                         "id": 49,
@@ -1329,7 +1334,7 @@
                 "geonames": "https://www.geonames.org/2774326/klagenfurt-am-woerthersee.html",
                 "lat": "46.62472",
                 "long": "14.30528",
-                "wikidata": "",
+                "wikidata": "https://www.wikidata.org/wiki/Q41753",
                 "alt_names": [],
                 "msdesc": [
                     {
@@ -1883,7 +1888,7 @@
                 "geonames": "https://www.geonames.org/3059101/levice.html",
                 "lat": "48.21563",
                 "long": "18.60705",
-                "wikidata": "",
+                "wikidata": "https://www.wikidata.org/wiki/Q506693",
                 "alt_names": [],
                 "msdesc": []
             }
@@ -2078,13 +2083,22 @@
             {
                 "id": 48,
                 "order": "48.00000000000000000000",
-                "name": "Humenné (Homonna)",
+                "name": "Humenné",
                 "jesuiten_id": "jesuiten_place__48",
                 "geonames": "https://www.geonames.org/724627/humenne.html",
                 "lat": "48.93707",
                 "long": "21.91625",
-                "wikidata": "",
-                "alt_names": [],
+                "wikidata": "https://www.wikidata.org/wiki/Q502264",
+                "alt_names": [
+                    {
+                        "id": 61,
+                        "value": "Homonna"
+                    },
+                    {
+                        "id": 62,
+                        "value": "Homenau"
+                    }
+                ],
                 "msdesc": []
             }
         ],
@@ -2116,13 +2130,18 @@
             {
                 "id": 31,
                 "order": "31.00000000000000000000",
-                "name": "Pécs (Quinque ecclesiae)",
+                "name": "Pécs",
                 "jesuiten_id": "jesuiten_place__31",
                 "geonames": "https://www.geonames.org/3046526/pecs.html",
                 "lat": "46.07250",
                 "long": "18.23083",
                 "wikidata": "",
-                "alt_names": [],
+                "alt_names": [
+                    {
+                        "id": 71,
+                        "value": "Quinque ecclesiae"
+                    }
+                ],
                 "msdesc": [
                     {
                         "id": 4,
@@ -2196,7 +2215,7 @@
                 "geonames": "https://www.geonames.org/2773549/krems-an-der-donau.html",
                 "lat": "48.40921",
                 "long": "15.61415",
-                "wikidata": "",
+                "wikidata": "https://www.wikidata.org/wiki/Q131266",
                 "alt_names": [],
                 "msdesc": [
                     {
@@ -2363,7 +2382,7 @@
                 "geonames": "https://www.geonames.org/2775020/judenburg.html",
                 "lat": "47.16667",
                 "long": "14.66667",
-                "wikidata": "",
+                "wikidata": "https://www.wikidata.org/wiki/Q263107",
                 "alt_names": [],
                 "msdesc": [
                     {
@@ -2445,13 +2464,18 @@
             {
                 "id": 28,
                 "order": "28.00000000000000000000",
-                "name": "Trieste (Tergestinum)",
+                "name": "Trieste",
                 "jesuiten_id": "jesuiten_place__28",
                 "geonames": "https://www.geonames.org/3165185/trieste.html",
                 "lat": "45.64953",
                 "long": "13.77678",
                 "wikidata": "https://www.wikidata.org/wiki/Q546",
-                "alt_names": [],
+                "alt_names": [
+                    {
+                        "id": 78,
+                        "value": "Tergestinum"
+                    }
+                ],
                 "msdesc": [
                     {
                         "id": 4,
@@ -2537,7 +2561,7 @@
                 "geonames": "https://www.geonames.org/2772649/leoben.html",
                 "lat": "47.37650",
                 "long": "15.09144",
-                "wikidata": "",
+                "wikidata": "https://www.wikidata.org/wiki/Q485294",
                 "alt_names": [
                     {
                         "id": 47,
@@ -2616,13 +2640,18 @@
             {
                 "id": 29,
                 "order": "29.00000000000000000000",
-                "name": "Rijeka (Flumen / Fiume)",
+                "name": "Rijeka",
                 "jesuiten_id": "jesuiten_place__29",
                 "geonames": "https://www.geonames.org/3191648/rijeka.html",
                 "lat": "45.32673",
                 "long": "14.44241",
                 "wikidata": "https://www.wikidata.org/wiki/Q1647",
-                "alt_names": [],
+                "alt_names": [
+                    {
+                        "id": 73,
+                        "value": "Flumen / Fiume"
+                    }
+                ],
                 "msdesc": [
                     {
                         "id": 4,
@@ -2945,7 +2974,7 @@
                 "geonames": "https://www.geonames.org/3052040/gyoengyoes.html",
                 "lat": "47.78257",
                 "long": "19.92800",
-                "wikidata": "",
+                "wikidata": "https://www.wikidata.org/wiki/Q209983",
                 "alt_names": [],
                 "msdesc": [
                     {
@@ -3117,13 +3146,18 @@
             {
                 "id": 13,
                 "order": "13.00000000000000000000",
-                "name": "Sopron (Ödenburg)",
+                "name": "Sopron",
                 "jesuiten_id": "jesuiten_place__13",
                 "geonames": "https://www.geonames.org/3045190/sopron.html",
                 "lat": "47.68501",
                 "long": "16.59049",
                 "wikidata": "",
-                "alt_names": [],
+                "alt_names": [
+                    {
+                        "id": 74,
+                        "value": "Ödenburg"
+                    }
+                ],
                 "msdesc": [
                     {
                         "id": 4,
@@ -3193,7 +3227,7 @@
                 "geonames": "",
                 "lat": "46.56689",
                 "long": "16.45276",
-                "wikidata": "",
+                "wikidata": "https://www.wikidata.org/wiki/Q15890",
                 "alt_names": [
                     {
                         "id": 46,
@@ -3223,7 +3257,7 @@
                 "geonames": "https://www.geonames.org/2772649/leoben.html",
                 "lat": "47.37650",
                 "long": "15.09144",
-                "wikidata": "",
+                "wikidata": "https://www.wikidata.org/wiki/Q485294",
                 "alt_names": [
                     {
                         "id": 47,
@@ -4167,13 +4201,18 @@
             {
                 "id": 72,
                 "order": "69.00000000000000000000",
-                "name": "Prešov (Eperiesinum)",
+                "name": "Prešov",
                 "jesuiten_id": "jesuiten_place__72",
                 "geonames": "https://www.geonames.org/723819/presov.html",
                 "lat": "48.99839",
                 "long": "21.23393",
                 "wikidata": "https://www.wikidata.org/wiki/Q26119",
-                "alt_names": [],
+                "alt_names": [
+                    {
+                        "id": 72,
+                        "value": "Eperiesinum"
+                    }
+                ],
                 "msdesc": [
                     {
                         "id": 6,
@@ -5091,13 +5130,18 @@
             {
                 "id": 20,
                 "order": "20.00000000000000000000",
-                "name": "Levoča (Leutschau)",
+                "name": "Levoča",
                 "jesuiten_id": "jesuiten_place__20",
                 "geonames": "https://www.geonames.org/724294/levoca.html",
                 "lat": "49.02173",
                 "long": "20.59212",
                 "wikidata": "https://www.wikidata.org/wiki/Q242478",
-                "alt_names": [],
+                "alt_names": [
+                    {
+                        "id": 68,
+                        "value": "Leutschau"
+                    }
+                ],
                 "msdesc": [
                     {
                         "id": 6,
@@ -5222,13 +5266,18 @@
             {
                 "id": 31,
                 "order": "31.00000000000000000000",
-                "name": "Pécs (Quinque ecclesiae)",
+                "name": "Pécs",
                 "jesuiten_id": "jesuiten_place__31",
                 "geonames": "https://www.geonames.org/3046526/pecs.html",
                 "lat": "46.07250",
                 "long": "18.23083",
                 "wikidata": "",
-                "alt_names": [],
+                "alt_names": [
+                    {
+                        "id": 71,
+                        "value": "Quinque ecclesiae"
+                    }
+                ],
                 "msdesc": [
                     {
                         "id": 4,
@@ -5289,13 +5338,18 @@
             {
                 "id": 13,
                 "order": "13.00000000000000000000",
-                "name": "Sopron (Ödenburg)",
+                "name": "Sopron",
                 "jesuiten_id": "jesuiten_place__13",
                 "geonames": "https://www.geonames.org/3045190/sopron.html",
                 "lat": "47.68501",
                 "long": "16.59049",
                 "wikidata": "",
-                "alt_names": [],
+                "alt_names": [
+                    {
+                        "id": 74,
+                        "value": "Ödenburg"
+                    }
+                ],
                 "msdesc": [
                     {
                         "id": 4,
@@ -5667,6 +5721,10 @@
                     {
                         "id": 36,
                         "value": "Commotovium"
+                    },
+                    {
+                        "id": 58,
+                        "value": "Komotau"
                     }
                 ],
                 "msdesc": []
@@ -5693,7 +5751,16 @@
                 "lat": "48.81091",
                 "long": "14.31521",
                 "wikidata": "https://www.wikidata.org/wiki/Q188082",
-                "alt_names": [],
+                "alt_names": [
+                    {
+                        "id": 82,
+                        "value": "Böhmisch Krumau"
+                    },
+                    {
+                        "id": 83,
+                        "value": "Crumlovia"
+                    }
+                ],
                 "msdesc": []
             }
         ],
@@ -5790,7 +5857,12 @@
                 "lat": "50.43488",
                 "long": "16.66145",
                 "wikidata": "https://www.wikidata.org/wiki/Q284604",
-                "alt_names": [],
+                "alt_names": [
+                    {
+                        "id": 59,
+                        "value": "Glatz"
+                    }
+                ],
                 "msdesc": []
             }
         ],
@@ -5815,7 +5887,12 @@
                 "lat": "49.39552",
                 "long": "13.29505",
                 "wikidata": "https://www.wikidata.org/wiki/Q602976",
-                "alt_names": [],
+                "alt_names": [
+                    {
+                        "id": 60,
+                        "value": "Klattau"
+                    }
+                ],
                 "msdesc": []
             }
         ],
@@ -6035,31 +6112,6 @@
         "notes": "http://reholnici.hiu.cas.cz/katalog/l.dll?hal~1000099835",
         "persons": []
     },
-    "109": {
-        "id": 109,
-        "order": "109.00000000000000000000",
-        "name": "Jesuitenkolleg Prague",
-        "jesuiten_id": "jesuiten_org__109",
-        "located_in": [
-            {
-                "id": 93,
-                "order": "90.00000000000000000000",
-                "name": "Prague",
-                "jesuiten_id": "jesuiten_place__93",
-                "geonames": "https://www.geonames.org/3067696/prague.html",
-                "lat": "50.08804",
-                "long": "14.42076",
-                "wikidata": "https://www.wikidata.org/wiki/Q1085",
-                "alt_names": [],
-                "msdesc": []
-            }
-        ],
-        "gnd": "",
-        "msdesc": [],
-        "alt_name": "Collegium Neopragense",
-        "notes": "http://reholnici.hiu.cas.cz/katalog/l.dll?hal~1000099833",
-        "persons": []
-    },
     "110": {
         "id": 110,
         "order": "110.00000000000000000000",
@@ -6200,7 +6252,7 @@
     "116": {
         "id": 116,
         "order": "116.00000000000000000000",
-        "name": "Jesuitenkolleg Sankt Clementinum",
+        "name": "Jesuitenkolleg Prague ad S. Clementem",
         "jesuiten_id": "jesuiten_org__116",
         "located_in": [
             {
@@ -6218,7 +6270,7 @@
         ],
         "gnd": "https://d-nb.info/gnd/4355860-4",
         "msdesc": [],
-        "alt_name": "Clementinum",
+        "alt_name": "Collegium Pragae / Clementinum",
         "notes": "",
         "persons": []
     },
@@ -6337,7 +6389,16 @@
                 "lat": "51.10000",
                 "long": "17.03333",
                 "wikidata": "https://www.wikidata.org/wiki/Q1799",
-                "alt_names": [],
+                "alt_names": [
+                    {
+                        "id": 80,
+                        "value": "Breslau"
+                    },
+                    {
+                        "id": 81,
+                        "value": "Vratislavia"
+                    }
+                ],
                 "msdesc": []
             }
         ],
@@ -6510,13 +6571,18 @@
             {
                 "id": 60,
                 "order": "60.00000000000000000000",
-                "name": "Šurianky (Suranka)",
+                "name": "Šurianky",
                 "jesuiten_id": "jesuiten_place__60",
                 "geonames": "https://www.geonames.org/3057338/surianky.html",
                 "lat": "48.42194",
                 "long": "18.02305",
                 "wikidata": "https://www.wikidata.org/wiki/Q1043971",
-                "alt_names": [],
+                "alt_names": [
+                    {
+                        "id": 75,
+                        "value": "Suranka"
+                    }
+                ],
                 "msdesc": []
             }
         ],
@@ -6540,13 +6606,18 @@
             {
                 "id": 31,
                 "order": "31.00000000000000000000",
-                "name": "Pécs (Quinque ecclesiae)",
+                "name": "Pécs",
                 "jesuiten_id": "jesuiten_place__31",
                 "geonames": "https://www.geonames.org/3046526/pecs.html",
                 "lat": "46.07250",
                 "long": "18.23083",
                 "wikidata": "",
-                "alt_names": [],
+                "alt_names": [
+                    {
+                        "id": 71,
+                        "value": "Quinque ecclesiae"
+                    }
+                ],
                 "msdesc": [
                     {
                         "id": 4,
@@ -6814,18 +6885,18 @@
     "136": {
         "id": 136,
         "order": "135.00000000000000000000",
-        "name": "Jesuitenresidenz Chlumek u Luže",
+        "name": "Jesuitenresidenz Košumberk",
         "jesuiten_id": "jesuiten_org__136",
         "located_in": [
             {
                 "id": 126,
                 "order": "123.00000000000000000000",
-                "name": "Chlumek (Luže)",
+                "name": "Košumberk (Luže)",
                 "jesuiten_id": "jesuiten_place__126",
-                "geonames": "",
+                "geonames": "https://www.geonames.org/3073120/kosumberk.html",
                 "lat": "49.88948",
                 "long": "16.03229",
-                "wikidata": "https://www.wikidata.org/wiki/Q58465310",
+                "wikidata": "https://www.wikidata.org/wiki/Q12031338",
                 "alt_names": [],
                 "msdesc": []
             }
@@ -7019,13 +7090,22 @@
             {
                 "id": 48,
                 "order": "48.00000000000000000000",
-                "name": "Humenné (Homonna)",
+                "name": "Humenné",
                 "jesuiten_id": "jesuiten_place__48",
                 "geonames": "https://www.geonames.org/724627/humenne.html",
                 "lat": "48.93707",
                 "long": "21.91625",
-                "wikidata": "",
-                "alt_names": [],
+                "wikidata": "https://www.wikidata.org/wiki/Q502264",
+                "alt_names": [
+                    {
+                        "id": 61,
+                        "value": "Homonna"
+                    },
+                    {
+                        "id": 62,
+                        "value": "Homenau"
+                    }
+                ],
                 "msdesc": []
             }
         ],
@@ -7157,7 +7237,7 @@
                 "geonames": "https://www.geonames.org/3052040/gyoengyoes.html",
                 "lat": "47.78257",
                 "long": "19.92800",
-                "wikidata": "",
+                "wikidata": "https://www.wikidata.org/wiki/Q209983",
                 "alt_names": [],
                 "msdesc": [
                     {
@@ -7619,7 +7699,7 @@
         "gnd": "",
         "msdesc": [],
         "alt_name": "Collegium Lublinense",
-        "notes": "",
+        "notes": "LUBLIN, Lublinum, urbs olim in dioec. Cracoviensi. Collegium Lublinense 1582-1773 prov. Minor. Polon., cum gymnasio, philosophia et theologia pro externis, item cum theologia pro Nostris. Praetor collegium fuit ab a. 1675 seminarium clericorum, postea eius loco collegium nobilium 1754-1773.\nQuelle: Catalogus provinciae Galicianae Societatis Jesu, Krakow 1899, S. 40.",
         "persons": []
     },
     "166": {
@@ -7644,7 +7724,7 @@
         "gnd": "",
         "msdesc": [],
         "alt_name": "Collegium Leopoliense",
-        "notes": "",
+        "notes": "LEOPOLIS, Lwów, germ. Leinberg, urbs capitalis Galiciae, sedes trium cathol. archiepporum, scilicet ritus lat., graec. et armeni. Collegium Leopoliense, inchoatum a. 1585, ad ecclesiam SS. Petri et Pauli, prov. Minor. Polon., cum theologia pro Nostris, nec non cum gymnasio, philosophia et theologia pro externis; habuit etiam praerogativas academiae seu universitatis, quibus tamen, opponentibus se adversariis, vix utebatur. A collegio dependebat convictus nobilium 1749-1773 in separatis aedibus collocatus. Nostro saeculo post excitatam provinciam Galicianam, ad antiquum Societatis templum SS. Petri et Pauli a. 1821 condita est missio, postea conversa in residentiam, quae etiam nunc existit. Patres huius domus excurrebant in pagum Signiówka, ubi a. 1850 cura P. Michaelis Harder exstructum est sacellum pro incolis Germanis. Alia residentia Leopoli existebat penes templum S. Nicolai 1838-1848 cum cura parochiae et cum convictu nobilium, in quo docebat invenis scholasticus loan. Franzelin, idem postea Cardinalis. In monasterio Leopoliensi PP. Basilianorum inde ab a. 1886 habitant nostri Patres, occupati reformatione istius ordinis. Leopoli residebant Praepositi prov. Galic. 1844, 1867.\nCatalogus provinciae Galicianae Societatis Jesu, Krakow 1899, S. 38-39.",
         "persons": []
     },
     "167": {
@@ -7868,7 +7948,7 @@
         ],
         "gnd": "",
         "msdesc": [],
-        "alt_name": "Calissiense Collegium",
+        "alt_name": "Collegium Calissiense",
         "notes": "",
         "persons": []
     },
@@ -7925,51 +8005,65 @@
     "178": {
         "id": 178,
         "order": "175.00000000000000000000",
-        "name": "Jesuitenkolleg Brzesko",
+        "name": "Jesuitenkolleg Brest",
         "jesuiten_id": "jesuiten_org__178",
         "located_in": [
             {
-                "id": 154,
-                "order": "151.00000000000000000000",
-                "name": "Brzesko",
-                "jesuiten_id": "jesuiten_place__154",
-                "geonames": "https://www.geonames.org/775183/brzesko.html",
-                "lat": "49.96911",
-                "long": "20.60606",
-                "wikidata": "https://www.wikidata.org/wiki/Q324884",
-                "alt_names": [],
+                "id": 167,
+                "order": "164.00000000000000000000",
+                "name": "Brest",
+                "jesuiten_id": "jesuiten_place__167",
+                "geonames": "https://www.geonames.org/629634/brest.html",
+                "lat": "52.09755",
+                "long": "23.68775",
+                "wikidata": "https://www.wikidata.org/wiki/Q140147",
+                "alt_names": [
+                    {
+                        "id": 65,
+                        "value": "Brześć"
+                    },
+                    {
+                        "id": 66,
+                        "value": "Bresta"
+                    }
+                ],
                 "msdesc": []
             }
         ],
         "gnd": "",
         "msdesc": [],
-        "alt_name": "Brestense Collegium",
-        "notes": "",
+        "alt_name": "Collegium Brestense",
+        "notes": "BRESTA, Brzesc Litewski, Urbs in dioec. Luceoriensi. Residentia Brestensis inchoata a. 1615, mox conversa in collegium (1621-1773) prov. Maior. Polon., cum gymnasio, philosophia et theologia pro externis.\nCatalogus provinciae Galicianae Societatis Jesu – Catalogus domorum Societatis Jesu in Polonia, Krakow 1899, S. 11.",
         "persons": []
     },
     "179": {
         "id": 179,
         "order": "176.00000000000000000000",
-        "name": "Jesuitenkolleg Kamieniec",
+        "name": "Jesuitenkolleg Kamianets-Podilskyi",
         "jesuiten_id": "jesuiten_org__179",
         "located_in": [
             {
                 "id": 155,
                 "order": "152.00000000000000000000",
-                "name": "Kamieniec",
+                "name": "Kamianets-Podilskyi",
                 "jesuiten_id": "jesuiten_place__155",
-                "geonames": "https://www.geonames.org/3096797/kamieniec.html",
-                "lat": "52.16614",
-                "long": "16.46164",
-                "wikidata": "",
-                "alt_names": [],
+                "geonames": "https://www.geonames.org/706950/kamianets-podilskyi.html",
+                "lat": "48.67882",
+                "long": "26.58516",
+                "wikidata": "https://www.wikidata.org/wiki/Q193965",
+                "alt_names": [
+                    {
+                        "id": 70,
+                        "value": "Camenecum"
+                    }
+                ],
                 "msdesc": []
             }
         ],
         "gnd": "",
         "msdesc": [],
-        "alt_name": "Camenecense Collegium",
-        "notes": "",
+        "alt_name": "Collegium Camenecense",
+        "notes": "CAMENECUM, Kamieniec Podolski, urbs Podoliae in dioec. Camenecensi. Collegium Camenecense (1608- 1773) prov. Minor Polon, cum gymnasio, philosophia et theologia pro externis. Convictus nobilium erectus a. 1707.\nCatalogus provinciae Galicianae Societatis Jesu – Catalogus domorum Societatis Jesu in Polonia, Krakow 1899, S. 13.",
         "persons": []
     },
     "180": {
@@ -8055,33 +8149,38 @@
         ],
         "gnd": "",
         "msdesc": [],
-        "alt_name": "Graudentinense Collegium",
+        "alt_name": "Collegium Graudentinense / Graudentinum",
         "notes": "",
         "persons": []
     },
     "184": {
         "id": 184,
         "order": "181.00000000000000000000",
-        "name": "Jesuitenkolleg Łucka",
+        "name": "Jesuitenkolleg Lutsk",
         "jesuiten_id": "jesuiten_org__184",
         "located_in": [
             {
                 "id": 158,
                 "order": "155.00000000000000000000",
-                "name": "Łucka",
+                "name": "Lutsk",
                 "jesuiten_id": "jesuiten_place__158",
-                "geonames": "https://www.geonames.org/765824/lucka.html",
-                "lat": "51.43646",
-                "long": "22.63578",
-                "wikidata": "",
-                "alt_names": [],
+                "geonames": "https://www.geonames.org/702569/lutsk.html",
+                "lat": "50.75932",
+                "long": "25.34244",
+                "wikidata": "https://www.wikidata.org/wiki/Q7550",
+                "alt_names": [
+                    {
+                        "id": 69,
+                        "value": "Luceoria"
+                    }
+                ],
                 "msdesc": []
             }
         ],
         "gnd": "",
         "msdesc": [],
         "alt_name": "Luceoriense Collegium",
-        "notes": "",
+        "notes": "LUCEORIA, Luck, urbs in dioec. Luceoriensi. Collegium Luceoriense 1608-1773 prov. Minor. Polon., cum gymnasio, philosophia et theologia pro externis, item cum philosophia pro Nostris. Fuit ibidem convictus nobilium, a collegio dependens.\nQuelle: Catalogus provinciae Galicianae Societatis Jesu, Krakow 1899, S. 40.",
         "persons": []
     },
     "185": {
@@ -8136,6 +8235,31 @@
         "gnd": "",
         "msdesc": [],
         "alt_name": "Ostrogiense Collegium",
+        "notes": "",
+        "persons": []
+    },
+    "197": {
+        "id": 197,
+        "order": "183.50000000000000000000",
+        "name": "Jesuitenkolleg Prague ad S. Ignatium",
+        "jesuiten_id": "jesuiten_org__197",
+        "located_in": [
+            {
+                "id": 93,
+                "order": "90.00000000000000000000",
+                "name": "Prague",
+                "jesuiten_id": "jesuiten_place__93",
+                "geonames": "https://www.geonames.org/3067696/prague.html",
+                "lat": "50.08804",
+                "long": "14.42076",
+                "wikidata": "https://www.wikidata.org/wiki/Q1085",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Collegium Pragae ad S. Ignatium / Collegium Neopragense",
         "notes": "",
         "persons": []
     },
@@ -8274,13 +8398,22 @@
             {
                 "id": 35,
                 "order": "35.00000000000000000000",
-                "name": "Timişoara (Freidorf / Josephstadt)",
+                "name": "Timişoara",
                 "jesuiten_id": "jesuiten_place__35",
                 "geonames": "https://www.geonames.org/665087/timisoara.html",
                 "lat": "45.75372",
                 "long": "21.22571",
                 "wikidata": "https://www.wikidata.org/wiki/Q83404",
-                "alt_names": [],
+                "alt_names": [
+                    {
+                        "id": 76,
+                        "value": "Josephstadt"
+                    },
+                    {
+                        "id": 77,
+                        "value": "Freidorf"
+                    }
+                ],
                 "msdesc": [
                     {
                         "id": 10,
@@ -8383,6 +8516,31 @@
         "gnd": "",
         "msdesc": [],
         "alt_name": "Missio Nadasdiana",
+        "notes": "",
+        "persons": []
+    },
+    "196": {
+        "id": 196,
+        "order": "193.00000000000000000000",
+        "name": "Jesuitenmission Římov",
+        "jesuiten_id": "jesuiten_org__196",
+        "located_in": [
+            {
+                "id": 168,
+                "order": "165.00000000000000000000",
+                "name": "Římov (České Budějovice District)",
+                "jesuiten_id": "jesuiten_place__168",
+                "geonames": "https://www.geonames.org/3066861/rimov.html",
+                "lat": "48.85561",
+                "long": "14.48684",
+                "wikidata": "https://www.wikidata.org/wiki/Q386944",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Rzimoviensis",
         "notes": "",
         "persons": []
     }

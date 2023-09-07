@@ -563,7 +563,11 @@
     "id": 36,
     "order": "36.00000000000000000000",
     "Name": "Commotovium",
-    "Notes": null,
+    "Notes": {
+      "id": 11393,
+      "value": "lat",
+      "color": "dark-gray"
+    },
     "places": [
       {
         "id": 98,
@@ -879,7 +883,11 @@
     "id": 56,
     "order": "56.00000000000000000000",
     "Name": "Imperium Sinarum",
-    "Notes": null,
+    "Notes": {
+      "id": 11393,
+      "value": "lat",
+      "color": "dark-gray"
+    },
     "places": [
       {
         "id": 148,
@@ -900,6 +908,381 @@
       {
         "id": 159,
         "value": "Malbork"
+      }
+    ]
+  },
+  "58": {
+    "id": 58,
+    "order": "58.00000000000000000000",
+    "Name": "Komotau",
+    "Notes": {
+      "id": 11394,
+      "value": "ger",
+      "color": "green"
+    },
+    "places": [
+      {
+        "id": 98,
+        "value": "Chomutov"
+      }
+    ]
+  },
+  "59": {
+    "id": 59,
+    "order": "59.00000000000000000000",
+    "Name": "Glatz",
+    "Notes": {
+      "id": 11394,
+      "value": "ger",
+      "color": "green"
+    },
+    "places": [
+      {
+        "id": 103,
+        "value": "Kłodzko"
+      }
+    ]
+  },
+  "60": {
+    "id": 60,
+    "order": "60.00000000000000000000",
+    "Name": "Klattau",
+    "Notes": {
+      "id": 11394,
+      "value": "ger",
+      "color": "green"
+    },
+    "places": [
+      {
+        "id": 104,
+        "value": "Klatovy"
+      }
+    ]
+  },
+  "61": {
+    "id": 61,
+    "order": "61.00000000000000000000",
+    "Name": "Homonna",
+    "Notes": {
+      "id": 11395,
+      "value": "hun",
+      "color": "dark-gray"
+    },
+    "places": [
+      {
+        "id": 48,
+        "value": "Humenné"
+      }
+    ]
+  },
+  "62": {
+    "id": 62,
+    "order": "62.00000000000000000000",
+    "Name": "Homenau",
+    "Notes": {
+      "id": 11394,
+      "value": "ger",
+      "color": "green"
+    },
+    "places": [
+      {
+        "id": 48,
+        "value": "Humenné"
+      }
+    ]
+  },
+  "64": {
+    "id": 64,
+    "order": "64.00000000000000000000",
+    "Name": "Bresta",
+    "Notes": {
+      "id": 11393,
+      "value": "lat",
+      "color": "dark-gray"
+    },
+    "places": []
+  },
+  "65": {
+    "id": 65,
+    "order": "65.00000000000000000000",
+    "Name": "Brześć",
+    "Notes": null,
+    "places": [
+      {
+        "id": 167,
+        "value": "Brest"
+      }
+    ]
+  },
+  "66": {
+    "id": 66,
+    "order": "66.00000000000000000000",
+    "Name": "Bresta",
+    "Notes": {
+      "id": 11393,
+      "value": "lat",
+      "color": "dark-gray"
+    },
+    "places": [
+      {
+        "id": 167,
+        "value": "Brest"
+      }
+    ]
+  },
+  "68": {
+    "id": 68,
+    "order": "68.00000000000000000000",
+    "Name": "Leutschau",
+    "Notes": {
+      "id": 11394,
+      "value": "ger",
+      "color": "green"
+    },
+    "places": [
+      {
+        "id": 20,
+        "value": "Levoča"
+      }
+    ]
+  },
+  "69": {
+    "id": 69,
+    "order": "69.00000000000000000000",
+    "Name": "Luceoria",
+    "Notes": {
+      "id": 11393,
+      "value": "lat",
+      "color": "dark-gray"
+    },
+    "places": [
+      {
+        "id": 158,
+        "value": "Lutsk"
+      }
+    ]
+  },
+  "70": {
+    "id": 70,
+    "order": "70.00000000000000000000",
+    "Name": "Camenecum",
+    "Notes": {
+      "id": 11393,
+      "value": "lat",
+      "color": "dark-gray"
+    },
+    "places": [
+      {
+        "id": 155,
+        "value": "Kamianets-Podilskyi"
+      }
+    ]
+  },
+  "71": {
+    "id": 71,
+    "order": "71.00000000000000000000",
+    "Name": "Quinque ecclesiae",
+    "Notes": {
+      "id": 11393,
+      "value": "lat",
+      "color": "dark-gray"
+    },
+    "places": [
+      {
+        "id": 31,
+        "value": "Pécs"
+      }
+    ]
+  },
+  "72": {
+    "id": 72,
+    "order": "72.00000000000000000000",
+    "Name": "Eperiesinum",
+    "Notes": {
+      "id": 11393,
+      "value": "lat",
+      "color": "dark-gray"
+    },
+    "places": [
+      {
+        "id": 72,
+        "value": "Prešov"
+      }
+    ]
+  },
+  "73": {
+    "id": 73,
+    "order": "73.00000000000000000000",
+    "Name": "Flumen / Fiume",
+    "Notes": {
+      "id": 11393,
+      "value": "lat",
+      "color": "dark-gray"
+    },
+    "places": [
+      {
+        "id": 29,
+        "value": "Rijeka"
+      }
+    ]
+  },
+  "74": {
+    "id": 74,
+    "order": "74.00000000000000000000",
+    "Name": "Ödenburg",
+    "Notes": {
+      "id": 11394,
+      "value": "ger",
+      "color": "green"
+    },
+    "places": [
+      {
+        "id": 13,
+        "value": "Sopron"
+      }
+    ]
+  },
+  "75": {
+    "id": 75,
+    "order": "75.00000000000000000000",
+    "Name": "Suranka",
+    "Notes": {
+      "id": 11394,
+      "value": "ger",
+      "color": "green"
+    },
+    "places": [
+      {
+        "id": 60,
+        "value": "Šurianky"
+      }
+    ]
+  },
+  "76": {
+    "id": 76,
+    "order": "76.00000000000000000000",
+    "Name": "Josephstadt",
+    "Notes": {
+      "id": 11394,
+      "value": "ger",
+      "color": "green"
+    },
+    "places": [
+      {
+        "id": 35,
+        "value": "Timişoara"
+      }
+    ]
+  },
+  "77": {
+    "id": 77,
+    "order": "77.00000000000000000000",
+    "Name": "Freidorf",
+    "Notes": {
+      "id": 11394,
+      "value": "ger",
+      "color": "green"
+    },
+    "places": [
+      {
+        "id": 35,
+        "value": "Timişoara"
+      }
+    ]
+  },
+  "78": {
+    "id": 78,
+    "order": "78.00000000000000000000",
+    "Name": "Tergestinum",
+    "Notes": {
+      "id": 11393,
+      "value": "lat",
+      "color": "dark-gray"
+    },
+    "places": [
+      {
+        "id": 28,
+        "value": "Trieste"
+      }
+    ]
+  },
+  "79": {
+    "id": 79,
+    "order": "79.00000000000000000000",
+    "Name": "Nagyszombat",
+    "Notes": {
+      "id": 11395,
+      "value": "hun",
+      "color": "dark-gray"
+    },
+    "places": [
+      {
+        "id": 6,
+        "value": "Trnava"
+      }
+    ]
+  },
+  "80": {
+    "id": 80,
+    "order": "80.00000000000000000000",
+    "Name": "Breslau",
+    "Notes": {
+      "id": 11394,
+      "value": "ger",
+      "color": "green"
+    },
+    "places": [
+      {
+        "id": 121,
+        "value": "Wrocław"
+      }
+    ]
+  },
+  "81": {
+    "id": 81,
+    "order": "81.00000000000000000000",
+    "Name": "Vratislavia",
+    "Notes": {
+      "id": 11393,
+      "value": "lat",
+      "color": "dark-gray"
+    },
+    "places": [
+      {
+        "id": 121,
+        "value": "Wrocław"
+      }
+    ]
+  },
+  "82": {
+    "id": 82,
+    "order": "82.00000000000000000000",
+    "Name": "Böhmisch Krumau",
+    "Notes": {
+      "id": 11394,
+      "value": "ger",
+      "color": "green"
+    },
+    "places": [
+      {
+        "id": 99,
+        "value": "Český Krumlov"
+      }
+    ]
+  },
+  "83": {
+    "id": 83,
+    "order": "83.00000000000000000000",
+    "Name": "Crumlovia",
+    "Notes": {
+      "id": 11393,
+      "value": "lat",
+      "color": "dark-gray"
+    },
+    "places": [
+      {
+        "id": 99,
+        "value": "Český Krumlov"
       }
     ]
   }
