@@ -7414,13 +7414,26 @@
     "155": {
         "id": 155,
         "order": "154.00000000000000000000",
-        "name": "Jesuitenmission Coppan ?",
+        "name": "Jesuitenmission Koppányszántó  ?",
         "jesuiten_id": "jesuiten_org__155",
-        "located_in": [],
+        "located_in": [
+            {
+                "id": 173,
+                "order": "170.00000000000000000000",
+                "name": "Koppányszántó",
+                "jesuiten_id": "jesuiten_place__173",
+                "geonames": "https://www.geonames.org/3049450/koppanyszanto.html",
+                "lat": "46.59472",
+                "long": "18.10990",
+                "wikidata": "https://www.wikidata.org/wiki/Q1072229",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
         "gnd": "",
         "msdesc": [],
         "alt_name": "Coppaniensis missio",
-        "notes": "Coppan oppidum Vespriniensi in spiritualibus episcopo subditum; in Turcia finibus",
+        "notes": "Coppan oppidum Vespriniense in spiritualibus episcopo subditum, quod ad occasum quatuor circiter inde milliaribus Ungaricis, lacum Ungariae totius praecipuum habet, Balaton dictum; a meridie Dravum, a septemtrione Albam Regalem pari prope modum disjuncta interuallo; at uero ab oriente Sygethum (Cod. 12253, f. .21r).",
         "persons": []
     },
     "156": {
@@ -7596,18 +7609,6 @@
         "msdesc": [],
         "alt_name": "Missio in montanis Pannoniam versus",
         "notes": "",
-        "persons": []
-    },
-    "163": {
-        "id": 163,
-        "order": "160.00000000000000000000",
-        "name": "Jesuitenmission Coggan (?)",
-        "jesuiten_id": "jesuiten_org__163",
-        "located_in": [],
-        "gnd": "",
-        "msdesc": [],
-        "alt_name": "Coggannensis nova missio in Turciae finibus",
-        "notes": "Coggan oppidum Vespriniense in spiritualibus episcopo subditum, quod ad occasum quatuor circiter inde milliaribus Ungaricis, lacum Ungariae totius praecipuum habet, Balaton dictum; a meridie Dravum, a septemtrione Albam Regalem pari prope modum disjuncta interuallo; at uero ab oriente Sygethum (Cod. 12253, f. .21r).",
         "persons": []
     },
     "164": {
@@ -8341,7 +8342,7 @@
     "190": {
         "id": 190,
         "order": "187.00000000000000000000",
-        "name": "Jesuitenmission",
+        "name": "Jesuitenmission Cluj-Napoca",
         "jesuiten_id": "jesuiten_org__190",
         "located_in": [
             {
@@ -8512,11 +8513,24 @@
         "order": "192.00000000000000000000",
         "name": "Jesuitenmission Nadasdiana",
         "jesuiten_id": "jesuiten_org__195",
-        "located_in": [],
+        "located_in": [
+            {
+                "id": 171,
+                "order": "168.00000000000000000000",
+                "name": "Deutschkreutz",
+                "jesuiten_id": "jesuiten_place__171",
+                "geonames": "https://www.geonames.org/2781024/deutschkreutz.html",
+                "lat": "47.60000",
+                "long": "16.63333",
+                "wikidata": "https://www.wikidata.org/wiki/Q41945",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
         "gnd": "",
         "msdesc": [],
         "alt_name": "Missio Nadasdiana",
-        "notes": "",
+        "notes": "ad S. Crucem (= Heiligenkreuz = Deutschkreuz?)",
         "persons": []
     },
     "196": {
@@ -8541,6 +8555,233 @@
         "gnd": "",
         "msdesc": [],
         "alt_name": "Missio Rzimoviensis",
+        "notes": "",
+        "persons": []
+    },
+    "198": {
+        "id": 198,
+        "order": "194.00000000000000000000",
+        "name": "Jesuitenmission Eszterhazy - Forchtenstein ?",
+        "jesuiten_id": "jesuiten_org__198",
+        "located_in": [
+            {
+                "id": 170,
+                "order": "167.00000000000000000000",
+                "name": "Forchtenstein",
+                "jesuiten_id": "jesuiten_place__170",
+                "geonames": "https://www.geonames.org/2779430/forchtenstein.html",
+                "lat": "47.71161",
+                "long": "16.34525",
+                "wikidata": "https://www.wikidata.org/wiki/Q877030",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Eszterhassiana",
+        "notes": "in Furtenstein (Cod. 12045) Forchtenstein ?",
+        "persons": []
+    },
+    "199": {
+        "id": 199,
+        "order": "195.00000000000000000000",
+        "name": "Jesuitenresidenz Trenčín",
+        "jesuiten_id": "jesuiten_org__199",
+        "located_in": [
+            {
+                "id": 18,
+                "order": "18.00000000000000000000",
+                "name": "Trenčín",
+                "jesuiten_id": "jesuiten_place__18",
+                "geonames": "https://www.geonames.org/3057140/trencin.html",
+                "lat": "48.89452",
+                "long": "18.04436",
+                "wikidata": "https://www.wikidata.org/wiki/Q145002",
+                "alt_names": [],
+                "msdesc": [
+                    {
+                        "id": 4,
+                        "value": "Cod. 12066"
+                    },
+                    {
+                        "id": 6,
+                        "value": "Cod. 12123"
+                    },
+                    {
+                        "id": 10,
+                        "value": "Cod. 12138"
+                    },
+                    {
+                        "id": 11,
+                        "value": "Cod. 12266"
+                    },
+                    {
+                        "id": 31,
+                        "value": "Cod. 12273"
+                    },
+                    {
+                        "id": 32,
+                        "value": "Cod. 12274"
+                    },
+                    {
+                        "id": 33,
+                        "value": "Cod. 12275"
+                    },
+                    {
+                        "id": 34,
+                        "value": "Cod. 12276"
+                    },
+                    {
+                        "id": 30,
+                        "value": "Cod. 12277"
+                    }
+                ]
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Residentia Trinchiniensis",
+        "notes": "",
+        "persons": []
+    },
+    "200": {
+        "id": 200,
+        "order": "196.00000000000000000000",
+        "name": "Jesuitenmission Kroatien, Slavonien",
+        "jesuiten_id": "jesuiten_org__200",
+        "located_in": [],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio ad Croatiae Slauoniaeque Regna",
+        "notes": "",
+        "persons": []
+    },
+    "201": {
+        "id": 201,
+        "order": "197.00000000000000000000",
+        "name": "Jesuitenresidenz Myslina",
+        "jesuiten_id": "jesuiten_org__201",
+        "located_in": [
+            {
+                "id": 169,
+                "order": "166.00000000000000000000",
+                "name": "Myslina",
+                "jesuiten_id": "jesuiten_place__169",
+                "geonames": "https://www.geonames.org/724086/myslina.html",
+                "lat": "48.94772",
+                "long": "21.85543",
+                "wikidata": "https://www.wikidata.org/wiki/Q920744",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Residentia Mislensis",
+        "notes": "",
+        "persons": []
+    },
+    "202": {
+        "id": 202,
+        "order": "198.00000000000000000000",
+        "name": "Jesuitenresidenz Banská Bystrica",
+        "jesuiten_id": "jesuiten_org__202",
+        "located_in": [
+            {
+                "id": 19,
+                "order": "19.00000000000000000000",
+                "name": "Banská Bystrica (Neosolium)",
+                "jesuiten_id": "jesuiten_place__19",
+                "geonames": "https://www.geonames.org/3061186/banska-bystrica.html",
+                "lat": "48.73946",
+                "long": "19.15349",
+                "wikidata": "https://www.wikidata.org/wiki/Q144983",
+                "alt_names": [],
+                "msdesc": [
+                    {
+                        "id": 4,
+                        "value": "Cod. 12066"
+                    },
+                    {
+                        "id": 6,
+                        "value": "Cod. 12123"
+                    },
+                    {
+                        "id": 7,
+                        "value": "Cod. 12057"
+                    },
+                    {
+                        "id": 10,
+                        "value": "Cod. 12138"
+                    },
+                    {
+                        "id": 11,
+                        "value": "Cod. 12266"
+                    },
+                    {
+                        "id": 31,
+                        "value": "Cod. 12273"
+                    },
+                    {
+                        "id": 32,
+                        "value": "Cod. 12274"
+                    },
+                    {
+                        "id": 33,
+                        "value": "Cod. 12275"
+                    },
+                    {
+                        "id": 34,
+                        "value": "Cod. 12276"
+                    },
+                    {
+                        "id": 30,
+                        "value": "Cod. 12277"
+                    }
+                ]
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Residentia Novisoliensis",
+        "notes": "",
+        "persons": []
+    },
+    "203": {
+        "id": 203,
+        "order": "199.00000000000000000000",
+        "name": "Jesuitenmission Transilvania",
+        "jesuiten_id": "jesuiten_org__203",
+        "located_in": [
+            {
+                "id": 172,
+                "order": "169.00000000000000000000",
+                "name": "Transylvania",
+                "jesuiten_id": "jesuiten_place__172",
+                "geonames": "https://www.geonames.org/664661/transilvania.html",
+                "lat": "46.50000",
+                "long": "25.00000",
+                "wikidata": "https://www.wikidata.org/wiki/Q39473",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Transyluanica / Transilvanica",
+        "notes": "",
+        "persons": []
+    },
+    "204": {
+        "id": 204,
+        "order": "200.00000000000000000000",
+        "name": "Jesuitenmission Transdanubia",
+        "jesuiten_id": "jesuiten_org__204",
+        "located_in": [],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Transdanubiana",
         "notes": "",
         "persons": []
     }
