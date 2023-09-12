@@ -47,20 +47,11 @@
                    
                         <summary>
                                 {{ summary }} 
-                                {% if mentioned_places %}                        
-                            <listPlace>
-                                <head>Erwähnte Orte:</head>
-                                {% for y in x.places %}
-                                <place>
-                                    <placeName key="#jesuiten_place__{{ y.id }}">{{ y.value }}</placeName>
-                                </place>
-                                {% endfor %}
-                            </listPlace>
-                            {% endif %}
-                            { %if mentioned_orgs %}
+                                
+                            { % if mentioned_orgs %}
                                 <listOrg>
                                     <head>Erwähnte Körperschaften:</head>
-                                    {% for y in x.orgs %}
+                                    {% for y in mentioned_orgs %}
                                     <org>
                                         <orgName key="#jesuiten_org__{{ y.id }}">{{ y.value }}</orgName>
                                     </org>
@@ -74,7 +65,7 @@
                             {% for x in ms_items %}
                                 <msItem n="{{ x.order_number }}">
                                     <locus from="{{ x.locus_from }}" to="{{ x.locus_to }}">{{ x.locus_text }}</locus>
-                                    {% if x.title}
+                                    {% if x.title %}
                                     <title>{{ x.title }}</title>
                                     {% endif %}
                                     {% if x.places %}

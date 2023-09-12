@@ -10,8 +10,11 @@ BASEROW_TOKEN = os.environ.get("BASEROW_TOKEN")
 JSON_FOLDER = "json_dumps"
 
 
-br_client = BaseRowClient(
-    BASEROW_USER, BASEROW_PW, BASEROW_TOKEN, br_base_url=BASEROW_URL
-)
+try:
+    br_client = BaseRowClient(
+        BASEROW_USER, BASEROW_PW, BASEROW_TOKEN, br_base_url=BASEROW_URL
+    )
+except KeyError:
+    pass
 
 PROJECT_TITLE = "Jesuiten Littera annuae"
