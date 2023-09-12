@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cod_11954.xml" xml:base="https://oenb.ac.at" next="https://oenb.ac.at/cod_11960.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cod_12048.xml" xml:base="https://oenb.ac.at" prev="https://oenb.ac.at/cod_12047.xml" next="https://oenb.ac.at/cod_12057.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">Wien, Österreichische nationalbibliothek, Cod. 11954</title>
+                <title type="main">Wien, Österreichische nationalbibliothek, Cod. 12048</title>
                 <title type="sub">Jesuiten Littera annuae</title>
                 <respStmt>
                     <resp>Beschreibung und TEI-encoding</resp>
@@ -19,25 +19,27 @@
                 </availability>
             </publicationStmt>
             <sourceDesc>
-                <msDesc xml:lang="de" xml:id="cod_11954">
+                <msDesc xml:lang="de" xml:id="cod_12048">
                     <msIdentifier>
                         <country>Österreich</country>
                         <settlement>Wien</settlement>
                         <repository>Österreichische Nationalbibliothek</repository>
-                        <idno>Cod. 11954</idno>
+                        <idno>Cod. 12048</idno>
                     </msIdentifier>
                     <head>
                         <title/>
-                        <origDate notBefore="1625-01-01">17.–18. Jhdt.</origDate>
+                        <origDate notBefore="1652-01-01">1652-1653</origDate>
+                        <note type="facs">
+                            <ref target="http://data.onb.ac.at/dtl/9135313"/>
+                        </note>
                         <note type="catalogue">
-                            <ref target="http://data.onb.ac.at/rec/AC13947544"/>
+                            <ref target="http://data.onb.ac.at/rec/AC13948537"/>
                         </note>
                     </head>
                     <msContents>
                    
                         <summary>
-                                Die Handschrift ist in zwei Teile gegliedert. Der erste Teil enthält die Antworten auf die Fragen (Resolutiones), die alle drei Jahre nach Rom gesandt wurden. Er ist chronologisch geordnet. Die ersten Seiten, die sich auf die Jahre 1568-1625 beziehen, wurden von einer Hand, wahrscheinlich um 1625, abgeschrieben. Weitere Einträge betreffen Antworten bis 1737. 
-Der zweite Teil beginnt in der Mitte des Buches und ist für die nach der Versammlung eingegangenen Antworten (Resolutiones) bestimmt. Dieser Teil ist bis auf drei Seiten leer geblieben. 
+                                 
                                 
                             { % if mentioned_orgs %}
                                 <listOrg>
@@ -47,20 +49,6 @@ Der zweite Teil beginnt in der Mitte des Buches und ist für die nach der Versam
                         </summary> 
                         <textLang mainLang="lat"/>
                         
-                                <msItem n="None">
-                                    <locus from="1r" to="21r">1r-21r</locus>
-                                    <title>Responsa generalium provinciae per procuratorem qui tertio quoque anno Romam mittitur data. Die Antworten sind chronologisch nach dem Jahr geordnet. U. a. de ludis recreationis gratia; de docendo cantu nostros; de excudendis comoediis etc.</title>
-                                </msItem>
-                                <msItem n="None">
-                                    <locus from="" to="">-</locus>
-                                    <title>Resolutiones casuum quae in provincia dantur; Resolutiones casuum ex hoc vel aliis collegiis datae priusquam hic de scribantur RP Prov. exhibebuntur.</title>
-                                </msItem>
-                                <msItem n="None">
-                                    <locus from="" to="">-</locus>
-                                    <title>Ex bulla Pii IV conditiones utrisque speciei in communione porrigendae sequentibus verbis continentur.</title>
-                                </msItem>
-                          
-                        
                        
                     </msContents>
                     <physDesc>
@@ -68,19 +56,19 @@ Der zweite Teil beginnt in der Mitte des Buches und ist für die nach der Versam
                             <supportDesc material="paper">
                                 <support>Papier</support>
                                 <extent>
-                                    <measure type="leavesCount" unit="folio">None</measure>
+                                    <measure type="leavesCount" unit="folio">III, 20 Bl.</measure>
                                     <dimensions type="leaf_current" unit="mm">
-                                        <height>311</height>
-                                        <width>200</width>
+                                        <height>None</height>
+                                        <width>None</width>
                                     </dimensions>
                                 </extent>
-                                <foliation/>
+                                <foliation>Zeitgenössische Paginierung.</foliation>
                                 <collation/>
                             </supportDesc>
                         </objectDesc>
                         <bindingDesc>
                             <binding>
-                                <p>Weißes Leder mit Blindprägung über Holzdeckeln, Brünn, dat. 1596.</p>
+                                <p>Versteifter Pergamentumschlag, 17. Jhdt.</p>
                             </binding>
                         </bindingDesc>
                         <accMat/>                        

@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">Beschreibung von  Cod. 12241</title>
+                <title type="main">Wien, Österreichische nationalbibliothek, Cod. 12241</title>
                 <title type="sub">Jesuiten Littera annuae</title>
                 <respStmt>
                     <resp>Beschreibung und TEI-encoding</resp>
@@ -28,73 +28,109 @@
                     </msIdentifier>
                     <head>
                         <title/>
-                        <origDate notBefore="None-01-01" notAfter="0010">1736</origDate>
-                        <origPlace ref="#jesuiten_place__1">Wien (?)</origPlace>
                         <note type="catalogue">
                             <ref target="http://data.onb.ac.at/rec/AC13949423"/>
                         </note>
                     </head>
                     <msContents>
+                   
                         <summary>
-                                Die Handschrift besteht aus einer kodikologischen Einheit, thematisch in Kapiteln gegliedert.
-                            <list>
-                                <item n="1">
-                                    <locus from="1" to="2">1-2</locus>Numerus personarum
-                                </item>
-                                <item n="2">
-                                    <locus from="3" to="12">3-12</locus>Conciones et catecheses
-                                </item>
-                                <item n="3">
-                                    <locus from="13" to="19">13-19</locus>Sanctissima paenitentiae et eucharistiae sacramenta
-                                </item>
-                                <item n="4">
-                                    <locus from="20" to="27">20-27</locus>Emolumenta religiosi cum proximo congressus
-                                </item>
-                                <item n="5">
-                                    <locus from="28" to="33">28-33</locus>Charitas proximo impensa
-                                </item>
-                                <item n="6">
-                                    <locus from="33" to="48">33-48</locus>Infidelium ad orthodoxam veritatem reductio
-                                </item>
-                                <item n="7">
-                                    <locus from="49" to="106">49-106</locus>Missione sacrae
-                                </item>
-                                <item n="8">
-                                    <locus from="107" to="130">107-130</locus>Principes ecclesiaerum festivitates sacraeque synthesis augmenta
-                                </item>
-                                <item n="9">
-                                    <locus from="131" to="136">131-136</locus>Religiosa patientis et morientis senatoris memoria
-                                </item>
-                                <item n="10">
-                                    <locus from="137" to="145">137-145</locus>Marianorum aliorumque sodalitiorum progressus
-                                </item>
-                                <item n="11">
-                                    <locus from="145" to="166">145-166</locus>Cultus et patrocinia sanctorum nostrorum Ignatii et Francisci Xaverii
-                                </item>
-                                <item n="12">
-                                    <locus from="167" to="174">167-174</locus>Exercitia S. P. N. Ignatii externis tradita
-                                </item>
-                                <item n="13">
-                                    <locus from="175" to="190">175-190</locus>Ingeniorum in scholis, morumque cultura
-                                </item>
-                                <item n="14">
-                                    <locus from="191" to="198">191-198</locus>Cura iuventuti in cinvictibus  et seminariis impensa
-                                </item>
-                                <item n="15">
-                                    <locus from="199" to="216">199-216</locus>Rei oeconomicae incrementa et damna
-                                </item>
-                                <item n="16">
-                                    <locus from="217" to="283">217-283</locus>Defuncti intra provinciam
-                                </item>
-                            </list>
-                        </summary>
+                                Die Handschrift besteht aus einer kodikologischen Einheit, thematisch in Kapiteln gegliedert. 
+                                
+                            { % if mentioned_orgs %}
+                                <listOrg>
+                                    <head>Erwähnte Körperschaften:</head>
+                                    <org>
+                                        <orgName key="#jesuiten_org__1">Profeßhaus Wien</orgName>
+                                    </org>
+                                    <org>
+                                        <orgName key="#jesuiten_org__2">Jesuitenkolleg Wien</orgName>
+                                    </org>
+                                    <org>
+                                        <orgName key="#jesuiten_org__4">Probationshaus Wien</orgName>
+                                    </org>
+                                    <org>
+                                        <orgName key="#jesuiten_org__56">Jesuitenkolleg Ungarn</orgName>
+                                    </org>
+                                </listOrg>                           
+                        
+                        </summary> 
                         <textLang mainLang="lat"/>
+                        
+                                <msItem n="1">
+                                    <locus from="1" to="2">1-2</locus>
+                                    <title>Numerus personarum</title>
+                                </msItem>
+                                <msItem n="2">
+                                    <locus from="3" to="12">3-12</locus>
+                                    <title>Conciones et catecheses</title>
+                                </msItem>
+                                <msItem n="3">
+                                    <locus from="13" to="19">13-19</locus>
+                                    <title>Sanctissima paenitentiae et eucharistiae sacramenta</title>
+                                </msItem>
+                                <msItem n="4">
+                                    <locus from="20" to="27">20-27</locus>
+                                    <title>Emolumenta religiosi cum proximo congressus</title>
+                                </msItem>
+                                <msItem n="5">
+                                    <locus from="28" to="33">28-33</locus>
+                                    <title>Charitas proximo impensa</title>
+                                </msItem>
+                                <msItem n="6">
+                                    <locus from="33" to="48">33-48</locus>
+                                    <title>Infidelium ad orthodoxam veritatem reductio</title>
+                                </msItem>
+                                <msItem n="7">
+                                    <locus from="49" to="106">49-106</locus>
+                                    <title>Missione sacrae</title>
+                                </msItem>
+                                <msItem n="8">
+                                    <locus from="107" to="130">107-130</locus>
+                                    <title>Principes ecclesiaerum festivitates sacraeque synthesis augmenta</title>
+                                </msItem>
+                                <msItem n="9">
+                                    <locus from="131" to="136">131-136</locus>
+                                    <title>Religiosa patientis et morientis senatoris memoria</title>
+                                </msItem>
+                                <msItem n="10">
+                                    <locus from="137" to="145">137-145</locus>
+                                    <title>Marianorum aliorumque sodalitiorum progressus</title>
+                                </msItem>
+                                <msItem n="11">
+                                    <locus from="145" to="166">145-166</locus>
+                                    <title>Cultus et patrocinia sanctorum nostrorum Ignatii et Francisci Xaverii</title>
+                                </msItem>
+                                <msItem n="12">
+                                    <locus from="167" to="174">167-174</locus>
+                                    <title>Exercitia S. P. N. Ignatii externis tradita</title>
+                                </msItem>
+                                <msItem n="13">
+                                    <locus from="175" to="190">175-190</locus>
+                                    <title>Ingeniorum in scholis, morumque cultura</title>
+                                </msItem>
+                                <msItem n="14">
+                                    <locus from="191" to="198">191-198</locus>
+                                    <title>Cura iuventuti in cinvictibus  et seminariis impensa</title>
+                                </msItem>
+                                <msItem n="15">
+                                    <locus from="199" to="216">199-216</locus>
+                                    <title>Rei oeconomicae incrementa et damna</title>
+                                </msItem>
+                                <msItem n="16">
+                                    <locus from="217" to="283">217-283</locus>
+                                    <title>Defuncti intra provinciam</title>
+                                </msItem>
+                          
+                        
+                       
                     </msContents>
                     <physDesc>
                         <objectDesc form="codex">
                             <supportDesc material="paper">
+                                <support>Papier</support>
                                 <extent>
-                                    <measure type="leavesCount" quantity="81" unit="folio">i + 81 + ii fols.</measure>
+                                    <measure type="leavesCount" unit="folio">II, 142, II* Bl.</measure>
                                     <dimensions type="leaf_current" unit="mm">
                                         <height>315</height>
                                         <width>205</width>
@@ -104,7 +140,12 @@
                                 <collation/>
                             </supportDesc>
                         </objectDesc>
-                        <accMat>Makulatur ausgelöst.</accMat>
+                        <bindingDesc>
+                            <binding>
+                                <p/>
+                            </binding>
+                        </bindingDesc>
+                        <accMat/>                        
                     </physDesc>
                 </msDesc>
             </sourceDesc>
@@ -112,5 +153,38 @@
     </teiHeader>
     <text>
         <body><p/></body>
-    <back/></text>
+    <back><listOrg><org xml:id="jesuiten_org__2">
+                  <orgName>Jesuitenkolleg Wien</orgName>
+                  <orgName type="alt">Collegium Viennense Academicum</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__1">Wien</placeName>
+                     <geo>48.20849 16.37208</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/2761369/</idno></note>
+                  </location>
+               <noteGrp><note target="cod_11960.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11960</note><note target="cod_12031.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12031</note><note target="cod_12032.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12032</note><note target="cod_12034.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12034</note><note target="cod_12035.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12035</note><note target="cod_12036.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12036</note><note target="cod_12037.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12037</note><note target="cod_12038.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12038</note><note target="cod_12039.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12039</note><note target="cod_12040.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12040</note><note target="cod_12041.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12041</note><note target="cod_12042.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12042</note><note target="cod_12043.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12043</note><note target="cod_12045.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12045</note><note target="cod_12046.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12046</note><note target="cod_12123.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12123</note><note target="cod_12138.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12138</note><note target="cod_12241.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12241</note><note target="cod_12246.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12246</note><note target="cod_12247.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12247</note><note target="cod_12248.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12248</note><note target="cod_12249.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12249</note><note target="cod_12250.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12250</note><note target="cod_12251.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12251</note><note target="cod_12252.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12252</note><note target="cod_12253.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12253</note><note target="cod_12254.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12254</note><note target="cod_12266.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12266</note><note target="cod_12273.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12273</note><note target="cod_12274.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12274</note><note target="cod_12275.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12275</note><note target="cod_12276.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12276</note><note target="cod_12277.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12277</note><note target="cod_12407.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12407</note><note target="cod_12408.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12408</note><note target="cod_12409.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12409</note></noteGrp></org>
+               <org xml:id="jesuiten_org__56">
+                  <orgName>Jesuitenkolleg Ungarn</orgName>
+                  <orgName type="alt">Collegium Ungariense</orgName>
+               <noteGrp><note target="cod_12043.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12043</note><note target="cod_12045.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12045</note><note target="cod_12046.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12046</note><note target="cod_12123.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12123</note><note target="cod_12138.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12138</note><note target="cod_12241.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12241</note><note target="cod_12266.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12266</note></noteGrp></org>
+               <org xml:id="jesuiten_org__4">
+                  <orgName>Probationshaus Wien</orgName>
+                  <orgName type="alt">Domus probationis S. Anna</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__1">Wien</placeName>
+                     <geo>48.20849 16.37208</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/2761369/</idno></note>
+                  </location>
+                  <note>am 1. April 1573 räumte ihnen Kaiser Maximilian II. die Güter des erloschenen Wiener Klarissenklosters St. Anna zum Nutzgenuß ein</note>
+               <noteGrp><note target="cod_12031.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12031</note><note target="cod_12032.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12032</note><note target="cod_12034.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12034</note><note target="cod_12035.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12035</note><note target="cod_12036.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12036</note><note target="cod_12037.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12037</note><note target="cod_12038.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12038</note><note target="cod_12039.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12039</note><note target="cod_12040.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12040</note><note target="cod_12041.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12041</note><note target="cod_12042.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12042</note><note target="cod_12043.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12043</note><note target="cod_12044.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12044</note><note target="cod_12045.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12045</note><note target="cod_12046.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12046</note><note target="cod_12057.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12057</note><note target="cod_12066.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12066</note><note target="cod_12123.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12123</note><note target="cod_12138.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12138</note><note target="cod_12241.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12241</note><note target="cod_12246.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12246</note><note target="cod_12247.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12247</note><note target="cod_12248.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12248</note><note target="cod_12249.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12249</note><note target="cod_12250.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12250</note><note target="cod_12251.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12251</note><note target="cod_12252.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12252</note><note target="cod_12253.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12253</note><note target="cod_12254.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12254</note><note target="cod_12266.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12266</note><note target="cod_12273.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12273</note><note target="cod_12274.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12274</note><note target="cod_12275.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12275</note><note target="cod_12276.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12276</note><note target="cod_12277.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12277</note></noteGrp></org>
+               <org xml:id="jesuiten_org__1">
+                  <orgName>Profeßhaus Wien</orgName>
+                  <orgName type="alt">Domus Professa Viennensis</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__1">Wien</placeName>
+                     <geo>48.20849 16.37208</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/2761369/</idno></note>
+                  </location>
+                  <idno type="gnd">https://d-nb.info/gnd/5556265-6</idno>
+               <noteGrp><note target="cod_12031.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12031</note><note target="cod_12032.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12032</note><note target="cod_12034.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12034</note><note target="cod_12035.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12035</note><note target="cod_12036.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12036</note><note target="cod_12037.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12037</note><note target="cod_12038.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12038</note><note target="cod_12039.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12039</note><note target="cod_12040.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12040</note><note target="cod_12041.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12041</note><note target="cod_12042.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12042</note><note target="cod_12043.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12043</note><note target="cod_12044.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12044</note><note target="cod_12045.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12045</note><note target="cod_12046.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12046</note><note target="cod_12057.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12057</note><note target="cod_12066.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12066</note><note target="cod_12123.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12123</note><note target="cod_12138.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12138</note><note target="cod_12241.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12241</note><note target="cod_12246.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12246</note><note target="cod_12247.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12247</note><note target="cod_12248.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12248</note><note target="cod_12249.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12249</note><note target="cod_12250.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12250</note><note target="cod_12251.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12251</note><note target="cod_12252.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12252</note><note target="cod_12253.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12253</note><note target="cod_12254.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12254</note><note target="cod_12266.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12266</note><note target="cod_12273.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12273</note><note target="cod_12274.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12274</note><note target="cod_12275.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12275</note><note target="cod_12276.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12276</note><note target="cod_12277.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12277</note></noteGrp></org>
+               </listOrg></back></text>
 </TEI>

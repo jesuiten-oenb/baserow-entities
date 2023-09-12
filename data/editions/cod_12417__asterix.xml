@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">Beschreibung von  Cod. 12417*</title>
+                <title type="main">Wien, Österreichische nationalbibliothek, Cod. 12417*</title>
                 <title type="sub">Jesuiten Littera annuae</title>
                 <respStmt>
                     <resp>Beschreibung und TEI-encoding</resp>
@@ -28,20 +28,35 @@
                     </msIdentifier>
                     <head>
                         <title/>
-                        <origDate notBefore="1721-01-01" notAfter="0010">ab 1721</origDate>
-                        <origPlace ref="#jesuiten_place__1">Wien (?)</origPlace>
+                        <origDate notBefore="1721-01-01">ab 1721</origDate>
                         <note type="catalogue">
                             <ref target="http://data.onb.ac.at/rec/AC13949858"/>
                         </note>
                     </head>
                     <msContents>
+                   
+                        <summary>
+                                Die Handschrift besteht aus einer kodikologischen Einheit. 
+                                
+                            { % if mentioned_orgs %}
+                                <listOrg>
+                                    <head>Erwähnte Körperschaften:</head>
+                                    <org>
+                                        <orgName key="#jesuiten_org__205">Jesuitenkolleg Krosno Odrzańskie</orgName>
+                                    </org>
+                                </listOrg>                           
+                        
+                        </summary> 
                         <textLang mainLang="lat"/>
+                        
+                       
                     </msContents>
                     <physDesc>
                         <objectDesc form="codex">
                             <supportDesc material="paper">
+                                <support>Papier</support>
                                 <extent>
-                                    <measure type="leavesCount" quantity="81" unit="folio">i + 81 + ii fols.</measure>
+                                    <measure type="leavesCount" unit="folio">I, 6, I* Bl.</measure>
                                     <dimensions type="leaf_current" unit="mm">
                                         <height>200</height>
                                         <width>155</width>
@@ -51,7 +66,12 @@
                                 <collation/>
                             </supportDesc>
                         </objectDesc>
-                        <accMat>Makulatur ausgelöst.</accMat>
+                        <bindingDesc>
+                            <binding>
+                                <p/>
+                            </binding>
+                        </bindingDesc>
+                        <accMat/>                        
                     </physDesc>
                 </msDesc>
             </sourceDesc>
@@ -59,5 +79,14 @@
     </teiHeader>
     <text>
         <body><p/></body>
-    <back/></text>
+    <back><listOrg><org xml:id="jesuiten_org__205">
+                  <orgName>Jesuitenkolleg Krosno Odrzańskie</orgName>
+                  <orgName type="alt">Collegium Crosnense</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__176">Krosno Odrzańskie</placeName>
+                     <geo>52.05492 15.09882</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/3094633/</idno></note>
+                  </location>
+               <noteGrp><note target="cod_12417__asterix.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12417*</note></noteGrp></org>
+               </listOrg></back></text>
 </TEI>

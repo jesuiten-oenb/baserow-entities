@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">Beschreibung von  Cod. 12406</title>
+                <title type="main">Wien, Österreichische nationalbibliothek, Cod. 12406</title>
                 <title type="sub">Jesuiten Littera annuae</title>
                 <respStmt>
                     <resp>Beschreibung und TEI-encoding</resp>
@@ -28,20 +28,35 @@
                     </msIdentifier>
                     <head>
                         <title/>
-                        <origDate notBefore="1746-01-01" notAfter="0010">1746–1773</origDate>
-                        <origPlace ref="#jesuiten_place__1">Wien (?)</origPlace>
+                        <origDate notBefore="1746-01-01">1746–1773</origDate>
                         <note type="catalogue">
                             <ref target="http://data.onb.ac.at/rec/AC13948697"/>
                         </note>
                     </head>
                     <msContents>
+                   
+                        <summary>
+                                Einnahmen-Ausgaben-Rechnungen für die Jahre 1746–1773. Beschrieben wurden die ersten 26 Blätter (1r-26r); der Rest (26v-91v) ist leer. Für jedes jahr wurden außer die Annahme (accepta ex censu, ex mutuo etc.) und die Ausgaben (exposita), werden ab Jahr 1752 (f. 7r) auch die Personen genannt. 
+                                
+                            { % if mentioned_orgs %}
+                                <listOrg>
+                                    <head>Erwähnte Körperschaften:</head>
+                                    <org>
+                                        <orgName key="#jesuiten_org__164">Jesuitenresidenz Wiener Neustadt (Leopoldina)</orgName>
+                                    </org>
+                                </listOrg>                           
+                        
+                        </summary> 
                         <textLang mainLang="lat"/>
+                        
+                       
                     </msContents>
                     <physDesc>
                         <objectDesc form="codex">
                             <supportDesc material="paper">
+                                <support>Papier</support>
                                 <extent>
-                                    <measure type="leavesCount" quantity="81" unit="folio">i + 81 + ii fols.</measure>
+                                    <measure type="leavesCount" unit="folio">I, ? Bl.</measure>
                                     <dimensions type="leaf_current" unit="mm">
                                         <height>200</height>
                                         <width>158</width>
@@ -51,7 +66,12 @@
                                 <collation/>
                             </supportDesc>
                         </objectDesc>
-                        <accMat>Makulatur ausgelöst.</accMat>
+                        <bindingDesc>
+                            <binding>
+                                <p>Pergament (Makulatur) über Pappdeckel, die Deckel mit buntem Marmorpapier beklebt. Titelüberschrift 'Rationes generales residentiae Leopoldiniae Soc. Jesu Neostadii'.</p>
+                            </binding>
+                        </bindingDesc>
+                        <accMat>Makulatur zur Verstärkung des Rückens und Ecke. Fragment unidentifiziert (Textura, 15.-16. Jh.).</accMat>                        
                     </physDesc>
                 </msDesc>
             </sourceDesc>
@@ -59,5 +79,15 @@
     </teiHeader>
     <text>
         <body><p/></body>
-    <back/></text>
+    <back><listOrg><org xml:id="jesuiten_org__164">
+                  <orgName>Jesuitenresidenz Wiener Neustadt (Leopoldina)</orgName>
+                  <orgName type="alt">Residentia Leopoldina; Residentia S. J. Neostad.</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__12">Wiener Neustadt</placeName>
+                     <geo>47.80485 16.23196</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/2761353/</idno></note>
+                  </location>
+                  <note>1674 durch testamentarische Stiftung des Erzherzogs Leopold Wilhelm erhielt Wiener Neustadt ein Kolleg. Seit 1740 bestand in der Stadt eine zweite Niederlassung (z. hl. Leopold).</note>
+               <noteGrp><note target="cod_12406.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12406</note></noteGrp></org>
+               </listOrg></back></text>
 </TEI>

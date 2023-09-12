@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">Beschreibung von  Cod. 12033</title>
+                <title type="main">Wien, Österreichische nationalbibliothek, Cod. 12033</title>
                 <title type="sub">Jesuiten Littera annuae</title>
                 <respStmt>
                     <resp>Beschreibung und TEI-encoding</resp>
@@ -28,8 +28,7 @@
                     </msIdentifier>
                     <head>
                         <title/>
-                        <origDate notBefore="1637-01-01" notAfter="0010">1637–1638</origDate>
-                        <origPlace ref="#jesuiten_place__1">Wien (?)</origPlace>
+                        <origDate notBefore="1637-01-01">1637–1638</origDate>
                         <note type="facs">
                             <ref target="http://data.onb.ac.at/dtl/9086968"/>
                         </note>
@@ -38,13 +37,47 @@
                         </note>
                     </head>
                     <msContents>
+                   
+                        <summary>
+                                Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist nach Orten bzw. Häusern gegliedert. 
+                                
+                            { % if mentioned_orgs %}
+                                <listOrg>
+                                    <head>Erwähnte Körperschaften:</head>
+                                    <org>
+                                        <orgName key="#jesuiten_org__17">Jesuitenresidenz Eberndorf</orgName>
+                                    </org>
+                                    <org>
+                                        <orgName key="#jesuiten_org__34">Jesuitenresidenz Pécs</orgName>
+                                    </org>
+                                    <org>
+                                        <orgName key="#jesuiten_org__46">Jesuitenresidenz Cluj-Napoca</orgName>
+                                    </org>
+                                    <org>
+                                        <orgName key="#jesuiten_org__47">Jesuitenresidenz Gyöngyös</orgName>
+                                    </org>
+                                    <org>
+                                        <orgName key="#jesuiten_org__48">Jesuitenkolleg Satu Mare</orgName>
+                                    </org>
+                                    <org>
+                                        <orgName key="#jesuiten_org__49">Jesuitenmission Wörthersee</orgName>
+                                    </org>
+                                    <org>
+                                        <orgName key="#jesuiten_org__53">Jesuitenkolleg Steyr</orgName>
+                                    </org>
+                                </listOrg>                           
+                        
+                        </summary> 
                         <textLang mainLang="lat"/>
+                        
+                       
                     </msContents>
                     <physDesc>
                         <objectDesc form="codex">
                             <supportDesc material="paper">
+                                <support>Papier</support>
                                 <extent>
-                                    <measure type="leavesCount" quantity="81" unit="folio">i + 81 + ii fols.</measure>
+                                    <measure type="leavesCount" unit="folio">31</measure>
                                     <dimensions type="leaf_current" unit="mm">
                                         <height>295</height>
                                         <width>205</width>
@@ -54,7 +87,12 @@
                                 <collation/>
                             </supportDesc>
                         </objectDesc>
-                        <accMat>Makulatur ausgelöst.</accMat>
+                        <bindingDesc>
+                            <binding>
+                                <p>Pergamentumschlag (Makulatur).</p>
+                            </binding>
+                        </bindingDesc>
+                        <accMat>Fragment eines gedruckten Breviers, 15./16. Jhdt.</accMat>                        
                     </physDesc>
                 </msDesc>
             </sourceDesc>
@@ -62,5 +100,75 @@
     </teiHeader>
     <text>
         <body><p/></body>
-    <back/></text>
+    <back><listOrg><org xml:id="jesuiten_org__46">
+                  <orgName>Jesuitenresidenz Cluj-Napoca</orgName>
+                  <orgName type="alt">Residentia Monostoriensis</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__33">Cluj-Napoca</placeName>
+                     <geo>46.76667 23.60000</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/681290/</idno></note>
+                  </location>
+               <noteGrp><note target="cod_12033.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12033</note></noteGrp></org>
+               <org xml:id="jesuiten_org__34">
+                  <orgName>Jesuitenresidenz Pécs</orgName>
+                  <orgName type="alt">Residentia / Sedes Quinqueecclesiensis</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__31">Pécs</placeName>
+                     <geo>46.07250 18.23083</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/3046526/</idno></note>
+                  </location>
+               <noteGrp><note target="cod_12031.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12031</note><note target="cod_12033.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12033</note><note target="cod_12037.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12037</note><note target="cod_12046.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12046</note><note target="cod_12251.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12251</note><note target="cod_12254.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12254</note></noteGrp></org>
+               <org xml:id="jesuiten_org__53">
+                  <orgName>Jesuitenkolleg Steyr</orgName>
+                  <orgName type="alt">Collegium Styrense</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__4">Steyr</placeName>
+                     <geo>48.04274 14.42127</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/2764359/</idno></note>
+                  </location>
+                  <note>1632–1773</note>
+               <noteGrp><note target="cod_12033.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12033</note><note target="cod_12034.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12034</note><note target="cod_12035.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12035</note><note target="cod_12036.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12036</note><note target="cod_12037.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12037</note><note target="cod_12038.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12038</note><note target="cod_12039.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12039</note><note target="cod_12040.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12040</note><note target="cod_12041.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12041</note><note target="cod_12042.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12042</note><note target="cod_12043.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12043</note><note target="cod_12044.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12044</note><note target="cod_12045.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12045</note><note target="cod_12046.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12046</note><note target="cod_12246.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12246</note><note target="cod_12247.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12247</note><note target="cod_12248.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12248</note><note target="cod_12251.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12251</note><note target="cod_12252.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12252</note><note target="cod_12253.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12253</note><note target="cod_12254.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12254</note><note target="cod_12266.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12266</note></noteGrp></org>
+               <org xml:id="jesuiten_org__48">
+                  <orgName>Jesuitenkolleg Satu Mare</orgName>
+                  <orgName type="alt">Collegium Szakmarinum</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__58">Satu Mare</placeName>
+                     <geo>47.79926 22.86255</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/667873/</idno></note>
+                  </location>
+                  <note>Jesuit college in Satu Mare (1634–1773), now Mihai Eminescu National College</note>
+               <noteGrp><note target="cod_12033.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12033</note></noteGrp></org>
+               <org xml:id="jesuiten_org__47">
+                  <orgName>Jesuitenresidenz Gyöngyös</orgName>
+                  <orgName type="alt">Residentia Gyongyosiensis</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__57">Gyöngyös</placeName>
+                     <geo>47.78257 19.92800</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/3052040/</idno></note>
+                  </location>
+                  <note>1633–1773</note>
+               <noteGrp><note target="cod_12033.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12033</note><note target="cod_12034.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12034</note><note target="cod_12035.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12035</note><note target="cod_12036.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12036</note><note target="cod_12039.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12039</note><note target="cod_12041.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12041</note><note target="cod_12042.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12042</note><note target="cod_12044.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12044</note><note target="cod_12045.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12045</note><note target="cod_12046.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12046</note><note target="cod_12248.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12248</note><note target="cod_12253.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12253</note><note target="cod_12254.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12254</note><note target="cod_12266.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12266</note></noteGrp></org>
+               <org xml:id="jesuiten_org__17">
+                  <orgName>Jesuitenresidenz Eberndorf</orgName>
+                  <orgName type="alt">Augustiner-Chorherrenstift Eberndorf</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__40">Eberndorf</placeName>
+                     <geo>46.59139 14.64361</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/2780531/</idno></note>
+                  </location>
+                  <note>Als Fundation diente dem Klagenfurter Jesuitenkolleg das ehemalige, vier Meilen von der Stadt im Jauntal gelegene Augustiner-Chorherrenstift Eberndorf (Oberndorf). Gegen Ende des 16. Jahrhunderts war das Stift verfallen, und alle Rettungsversuche waren vergebens.
+Gegen den Willen des Patriarchen von Aquileia, zu dessen Diözese damals Eberndorf gehörte, und gegen den Willen des Nuntius hatte Erzherzog Ferdinand 1603 das Stift für das Klagenfurter Kolleg bestimmt. Mit großer Überredungskunst konnte 1604 das Stift für die jesuitische Sache erworben werden. In Eberndorf wurde eine Residenz errichtet mit
+einigen Patres und Laienbrüdern. (Heilingsetzer, Florian. „Die Jesuiten an den Universitäten und Lyzeen in den österreichischen  Ländern bis zur Aufhebung des Ordens 1773“. Mag. Phil., Uni Wien, 2011. https://services.phaidra.univie.ac.at/api/object/o:1282302/get.)</note>
+               <noteGrp><note target="cod_11960.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11960</note><note target="cod_12031.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12031</note><note target="cod_12033.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12033</note><note target="cod_12034.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12034</note><note target="cod_12035.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12035</note><note target="cod_12036.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12036</note><note target="cod_12037.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12037</note><note target="cod_12039.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12039</note><note target="cod_12040.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12040</note><note target="cod_12041.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12041</note><note target="cod_12042.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12042</note><note target="cod_12043.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12043</note><note target="cod_12044.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12044</note><note target="cod_12045.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12045</note><note target="cod_12247.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12247</note><note target="cod_12248.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12248</note><note target="cod_12251.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12251</note><note target="cod_12253.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12253</note><note target="cod_12254.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12254</note></noteGrp></org>
+               <org xml:id="jesuiten_org__49">
+                  <orgName>Jesuitenmission Wörthersee</orgName>
+                  <orgName type="alt">Missio Werthsensis</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__59">Wörthersee</placeName>
+                     <geo>46.62917 14.12306</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/2760837/</idno></note>
+                  </location>
+                  <note>"Werthsee locus est ad lacum Clagenfurthensem" (Cod. 12247, f. 32v).</note>
+               <noteGrp><note target="cod_12033.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12033</note><note target="cod_12247.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12247</note></noteGrp></org>
+               </listOrg></back></text>
 </TEI>
