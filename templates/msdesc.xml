@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">Beschreibung von  {{ signatur }}</title>
+                <title type="main">Wien, Österreichische nationalbibliothek, {{ signatur }}</title>
                 <title type="sub">{{ project_title }}</title>
                 <respStmt>
                     <resp>Beschreibung und TEI-encoding</resp>
@@ -28,8 +28,12 @@
                     </msIdentifier>
                     <head>
                         <title>{{ title }}</title>
-                        <origDate notBefore="{{ not_before }}-01-01" notAfter="0010">{{ date }}</origDate>
-                        <origPlace ref="#jesuiten_place__1">Wien (?)</origPlace>
+                        {% if not_before %}
+                        <origDate notBefore="{{ not_before }}-01-01">{{ date }}</origDate>
+                        {% endif%}
+                        {% if when %}
+                        <origDate when="{{ when }}">{{ date }}</origDate>
+                        {% endif%}
                         {% if note_type_facs %}
                         <note type="facs">
                             <ref target="{{ note_type_facs }}" />
@@ -40,14 +44,41 @@
                         </note>
                     </head>
                     <msContents>
-                    {% if ms_items %}
+                   
                         <summary>
-                                {{ summary }}
-                            <list>
+                                {{ summary }} 
+                                {% if mentioned_places %}                        
+                            <listPlace>
+                                <head>Erwähnte Orte:</head>
+                                {% for y in x.places %}
+                                <place>
+                                    <placeName key="#jesuiten_place__{{ y.id }}">{{ y.value }}</placeName>
+                                </place>
+                                {% endfor %}
+                            </listPlace>
+                            {% endif %}
+                            { %if mentioned_orgs %}
+                                <listOrg>
+                                    <head>Erwähnte Körperschaften:</head>
+                                    {% for y in x.orgs %}
+                                    <org>
+                                        <orgName key="#jesuiten_org__{{ y.id }}">{{ y.value }}</orgName>
+                                    </org>
+                                    {% endfor %}
+                                </listOrg>                           
+                        
+                        </summary> 
+                        <textLang mainLang="lat"/>
+                        
+                            {% if ms_items %}
                             {% for x in ms_items %}
-                                <item n="{{ x.order_number }}">
-                                    <locus from="{{ x.locus_from }}" to="{{ x.locus_to }}">{{ x.locus_text }}</locus>{{ x.incipit }}
+                                <msItem n="{{ x.order_number }}">
+                                    <locus from="{{ x.locus_from }}" to="{{ x.locus_to }}">{{ x.locus_text }}</locus>
+                                    {% if x.title}
+                                    <title>{{ x.title }}</title>
+                                    {% endif %}
                                     {% if x.places %}
+                                    <note>
                                     <listPlace>
                                         {% for y in x.places %}
                                         <place>
@@ -55,28 +86,34 @@
                                         </place>
                                         {% endfor %}
                                     </listPlace>
+                                    </note>
                                     {% endif %}
                                     {% if x.orgs %}
-                                    <listOrg>
+                                    <note>
+                                        <listOrg>
                                         {% for y in x.orgs %}
                                         <org>
                                             <orgName key="#jesuiten_org__{{ y.id }}">{{ y.value }}</orgName>
                                         </org>
                                         {% endfor %}
                                     </listOrg>
+                                    </note>
                                     {% endif %}
-                                </item>
-                                {% endfor %}
-                            </list>
-                        </summary>
+                                    {% if x.year %}
+                                    <note type="year">{{ x.year }}</note>
+                                    {% endif %}
+                                </msItem>
+                                {% endfor %}                          
+                        
                     {% endif %}
-                        <textLang mainLang="lat"/>
+                       
                     </msContents>
                     <physDesc>
                         <objectDesc form="codex">
                             <supportDesc material="paper">
+                                <support>Papier</support>
                                 <extent>
-                                    <measure type="leavesCount" quantity="81" unit="folio">i + 81 + ii fols.</measure>
+                                    <measure type="leavesCount" unit="folio">{{ extent }}</measure>
                                     <dimensions type="leaf_current" unit="mm">
                                         <height>{{ height }}</height>
                                         <width>{{ width }}</width>
@@ -86,7 +123,12 @@
                                 <collation/>
                             </supportDesc>
                         </objectDesc>
-                        <accMat>Makulatur ausgelöst.</accMat>
+                        <bindingDesc>
+                            <binding>
+                                <p>{{ binding }}</p>
+                            </binding>
+                        </bindingDesc>
+                        <accMat>{{ acc_mat }}</accMat>                        
                     </physDesc>
                 </msDesc>
             </sourceDesc>
