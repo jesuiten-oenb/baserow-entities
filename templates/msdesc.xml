@@ -77,10 +77,10 @@
                                     {% if x.title %}
                                     <title>{{ x.title }}</title>
                                     {% endif %}
-                                    {% if x.mentioned_places %}
+                                    {% if x.places %}
                                     <note>
                                     <listPlace>
-                                        {% for y in x.mentioned_places %}
+                                        {% for y in x.places %}
                                         <place>
                                             <placeName key="#jesuiten_place__{{ y.id }}">{{ y.value }}</placeName>
                                         </place>
