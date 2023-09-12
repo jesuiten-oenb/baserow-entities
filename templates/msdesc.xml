@@ -43,12 +43,11 @@
                             <ref target="{{ note_type_catalogue }}"/>
                         </note>
                     </head>
-                    <msContents>
-                   
+                    <msContents>                   
                         <summary>
                                 {{ summary }} 
                                 
-                            { % if mentioned_orgs %}
+                            {% if mentioned_orgs %}
                                 <listOrg>
                                     <head>Erwähnte Körperschaften:</head>
                                     {% for y in mentioned_orgs %}
