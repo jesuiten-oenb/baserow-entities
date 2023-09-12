@@ -33,21 +33,18 @@
                             <ref target="http://data.onb.ac.at/rec/AC13948698"/>
                         </note>
                     </head>
-                    <msContents>
-                   
+                    <msContents>                   
                         <summary>
                                 Die Handschrift besteht aus einer kodikologischen Einheit, wurde aber über einen Zeitraum von mehreren Jahren (1679–1714) geschrieben. Daher ist die Handschrift chronologisch geordnet. 
 Liste der Prüfer mit Jahresangabe (1v). 
 Es folgen die Prüfberichte in chronologischer Reihenfolge. Die Prüfungsberichte beginnen größtenteils auf einer neuen Seite mit dem Namen, der Nationalität und dem Alter des Prüflings. Spätere Einträge enthalten zusätzlich eine Randbemerkung mit dem Beruf des Geprüften (z.B. 'Rhetor'). 
                                 
-                            { % if mentioned_orgs %}
                                 <listOrg>
                                     <head>Erwähnte Körperschaften:</head>
                                     <org>
                                         <orgName key="#jesuiten_org__2">Jesuitenkolleg Wien</orgName>
                                     </org>
                                 </listOrg>                           
-                        
                         </summary> 
                         <textLang mainLang="lat"/>
                         

@@ -33,22 +33,19 @@
                             <ref target="http://data.onb.ac.at/rec/AC13956181"/>
                         </note>
                     </head>
-                    <msContents>
-                   
+                    <msContents>                   
                         <summary>
                                 Die Handschrift besteht aus einer kodikologischen Einheit, wurde aber über einen Zeitraum von mehreren Jahren (1715-1772) geschrieben. Daher ist die Handschrift chronologisch geordnet. 
 Am Anfang steht eine Liste der Prüfer (examinatores) mit Jahresangabe (3r-v). 
 Es folgen die Prüfberichte in chronologischer Reihenfolge. Bis 1751 beginnen die Prüfungsberichte mit dem Namen, der Nationalität und dem Alter des Prüflings. Ab dem Jahr 1753 (f. 180v) werden die Prüflinge nur noch mit Namen aufgeführt.
 Am Ende wurde ein Blatt (fol. 186-187) mit weiteren Prüfungen eingeklebt. Fol. 189 ist ebenfalls eingeklebt, ein Vordruck einer 'Pro scholastico'-Prüfung aus dem Jahr 1769. Blätter 190r-362v leer. 
                                 
-                            { % if mentioned_orgs %}
                                 <listOrg>
                                     <head>Erwähnte Körperschaften:</head>
                                     <org>
                                         <orgName key="#jesuiten_org__2">Jesuitenkolleg Wien</orgName>
                                     </org>
                                 </listOrg>                           
-                        
                         </summary> 
                         <textLang mainLang="lat"/>
                         

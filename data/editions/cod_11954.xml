@@ -33,17 +33,11 @@
                             <ref target="http://data.onb.ac.at/rec/AC13947544"/>
                         </note>
                     </head>
-                    <msContents>
-                   
+                    <msContents>                   
                         <summary>
                                 Die Handschrift ist in zwei Teile gegliedert. Der erste Teil enthält die Antworten auf die Fragen (Resolutiones), die alle drei Jahre nach Rom gesandt wurden. Er ist chronologisch geordnet. Die ersten Seiten, die sich auf die Jahre 1568-1625 beziehen, wurden von einer Hand, wahrscheinlich um 1625, abgeschrieben. Weitere Einträge betreffen Antworten bis 1737. 
 Der zweite Teil beginnt in der Mitte des Buches und ist für die nach der Versammlung eingegangenen Antworten (Resolutiones) bestimmt. Dieser Teil ist bis auf drei Seiten leer geblieben. 
                                 
-                            { % if mentioned_orgs %}
-                                <listOrg>
-                                    <head>Erwähnte Körperschaften:</head>
-                                </listOrg>                           
-                        
                         </summary> 
                         <textLang mainLang="lat"/>
                         

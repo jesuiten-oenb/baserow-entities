@@ -581,7 +581,7 @@
     ],
     "note_type_facs": "https://data.onb.ac.at/rep/131ABEA7",
     "xml_id": "cod_12066",
-    "extent": "86",
+    "extent": "III, 86, II* Bl.",
     "height": "295",
     "width": "200",
     "foliation": "Zeitgenössische Paginierung in Tinte: 1-162. Moderne Foliierung der Vor- und Nachsatzblätter: I-III bzw. I*-II*.",
@@ -994,7 +994,7 @@
     "mentioned_places": [],
     "note_type_facs": "http://data.onb.ac.at/dtl/9141035",
     "xml_id": "cod_12045",
-    "extent": "II, 70, I Bl.",
+    "extent": "II, 70, I* Bl.",
     "height": "295",
     "width": "198",
     "foliation": "Originalpaginierung 1–139.",
@@ -1061,12 +1061,114 @@
     "order": "5.90000000000000035527",
     "signatur": "Cod. 12048",
     "jesuiten_id": "jesuiten_msdesc__63",
-    "mentioned_orgs": [],
+    "mentioned_orgs": [
+      {
+        "id": 4,
+        "value": "Probationshaus Wien"
+      }
+    ],
     "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948537",
     "titel": "Litterae annuae provinciae Austriae Societatis Iesu a. 1651",
     "date": "1652-1653",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 1,
+        "value": "Wien"
+      },
+      {
+        "id": 2,
+        "value": "Graz"
+      },
+      {
+        "id": 3,
+        "value": "Linz"
+      },
+      {
+        "id": 4,
+        "value": "Steyr"
+      },
+      {
+        "id": 5,
+        "value": "Bratislava"
+      },
+      {
+        "id": 6,
+        "value": "Trnava"
+      },
+      {
+        "id": 7,
+        "value": "Passau"
+      },
+      {
+        "id": 8,
+        "value": "Győr"
+      },
+      {
+        "id": 11,
+        "value": "Krems"
+      },
+      {
+        "id": 13,
+        "value": "Sopron"
+      },
+      {
+        "id": 16,
+        "value": "Komárom"
+      },
+      {
+        "id": 18,
+        "value": "Trenčín"
+      },
+      {
+        "id": 19,
+        "value": "Banská Bystrica (Neosolium)"
+      },
+      {
+        "id": 21,
+        "value": "Košice"
+      },
+      {
+        "id": 24,
+        "value": "Leoben"
+      },
+      {
+        "id": 25,
+        "value": "Judenburg"
+      },
+      {
+        "id": 26,
+        "value": "Klagenfurt"
+      },
+      {
+        "id": 28,
+        "value": "Trieste"
+      },
+      {
+        "id": 30,
+        "value": "Varaždin"
+      },
+      {
+        "id": 40,
+        "value": "Eberndorf"
+      },
+      {
+        "id": 75,
+        "value": "Banská Štiavnica"
+      },
+      {
+        "id": 78,
+        "value": "Spiš"
+      },
+      {
+        "id": 81,
+        "value": "Kláštor pod Znievom"
+      },
+      {
+        "id": 206,
+        "value": "Veszprém"
+      }
+    ],
     "note_type_facs": "http://data.onb.ac.at/dtl/9135313",
     "xml_id": "cod_12048",
     "extent": "III, 20 Bl.",
@@ -1075,11 +1177,36 @@
     "foliation": "Zeitgenössische Paginierung.",
     "acc_mat": "",
     "binding": "Versteifter Pergamentumschlag, 17. Jhdt.",
-    "summary": "",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit, ohne Gliederung. Nachträgliche Überschriften am Rand.",
     "not_before": "1652",
     "not_after": "1653",
     "# when": "",
     "date_letter": "1651"
+  },
+  "64": {
+    "id": 64,
+    "order": "5.90909090909090917165",
+    "signatur": "Cod. 12049",
+    "jesuiten_id": "jesuiten_msdesc__64",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948199",
+    "titel": "Litterae annuae provinciae Austriae Societatis Iesu a. 1652",
+    "date": "ab 1652",
+    "persons": [],
+    "mentioned_places": [],
+    "note_type_facs": "http://data.onb.ac.at/dtl/9135570",
+    "xml_id": "cod_12049",
+    "extent": "III, 13, I* Bl.",
+    "height": null,
+    "width": null,
+    "foliation": "Zeitgenössische Paginierung.",
+    "acc_mat": "",
+    "binding": "Pergament mit Streicheisenlinien über Pappdeckeln, 17. Jhdt.",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit, ohne Gliederung. Nachträgliche Überschriften am Rand.",
+    "not_before": null,
+    "not_after": null,
+    "# when": "",
+    "date_letter": "1652"
   },
   "7": {
     "id": 7,

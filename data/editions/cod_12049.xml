@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cod_12047.xml" xml:base="https://oenb.ac.at" prev="https://oenb.ac.at/cod_12046.xml" next="https://oenb.ac.at/cod_12048.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cod_12049.xml" xml:base="https://oenb.ac.at" prev="https://oenb.ac.at/cod_12048.xml" next="https://oenb.ac.at/cod_12057.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">Wien, Österreichische nationalbibliothek, Cod. 12047</title>
+                <title type="main">Wien, Österreichische nationalbibliothek, Cod. 12049</title>
                 <title type="sub">Jesuiten Littera annuae</title>
                 <respStmt>
                     <resp>Beschreibung und TEI-encoding</resp>
@@ -19,29 +19,34 @@
                 </availability>
             </publicationStmt>
             <sourceDesc>
-                <msDesc xml:lang="de" xml:id="cod_12047">
+                <msDesc xml:lang="de" xml:id="cod_12049">
                     <msIdentifier>
                         <country>Österreich</country>
                         <settlement>Wien</settlement>
                         <repository>Österreichische Nationalbibliothek</repository>
-                        <idno>Cod. 12047</idno>
+                        <idno>Cod. 12049</idno>
                     </msIdentifier>
                     <head>
                         <title/>
-                        <origDate notBefore="1651-01-01">ab 1651</origDate>
                         <note type="facs">
-                            <ref target="http://data.onb.ac.at/dtl/9233008"/>
+                            <ref target="http://data.onb.ac.at/dtl/9135570"/>
                         </note>
                         <note type="catalogue">
-                            <ref target="http://data.onb.ac.at/rec/AC13948536"/>
+                            <ref target="http://data.onb.ac.at/rec/AC13948199"/>
                         </note>
                     </head>
                     <msContents>                   
                         <summary>
-                                 
+                                Die Handschrift besteht aus einer kodikologischen Einheit, ohne Gliederung. Nachträgliche Überschriften am Rand. 
                                 
                         </summary> 
                         <textLang mainLang="lat"/>
+                        
+                                <msItem n="None">
+                                    <locus from="2" to="4">2-4</locus>
+                                    <title>Eulogia defunctorum</title>
+                                </msItem>
+                          
                         
                        
                     </msContents>
@@ -50,13 +55,13 @@
                             <supportDesc material="paper">
                                 <support>Papier</support>
                                 <extent>
-                                    <measure type="leavesCount" unit="folio"/>
+                                    <measure type="leavesCount" unit="folio">III, 13, I* Bl.</measure>
                                     <dimensions type="leaf_current" unit="mm">
                                         <height>None</height>
                                         <width>None</width>
                                     </dimensions>
                                 </extent>
-                                <foliation/>
+                                <foliation>Zeitgenössische Paginierung.</foliation>
                                 <collation/>
                             </supportDesc>
                         </objectDesc>
