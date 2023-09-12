@@ -30,10 +30,10 @@
                         <title>{{ title }}</title>
                         {% if not_before %}
                         <origDate notBefore="{{ not_before }}-01-01">{{ date }}</origDate>
-                        {% endif%}
+                        {% endif %}
                         {% if when %}
                         <origDate when="{{ when }}">{{ date }}</origDate>
-                        {% endif%}
+                        {% endif %}
                         {% if note_type_facs %}
                         <note type="facs">
                             <ref target="{{ note_type_facs }}" />
@@ -77,10 +77,10 @@
                                     {% if x.title %}
                                     <title>{{ x.title }}</title>
                                     {% endif %}
-                                    {% if x.places %}
+                                    {% if x.mentioned_places %}
                                     <note>
                                     <listPlace>
-                                        {% for y in x.places %}
+                                        {% for y in x.mentioned_places %}
                                         <place>
                                             <placeName key="#jesuiten_place__{{ y.id }}">{{ y.value }}</placeName>
                                         </place>
