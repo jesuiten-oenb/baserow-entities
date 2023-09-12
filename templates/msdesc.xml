@@ -56,7 +56,17 @@
                                     </org>
                                     {% endfor %}
                                 </listOrg>                           
-                        
+                        {% endif %}
+                        {% if mentioned_places %}
+                            <listPlace>
+                                <head>Erwähnte Orte:</head>
+                                {% for y in mentioned_places %}
+                                <place>
+                                    <placeName key="#jesuiten_place__{{ y.id }}">{{ y.value }}</placeName>
+                                </place>
+                                {% endfor %}
+                            </listPlace>                           
+                            {% endif %}
                         </summary> 
                         <textLang mainLang="lat"/>
                         
@@ -90,7 +100,7 @@
                                     </note>
                                     {% endif %}
                                     {% if x.year %}
-                                    <note type="year">{{ x.year }}</note>
+                                    <note><date>{{ x.year }}</date></note>
                                     {% endif %}
                                 </msItem>
                                 {% endfor %}                          
