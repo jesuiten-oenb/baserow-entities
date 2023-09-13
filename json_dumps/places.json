@@ -4819,18 +4819,6 @@
     "alt_names": [],
     "msdesc": []
   },
-  "203": {
-    "id": 203,
-    "order": "200.00000000000000000000",
-    "name": "Lomnice nad Lužnicí",
-    "jesuiten_id": "jesuiten_place__203",
-    "geonames": "https://www.geonames.org/3071607/lomnice-nad-luznici.html",
-    "lat": "49.08468",
-    "long": "14.71727",
-    "wikidata": "",
-    "alt_names": [],
-    "msdesc": []
-  },
   "204": {
     "id": 204,
     "order": "201.00000000000000000000",
@@ -4871,5 +4859,394 @@
         "value": "Cod. 12048"
       }
     ]
+  },
+  "207": {
+    "id": 207,
+    "order": "204.00000000000000000000",
+    "name": "České Budějovice",
+    "jesuiten_id": "jesuiten_place__207",
+    "geonames": "https://www.geonames.org/3077916/ceske-budejovice.html",
+    "lat": "48.97447",
+    "long": "14.47434",
+    "wikidata": "https://www.wikidata.org/wiki/Q16506",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "208": {
+    "id": 208,
+    "order": "205.00000000000000000000",
+    "name": "Knínice",
+    "jesuiten_id": "jesuiten_place__208",
+    "geonames": "https://www.geonames.org/3073515/kninice.html",
+    "lat": "49.09401",
+    "long": "15.60405",
+    "wikidata": "",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "209": {
+    "id": 209,
+    "order": "206.00000000000000000000",
+    "name": "Oslavany",
+    "jesuiten_id": "jesuiten_place__209",
+    "geonames": "https://www.geonames.org/3068830/oslavany.html",
+    "lat": "49.12335",
+    "long": "16.33653",
+    "wikidata": "",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "210": {
+    "id": 210,
+    "order": "207.00000000000000000000",
+    "name": "Břeclav",
+    "jesuiten_id": "jesuiten_place__210",
+    "geonames": "https://www.geonames.org/3078773/breclav.html",
+    "lat": "48.75897",
+    "long": "16.88203",
+    "wikidata": "https://www.wikidata.org/wiki/Q581478",
+    "alt_names": [
+      {
+        "id": 84,
+        "value": "Lundenburg"
+      }
+    ],
+    "msdesc": []
+  },
+  "211": {
+    "id": 211,
+    "order": "208.00000000000000000000",
+    "name": "Moravský Krumlov",
+    "jesuiten_id": "jesuiten_place__211",
+    "geonames": "https://www.geonames.org/3070310/moravsky-krumlov.html",
+    "lat": "49.04893",
+    "long": "16.31169",
+    "wikidata": "https://de.wikipedia.org/wiki/Moravsk%C3%BD_Krumlov",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "212": {
+    "id": 212,
+    "order": "209.00000000000000000000",
+    "name": "Ivančice",
+    "jesuiten_id": "jesuiten_place__212",
+    "geonames": "https://www.geonames.org/3074615/ivancice.html",
+    "lat": "49.10144",
+    "long": "16.37752",
+    "wikidata": "",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "213": {
+    "id": 213,
+    "order": "210.00000000000000000000",
+    "name": "Bystrzyca Kłodzka",
+    "jesuiten_id": "jesuiten_place__213",
+    "geonames": "https://www.geonames.org/3101968/bystrzyca-klodzka.html",
+    "lat": "50.30179",
+    "long": "16.64231",
+    "wikidata": "https://de.wikipedia.org/wiki/Bystrzyca_K%C5%82odzka",
+    "alt_names": [
+      {
+        "id": 85,
+        "value": "Habelschwerdt"
+      }
+    ],
+    "msdesc": []
+  },
+  "214": {
+    "id": 214,
+    "order": "211.00000000000000000000",
+    "name": "Mikulov",
+    "jesuiten_id": "jesuiten_place__214",
+    "geonames": "https://www.geonames.org/3070720/mikulov.html",
+    "lat": "48.80556",
+    "long": "16.63780",
+    "wikidata": "https://de.wikipedia.org/wiki/Mikulov",
+    "alt_names": [
+      {
+        "id": 86,
+        "value": "Nikelsburg"
+      }
+    ],
+    "msdesc": []
+  },
+  "215": {
+    "id": 215,
+    "order": "212.00000000000000000000",
+    "name": "Wolbramhirchium",
+    "jesuiten_id": "jesuiten_place__215",
+    "geonames": "",
+    "lat": null,
+    "long": null,
+    "wikidata": "",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "216": {
+    "id": 216,
+    "order": "213.00000000000000000000",
+    "name": "Góra",
+    "jesuiten_id": "jesuiten_place__216",
+    "geonames": "https://www.geonames.org/3098898/gora.html",
+    "lat": "51.66638",
+    "long": "16.53494",
+    "wikidata": "",
+    "alt_names": [
+      {
+        "id": 87,
+        "value": "Gura"
+      }
+    ],
+    "msdesc": []
+  },
+  "217": {
+    "id": 217,
+    "order": "214.00000000000000000000",
+    "name": "Szprotawa",
+    "jesuiten_id": "jesuiten_place__217",
+    "geonames": "https://www.geonames.org/3083632/szprotawa.html",
+    "lat": "51.56563",
+    "long": "15.53664",
+    "wikidata": "",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "218": {
+    "id": 218,
+    "order": "215.00000000000000000000",
+    "name": "Kożuchów",
+    "jesuiten_id": "jesuiten_place__218",
+    "geonames": "https://www.geonames.org/3094832/kozuchow.html",
+    "lat": "51.74558",
+    "long": "15.59492",
+    "wikidata": "https://www.wikidata.org/wiki/Q142101",
+    "alt_names": [
+      {
+        "id": 88,
+        "value": "Freistadt"
+      }
+    ],
+    "msdesc": []
+  },
+  "219": {
+    "id": 219,
+    "order": "216.00000000000000000000",
+    "name": "Zielona Góra",
+    "jesuiten_id": "jesuiten_place__219",
+    "geonames": "https://www.geonames.org/3080165/zielona-gora.html",
+    "lat": "51.93548",
+    "long": "15.50643",
+    "wikidata": "https://www.wikidata.org/wiki/Q104720",
+    "alt_names": [
+      {
+        "id": 89,
+        "value": "Grünberg"
+      },
+      {
+        "id": 90,
+        "value": "Grinbergium"
+      }
+    ],
+    "msdesc": []
+  },
+  "220": {
+    "id": 220,
+    "order": "217.00000000000000000000",
+    "name": "Polkowice",
+    "jesuiten_id": "jesuiten_place__220",
+    "geonames": "https://www.geonames.org/3088435/polkowice.html",
+    "lat": "51.50391",
+    "long": "16.07261",
+    "wikidata": "https://www.wikidata.org/wiki/Q246685",
+    "alt_names": [
+      {
+        "id": 91,
+        "value": "Polkovia"
+      }
+    ],
+    "msdesc": []
+  },
+  "221": {
+    "id": 221,
+    "order": "218.00000000000000000000",
+    "name": "Pilsen",
+    "jesuiten_id": "jesuiten_place__221",
+    "geonames": "https://www.geonames.org/3068160/pilsen.html",
+    "lat": "49.74747",
+    "long": "13.37759",
+    "wikidata": "https://www.wikidata.org/wiki/Q43453",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "222": {
+    "id": 222,
+    "order": "219.00000000000000000000",
+    "name": "Podbořany",
+    "jesuiten_id": "jesuiten_place__222",
+    "geonames": "https://www.geonames.org/3068119/podborany.html",
+    "lat": "50.22937",
+    "long": "13.41192",
+    "wikidata": "https://www.wikidata.org/wiki/Q1017247",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "223": {
+    "id": 223,
+    "order": "220.00000000000000000000",
+    "name": "Tulešice",
+    "jesuiten_id": "jesuiten_place__223",
+    "geonames": "https://www.geonames.org/3063874/tulesice.html",
+    "lat": "49.03855",
+    "long": "16.20713",
+    "wikidata": "",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "225": {
+    "id": 225,
+    "order": "221.00000000000000000000",
+    "name": "Dalešice",
+    "jesuiten_id": "jesuiten_place__225",
+    "geonames": "https://www.geonames.org/3077296/dalesice.html",
+    "lat": "50.68176",
+    "long": "15.18457",
+    "wikidata": "",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "226": {
+    "id": 226,
+    "order": "222.00000000000000000000",
+    "name": "Hrotovice",
+    "jesuiten_id": "jesuiten_place__226",
+    "geonames": "https://www.geonames.org/3074803/hrotovice.html",
+    "lat": "49.10770",
+    "long": "16.06067",
+    "wikidata": "",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "227": {
+    "id": 227,
+    "order": "223.00000000000000000000",
+    "name": "Myslibořice",
+    "jesuiten_id": "jesuiten_place__227",
+    "geonames": "https://www.geonames.org/3070169/mysliborice.html",
+    "lat": "49.10289",
+    "long": "15.98456",
+    "wikidata": "",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "228": {
+    "id": 228,
+    "order": "224.00000000000000000000",
+    "name": "Havlíčkův Brod",
+    "jesuiten_id": "jesuiten_place__228",
+    "geonames": "https://www.geonames.org/3075919/havlickuv-brod.html",
+    "lat": "49.60690",
+    "long": "15.57937",
+    "wikidata": "https://www.wikidata.org/wiki/Q954596",
+    "alt_names": [
+      {
+        "id": 92,
+        "value": "Deutschbrod"
+      },
+      {
+        "id": 93,
+        "value": "Germanica broda"
+      }
+    ],
+    "msdesc": []
+  },
+  "229": {
+    "id": 229,
+    "order": "225.00000000000000000000",
+    "name": "Letohrad",
+    "jesuiten_id": "jesuiten_place__229",
+    "geonames": "https://www.geonames.org/3072134/letohrad.html",
+    "lat": "50.03580",
+    "long": "16.49879",
+    "wikidata": "",
+    "alt_names": [
+      {
+        "id": 94,
+        "value": "Geiersberg"
+      }
+    ],
+    "msdesc": []
+  },
+  "230": {
+    "id": 230,
+    "order": "226.00000000000000000000",
+    "name": "Žamberk",
+    "jesuiten_id": "jesuiten_place__230",
+    "geonames": "https://www.geonames.org/3061888/zamberk.html",
+    "lat": "50.08601",
+    "long": "16.46738",
+    "wikidata": "",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "231": {
+    "id": 231,
+    "order": "227.00000000000000000000",
+    "name": "Bavorov",
+    "jesuiten_id": "jesuiten_place__231",
+    "geonames": "https://www.geonames.org/3079632/bavorov.html",
+    "lat": "49.12184",
+    "long": "14.07893",
+    "wikidata": "",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "232": {
+    "id": 232,
+    "order": "228.00000000000000000000",
+    "name": "Husinec",
+    "jesuiten_id": "jesuiten_place__232",
+    "geonames": "https://www.geonames.org/3074686/husinec.html",
+    "lat": "49.05496",
+    "long": "13.98697",
+    "wikidata": "",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "233": {
+    "id": 233,
+    "order": "229.00000000000000000000",
+    "name": "Lomnice nad Popelkou",
+    "jesuiten_id": "jesuiten_place__233",
+    "geonames": "https://www.geonames.org/3071606/lomnice-nad-popelkou.html",
+    "lat": "50.53062",
+    "long": "15.37341",
+    "wikidata": "",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "234": {
+    "id": 234,
+    "order": "230.00000000000000000000",
+    "name": "Veselá",
+    "jesuiten_id": "jesuiten_place__234",
+    "geonames": "https://www.geonames.org/3063056/vesela.html",
+    "lat": "50.54661",
+    "long": "15.30886",
+    "wikidata": "",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "235": {
+    "id": 235,
+    "order": "231.00000000000000000000",
+    "name": "Vizovice",
+    "jesuiten_id": "jesuiten_place__235",
+    "geonames": "https://www.geonames.org/3062783/vizovice.html",
+    "lat": "49.22287",
+    "long": "17.85455",
+    "wikidata": "",
+    "alt_names": [],
+    "msdesc": []
   }
 }

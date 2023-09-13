@@ -6611,9 +6611,22 @@
     "114": {
         "id": 114,
         "order": "114.00000000000000000000",
-        "name": "Jesuitenresidenz Tessinium",
+        "name": "Jesuitenresidenz Cieszyn (?)",
         "jesuiten_id": "jesuiten_org__114",
-        "located_in": [],
+        "located_in": [
+            {
+                "id": 129,
+                "order": "126.00000000000000000000",
+                "name": "Cieszyn",
+                "jesuiten_id": "jesuiten_place__129",
+                "geonames": "https://www.geonames.org/3101321/cieszyn.html",
+                "lat": "49.75133",
+                "long": "18.63213",
+                "wikidata": "https://www.wikidata.org/wiki/Q321197",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
         "gnd": "",
         "msdesc": [],
         "alt_name": "Collegium Tessinium",
@@ -10227,6 +10240,510 @@
         "msdesc": [],
         "alt_name": "Missio Sobieslauiensis",
         "notes": "dependens a Trebonensi",
+        "persons": []
+    },
+    "236": {
+        "id": 236,
+        "order": "232.00000000000000000000",
+        "name": "Jesuitenresidenz Głogów",
+        "jesuiten_id": "jesuiten_org__236",
+        "located_in": [
+            {
+                "id": 105,
+                "order": "102.00000000000000000000",
+                "name": "Głogów",
+                "jesuiten_id": "jesuiten_place__105",
+                "geonames": "https://www.geonames.org/3099213/glogow.html",
+                "lat": "51.66361",
+                "long": "16.08450",
+                "wikidata": "https://www.wikidata.org/wiki/Q66013",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Residentia Glogoviensis",
+        "notes": "",
+        "persons": []
+    },
+    "237": {
+        "id": 237,
+        "order": "233.00000000000000000000",
+        "name": "Jesuitenmission Moravský Krumlov und Ivančice",
+        "jesuiten_id": "jesuiten_org__237",
+        "located_in": [
+            {
+                "id": 211,
+                "order": "208.00000000000000000000",
+                "name": "Moravský Krumlov",
+                "jesuiten_id": "jesuiten_place__211",
+                "geonames": "https://www.geonames.org/3070310/moravsky-krumlov.html",
+                "lat": "49.04893",
+                "long": "16.31169",
+                "wikidata": "https://de.wikipedia.org/wiki/Moravsk%C3%BD_Krumlov",
+                "alt_names": [],
+                "msdesc": []
+            },
+            {
+                "id": 212,
+                "order": "209.00000000000000000000",
+                "name": "Ivančice",
+                "jesuiten_id": "jesuiten_place__212",
+                "geonames": "https://www.geonames.org/3074615/ivancice.html",
+                "lat": "49.10144",
+                "long": "16.37752",
+                "wikidata": "",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Crumloviensis et Ewaneziensis",
+        "notes": "Missionem hanc rogatu illustrissimi principis a Liechtenstein (Cod. 11960, f. 242v).",
+        "persons": []
+    },
+    "238": {
+        "id": 238,
+        "order": "234.00000000000000000000",
+        "name": "Jesuitenmission Opava",
+        "jesuiten_id": "jesuiten_org__238",
+        "located_in": [
+            {
+                "id": 115,
+                "order": "112.00000000000000000000",
+                "name": "Opava",
+                "jesuiten_id": "jesuiten_place__115",
+                "geonames": "https://www.geonames.org/3068927/opava.html",
+                "lat": "49.93866",
+                "long": "17.90257",
+                "wikidata": "https://www.wikidata.org/wiki/Q156080",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Oppaviensis",
+        "notes": "",
+        "persons": []
+    },
+    "239": {
+        "id": 239,
+        "order": "235.00000000000000000000",
+        "name": "Jesuitenmission Bystrzyca Kłodzka",
+        "jesuiten_id": "jesuiten_org__239",
+        "located_in": [
+            {
+                "id": 213,
+                "order": "210.00000000000000000000",
+                "name": "Bystrzyca Kłodzka",
+                "jesuiten_id": "jesuiten_place__213",
+                "geonames": "https://www.geonames.org/3101968/bystrzyca-klodzka.html",
+                "lat": "50.30179",
+                "long": "16.64231",
+                "wikidata": "https://de.wikipedia.org/wiki/Bystrzyca_K%C5%82odzka",
+                "alt_names": [
+                    {
+                        "id": 85,
+                        "value": "Habelschwerdt"
+                    }
+                ],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Habelschwerdensis",
+        "notes": "a. 1628: \"Duravit haec missio 17 septimanis\" (Cod. 11960 f, 253v)",
+        "persons": []
+    },
+    "240": {
+        "id": 240,
+        "order": "236.00000000000000000000",
+        "name": "Jesuitenmission Pilsen, Podbořany (?), Provincia Prachensis",
+        "jesuiten_id": "jesuiten_org__240",
+        "located_in": [
+            {
+                "id": 221,
+                "order": "218.00000000000000000000",
+                "name": "Pilsen",
+                "jesuiten_id": "jesuiten_place__221",
+                "geonames": "https://www.geonames.org/3068160/pilsen.html",
+                "lat": "49.74747",
+                "long": "13.37759",
+                "wikidata": "https://www.wikidata.org/wiki/Q43453",
+                "alt_names": [],
+                "msdesc": []
+            },
+            {
+                "id": 222,
+                "order": "219.00000000000000000000",
+                "name": "Podbořany",
+                "jesuiten_id": "jesuiten_place__222",
+                "geonames": "https://www.geonames.org/3068119/podborany.html",
+                "lat": "50.22937",
+                "long": "13.41192",
+                "wikidata": "https://www.wikidata.org/wiki/Q1017247",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Pilsnensis, Podbrdensis (?) et reliqua Prachensis",
+        "notes": "",
+        "persons": []
+    },
+    "241": {
+        "id": 241,
+        "order": "237.00000000000000000000",
+        "name": "Jesuitenmission Litoměřice",
+        "jesuiten_id": "jesuiten_org__241",
+        "located_in": [
+            {
+                "id": 112,
+                "order": "109.00000000000000000000",
+                "name": "Litoměřice",
+                "jesuiten_id": "jesuiten_place__112",
+                "geonames": "https://www.geonames.org/3071677/litomerice.html",
+                "lat": "50.53348",
+                "long": "14.13180",
+                "wikidata": "https://www.wikidata.org/wiki/Q384403",
+                "alt_names": [
+                    {
+                        "id": 48,
+                        "value": "Leitmeritz"
+                    }
+                ],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Litomierzicensis",
+        "notes": "",
+        "persons": []
+    },
+    "242": {
+        "id": 242,
+        "order": "238.00000000000000000000",
+        "name": "Jesuitenmission Cieszyn (?)",
+        "jesuiten_id": "jesuiten_org__242",
+        "located_in": [
+            {
+                "id": 129,
+                "order": "126.00000000000000000000",
+                "name": "Cieszyn",
+                "jesuiten_id": "jesuiten_place__129",
+                "geonames": "https://www.geonames.org/3101321/cieszyn.html",
+                "lat": "49.75133",
+                "long": "18.63213",
+                "wikidata": "https://www.wikidata.org/wiki/Q321197",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Tessinensis",
+        "notes": "",
+        "persons": []
+    },
+    "243": {
+        "id": 243,
+        "order": "239.00000000000000000000",
+        "name": "Jesuitenmission Jelenia Góra",
+        "jesuiten_id": "jesuiten_org__243",
+        "located_in": [
+            {
+                "id": 127,
+                "order": "124.00000000000000000000",
+                "name": "Jelenia Góra",
+                "jesuiten_id": "jesuiten_place__127",
+                "geonames": "https://www.geonames.org/3097257/jelenia-gora.html",
+                "lat": "50.89973",
+                "long": "15.72899",
+                "wikidata": "https://www.wikidata.org/wiki/Q147934",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Hirschpergensis / Hirschbergensis",
+        "notes": "",
+        "persons": []
+    },
+    "244": {
+        "id": 244,
+        "order": "240.00000000000000000000",
+        "name": "Jesuitenmission Góra",
+        "jesuiten_id": "jesuiten_org__244",
+        "located_in": [
+            {
+                "id": 216,
+                "order": "213.00000000000000000000",
+                "name": "Góra",
+                "jesuiten_id": "jesuiten_place__216",
+                "geonames": "https://www.geonames.org/3098898/gora.html",
+                "lat": "51.66638",
+                "long": "16.53494",
+                "wikidata": "",
+                "alt_names": [
+                    {
+                        "id": 87,
+                        "value": "Gura"
+                    }
+                ],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Gurensis",
+        "notes": "",
+        "persons": []
+    },
+    "245": {
+        "id": 245,
+        "order": "241.00000000000000000000",
+        "name": "Jesuitenmission Havlíčkův Brod",
+        "jesuiten_id": "jesuiten_org__245",
+        "located_in": [
+            {
+                "id": 228,
+                "order": "224.00000000000000000000",
+                "name": "Havlíčkův Brod",
+                "jesuiten_id": "jesuiten_place__228",
+                "geonames": "https://www.geonames.org/3075919/havlickuv-brod.html",
+                "lat": "49.60690",
+                "long": "15.57937",
+                "wikidata": "https://www.wikidata.org/wiki/Q954596",
+                "alt_names": [
+                    {
+                        "id": 92,
+                        "value": "Deutschbrod"
+                    },
+                    {
+                        "id": 93,
+                        "value": "Germanica broda"
+                    }
+                ],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Deutszbrodensis Germanicebroda",
+        "notes": "",
+        "persons": []
+    },
+    "246": {
+        "id": 246,
+        "order": "242.00000000000000000000",
+        "name": "Jesuitenmission Letohrad",
+        "jesuiten_id": "jesuiten_org__246",
+        "located_in": [
+            {
+                "id": 229,
+                "order": "225.00000000000000000000",
+                "name": "Letohrad",
+                "jesuiten_id": "jesuiten_place__229",
+                "geonames": "https://www.geonames.org/3072134/letohrad.html",
+                "lat": "50.03580",
+                "long": "16.49879",
+                "wikidata": "",
+                "alt_names": [
+                    {
+                        "id": 94,
+                        "value": "Geiersberg"
+                    }
+                ],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Kysbergensis",
+        "notes": "",
+        "persons": []
+    },
+    "247": {
+        "id": 247,
+        "order": "243.00000000000000000000",
+        "name": "Jesuitenmission Orlicensis",
+        "jesuiten_id": "jesuiten_org__247",
+        "located_in": [],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Orlicensis",
+        "notes": "",
+        "persons": []
+    },
+    "248": {
+        "id": 248,
+        "order": "244.00000000000000000000",
+        "name": "Jesuitenmission Žamberk",
+        "jesuiten_id": "jesuiten_org__248",
+        "located_in": [
+            {
+                "id": 230,
+                "order": "226.00000000000000000000",
+                "name": "Žamberk",
+                "jesuiten_id": "jesuiten_place__230",
+                "geonames": "https://www.geonames.org/3061888/zamberk.html",
+                "lat": "50.08601",
+                "long": "16.46738",
+                "wikidata": "",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Zsambergensis",
+        "notes": "",
+        "persons": []
+    },
+    "249": {
+        "id": 249,
+        "order": "245.00000000000000000000",
+        "name": "Jesutienresidenz Cheb",
+        "jesuiten_id": "jesuiten_org__249",
+        "located_in": [
+            {
+                "id": 101,
+                "order": "98.00000000000000000000",
+                "name": "Cheb",
+                "jesuiten_id": "jesuiten_place__101",
+                "geonames": "https://www.geonames.org/3077835/cheb.html",
+                "lat": "50.07963",
+                "long": "12.37392",
+                "wikidata": "https://www.wikidata.org/wiki/Q193719",
+                "alt_names": [
+                    {
+                        "id": 37,
+                        "value": "Eger"
+                    },
+                    {
+                        "id": 38,
+                        "value": "Egra"
+                    }
+                ],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Residentia Egrensis",
+        "notes": "",
+        "persons": []
+    },
+    "250": {
+        "id": 250,
+        "order": "246.00000000000000000000",
+        "name": "Jesuitenresidenz Opava",
+        "jesuiten_id": "jesuiten_org__250",
+        "located_in": [
+            {
+                "id": 115,
+                "order": "112.00000000000000000000",
+                "name": "Opava",
+                "jesuiten_id": "jesuiten_place__115",
+                "geonames": "https://www.geonames.org/3068927/opava.html",
+                "lat": "49.93866",
+                "long": "17.90257",
+                "wikidata": "https://www.wikidata.org/wiki/Q156080",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Residentia Oppaviensis",
+        "notes": "",
+        "persons": []
+    },
+    "251": {
+        "id": 251,
+        "order": "247.00000000000000000000",
+        "name": "Jesuitenmission Świdnica",
+        "jesuiten_id": "jesuiten_org__251",
+        "located_in": [
+            {
+                "id": 95,
+                "order": "92.00000000000000000000",
+                "name": "Świdnica",
+                "jesuiten_id": "jesuiten_place__95",
+                "geonames": "https://www.geonames.org/3084093/swidnica.html",
+                "lat": "50.84378",
+                "long": "16.48859",
+                "wikidata": "https://www.wikidata.org/wiki/Q387396",
+                "alt_names": [
+                    {
+                        "id": 35,
+                        "value": "Schwidnicium"
+                    }
+                ],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Suidnicensis",
+        "notes": "",
+        "persons": []
+    },
+    "252": {
+        "id": 252,
+        "order": "248.00000000000000000000",
+        "name": "Jesuitenmission Vizovice",
+        "jesuiten_id": "jesuiten_org__252",
+        "located_in": [
+            {
+                "id": 235,
+                "order": "231.00000000000000000000",
+                "name": "Vizovice",
+                "jesuiten_id": "jesuiten_place__235",
+                "geonames": "https://www.geonames.org/3062783/vizovice.html",
+                "lat": "49.22287",
+                "long": "17.85455",
+                "wikidata": "",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Visovicensis",
+        "notes": "",
+        "persons": []
+    },
+    "253": {
+        "id": 253,
+        "order": "249.00000000000000000000",
+        "name": "Jesuitenresidenz Świdnica",
+        "jesuiten_id": "jesuiten_org__253",
+        "located_in": [
+            {
+                "id": 119,
+                "order": "116.00000000000000000000",
+                "name": "Świdnica",
+                "jesuiten_id": "jesuiten_place__119",
+                "geonames": "https://www.geonames.org/3084093/swidnica.html",
+                "lat": "50.84378",
+                "long": "16.48859",
+                "wikidata": "https://www.wikidata.org/wiki/Q387396",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Residentia Suidnicensis",
+        "notes": "",
         "persons": []
     }
 }
