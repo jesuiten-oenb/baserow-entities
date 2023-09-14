@@ -1770,6 +1770,41 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/3062783/</idno>
                </place>
+               <place xml:id="jesuiten_place__236">
+                  <placeName>Moravské Budějovice</placeName>
+                  <location type="coords">
+                     <geo>49.05209 15.80864</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3070323/</idno>
+               </place>
+               <place xml:id="jesuiten_place__237">
+                  <placeName>Mohelnice</placeName>
+                  <location type="coords">
+                     <geo>49.77698 16.91946</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3070409/</idno>
+               </place>
+               <place xml:id="jesuiten_place__238">
+                  <placeName>Kokory</placeName>
+                  <location type="coords">
+                     <geo>49.49482 17.37544</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3073389/</idno>
+               <noteGrp><note target="cod_11960.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11960</note></noteGrp></place>
+               <place xml:id="jesuiten_place__239">
+                  <placeName>Boskovice</placeName>
+                  <location type="coords">
+                     <geo>49.48751 16.65997</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3078910/</idno>
+               <noteGrp><note target="cod_11960.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11960</note></noteGrp></place>
+               <place xml:id="jesuiten_place__240">
+                  <placeName>Žampach</placeName>
+                  <location type="coords">
+                     <geo>50.03797 16.42720</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3061873/</idno>
+               </place>
             </listPlace>
          </div>
       </body>
