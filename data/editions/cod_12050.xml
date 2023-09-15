@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cod_12049.xml" xml:base="https://oenb.ac.at" prev="https://oenb.ac.at/cod_12048.xml" next="https://oenb.ac.at/cod_12050.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cod_12050.xml" xml:base="https://oenb.ac.at" prev="https://oenb.ac.at/cod_12049.xml" next="https://oenb.ac.at/cod_12057.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">Wien, Österreichische nationalbibliothek, Cod. 12049</title>
+                <title type="main">Wien, Österreichische nationalbibliothek, Cod. 12050</title>
                 <title type="sub">Jesuiten Littera annuae</title>
                 <respStmt>
                     <resp>Beschreibung und TEI-encoding</resp>
@@ -19,20 +19,21 @@
                 </availability>
             </publicationStmt>
             <sourceDesc>
-                <msDesc xml:lang="de" xml:id="cod_12049">
+                <msDesc xml:lang="de" xml:id="cod_12050">
                     <msIdentifier>
                         <country>Österreich</country>
                         <settlement>Wien</settlement>
                         <repository>Österreichische Nationalbibliothek</repository>
-                        <idno>Cod. 12049</idno>
+                        <idno>Cod. 12050</idno>
                     </msIdentifier>
                     <head>
-                        <title>Litterae annuae provinciae Austriae Societatis Iesu a. 1652</title>
+                        <title>Litterae annuae provinciae Austriae Societatis Iesu a. 1653</title>
+                        <origDate notBefore="1654-01-01">1654–1655</origDate>
                         <note type="facs">
-                            <ref target="http://data.onb.ac.at/dtl/9135570"/>
+                            <ref target="http://data.onb.ac.at/dtl/9137164"/>
                         </note>
                         <note type="catalogue">
-                            <ref target="http://data.onb.ac.at/rec/AC13948199"/>
+                            <ref target="http://data.onb.ac.at/rec/AC13948200"/>
                         </note>
                     </head>
                     <msContents>                   
@@ -42,32 +43,6 @@
                         </summary> 
                         <textLang mainLang="lat"/>
                         
-                                <msItem n="None">
-                                    <locus from="2" to="4">2-4</locus>
-                                    <title>Eulogia defunctorum</title>
-                                </msItem>
-                                <msItem n="None">
-                                    <locus from="4" to="6">4-6</locus>
-                                    <title>Accesiones temporales</title>
-                                </msItem>
-                                <msItem n="None">
-                                    <locus from="6" to="10">6-10</locus>
-                                    <title>Fructus spirituales</title>
-                                </msItem>
-                                <msItem n="None">
-                                    <locus from="10" to="18">10-18</locus>
-                                    <title>Conciones</title>
-                                </msItem>
-                                <msItem n="None">
-                                    <locus from="18" to="22">18-22</locus>
-                                    <title>Sodalitia</title>
-                                </msItem>
-                                <msItem n="None">
-                                    <locus from="22" to="">22-</locus>
-                                    <title>Missiones</title>
-                                </msItem>
-                          
-                        
                        
                     </msContents>
                     <physDesc>
@@ -75,19 +50,19 @@
                             <supportDesc material="paper">
                                 <support>Papier</support>
                                 <extent>
-                                    <measure type="leavesCount" unit="folio">III, 13, I* Bl.</measure>
+                                    <measure type="leavesCount" unit="folio">I, 26, II* Bl.</measure>
                                     <dimensions type="leaf_current" unit="mm">
                                         <height>None</height>
                                         <width>None</width>
                                     </dimensions>
                                 </extent>
-                                <foliation>Zeitgenössische Paginierung.</foliation>
+                                <foliation>Zeitgenössische Paginierung 1–37; moderne Paginierung 38–50. Nach S. 8 ist ein Blatt eingeschaltet (S. 8a).</foliation>
                                 <collation/>
                             </supportDesc>
                         </objectDesc>
                         <bindingDesc>
                             <binding>
-                                <p>Pergament mit Streicheisenlinien über Pappdeckeln, 17. Jhdt.</p>
+                                <p>Weißer Pergamenteinband über Pappdeckeln.</p>
                             </binding>
                         </bindingDesc>
                         <accMat/>                        
