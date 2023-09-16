@@ -177,7 +177,7 @@
     "mentioned_places": [],
     "note_type_facs": "https://data.onb.ac.at/rep/131ABE3B",
     "xml_id": "cod_12031",
-    "extent": "54",
+    "extent": "54 Bl.",
     "height": "293",
     "width": "198",
     "foliation": "Neue Foliierung 1-54. Alte Paginierung 1-102.",
@@ -295,7 +295,7 @@
     "mentioned_places": [],
     "note_type_facs": "http://data.onb.ac.at/dtl/9135782",
     "xml_id": "cod_12032",
-    "extent": "26",
+    "extent": "26 Bl.",
     "height": "285",
     "width": "195",
     "foliation": "Neie Foliierung im Bleistift 1-26.",
@@ -382,7 +382,7 @@
     "mentioned_places": [],
     "note_type_facs": "http://data.onb.ac.at/dtl/9086968",
     "xml_id": "cod_12033",
-    "extent": "31",
+    "extent": "31 Bl.",
     "height": "295",
     "width": "205",
     "foliation": "Zeitgenössische Paginierung in Tinte; moderne Foliierung im Bleistift.",
@@ -400,22 +400,127 @@
     "signatur": "Cod. 12058",
     "jesuiten_id": "jesuiten_msdesc__66",
     "mentioned_orgs": [],
-    "note_type_catalogue": "",
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948187",
     "title": "Litterae annuae provinciae Austriae Societatis Iesu a. 1661",
-    "date": "",
+    "date": "1662–Mai 1664",
     "persons": [],
-    "mentioned_places": [],
-    "note_type_facs": "",
+    "mentioned_places": [
+      {
+        "id": 1,
+        "value": "Wien"
+      },
+      {
+        "id": 2,
+        "value": "Graz"
+      },
+      {
+        "id": 3,
+        "value": "Linz"
+      },
+      {
+        "id": 4,
+        "value": "Steyr"
+      },
+      {
+        "id": 5,
+        "value": "Bratislava"
+      },
+      {
+        "id": 6,
+        "value": "Trnava"
+      },
+      {
+        "id": 8,
+        "value": "Győr"
+      },
+      {
+        "id": 9,
+        "value": "Ljubljana"
+      },
+      {
+        "id": 10,
+        "value": "Zagreb"
+      },
+      {
+        "id": 11,
+        "value": "Krems"
+      },
+      {
+        "id": 13,
+        "value": "Sopron"
+      },
+      {
+        "id": 16,
+        "value": "Komárom"
+      },
+      {
+        "id": 18,
+        "value": "Trenčín"
+      },
+      {
+        "id": 19,
+        "value": "Banská Bystrica (Neosolium)"
+      },
+      {
+        "id": 21,
+        "value": "Košice"
+      },
+      {
+        "id": 24,
+        "value": "Leoben"
+      },
+      {
+        "id": 25,
+        "value": "Judenburg"
+      },
+      {
+        "id": 26,
+        "value": "Klagenfurt"
+      },
+      {
+        "id": 27,
+        "value": "Gorizia"
+      },
+      {
+        "id": 28,
+        "value": "Trieste"
+      },
+      {
+        "id": 30,
+        "value": "Varaždin"
+      },
+      {
+        "id": 31,
+        "value": "Pécs"
+      },
+      {
+        "id": 33,
+        "value": "Cluj-Napoca"
+      },
+      {
+        "id": 57,
+        "value": "Gyöngyös"
+      },
+      {
+        "id": 58,
+        "value": "Satu Mare"
+      },
+      {
+        "id": 77,
+        "value": "Rožňava"
+      }
+    ],
+    "note_type_facs": "http://data.onb.ac.at/dtl/9206230",
     "xml_id": "cod_12058",
     "extent": "I, 45, I* Bl.",
-    "height": null,
-    "width": null,
+    "height": "245",
+    "width": "175",
     "foliation": "Zeitgenössische Paginierung 1–89.",
     "acc_mat": "",
     "binding": "Pergament über Pappdeckeln, 17. Jhdt.",
-    "summary": "",
-    "not_before": null,
-    "not_after": null,
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit. Es gibt keine Überschriften; Randbemerkungen zu den erwähnten Häusern und Themen – hier nur vereinzelt erschlossen.",
+    "not_before": "1662",
+    "not_after": "1664",
     "# when": "",
     "date_letter": "1661"
   },
@@ -429,16 +534,137 @@
     "title": "Litterae annuae provinciae Austriae Societatis Iesu a. 1662",
     "date": "ab 1663",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 1,
+        "value": "Wien"
+      },
+      {
+        "id": 2,
+        "value": "Graz"
+      },
+      {
+        "id": 3,
+        "value": "Linz"
+      },
+      {
+        "id": 4,
+        "value": "Steyr"
+      },
+      {
+        "id": 5,
+        "value": "Bratislava"
+      },
+      {
+        "id": 6,
+        "value": "Trnava"
+      },
+      {
+        "id": 7,
+        "value": "Passau"
+      },
+      {
+        "id": 8,
+        "value": "Győr"
+      },
+      {
+        "id": 9,
+        "value": "Ljubljana"
+      },
+      {
+        "id": 10,
+        "value": "Zagreb"
+      },
+      {
+        "id": 11,
+        "value": "Krems"
+      },
+      {
+        "id": 13,
+        "value": "Sopron"
+      },
+      {
+        "id": 14,
+        "value": "Kőszeg"
+      },
+      {
+        "id": 15,
+        "value": "Buda"
+      },
+      {
+        "id": 16,
+        "value": "Komárom"
+      },
+      {
+        "id": 17,
+        "value": "Skalica"
+      },
+      {
+        "id": 18,
+        "value": "Trenčín"
+      },
+      {
+        "id": 19,
+        "value": "Banská Bystrica (Neosolium)"
+      },
+      {
+        "id": 21,
+        "value": "Košice"
+      },
+      {
+        "id": 23,
+        "value": "Eger"
+      },
+      {
+        "id": 24,
+        "value": "Leoben"
+      },
+      {
+        "id": 25,
+        "value": "Judenburg"
+      },
+      {
+        "id": 26,
+        "value": "Klagenfurt"
+      },
+      {
+        "id": 27,
+        "value": "Gorizia"
+      },
+      {
+        "id": 28,
+        "value": "Trieste"
+      },
+      {
+        "id": 29,
+        "value": "Rijeka"
+      },
+      {
+        "id": 30,
+        "value": "Varaždin"
+      },
+      {
+        "id": 31,
+        "value": "Pécs"
+      },
+      {
+        "id": 32,
+        "value": "Požega"
+      },
+      {
+        "id": 76,
+        "value": "Sárospatak"
+      }
+    ],
     "note_type_facs": "http://data.onb.ac.at/dtl/9203815",
     "xml_id": "cod_12059",
     "extent": "III, 34 Bl.",
-    "height": null,
-    "width": null,
+    "height": "295",
+    "width": "195",
     "foliation": "Zeitgenössische Paginierung 1–62.",
     "acc_mat": "",
     "binding": "Pergament über Pappdeckeln, 17. Jhdt.",
-    "summary": "",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit. Es gibt keine Überschriften; Randbemerkungen zu den erwähnten Häusern und Themen – hier nur vereinzelt erschlossen.",
     "not_before": "1663",
     "not_after": null,
     "# when": "",
@@ -452,20 +678,157 @@
     "mentioned_orgs": [],
     "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948189",
     "title": "Litterae annuae provinciae Austriae Societatis Iesu a. 1663",
-    "date": "",
+    "date": "1664–Mai 1666",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 1,
+        "value": "Wien"
+      },
+      {
+        "id": 2,
+        "value": "Graz"
+      },
+      {
+        "id": 3,
+        "value": "Linz"
+      },
+      {
+        "id": 4,
+        "value": "Steyr"
+      },
+      {
+        "id": 5,
+        "value": "Bratislava"
+      },
+      {
+        "id": 6,
+        "value": "Trnava"
+      },
+      {
+        "id": 7,
+        "value": "Passau"
+      },
+      {
+        "id": 8,
+        "value": "Győr"
+      },
+      {
+        "id": 9,
+        "value": "Ljubljana"
+      },
+      {
+        "id": 10,
+        "value": "Zagreb"
+      },
+      {
+        "id": 11,
+        "value": "Krems"
+      },
+      {
+        "id": 13,
+        "value": "Sopron"
+      },
+      {
+        "id": 16,
+        "value": "Komárom"
+      },
+      {
+        "id": 17,
+        "value": "Skalica"
+      },
+      {
+        "id": 18,
+        "value": "Trenčín"
+      },
+      {
+        "id": 19,
+        "value": "Banská Bystrica (Neosolium)"
+      },
+      {
+        "id": 20,
+        "value": "Levoča"
+      },
+      {
+        "id": 21,
+        "value": "Košice"
+      },
+      {
+        "id": 23,
+        "value": "Eger"
+      },
+      {
+        "id": 24,
+        "value": "Leoben"
+      },
+      {
+        "id": 25,
+        "value": "Judenburg"
+      },
+      {
+        "id": 26,
+        "value": "Klagenfurt"
+      },
+      {
+        "id": 27,
+        "value": "Gorizia"
+      },
+      {
+        "id": 28,
+        "value": "Trieste"
+      },
+      {
+        "id": 29,
+        "value": "Rijeka"
+      },
+      {
+        "id": 30,
+        "value": "Varaždin"
+      },
+      {
+        "id": 31,
+        "value": "Pécs"
+      },
+      {
+        "id": 32,
+        "value": "Požega"
+      },
+      {
+        "id": 33,
+        "value": "Cluj-Napoca"
+      },
+      {
+        "id": 40,
+        "value": "Eberndorf"
+      },
+      {
+        "id": 58,
+        "value": "Satu Mare"
+      },
+      {
+        "id": 76,
+        "value": "Sárospatak"
+      },
+      {
+        "id": 78,
+        "value": "Spiš"
+      },
+      {
+        "id": 172,
+        "value": "Transylvania"
+      }
+    ],
     "note_type_facs": "http://data.onb.ac.at/dtl/9202968",
     "xml_id": "cod_12060",
     "extent": "II, 72, I* Bl.",
-    "height": null,
-    "width": null,
+    "height": "310",
+    "width": "205",
     "foliation": "Zeitgenössische Paginierung 1–144.",
     "acc_mat": "Makulatur als Deckeleinlage bei der Restaurierung 1915 ausgelöst: Musiknoten (4 Druckblätter und 2 Handschrifte).",
     "binding": "Pergament mit Streicheisenlinien über Pappdeckeln, 17. Jhdt.",
-    "summary": "",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit. Es gibt keine Überschriften; Randbemerkungen zu den erwähnten Häusern und Themen – hier nur vereinzelt erschlossen.",
     "not_before": "1664",
-    "not_after": null,
+    "not_after": "1666",
     "# when": "",
     "date_letter": "1663"
   },
@@ -919,10 +1282,10 @@
     ],
     "note_type_facs": "",
     "xml_id": "cod_12123",
-    "extent": "152",
+    "extent": "152 Bl.",
     "height": "326",
     "width": "200",
-    "foliation": "Neue Foliierung 1-152.",
+    "foliation": "Neue Foliierung 1–152.",
     "acc_mat": "",
     "binding": "Weißes Pergament über Pappdeckeln, 18. Jhdt.",
     "summary": "Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist in 14 Kapitel gegliedert, der erste davon (2r-5v) über die Anzahl der aktuellen Mitglieder, der letzte (101v-151v) über die verstorbenen.",
@@ -944,7 +1307,7 @@
     "mentioned_places": [],
     "note_type_facs": "http://data.onb.ac.at/dtl/9068110",
     "xml_id": "cod_12040",
-    "extent": "39",
+    "extent": "III, 35, II* Bl.",
     "height": "303",
     "width": "187",
     "foliation": "Zeitgenössische Paginierung 1–53, 55–71. Moderne Foliierung der Vor- und Nachsatzblätter:  I–III bzw. I*–II*.",
@@ -1114,20 +1477,20 @@
     "mentioned_orgs": [],
     "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948536",
     "title": "Litterae annuae provinciae Austriae Societatis Iesu a. 1650",
-    "date": "ab 1651",
+    "date": "1651–Dez. 1652",
     "persons": [],
     "mentioned_places": [],
     "note_type_facs": "http://data.onb.ac.at/dtl/9233008",
     "xml_id": "cod_12047",
-    "extent": "",
-    "height": null,
-    "width": null,
-    "foliation": "",
+    "extent": "IV, 92, I* Bl.",
+    "height": "305",
+    "width": "200",
+    "foliation": "Zeitgenössische Paginierung 1–179.",
     "acc_mat": "",
     "binding": "Pergament mit Streicheisenlinien über Pappdeckeln, 17. Jhdt.",
     "summary": "",
     "not_before": "1651",
-    "not_after": null,
+    "not_after": "1652",
     "# when": "",
     "date_letter": "1650"
   },
@@ -1247,12 +1610,12 @@
     "note_type_facs": "http://data.onb.ac.at/dtl/9135313",
     "xml_id": "cod_12048",
     "extent": "III, 20 Bl.",
-    "height": null,
-    "width": null,
+    "height": "295",
+    "width": "200",
     "foliation": "Zeitgenössische Paginierung.",
     "acc_mat": "",
     "binding": "Versteifter Pergamentumschlag, 17. Jhdt.",
-    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit, ohne Gliederung. Nachträgliche Überschriften am Rand.",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit, ohne Gliederung. Nachträgliche Überschriften am Rand. S. 35–39, Eulogia defunctorum.",
     "not_before": "1652",
     "not_after": "1653",
     "# when": "",
@@ -1268,16 +1631,117 @@
     "title": "Litterae annuae provinciae Austriae Societatis Iesu a. 1652",
     "date": "ab 1652",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 1,
+        "value": "Wien"
+      },
+      {
+        "id": 2,
+        "value": "Graz"
+      },
+      {
+        "id": 3,
+        "value": "Linz"
+      },
+      {
+        "id": 4,
+        "value": "Steyr"
+      },
+      {
+        "id": 5,
+        "value": "Bratislava"
+      },
+      {
+        "id": 6,
+        "value": "Trnava"
+      },
+      {
+        "id": 7,
+        "value": "Passau"
+      },
+      {
+        "id": 8,
+        "value": "Győr"
+      },
+      {
+        "id": 9,
+        "value": "Ljubljana"
+      },
+      {
+        "id": 10,
+        "value": "Zagreb"
+      },
+      {
+        "id": 11,
+        "value": "Krems"
+      },
+      {
+        "id": 13,
+        "value": "Sopron"
+      },
+      {
+        "id": 16,
+        "value": "Komárom"
+      },
+      {
+        "id": 18,
+        "value": "Trenčín"
+      },
+      {
+        "id": 21,
+        "value": "Košice"
+      },
+      {
+        "id": 25,
+        "value": "Judenburg"
+      },
+      {
+        "id": 26,
+        "value": "Klagenfurt"
+      },
+      {
+        "id": 27,
+        "value": "Gorizia"
+      },
+      {
+        "id": 28,
+        "value": "Trieste"
+      },
+      {
+        "id": 29,
+        "value": "Rijeka"
+      },
+      {
+        "id": 30,
+        "value": "Varaždin"
+      },
+      {
+        "id": 44,
+        "value": "Traunkirchen"
+      },
+      {
+        "id": 50,
+        "value": "Millstatt"
+      },
+      {
+        "id": 57,
+        "value": "Gyöngyös"
+      },
+      {
+        "id": 64,
+        "value": "Žireč"
+      }
+    ],
     "note_type_facs": "http://data.onb.ac.at/dtl/9135570",
     "xml_id": "cod_12049",
     "extent": "III, 13, I* Bl.",
-    "height": null,
-    "width": null,
+    "height": "283",
+    "width": "192",
     "foliation": "Zeitgenössische Paginierung.",
     "acc_mat": "",
     "binding": "Pergament mit Streicheisenlinien über Pappdeckeln, 17. Jhdt.",
-    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit, ohne Gliederung. Nachträgliche Überschriften am Rand.",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit, ohne Gliederung. Nachträgliche Überschriften am Rand (u. A. S. 2–3 'Elogia defunctorum'; S. 20–22 'Scholae').",
     "not_before": null,
     "not_after": null,
     "# when": "",
@@ -1293,16 +1757,85 @@
     "title": "Litterae annuae provinciae Austriae Societatis Iesu a. 1653",
     "date": "1654–1655",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 1,
+        "value": "Wien"
+      },
+      {
+        "id": 2,
+        "value": "Graz"
+      },
+      {
+        "id": 4,
+        "value": "Steyr"
+      },
+      {
+        "id": 5,
+        "value": "Bratislava"
+      },
+      {
+        "id": 6,
+        "value": "Trnava"
+      },
+      {
+        "id": 7,
+        "value": "Passau"
+      },
+      {
+        "id": 8,
+        "value": "Győr"
+      },
+      {
+        "id": 16,
+        "value": "Komárom"
+      },
+      {
+        "id": 18,
+        "value": "Trenčín"
+      },
+      {
+        "id": 19,
+        "value": "Banská Bystrica (Neosolium)"
+      },
+      {
+        "id": 21,
+        "value": "Košice"
+      },
+      {
+        "id": 25,
+        "value": "Judenburg"
+      },
+      {
+        "id": 26,
+        "value": "Klagenfurt"
+      },
+      {
+        "id": 28,
+        "value": "Trieste"
+      },
+      {
+        "id": 29,
+        "value": "Rijeka"
+      },
+      {
+        "id": 75,
+        "value": "Banská Štiavnica"
+      },
+      {
+        "id": 78,
+        "value": "Spiš"
+      }
+    ],
     "note_type_facs": "http://data.onb.ac.at/dtl/9137164",
     "xml_id": "cod_12050",
     "extent": "I, 26, II* Bl.",
-    "height": null,
-    "width": null,
+    "height": "308",
+    "width": "202",
     "foliation": "Zeitgenössische Paginierung 1–37; moderne Paginierung 38–50. Nach S. 8 ist ein Blatt eingeschaltet (S. 8a).",
     "acc_mat": "",
     "binding": "Weißer Pergamenteinband über Pappdeckeln.",
-    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit, ohne Gliederung. Nachträgliche Überschriften am Rand.",
+    "summary": "Die Handschrift besteht aus zwei kodikologischen Einheiten. Die erste auf S. 1–37 ist ohne originale Gliederung, nur mit nachträglichen Überschriften am Rand.",
     "not_before": "1654",
     "not_after": "1655",
     "# when": "",
@@ -1337,7 +1870,7 @@
     ],
     "note_type_catalogue": "http://data.onb.ac.at/rec/AC13947676",
     "title": "Litterae annuae provinciae Austriae Societatis Iesu a. 1660",
-    "date": "1660–1663",
+    "date": "1661–1663",
     "persons": [],
     "mentioned_places": [
       {
@@ -1451,10 +1984,10 @@
     ],
     "note_type_facs": "http://data.onb.ac.at/dtl/9227068",
     "xml_id": "cod_12057",
-    "extent": "39",
+    "extent": "II, 36 Bl.",
     "height": "295",
     "width": "190",
-    "foliation": "Paginiert 1-71. Vorsatzblätter foliiert I-II.",
+    "foliation": "Zeitgenössische Paginierung 1-66.",
     "acc_mat": "",
     "binding": "Weißer Pergamenteinband über Pappdeckeln.",
     "summary": "Die Handschrift besteht aus einer kodikologischen Einheit. Es gibt keine Überschriften; Randbemerkungen zu den erwähnten Häusern und Themen (u.a. 'Fundatio residentiae Rosnaviensis', 'Vita et morum correctio', 'Conciones et catecheses', 'Scholae', 'Missiones castrenses', 'Excursio ad vicinam Iadra insula', 'Persecutiones missionarium' etc.).",
@@ -1702,10 +2235,10 @@
     ],
     "note_type_facs": "",
     "xml_id": "cod_12138",
-    "extent": "71",
+    "extent": "II, 69, II* Bl.",
     "height": "325",
     "width": "202",
-    "foliation": "Vorsatz- und Nachstoßblätter foliiert I-II bzw. I*-II*. Durchgehend Paginierung 1-143 (18. Jhdt.), die von S. 72 auf 81 springt und nach S. 100 zurück auf 97 geht (moderne Korrektur: S. 97*-100*).",
+    "foliation": "Vorsatz- und Nachstoßblätter foliiert I-II bzw. I*-II*. Durchgehend Paginierung 1–143 (18. Jhdt.), die von S. 72 auf 81 springt und nach S. 100 zurück auf 97 geht (moderne Korrektur: S. 97*-100*).",
     "acc_mat": "",
     "binding": "Weißes Pergament über Pappdeckeln, 18. Jhdt.",
     "summary": "Die Handschrift besteht aus einer kodikologischen Einheit, geschrieben von mehreren Händen. Der Bericht ist thematisch in 15 Kapiteln gegliedert: u.a. 1. Sacramentorum, paenitentiae, cum primis et eucharistiae dispensatio (1-4); 7. Quinam fuerint nostrorum conatus in obeuntis missionibus (38-64); 8. Quanam incrementa res sodalitatum acceperint (64-84); 11. Quibus incrementis ingeniorum et morum cultura in scholis promota sit? (96-102); 12. Quis fuerit hoc anno status convictuum et seminariorum? (102-105); 13. Quanam fuerint rerum temporalium per provinciam augmenta vel jactura? (105-111); 14. De restituta in Transylvaniam Societate (111-116); Caput ultimum: Defunctorum eulogia (117-143).",
@@ -1727,10 +2260,10 @@
     "mentioned_places": [],
     "note_type_facs": "",
     "xml_id": "cod_12247",
-    "extent": "38",
+    "extent": "I, 38, I* Bl.",
     "height": "298",
     "width": "204",
-    "foliation": "Moderne Foliierung I, 1-31, 31*, 32-37, I*.",
+    "foliation": "Moderne Foliierung I, 1–31, 31*, 32–37, I*.",
     "acc_mat": "Fragment eines gedruckten liturgischen Textes (Usuarium ?), 15./16. Jhdt.",
     "binding": "Pergamenteinband (Makulatur). Restauriert 1916.",
     "summary": "Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist nach Orten bzw. Häusern gegliedert.",
@@ -1752,10 +2285,10 @@
     "mentioned_places": [],
     "note_type_facs": "",
     "xml_id": "cod_12249",
-    "extent": "12",
+    "extent": "III, 11, I* Bl.",
     "height": "286",
     "width": "190",
-    "foliation": "Zeitgenössische Paginierung 1-22; moderne Foliierung der Vor- und Nachsatzblätter: I-III, I*.",
+    "foliation": "Zeitgenössische Paginierung 1–22; moderne Foliierung der Vor- und Nachsatzblätter: I-III, I*.",
     "acc_mat": "",
     "binding": "Pappeinband mit buntem Papier kaschiert. Wien, 19. Jhdt.",
     "summary": "Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist nach Orten bzw. Häusern gegliedert.",
@@ -1777,7 +2310,7 @@
     "mentioned_places": [],
     "note_type_facs": "",
     "xml_id": "cod_12252",
-    "extent": "I-II, 85",
+    "extent": "II, 79 Bl.",
     "height": "295",
     "width": "190",
     "foliation": "Zeitgenössische Paginierung 1-156. Ein Blatt eingeschaltet zwischen S. 55 und 56 (neu paginiert 56a-56b). Moderne Foliierung der Vorsatzblätter.",
@@ -1802,7 +2335,7 @@
     "mentioned_places": [],
     "note_type_facs": "",
     "xml_id": "cod_12253",
-    "extent": "I, 1-44 fols., I*",
+    "extent": "I, 44, I* Bl.",
     "height": "315",
     "width": "196",
     "foliation": "Zeitgenössische Paginierung 1-83 (die erste 3 Seiten nicht gezählt). Moderne Foliierung.",
@@ -3118,7 +3651,7 @@
     "mentioned_places": [],
     "note_type_facs": "http://data.onb.ac.at/dtl/9073448",
     "xml_id": "cod_12037",
-    "extent": "84",
+    "extent": "84 Bl.",
     "height": "295",
     "width": "176",
     "foliation": "Zeitgenössische Paginierung 1-162 fehlerhaft: nach 93 eine leere Seite nicht gezählt (93*), 119 und 120 doppelt gezählt.",
@@ -3143,7 +3676,7 @@
     "mentioned_places": [],
     "note_type_facs": "http://data.onb.ac.at/dtl/9094728",
     "xml_id": "cod_12038",
-    "extent": "83",
+    "extent": "I, 81, I* Bl.",
     "height": "310",
     "width": "190",
     "foliation": "Zeitgenössische Paginierung 1-162; Vor- und Nachsatzblätter I und I* foliiert.",
@@ -3168,10 +3701,10 @@
     "mentioned_places": [],
     "note_type_facs": "http://data.onb.ac.at/dtl/9074370",
     "xml_id": "cod_12039",
-    "extent": "49",
+    "extent": "47 Bl.",
     "height": "314",
     "width": "198",
-    "foliation": "Moderne Foliierung 1-47.",
+    "foliation": "Moderne Foliierung 1–47.",
     "acc_mat": "Fragment eines Breviers (15.-16. Jhdt.). Alternierende rote, lila und blaue 2 bis 3-zeilige Lombarden; rote Überschriften. Wohl dazugehörig zur Makulatur in Cod. 12253. 6 Papierblätter wurden 1915 vom Deckel ausgelöst und separat im Umschlag beigelegt.",
     "binding": "Pergament (Makulatur) über Pappdeckel. Einband 1915 restauriert (die beiden ersten und die letzte Lage neu geheftet.",
     "summary": "Die Handschrift besteht aus einer kodikologischen Einheit, von mehreren Händen geschrieben. Der Bericht ist nach Orten bzw. Häusern gegliedert.",
@@ -4233,6 +4766,31 @@
     "# when": "",
     "date_letter": "1752"
   },
+  "69": {
+    "id": 69,
+    "order": "27.50000000000000000000",
+    "signatur": "Cod. 12244",
+    "jesuiten_id": "jesuiten_msdesc__69",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13949426",
+    "title": "Catalogus Societatis Iesu provinciae Austriae a. 1739",
+    "date": "1739 (mit Nachträge bis 1742)",
+    "persons": [],
+    "mentioned_places": [],
+    "note_type_facs": "",
+    "xml_id": "cod_12244",
+    "extent": "I, 24, I* Bl.",
+    "height": "162",
+    "width": "220",
+    "foliation": "Moderne Foliierung.",
+    "acc_mat": "",
+    "binding": "",
+    "summary": "Katalog der Mitglieder in Provinz Austria für das Jahr 1739. Die Handschrift besteht aus einer kodikologischen Einheit. Sie ist in drei Teilen unterteilt: Sacerdotes (fols. 1–10); Scholastici: (fols. 11–17); und Coadjutores (fols. 19–24). Die Namen sind jeweils gedruckt, Angaben zur Nationalität, Geburtsort, Geburtsdatum, Datum des Eintritts in SJ, Gradus (z. T. nachgetragen) und Beruf sind handschriftlich ergänzt.",
+    "not_before": "1739",
+    "not_after": "1742",
+    "# when": "",
+    "date_letter": "1739"
+  },
   "35": {
     "id": 35,
     "order": "28.00000000000000000000",
@@ -4246,10 +4804,10 @@
     "mentioned_places": [],
     "note_type_facs": "",
     "xml_id": "cod_12246",
-    "extent": "28",
+    "extent": "II, 28, I* Bl.",
     "height": "290",
     "width": "195",
-    "foliation": "Moderne Foliierung: I-II, 1-28, I*.",
+    "foliation": "Moderne Foliierung: I-II, 1–28, I*.",
     "acc_mat": "",
     "binding": "Pappeinband mit buntem Papier kaschiert. Wien, 19. Jhdt.",
     "summary": "Die Handschrift wurde von mehreren Händen geschrieben, von denen einige für einzelne kodikologische Teile verantwortlich waren. Der Bericht ist nach Kollegen bzw. Residenzen und Missiones gegliedert.",
@@ -4271,10 +4829,10 @@
     "mentioned_places": [],
     "note_type_facs": "",
     "xml_id": "cod_12248",
-    "extent": "55",
+    "extent": "II, 54, I* Bl.",
     "height": "310",
     "width": "198",
-    "foliation": "Zeitgenössische Paginierung 1-108. Vor- und Nachsatzblätter foliiert 2023: I-II und I*.",
+    "foliation": "Zeitgenössische Paginierung 1–108. Vor- und Nachsatzblätter foliiert 2023: I-II und I*.",
     "acc_mat": "Fragment eines Missaldrucks (15.-16. Jh.)",
     "binding": "Pergamenteinband (Makulatur). Restauriert 1918.",
     "summary": "Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist nach Orten bzw. Häusern gegliedert.",
@@ -4296,10 +4854,10 @@
     "mentioned_places": [],
     "note_type_facs": "",
     "xml_id": "cod_12250",
-    "extent": "12",
+    "extent": "12 Bl.",
     "height": "297",
     "width": "188",
-    "foliation": "Moderne Foliierung 1-12.",
+    "foliation": "Moderne Foliierung 1–12.",
     "acc_mat": "",
     "binding": "Pappeinband mit buntem Papier kaschiert. Wien, 19. Jhdt.",
     "summary": "Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist nach Orten bzw. Häusern gegliedert; bricht unerwartet mitten in einem Wort auf f. 12v.",
@@ -4321,10 +4879,10 @@
     "mentioned_places": [],
     "note_type_facs": "",
     "xml_id": "cod_12251",
-    "extent": "86",
+    "extent": "86 Bl.",
     "height": "297",
     "width": "185",
-    "foliation": "Zeitgenössische Paginierung 1-172.",
+    "foliation": "Zeitgenössische Paginierung 1–172.",
     "acc_mat": "",
     "binding": "Pergament- oder Wildledereinband, 18. Jhdt.",
     "summary": "Die Handschrift besteht aus einer kodikologischen Einheit; vorwiegend von einer Hand geschrieben. Der Bericht ist nach Orten bzw. Häusern gegliedert.",
@@ -4346,13 +4904,13 @@
     "mentioned_places": [],
     "note_type_facs": "",
     "xml_id": "cod_11960",
-    "extent": "IV, 561, II* Bl.",
-    "height": null,
-    "width": null,
-    "foliation": "",
+    "extent": "IV, 563, II* Bl.",
+    "height": "285",
+    "width": "190",
+    "foliation": "Moderne Foliierung. Blatt 491 und 458 doppelt gezählt.",
     "acc_mat": "",
     "binding": "Braunes Leder mit Blindprägung über Holzdeckeln, 17. Jhdt.",
-    "summary": "Zusammengesetzte Handschrift.",
+    "summary": "Die Berichte sind chronologisch zusammengesetzt. Jeder Bericht ist auch den Häusern unterteilt und mit Überschriften verseht.  Z. T. stark variierende Blattgröße.",
     "not_before": "1622",
     "not_after": "1635",
     "# when": "",
@@ -4371,7 +4929,7 @@
     "mentioned_places": [],
     "note_type_facs": "",
     "xml_id": "cod_12012",
-    "extent": "93",
+    "extent": "I, 91, I* Bl.",
     "height": "320",
     "width": "198",
     "foliation": "Moderne Foliierung: I, 1-32, 32*-90, I*.",

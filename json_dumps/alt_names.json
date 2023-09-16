@@ -1461,5 +1461,33 @@
         "value": "Letohrad"
       }
     ]
+  },
+  "95": {
+    "id": 95,
+    "order": "95.00000000000000000000",
+    "Name": "Olbersdorf",
+    "Notes": null,
+    "places": [
+      {
+        "id": 241,
+        "value": "Olbrachcice"
+      }
+    ]
+  },
+  "96": {
+    "id": 96,
+    "order": "96.00000000000000000000",
+    "Name": "Karansebessum",
+    "Notes": {
+      "id": 11393,
+      "value": "lat",
+      "color": "dark-gray"
+    },
+    "places": [
+      {
+        "id": 242,
+        "value": "Caransebeş"
+      }
+    ]
   }
 }
