@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cod_11954.xml" xml:base="https://oenb.ac.at" next="https://oenb.ac.at/cod_11960.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cod_12232.xml" xml:base="https://oenb.ac.at" prev="https://oenb.ac.at/cod_12231.xml" next="https://oenb.ac.at/cod_12233.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">Wien, Österreichische nationalbibliothek, Cod. 11954</title>
+                <title type="main">Wien, Österreichische nationalbibliothek, Cod. 12232</title>
                 <title type="sub">Jesuiten Littera annuae</title>
                 <respStmt>
                     <resp>Beschreibung und TEI-encoding</resp>
@@ -19,39 +19,54 @@
                 </availability>
             </publicationStmt>
             <sourceDesc>
-                <msDesc xml:lang="de" xml:id="cod_11954">
+                <msDesc xml:lang="de" xml:id="cod_12232">
                     <msIdentifier>
                         <country>Österreich</country>
                         <settlement>Wien</settlement>
                         <repository>Österreichische Nationalbibliothek</repository>
-                        <idno>Cod. 11954</idno>
+                        <idno>Cod. 12232</idno>
                     </msIdentifier>
                     <head>
-                        <title>Responsa generalium provinciae Bohemiae Societatis Iesu per procuratores, qui tertio quoque anno Romam mittuntur a. 1568-1669</title>
-                        <origDate notBefore="1625-01-01">17.–18. Jhdt.</origDate>
+                        <title>Litterae annuae provinciae Austriae Societatis Iesu a. 1715</title>
+                        <origDate notBefore="1716-01-01">ab 1716</origDate>
                         <note type="catalogue">
-                            <ref target="http://data.onb.ac.at/rec/AC13947544"/>
+                            <ref target="http://data.onb.ac.at/rec/AC13948759"/>
                         </note>
                     </head>
                     <msContents>                   
                         <summary>
-                                Die Handschrift ist in zwei Teile gegliedert. Der erste Teil enthält die Antworten auf die Fragen (Resolutiones), die alle drei Jahre nach Rom gesandt wurden. Er ist chronologisch geordnet. Die ersten Seiten, die sich auf die Jahre 1568-1625 beziehen, wurden von einer Hand, wahrscheinlich um 1625, abgeschrieben. Weitere Einträge betreffen Antworten bis 1737. 
-Der zweite Teil beginnt in der Mitte des Buches und ist für die nach der Versammlung eingegangenen Antworten (Resolutiones) bestimmt. Dieser Teil ist bis auf drei Seiten leer geblieben. 
+                                Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist nach Kapiteln untergliedert, hier nur vereinzelt erfasst. 
                                 
                         </summary> 
                         <textLang mainLang="lat"/>
                         
                                 <msItem n="None">
-                                    <locus from="1r" to="21r">1r-21r</locus>
-                                    <title>Responsa generalium provinciae per procuratorem qui tertio quoque anno Romam mittitur data. Die Antworten sind chronologisch nach dem Jahr geordnet. U. a. de ludis recreationis gratia; de docendo cantu nostros; de excudendis comoediis etc.</title>
+                                    <locus from="1r" to="1v">1r-1v</locus>
+                                    <title>Proemium</title>
                                 </msItem>
                                 <msItem n="None">
-                                    <locus from="" to="">-</locus>
-                                    <title>Resolutiones casuum quae in provincia dantur; Resolutiones casuum ex hoc vel aliis collegiis datae priusquam hic de scribantur RP Prov. exhibebuntur.</title>
+                                    <locus from="1v" to="2v">1v-2v</locus>
+                                    <title>Numerus personarum et domiciliorum provinciae</title>
                                 </msItem>
                                 <msItem n="None">
-                                    <locus from="" to="">-</locus>
-                                    <title>Ex bulla Pii IV conditiones utrisque speciei in communione porrigendae sequentibus verbis continentur.</title>
+                                    <locus from="18v" to="20r">18v-20r</locus>
+                                    <title>Expeditionum epostolicarum emolumenta</title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="39v" to="43r">39v-43r</locus>
+                                    <title>Ingeniorum et morum in scholis ac seminariis cultura</title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="43r" to="48v">43r-48v</locus>
+                                    <title>Relatio ex novissima diaeta hunharica etc.</title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="48v" to="51v">48v-51v</locus>
+                                    <title>Fortunarum, reique oeconomicae incrementa et damna</title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="51v" to="59r">51v-59r</locus>
+                                    <title>Defunctorum nomina et encomia</title>
                                 </msItem>
                           
                         
@@ -62,19 +77,19 @@ Der zweite Teil beginnt in der Mitte des Buches und ist für die nach der Versam
                             <supportDesc material="paper">
                                 <support>Papier</support>
                                 <extent>
-                                    <measure type="leavesCount" unit="folio">None</measure>
+                                    <measure type="leavesCount" unit="folio">I, 59, I* Bl.</measure>
                                     <dimensions type="leaf_current" unit="mm">
-                                        <height>311</height>
-                                        <width>200</width>
+                                        <height>300</height>
+                                        <width>198</width>
                                     </dimensions>
                                 </extent>
-                                <foliation/>
+                                <foliation>Moderne Foliierung.</foliation>
                                 <collation/>
                             </supportDesc>
                         </objectDesc>
                         <bindingDesc>
                             <binding>
-                                <p>Weißes Leder mit Blindprägung über Holzdeckeln, Brünn, dat. 1596.</p>
+                                <p>Pappeinband: Wien, 19. Jhdt.</p>
                             </binding>
                         </bindingDesc>
                         <accMat/>                        

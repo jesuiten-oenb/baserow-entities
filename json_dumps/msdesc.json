@@ -1029,7 +1029,7 @@
     "not_before": "1670",
     "not_after": null,
     "# when": null,
-    "date_letter": null
+    "date_letter": "1669"
   },
   "6": {
     "id": 6,
@@ -1292,7 +1292,7 @@
     "not_before": "1729",
     "not_after": "1730",
     "# when": null,
-    "date_letter": null
+    "date_letter": "1729"
   },
   "47": {
     "id": 47,
@@ -2245,7 +2245,7 @@
     "not_before": "1744",
     "not_after": "1746",
     "# when": null,
-    "date_letter": null
+    "date_letter": "1744"
   },
   "36": {
     "id": 36,
@@ -4948,7 +4948,7 @@
     "jesuiten_id": "jesuiten_msdesc__46",
     "mentioned_orgs": [],
     "note_type_catalogue": "http://data.onb.ac.at/rec/AC13947544",
-    "title": "Responsa generalium provinciae Bohemiae Societatis Iesu per procuratores, qui tertio quoque anno Romam mittuntur a. 1468-1669",
+    "title": "Responsa generalium provinciae Bohemiae Societatis Iesu per procuratores, qui tertio quoque anno Romam mittuntur a. 1568-1669",
     "date": "17.–18. Jhdt.",
     "persons": [],
     "mentioned_places": [],
@@ -5080,6 +5080,305 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1721"
+  },
+  "74": {
+    "id": 74,
+    "order": "37.33333333333333570181",
+    "signatur": "Cod. 12230",
+    "jesuiten_id": "jesuiten_msdesc__74",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948757",
+    "title": "Litterae annuae provinciae Austriae Societatis Iesu a. 1711",
+    "date": "1712–Mai 17136",
+    "persons": [],
+    "mentioned_places": [],
+    "note_type_facs": "",
+    "xml_id": "cod_12230",
+    "extent": "IV, 71, I* Bl.",
+    "height": "305",
+    "width": "200",
+    "foliation": "Zeitgenössische Paginierung 1–9, 11–143.",
+    "acc_mat": "",
+    "binding": "Ledereinband mit Streicheisenlinien, 18. Jhdt.",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist nach Kapiteln untergliedert, hier nur vereinzelt erfasst.",
+    "not_before": "1712",
+    "not_after": "1713",
+    "# when": "",
+    "date_letter": "1711"
+  },
+  "70": {
+    "id": 70,
+    "order": "37.50000000000000000000",
+    "signatur": "Cod. 12231",
+    "jesuiten_id": "jesuiten_msdesc__70",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948758",
+    "title": "Litterae annuae provinciae Austriae Societatis Iesu a. 1714",
+    "date": "ab 1715",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 1,
+        "value": "Wien"
+      },
+      {
+        "id": 2,
+        "value": "Graz"
+      },
+      {
+        "id": 3,
+        "value": "Linz"
+      },
+      {
+        "id": 4,
+        "value": "Steyr"
+      },
+      {
+        "id": 5,
+        "value": "Bratislava"
+      },
+      {
+        "id": 6,
+        "value": "Trnava"
+      },
+      {
+        "id": 8,
+        "value": "Győr"
+      },
+      {
+        "id": 10,
+        "value": "Zagreb"
+      },
+      {
+        "id": 11,
+        "value": "Krems"
+      },
+      {
+        "id": 12,
+        "value": "Wiener Neustadt"
+      },
+      {
+        "id": 15,
+        "value": "Buda"
+      },
+      {
+        "id": 16,
+        "value": "Komárom"
+      },
+      {
+        "id": 17,
+        "value": "Skalica"
+      },
+      {
+        "id": 18,
+        "value": "Trenčín"
+      },
+      {
+        "id": 20,
+        "value": "Levoča"
+      },
+      {
+        "id": 24,
+        "value": "Leoben"
+      },
+      {
+        "id": 25,
+        "value": "Judenburg"
+      },
+      {
+        "id": 26,
+        "value": "Klagenfurt"
+      },
+      {
+        "id": 27,
+        "value": "Gorizia"
+      },
+      {
+        "id": 28,
+        "value": "Trieste"
+      },
+      {
+        "id": 29,
+        "value": "Rijeka"
+      },
+      {
+        "id": 30,
+        "value": "Varaždin"
+      },
+      {
+        "id": 31,
+        "value": "Pécs"
+      },
+      {
+        "id": 57,
+        "value": "Gyöngyös"
+      },
+      {
+        "id": 58,
+        "value": "Satu Mare"
+      },
+      {
+        "id": 64,
+        "value": "Žireč"
+      },
+      {
+        "id": 68,
+        "value": "Leopoldov"
+      },
+      {
+        "id": 69,
+        "value": "Petrovaradin"
+      },
+      {
+        "id": 71,
+        "value": "Târgu-Mureş"
+      },
+      {
+        "id": 72,
+        "value": "Prešov"
+      },
+      {
+        "id": 74,
+        "value": "Baia Mare"
+      },
+      {
+        "id": 75,
+        "value": "Banská Štiavnica"
+      },
+      {
+        "id": 76,
+        "value": "Sárospatak"
+      },
+      {
+        "id": 77,
+        "value": "Rožňava"
+      },
+      {
+        "id": 78,
+        "value": "Spiš"
+      },
+      {
+        "id": 80,
+        "value": "Esztergom"
+      },
+      {
+        "id": 81,
+        "value": "Kláštor pod Znievom"
+      },
+      {
+        "id": 83,
+        "value": "Odorheiu Secuiesc"
+      },
+      {
+        "id": 84,
+        "value": "Székesfehérvár"
+      },
+      {
+        "id": 86,
+        "value": "Osijek"
+      },
+      {
+        "id": 87,
+        "value": "Špania Dolina"
+      },
+      {
+        "id": 243,
+        "value": "Zolna"
+      }
+    ],
+    "note_type_facs": "",
+    "xml_id": "cod_12231",
+    "extent": "II, 29, I* Bl.",
+    "height": "298",
+    "width": "195",
+    "foliation": "Zeitgenössische Paginierung 1–58.",
+    "acc_mat": "",
+    "binding": "Pappeinband Wien, 19. Jhdt.",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist nach Kapiteln untergliedert, hier nur vereinzelt erfasst.",
+    "not_before": "1715",
+    "not_after": null,
+    "# when": "",
+    "date_letter": "1714"
+  },
+  "71": {
+    "id": 71,
+    "order": "37.66666666666666429819",
+    "signatur": "Cod. 12232",
+    "jesuiten_id": "jesuiten_msdesc__71",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948759",
+    "title": "Litterae annuae provinciae Austriae Societatis Iesu a. 1715",
+    "date": "ab 1716",
+    "persons": [],
+    "mentioned_places": [],
+    "note_type_facs": "",
+    "xml_id": "cod_12232",
+    "extent": "I, 59, I* Bl.",
+    "height": "300",
+    "width": "198",
+    "foliation": "Moderne Foliierung.",
+    "acc_mat": "",
+    "binding": "Pappeinband: Wien, 19. Jhdt.",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist nach Kapiteln untergliedert, hier nur vereinzelt erfasst.",
+    "not_before": "1716",
+    "not_after": null,
+    "# when": "",
+    "date_letter": "1715"
+  },
+  "72": {
+    "id": 72,
+    "order": "37.75000000000000000000",
+    "signatur": "Cod. 12233",
+    "jesuiten_id": "jesuiten_msdesc__72",
+    "mentioned_orgs": [
+      {
+        "id": 197,
+        "value": "Jesuitenkolleg Prague ad S. Ignatium"
+      }
+    ],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13949415",
+    "title": "Nomina convictorum seminarii S. Francisci Xaverii Neo-Pragae a. 1738-1739",
+    "date": "ab 1738",
+    "persons": [],
+    "mentioned_places": [],
+    "note_type_facs": "",
+    "xml_id": "cod_12233",
+    "extent": "II, 2, II* Bl.",
+    "height": "320",
+    "width": "208",
+    "foliation": "Moderne Foliierung.",
+    "acc_mat": "",
+    "binding": "Pappeinband: Wien, 19. Jhdt.",
+    "summary": "Die Handschrift besteht aus einem Doppelblatt, wobei beschrieben ist nur das Erste.",
+    "not_before": "1739",
+    "not_after": null,
+    "# when": "",
+    "date_letter": "1738-1739"
+  },
+  "73": {
+    "id": 73,
+    "order": "37.79999999999999715783",
+    "signatur": "Cod. 12234",
+    "jesuiten_id": "jesuiten_msdesc__73",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13949416",
+    "title": "Litterae annuae provinciae Austriae Societatis Iesu a. 1717",
+    "date": "ab 1717",
+    "persons": [],
+    "mentioned_places": [],
+    "note_type_facs": "",
+    "xml_id": "cod_12234",
+    "extent": "III, 63, V* Bl.",
+    "height": "315",
+    "width": "205",
+    "foliation": "Zeitgenössische Paginierung; moderne Foliierung der Vor- und Nachsatzblätter.",
+    "acc_mat": "",
+    "binding": "Pappeinband: Wien, 19. Jhdt.",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist nach Kapiteln untergliedert, hier nur vereinzelt erfasst.",
+    "not_before": "1718",
+    "not_after": null,
+    "# when": "",
+    "date_letter": "1717"
   },
   "60": {
     "id": 60,
