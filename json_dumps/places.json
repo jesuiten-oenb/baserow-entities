@@ -3323,6 +3323,14 @@
       {
         "id": 134,
         "value": "Petro-Varadinum"
+      },
+      {
+        "id": 177,
+        "value": "Pétervárad"
+      },
+      {
+        "id": 178,
+        "value": "Peterwardein"
       }
     ],
     "msdesc": [
@@ -4961,7 +4969,7 @@
     "geonames": "https://www.geonames.org/2778038/greinburg.html",
     "lat": "48.22576",
     "long": "14.85085",
-    "wikidata": "https://de.wikipedia.org/wiki/Schloss_Greinburg",
+    "wikidata": "https://www.wikidata.org/wiki/Q2241286",
     "alt_names": [],
     "msdesc": []
   },
@@ -5146,7 +5154,12 @@
     "lat": "49.23220",
     "long": "28.46871",
     "wikidata": "https://www.wikidata.org/wiki/Q157144",
-    "alt_names": [],
+    "alt_names": [
+      {
+        "id": 182,
+        "value": "Vinica"
+      }
+    ],
     "msdesc": []
   },
   "145": {
@@ -5353,7 +5366,7 @@
     "geonames": "https://www.geonames.org/3092472/malbork.html",
     "lat": "54.03591",
     "long": "19.02660",
-    "wikidata": "https://de.wikipedia.org/wiki/Malbork",
+    "wikidata": "https://www.wikidata.org/wiki/Q146820",
     "alt_names": [
       {
         "id": 57,
@@ -5370,7 +5383,7 @@
     "geonames": "https://www.geonames.org/698232/ostroh.html",
     "lat": "50.32942",
     "long": "26.51425",
-    "wikidata": "https://de.wikipedia.org/wiki/Ostroh",
+    "wikidata": "https://www.wikidata.org/wiki/Q140671",
     "alt_names": [],
     "msdesc": []
   },
@@ -5382,8 +5395,13 @@
     "geonames": "https://www.geonames.org/761168/przemysl.html",
     "lat": "49.78498",
     "long": "22.76728",
-    "wikidata": "https://de.wikipedia.org/wiki/Przemy%C5%9Bl",
-    "alt_names": [],
+    "wikidata": "https://www.wikidata.org/wiki/Q208473",
+    "alt_names": [
+      {
+        "id": 180,
+        "value": "Premislia"
+      }
+    ],
     "msdesc": []
   },
   "162": {
@@ -5576,7 +5594,7 @@
     "geonames": "https://www.geonames.org/3094633/krosno-odrzanskie.html",
     "lat": "52.05492",
     "long": "15.09882",
-    "wikidata": "https://de.wikipedia.org/wiki/Krosno_Odrza%C5%84skie",
+    "wikidata": "https://www.wikidata.org/wiki/Q148947",
     "alt_names": [],
     "msdesc": []
   },
@@ -6019,7 +6037,7 @@
     "geonames": "https://www.geonames.org/3101968/bystrzyca-klodzka.html",
     "lat": "50.30179",
     "long": "16.64231",
-    "wikidata": "https://de.wikipedia.org/wiki/Bystrzyca_K%C5%82odzka",
+    "wikidata": "https://www.wikidata.org/wiki/Q991022",
     "alt_names": [
       {
         "id": 85,
@@ -6036,7 +6054,7 @@
     "geonames": "https://www.geonames.org/3070720/mikulov.html",
     "lat": "48.80556",
     "long": "16.63780",
-    "wikidata": "https://de.wikipedia.org/wiki/Mikulov",
+    "wikidata": "https://www.wikidata.org/wiki/Q682544",
     "alt_names": [
       {
         "id": 86,
@@ -6433,5 +6451,167 @@
         "value": "Cod. 12231"
       }
     ]
+  },
+  "248": {
+    "id": 248,
+    "order": "240.00000000000000000000",
+    "name": "Wallachia",
+    "jesuiten_id": "jesuiten_place__248",
+    "geonames": "https://www.geonames.org/662112/walachia.html",
+    "lat": "44.00000",
+    "long": "25.00000",
+    "wikidata": "https://www.wikidata.org/wiki/Q171393",
+    "alt_names": [
+      {
+        "id": 179,
+        "value": "Valachia"
+      }
+    ],
+    "msdesc": []
+  },
+  "249": {
+    "id": 249,
+    "order": "241.00000000000000000000",
+    "name": "Podolia",
+    "jesuiten_id": "jesuiten_place__249",
+    "geonames": "",
+    "lat": null,
+    "long": null,
+    "wikidata": "https://www.wikidata.org/wiki/Q191607",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "250": {
+    "id": 250,
+    "order": "242.00000000000000000000",
+    "name": "Moldavia",
+    "jesuiten_id": "jesuiten_place__250",
+    "geonames": "",
+    "lat": null,
+    "long": null,
+    "wikidata": "https://www.wikidata.org/wiki/Q18366588",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "251": {
+    "id": 251,
+    "order": "243.00000000000000000000",
+    "name": "Tartaria",
+    "jesuiten_id": "jesuiten_place__251",
+    "geonames": "",
+    "lat": null,
+    "long": null,
+    "wikidata": "https://www.wikidata.org/wiki/Q83971",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "252": {
+    "id": 252,
+    "order": "244.00000000000000000000",
+    "name": "Kherson",
+    "jesuiten_id": "jesuiten_place__252",
+    "geonames": "https://www.geonames.org/706448/kherson.html",
+    "lat": "46.63695",
+    "long": "32.61458",
+    "wikidata": "https://www.wikidata.org/wiki/Q638445",
+    "alt_names": [
+      {
+        "id": 181,
+        "value": "Chersonesus Taurica"
+      }
+    ],
+    "msdesc": []
+  },
+  "253": {
+    "id": 253,
+    "order": "245.00000000000000000000",
+    "name": "Liběšice",
+    "jesuiten_id": "jesuiten_place__253",
+    "geonames": "https://www.geonames.org/3071955/libesice.html",
+    "lat": "50.56886",
+    "long": "14.28906",
+    "wikidata": "https://www.wikidata.org/wiki/Q1410457",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "254": {
+    "id": 254,
+    "order": "246.00000000000000000000",
+    "name": "Dobrovice",
+    "jesuiten_id": "jesuiten_place__254",
+    "geonames": "https://www.geonames.org/3076991/dobrovice.html",
+    "lat": "50.36933",
+    "long": "14.96233",
+    "wikidata": "https://www.wikidata.org/wiki/Q1028040",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "255": {
+    "id": 255,
+    "order": "247.00000000000000000000",
+    "name": "Tuchoměřice",
+    "jesuiten_id": "jesuiten_place__255",
+    "geonames": "https://www.geonames.org/3063894/tuchomerice.html",
+    "lat": "50.13543",
+    "long": "14.28218",
+    "wikidata": "",
+    "alt_names": [
+      {
+        "id": 183,
+        "value": "Tuchmeritz"
+      }
+    ],
+    "msdesc": []
+  },
+  "256": {
+    "id": 256,
+    "order": "248.00000000000000000000",
+    "name": "Stráž pod Ralskem",
+    "jesuiten_id": "jesuiten_place__256",
+    "geonames": "https://www.geonames.org/3064983/straz-pod-ralskem.html",
+    "lat": "50.70280",
+    "long": "14.80102",
+    "wikidata": "https://www.wikidata.org/wiki/Q1761686",
+    "alt_names": [
+      {
+        "id": 184,
+        "value": "Wartenberg"
+      }
+    ],
+    "msdesc": []
+  },
+  "257": {
+    "id": 257,
+    "order": "249.00000000000000000000",
+    "name": "Mladá Boleslav",
+    "jesuiten_id": "jesuiten_place__257",
+    "geonames": "https://www.geonames.org/3070544/mlada-boleslav.html",
+    "lat": "50.41135",
+    "long": "14.90318",
+    "wikidata": "https://www.wikidata.org/wiki/Q191805",
+    "alt_names": [
+      {
+        "id": 185,
+        "value": "Jungbunzlau"
+      }
+    ],
+    "msdesc": []
+  },
+  "258": {
+    "id": 258,
+    "order": "250.00000000000000000000",
+    "name": "Krupka",
+    "jesuiten_id": "jesuiten_place__258",
+    "geonames": "https://www.geonames.org/3072598/krupka.html",
+    "lat": "50.68449",
+    "long": "13.85815",
+    "wikidata": "https://www.wikidata.org/wiki/Q593629",
+    "alt_names": [
+      {
+        "id": 186,
+        "value": "Graupen"
+      }
+    ],
+    "msdesc": []
   }
 }

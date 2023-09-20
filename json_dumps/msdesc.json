@@ -1,4 +1,29 @@
 {
+  "75": {
+    "id": 75,
+    "order": "0.50000000000000000000",
+    "signatur": "Cod. 12013",
+    "jesuiten_id": "jesuiten_msdesc__75",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948845",
+    "title": "Litterae annuae provinciae Poloniae Societatis Iesu a. 1609-1613",
+    "date": "ab 1610",
+    "persons": [],
+    "mentioned_places": [],
+    "note_type_facs": "",
+    "xml_id": "cod_12013",
+    "extent": "II, 74, I* Bl.",
+    "height": "325",
+    "width": "200",
+    "foliation": "Moderne Foliierung",
+    "acc_mat": "",
+    "binding": "Pappeinband, Wien, 19. Jhdt.",
+    "summary": "Zusammengesetzte Handschrift aus den Berichten mehreren jesuitischen Häusern. Die Berichte sind als einzelne kodikologischen Einheiten mit oft stark variierten Blattmaße gut erkennbar. Der erste Vorsatzblatt ist rot gestrichen mit dem Titel: 'Historia collegium Anno 1609, 1610, 1611, 1612, 1613, 1616'.",
+    "not_before": "1610",
+    "not_after": null,
+    "# when": "",
+    "date_letter": "1609–1613"
+  },
   "1": {
     "id": 1,
     "order": "1.00000000000000000000",
@@ -860,7 +885,7 @@
       },
       {
         "id": 64,
-        "value": "Jesuitenreisidenz Kláštor pod Znievom"
+        "value": "Jesuitenresidenz Kláštor pod Znievom"
       }
     ],
     "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948213",
@@ -2654,7 +2679,7 @@
       },
       {
         "id": 64,
-        "value": "Jesuitenreisidenz Kláštor pod Znievom"
+        "value": "Jesuitenresidenz Kláštor pod Znievom"
       },
       {
         "id": 66,
@@ -3350,7 +3375,7 @@
       },
       {
         "id": 64,
-        "value": "Jesuitenreisidenz Kláštor pod Znievom"
+        "value": "Jesuitenresidenz Kláštor pod Znievom"
       },
       {
         "id": 125,
@@ -4914,7 +4939,195 @@
     "not_before": "1622",
     "not_after": "1635",
     "# when": "",
-    "date_letter": "1621-1635"
+    "date_letter": "1621–1635"
+  },
+  "76": {
+    "id": 76,
+    "order": "31.66666666666666785090",
+    "signatur": "Cod. 11978",
+    "jesuiten_id": "jesuiten_msdesc__76",
+    "mentioned_orgs": [
+      {
+        "id": 1,
+        "value": "Profeßhaus Wien"
+      },
+      {
+        "id": 2,
+        "value": "Jesuitenkolleg Wien"
+      },
+      {
+        "id": 4,
+        "value": "Probationshaus Wien"
+      },
+      {
+        "id": 5,
+        "value": "Jesuitenkolleg Graz"
+      },
+      {
+        "id": 8,
+        "value": "Jesuitenkolleg Linz"
+      },
+      {
+        "id": 9,
+        "value": "Jesuitenkolleg Bratislava"
+      },
+      {
+        "id": 10,
+        "value": "Jesuitenkolleg Passau"
+      },
+      {
+        "id": 11,
+        "value": "Jesuitenkolleg Trnava"
+      },
+      {
+        "id": 12,
+        "value": "Jesuitenkolleg Győr"
+      },
+      {
+        "id": 13,
+        "value": "Jesuitenkolleg Ljubljana"
+      },
+      {
+        "id": 14,
+        "value": "Jesuitenresidenz Šentjernej"
+      },
+      {
+        "id": 16,
+        "value": "Jesuitenkolleg Klagenfurt"
+      },
+      {
+        "id": 18,
+        "value": "Jesuitenkolleg Zagreb"
+      },
+      {
+        "id": 26,
+        "value": "Jesuitenresidenz Steyr"
+      },
+      {
+        "id": 28,
+        "value": "Jesuitenmission Levice"
+      },
+      {
+        "id": 29,
+        "value": "Jesuitenmission Spiš"
+      },
+      {
+        "id": 31,
+        "value": "Missio Bitsensis"
+      },
+      {
+        "id": 32,
+        "value": "Jesuitenmission in Košice"
+      },
+      {
+        "id": 33,
+        "value": "Jesuitenresidenz Humenné"
+      },
+      {
+        "id": 34,
+        "value": "Jesuitenresidenz Pécs"
+      },
+      {
+        "id": 35,
+        "value": "Jesuitenkolleg Krems"
+      },
+      {
+        "id": 36,
+        "value": "Jesuitenkolleg Gorizia"
+      },
+      {
+        "id": 37,
+        "value": "Jesuitenkolleg Judenburg"
+      },
+      {
+        "id": 38,
+        "value": "Jesuitenkolleg Trieste"
+      },
+      {
+        "id": 39,
+        "value": "Probationshaus Leoben"
+      },
+      {
+        "id": 40,
+        "value": "Jesuitenkolleg Rijeka"
+      },
+      {
+        "id": 46,
+        "value": "Jesuitenresidenz Cluj-Napoca"
+      },
+      {
+        "id": 146,
+        "value": "Jesuitenmission Papensis"
+      }
+    ],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948295",
+    "title": "Catalogus religiosorum Societatis Iesu in provincia Austriae 27 aprilis 1633",
+    "date": "1633",
+    "persons": [],
+    "mentioned_places": [],
+    "note_type_facs": "",
+    "xml_id": "cod_11978",
+    "extent": "II, 39, I* Bl.",
+    "height": "268",
+    "width": "195",
+    "foliation": "Zeigenössische Foliierung.",
+    "acc_mat": "",
+    "binding": "Pappeinband, Wien, 19. Jhdt.",
+    "summary": "Zusammengesetzte Handschrift  aus den Mitgliederverzeichnisen der SJ in Provinz Austria. Das Verzeichnis ist nach Häusern geordnet und innerhalb der Häuser nach den Rängen der Mitglieder (Patres, Fratres, Magistri, Coadiutores, Sacerdotes).",
+    "not_before": "1633",
+    "not_after": null,
+    "# when": "",
+    "date_letter": "1633"
+  },
+  "77": {
+    "id": 77,
+    "order": "31.75000000000000000000",
+    "signatur": "Cod. 12000",
+    "jesuiten_id": "jesuiten_msdesc__77",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948095",
+    "title": "Historiae provinciae Bohemiae Societatis Iesu liber XII: Compendium totius historiae chronologicum a. 1555-1721",
+    "date": "18. Jhdt.",
+    "persons": [],
+    "mentioned_places": [],
+    "note_type_facs": "",
+    "xml_id": "cod_12000",
+    "extent": "I, 48, I* Bl.",
+    "height": "335",
+    "width": "205",
+    "foliation": "Zeitgenössische Paginierung.",
+    "acc_mat": "",
+    "binding": "Pergament über Pappdeckel, die Deckel mit buntem Marmorpapier beklebt. Titelschild. 18. Jhdt.",
+    "summary": "Chronologische Geschichte der Provinz Böhmen (Liber XII) für die Jahre 1555 bis 1721, verfasst von P. Johannes Miller (auch Johann Müller, lateinisch Joanne Miller bzw. Joannes Miller) Rektor des Glatzer Jesuitenkollegs von 1688 bis 1691. Jahresangaben am äußeren Blattrand.",
+    "not_before": "1721",
+    "not_after": "1800",
+    "# when": "",
+    "date_letter": "1555–1721"
+  },
+  "78": {
+    "id": 78,
+    "order": "31.80000000000000071054",
+    "signatur": "Cod. 12001",
+    "jesuiten_id": "jesuiten_msdesc__78",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948867",
+    "title": "Historiae provinciae Bohemiae Societatis Iesu liber IX: Memoriae fundatorum et benefactorum etc.",
+    "date": "ab 1723",
+    "persons": [],
+    "mentioned_places": [],
+    "note_type_facs": "",
+    "xml_id": "cod_12001",
+    "extent": "II, 63, I* Bl.",
+    "height": "330",
+    "width": "205",
+    "foliation": "Zeitgenössische Paginierung.",
+    "acc_mat": "",
+    "binding": "Pergament über Pappdeckel, die Deckel mit buntem Marmorpapier beklebt. Titelschild. 18. Jhdt.",
+    "summary": "Geschichte der Provinz Böhmen (Liber IX: Memoriae fundatorum et benefactorum nostrorum in his terris, nec non eorum, qui in ecclesiis nostris sunt sepulti). Die Handschrift ist in fünf Kapiteln gegliedert. Autor: P. Johannes Miller (auch Johann Müller, lateinisch Joanne Miller bzw. Joannes Miller), Rektor des Glatzer Jesuitenkollegs von 1688 bis 1691.",
+    "not_before": "1723",
+    "not_after": null,
+    "# when": "",
+    "date_letter": "1556-1723"
   },
   "45": {
     "id": 45,
@@ -5353,7 +5566,7 @@
     "not_before": "1739",
     "not_after": null,
     "# when": "",
-    "date_letter": "1738-1739"
+    "date_letter": "1738–1739"
   },
   "73": {
     "id": 73,
