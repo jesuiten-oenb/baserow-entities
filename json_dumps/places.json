@@ -85,7 +85,12 @@
     "lat": "47.06667",
     "long": "15.45000",
     "wikidata": "https://www.wikidata.org/wiki/Q13298",
-    "alt_names": [],
+    "alt_names": [
+      {
+        "id": 107,
+        "value": "Graecium"
+      }
+    ],
     "msdesc": [
       {
         "id": 66,
@@ -170,7 +175,12 @@
     "lat": "48.30639",
     "long": "14.28611",
     "wikidata": "https://www.wikidata.org/wiki/Q41329",
-    "alt_names": [],
+    "alt_names": [
+      {
+        "id": 127,
+        "value": "Lincium"
+      }
+    ],
     "msdesc": [
       {
         "id": 66,
@@ -251,7 +261,12 @@
     "lat": "48.04274",
     "long": "14.42127",
     "wikidata": "",
-    "alt_names": [],
+    "alt_names": [
+      {
+        "id": 159,
+        "value": "Styra"
+      }
+    ],
     "msdesc": [
       {
         "id": 66,
@@ -438,6 +453,14 @@
       {
         "id": 79,
         "value": "Nagyszombat"
+      },
+      {
+        "id": 171,
+        "value": "Tyrnavia"
+      },
+      {
+        "id": 172,
+        "value": "Tyrnau"
       }
     ],
     "msdesc": [
@@ -520,7 +543,12 @@
     "lat": "48.56650",
     "long": "13.43122",
     "wikidata": "",
-    "alt_names": [],
+    "alt_names": [
+      {
+        "id": 132,
+        "value": "Passavium"
+      }
+    ],
     "msdesc": [
       {
         "id": 67,
@@ -597,6 +625,14 @@
       {
         "id": 9,
         "value": "Jaurinum"
+      },
+      {
+        "id": 138,
+        "value": "Raab"
+      },
+      {
+        "id": 139,
+        "value": "Arrabona"
       }
     ],
     "msdesc": [
@@ -745,7 +781,16 @@
     "lat": "45.81444",
     "long": "15.97798",
     "wikidata": "https://www.wikidata.org/wiki/Q1435",
-    "alt_names": [],
+    "alt_names": [
+      {
+        "id": 99,
+        "value": "Agram"
+      },
+      {
+        "id": 176,
+        "value": "Zagrabia"
+      }
+    ],
     "msdesc": [
       {
         "id": 66,
@@ -822,7 +867,12 @@
     "lat": "48.40921",
     "long": "15.61415",
     "wikidata": "https://www.wikidata.org/wiki/Q131266",
-    "alt_names": [],
+    "alt_names": [
+      {
+        "id": 104,
+        "value": "Crembsium"
+      }
+    ],
     "msdesc": [
       {
         "id": 66,
@@ -903,7 +953,12 @@
     "lat": "47.80485",
     "long": "16.23196",
     "wikidata": "https://www.wikidata.org/wiki/Q131612",
-    "alt_names": [],
+    "alt_names": [
+      {
+        "id": 129,
+        "value": "Neostadium"
+      }
+    ],
     "msdesc": [
       {
         "id": 4,
@@ -964,6 +1019,10 @@
       {
         "id": 74,
         "value": "Ödenburg"
+      },
+      {
+        "id": 153,
+        "value": "Sopronium"
       }
     ],
     "msdesc": [
@@ -1151,12 +1210,12 @@
   "16": {
     "id": 16,
     "order": "16.00000000000000000000",
-    "name": "Komárom",
+    "name": "Komárno",
     "jesuiten_id": "jesuiten_place__16",
-    "geonames": "https://www.geonames.org/3049519/komarom.html",
+    "geonames": "https://www.geonames.org/3059436/komarno.html",
     "lat": "47.74318",
     "long": "18.11913",
-    "wikidata": "https://www.wikidata.org/wiki/Q625154",
+    "wikidata": "https://www.wikidata.org/wiki/Q210796",
     "alt_names": [
       {
         "id": 1,
@@ -1263,6 +1322,10 @@
       {
         "id": 11,
         "value": "Sakolcium"
+      },
+      {
+        "id": 152,
+        "value": "Skalitz"
       }
     ],
     "msdesc": [
@@ -1329,7 +1392,24 @@
     "lat": "48.89452",
     "long": "18.04436",
     "wikidata": "https://www.wikidata.org/wiki/Q145002",
-    "alt_names": [],
+    "alt_names": [
+      {
+        "id": 167,
+        "value": "Trenchinium"
+      },
+      {
+        "id": 168,
+        "value": "Trentschin"
+      },
+      {
+        "id": 169,
+        "value": "Trencsén"
+      },
+      {
+        "id": 170,
+        "value": "Trentsinium"
+      }
+    ],
     "msdesc": [
       {
         "id": 66,
@@ -1404,13 +1484,18 @@
   "19": {
     "id": 19,
     "order": "19.00000000000000000000",
-    "name": "Banská Bystrica (Neosolium)",
+    "name": "Banská Bystrica",
     "jesuiten_id": "jesuiten_place__19",
     "geonames": "https://www.geonames.org/3061186/banska-bystrica.html",
     "lat": "48.73946",
     "long": "19.15349",
     "wikidata": "https://www.wikidata.org/wiki/Q144983",
-    "alt_names": [],
+    "alt_names": [
+      {
+        "id": 100,
+        "value": "Neosolium"
+      }
+    ],
     "msdesc": [
       {
         "id": 66,
@@ -1491,6 +1576,14 @@
       {
         "id": 68,
         "value": "Leutschau"
+      },
+      {
+        "id": 125,
+        "value": "Lőcse"
+      },
+      {
+        "id": 126,
+        "value": "Leutsovia"
       }
     ],
     "msdesc": [
@@ -1557,6 +1650,10 @@
       {
         "id": 3,
         "value": "Kaschau"
+      },
+      {
+        "id": 121,
+        "value": "Kassa"
       }
     ],
     "msdesc": [
@@ -1651,7 +1748,20 @@
     "lat": "47.90265",
     "long": "20.37329",
     "wikidata": "https://www.wikidata.org/wiki/Q167109",
-    "alt_names": [],
+    "alt_names": [
+      {
+        "id": 98,
+        "value": "Agria"
+      },
+      {
+        "id": 118,
+        "value": "Erlau"
+      },
+      {
+        "id": 119,
+        "value": "Jager"
+      }
+    ],
     "msdesc": [
       {
         "id": 67,
@@ -1782,7 +1892,12 @@
     "lat": "47.16667",
     "long": "14.66667",
     "wikidata": "https://www.wikidata.org/wiki/Q263107",
-    "alt_names": [],
+    "alt_names": [
+      {
+        "id": 120,
+        "value": "Judenburgum"
+      }
+    ],
     "msdesc": [
       {
         "id": 66,
@@ -1867,7 +1982,12 @@
     "lat": "46.62472",
     "long": "14.30528",
     "wikidata": "https://www.wikidata.org/wiki/Q41753",
-    "alt_names": [],
+    "alt_names": [
+      {
+        "id": 103,
+        "value": "Clagenfurt"
+      }
+    ],
     "msdesc": [
       {
         "id": 66,
@@ -2026,6 +2146,10 @@
       {
         "id": 78,
         "value": "Tergestinum"
+      },
+      {
+        "id": 162,
+        "value": "Tergeste"
       }
     ],
     "msdesc": [
@@ -2275,6 +2399,10 @@
       {
         "id": 71,
         "value": "Quinque ecclesiae"
+      },
+      {
+        "id": 106,
+        "value": "Fünfkirchen"
       }
     ],
     "msdesc": [
@@ -2457,7 +2585,16 @@
     "lat": "44.80401",
     "long": "20.46513",
     "wikidata": "https://www.wikidata.org/wiki/Q3711",
-    "alt_names": [],
+    "alt_names": [
+      {
+        "id": 101,
+        "value": "Belgradium"
+      },
+      {
+        "id": 128,
+        "value": "Nándorfehérvár"
+      }
+    ],
     "msdesc": [
       {
         "id": 6,
@@ -2486,6 +2623,10 @@
       {
         "id": 77,
         "value": "Freidorf"
+      },
+      {
+        "id": 161,
+        "value": "Temesvarinum"
       }
     ],
     "msdesc": [
@@ -2577,7 +2718,7 @@
     "geonames": "https://www.geonames.org/2768934/pfarrkirchen-im-muehlkreis.html",
     "lat": "48.50375",
     "long": "13.82638",
-    "wikidata": "",
+    "wikidata": "https://www.wikidata.org/wiki/Q642621",
     "alt_names": [],
     "msdesc": []
   },
@@ -2602,7 +2743,12 @@
     "lat": "47.84462",
     "long": "13.78939",
     "wikidata": "https://www.wikidata.org/wiki/Q259710",
-    "alt_names": [],
+    "alt_names": [
+      {
+        "id": 166,
+        "value": "Traunkirchium"
+      }
+    ],
     "msdesc": [
       {
         "id": 6,
@@ -2673,13 +2819,22 @@
   "47": {
     "id": 47,
     "order": "47.00000000000000000000",
-    "name": "Pezinok / Bazin",
+    "name": "Pezinok",
     "jesuiten_id": "jesuiten_place__47",
     "geonames": "https://www.geonames.org/3058210/pezinok.html",
     "lat": "48.28986",
     "long": "17.26664",
-    "wikidata": "",
-    "alt_names": [],
+    "wikidata": "https://www.wikidata.org/wiki/Q659424",
+    "alt_names": [
+      {
+        "id": 135,
+        "value": "Bösing"
+      },
+      {
+        "id": 136,
+        "value": "Bazinium"
+      }
+    ],
     "msdesc": []
   },
   "48": {
@@ -2854,7 +3009,12 @@
     "lat": "47.78257",
     "long": "19.92800",
     "wikidata": "https://www.wikidata.org/wiki/Q209983",
-    "alt_names": [],
+    "alt_names": [
+      {
+        "id": 113,
+        "value": "Gyöngyösinum"
+      }
+    ],
     "msdesc": [
       {
         "id": 66,
@@ -2919,6 +3079,14 @@
       {
         "id": 24,
         "value": "Szat(t)marinum"
+      },
+      {
+        "id": 140,
+        "value": "Szatmárnémeti"
+      },
+      {
+        "id": 141,
+        "value": "Sathmar"
       }
     ],
     "msdesc": [
@@ -3050,6 +3218,10 @@
       {
         "id": 21,
         "value": "Schurzium"
+      },
+      {
+        "id": 144,
+        "value": "Schurz"
       }
     ],
     "msdesc": [
@@ -3088,6 +3260,18 @@
       {
         "id": 29,
         "value": "Leopoldopolitana"
+      },
+      {
+        "id": 122,
+        "value": "Leopoldopolis"
+      },
+      {
+        "id": 123,
+        "value": "Leopoldstadt"
+      },
+      {
+        "id": 124,
+        "value": "Újvároska"
       }
     ],
     "msdesc": [
@@ -3109,6 +3293,23 @@
       }
     ]
   },
+  "244": {
+    "id": 244,
+    "order": "65.50000000000000000000",
+    "name": "Pest",
+    "jesuiten_id": "jesuiten_place__244",
+    "geonames": "https://www.geonames.org/3046446/pest.html",
+    "lat": "47.50000",
+    "long": "19.08333",
+    "wikidata": "https://www.wikidata.org/wiki/Q210205",
+    "alt_names": [
+      {
+        "id": 133,
+        "value": "Pestinum"
+      }
+    ],
+    "msdesc": []
+  },
   "69": {
     "id": 69,
     "order": "66.00000000000000000000",
@@ -3118,7 +3319,12 @@
     "lat": "45.24667",
     "long": "19.87944",
     "wikidata": "https://www.wikidata.org/wiki/Q19429",
-    "alt_names": [],
+    "alt_names": [
+      {
+        "id": 134,
+        "value": "Petro-Varadinum"
+      }
+    ],
     "msdesc": [
       {
         "id": 6,
@@ -3141,13 +3347,22 @@
   "70": {
     "id": 70,
     "order": "67.00000000000000000000",
-    "name": "Alba Julia (Carolina)",
+    "name": "Alba Julia",
     "jesuiten_id": "jesuiten_place__70",
     "geonames": "https://www.geonames.org/686578/alba-iulia.html",
     "lat": "46.06667",
     "long": "23.58333",
     "wikidata": "https://www.wikidata.org/wiki/Q174665",
-    "alt_names": [],
+    "alt_names": [
+      {
+        "id": 97,
+        "value": "Alba Carolina"
+      },
+      {
+        "id": 114,
+        "value": "Gyulafehérvár"
+      }
+    ],
     "msdesc": [
       {
         "id": 10,
@@ -3292,7 +3507,16 @@
     "lat": "45.80000",
     "long": "24.15000",
     "wikidata": "https://www.wikidata.org/wiki/Q83324",
-    "alt_names": [],
+    "alt_names": [
+      {
+        "id": 102,
+        "value": "Cibinium"
+      },
+      {
+        "id": 115,
+        "value": "Hermannstadt"
+      }
+    ],
     "msdesc": [
       {
         "id": 6,
@@ -3341,6 +3565,10 @@
       {
         "id": 14,
         "value": "Nagybania"
+      },
+      {
+        "id": 109,
+        "value": "Grossneustadt"
       }
     ],
     "msdesc": [
@@ -3395,6 +3623,14 @@
       {
         "id": 12,
         "value": "Schemnic(z)ium"
+      },
+      {
+        "id": 148,
+        "value": "Selmecbánya"
+      },
+      {
+        "id": 149,
+        "value": "Schemnitz"
       }
     ],
     "msdesc": [
@@ -3595,16 +3831,24 @@
   "78": {
     "id": 78,
     "order": "75.00000000000000000000",
-    "name": "Spiš",
+    "name": "Spišska Kapitula",
     "jesuiten_id": "jesuiten_place__78",
-    "geonames": "https://www.geonames.org/7627326/spis-castle.html",
+    "geonames": "https://www.geonames.org/723528/spisska-kapitula.html",
     "lat": "49.00056",
     "long": "20.76833",
-    "wikidata": "https://en.wikipedia.org/wiki/Spi%C5%A1",
+    "wikidata": "https://www.wikidata.org/wiki/Q1042821",
     "alt_names": [
       {
         "id": 20,
         "value": "Scepusia"
+      },
+      {
+        "id": 142,
+        "value": "Scepusium"
+      },
+      {
+        "id": 143,
+        "value": "Szepeshely"
       }
     ],
     "msdesc": [
@@ -3655,6 +3899,14 @@
       {
         "id": 22,
         "value": "Solna"
+      },
+      {
+        "id": 150,
+        "value": "Sillein"
+      },
+      {
+        "id": 151,
+        "value": "Zsolna"
       }
     ],
     "msdesc": [
@@ -3697,6 +3949,10 @@
       {
         "id": 23,
         "value": "Strigonium"
+      },
+      {
+        "id": 108,
+        "value": "Gran"
       }
     ],
     "msdesc": [
@@ -3735,6 +3991,18 @@
       {
         "id": 25,
         "value": "Turoczium"
+      },
+      {
+        "id": 163,
+        "value": "Thuroczium"
+      },
+      {
+        "id": 164,
+        "value": "Znióváralja"
+      },
+      {
+        "id": 165,
+        "value": "Kloster(-Kühhorn)"
       }
     ],
     "msdesc": [
@@ -3797,6 +4065,18 @@
       {
         "id": 26,
         "value": "Varadinum"
+      },
+      {
+        "id": 110,
+        "value": "Grosswardein"
+      },
+      {
+        "id": 111,
+        "value": "Magno-Varadinum"
+      },
+      {
+        "id": 112,
+        "value": "Nagyvárad"
       }
     ],
     "msdesc": [
@@ -3819,6 +4099,14 @@
       {
         "id": 27,
         "value": "Udvarhelynum"
+      },
+      {
+        "id": 130,
+        "value": "Odorhellen"
+      },
+      {
+        "id": 131,
+        "value": "Székelyudvarhely"
       }
     ],
     "msdesc": [
@@ -3877,7 +4165,16 @@
     "lat": "47.18995",
     "long": "18.41034",
     "wikidata": "https://www.wikidata.org/wiki/Q130212",
-    "alt_names": [],
+    "alt_names": [
+      {
+        "id": 157,
+        "value": "Alba Regia"
+      },
+      {
+        "id": 158,
+        "value": "Stuhlweißenburg"
+      }
+    ],
     "msdesc": [
       {
         "id": 10,
@@ -3982,6 +4279,14 @@
       {
         "id": 28,
         "value": "Vallis Dominorum"
+      },
+      {
+        "id": 116,
+        "value": "Úrvölgy"
+      },
+      {
+        "id": 117,
+        "value": "Herrengrund"
       }
     ],
     "msdesc": [
@@ -4466,18 +4771,6 @@
     "alt_names": [],
     "msdesc": []
   },
-  "119": {
-    "id": 119,
-    "order": "116.00000000000000000000",
-    "name": "Świdnica",
-    "jesuiten_id": "jesuiten_place__119",
-    "geonames": "https://www.geonames.org/3084093/swidnica.html",
-    "lat": "50.84378",
-    "long": "16.48859",
-    "wikidata": "https://www.wikidata.org/wiki/Q387396",
-    "alt_names": [],
-    "msdesc": []
-  },
   "120": {
     "id": 120,
     "order": "117.00000000000000000000",
@@ -4544,7 +4837,12 @@
     "lat": "50.38017",
     "long": "18.92653",
     "wikidata": "https://www.wikidata.org/wiki/Q158488",
-    "alt_names": [],
+    "alt_names": [
+      {
+        "id": 137,
+        "value": "Deutsch Piekar"
+      }
+    ],
     "msdesc": []
   },
   "125": {
@@ -4733,6 +5031,10 @@
       {
         "id": 55,
         "value": "Felsőbánya"
+      },
+      {
+        "id": 105,
+        "value": "Oberneustadt"
       }
     ],
     "msdesc": [
@@ -4768,6 +5070,35 @@
     "long": "17.18759",
     "wikidata": "https://www.wikidata.org/wiki/Q1031427",
     "alt_names": [],
+    "msdesc": []
+  },
+  "246": {
+    "id": 246,
+    "order": "137.50000000000000000000",
+    "name": "Štiavnické Bane",
+    "jesuiten_id": "jesuiten_place__246",
+    "geonames": "",
+    "lat": null,
+    "long": null,
+    "wikidata": "https://www.wikidata.org/wiki/Special:EntityPage/Q392432",
+    "alt_names": [
+      {
+        "id": 154,
+        "value": "Siegelsberg"
+      },
+      {
+        "id": 155,
+        "value": "Hegybánya"
+      },
+      {
+        "id": 156,
+        "value": "Winschachtum"
+      },
+      {
+        "id": 160,
+        "value": "Szélakna"
+      }
+    ],
     "msdesc": []
   },
   "141": {
@@ -4905,6 +5236,31 @@
     "long": "18.09102",
     "wikidata": "https://www.wikidata.org/wiki/Q52842",
     "alt_names": [],
+    "msdesc": []
+  },
+  "245": {
+    "id": 245,
+    "order": "148.50000000000000000000",
+    "name": "Šaľa",
+    "jesuiten_id": "jesuiten_place__245",
+    "geonames": "https://www.geonames.org/3057769/sala.html",
+    "lat": "48.15127",
+    "long": "17.88062",
+    "wikidata": "https://www.wikidata.org/wiki/Special:EntityPage/Q391361",
+    "alt_names": [
+      {
+        "id": 145,
+        "value": "Šaľa nad Váhom"
+      },
+      {
+        "id": 146,
+        "value": "Vágsellye"
+      },
+      {
+        "id": 147,
+        "value": "Sellia"
+      }
+    ],
     "msdesc": []
   },
   "152": {
@@ -5246,6 +5602,31 @@
     "long": "16.46250",
     "wikidata": "https://www.wikidata.org/wiki/Q1096087",
     "alt_names": [],
+    "msdesc": []
+  },
+  "247": {
+    "id": 247,
+    "order": "175.50000000000000000000",
+    "name": "Uschhorod",
+    "jesuiten_id": "jesuiten_place__247",
+    "geonames": "https://www.geonames.org/690548/uzhgorod.html",
+    "lat": "48.62420",
+    "long": "22.29470",
+    "wikidata": "https://www.wikidata.org/wiki/Q156711",
+    "alt_names": [
+      {
+        "id": 173,
+        "value": "Unguarinum"
+      },
+      {
+        "id": 174,
+        "value": "Ungvár"
+      },
+      {
+        "id": 175,
+        "value": "Užhorod"
+      }
+    ],
     "msdesc": []
   },
   "179": {

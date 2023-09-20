@@ -11,7 +11,7 @@
     "places": [
       {
         "id": 16,
-        "value": "Komárom"
+        "value": "Komárno"
       }
     ]
   },
@@ -59,7 +59,7 @@
     "places": [
       {
         "id": 16,
-        "value": "Komárom"
+        "value": "Komárno"
       }
     ]
   },
@@ -75,7 +75,7 @@
     "places": [
       {
         "id": 16,
-        "value": "Komárom"
+        "value": "Komárno"
       }
     ]
   },
@@ -315,7 +315,7 @@
     "places": [
       {
         "id": 78,
-        "value": "Spiš"
+        "value": "Spišska Kapitula"
       }
     ]
   },
@@ -683,7 +683,7 @@
     "places": [
       {
         "id": 16,
-        "value": "Komárom"
+        "value": "Komárno"
       }
     ]
   },
@@ -1487,6 +1487,1274 @@
       {
         "id": 242,
         "value": "Caransebeş"
+      }
+    ]
+  },
+  "97": {
+    "id": 97,
+    "order": "97.00000000000000000000",
+    "Name": "Alba Carolina",
+    "Notes": {
+      "id": 11393,
+      "value": "lat",
+      "color": "dark-gray"
+    },
+    "places": [
+      {
+        "id": 70,
+        "value": "Alba Julia"
+      }
+    ]
+  },
+  "98": {
+    "id": 98,
+    "order": "98.00000000000000000000",
+    "Name": "Agria",
+    "Notes": {
+      "id": 11393,
+      "value": "lat",
+      "color": "dark-gray"
+    },
+    "places": [
+      {
+        "id": 23,
+        "value": "Eger"
+      }
+    ]
+  },
+  "99": {
+    "id": 99,
+    "order": "99.00000000000000000000",
+    "Name": "Agram",
+    "Notes": {
+      "id": 11393,
+      "value": "lat",
+      "color": "dark-gray"
+    },
+    "places": [
+      {
+        "id": 10,
+        "value": "Zagreb"
+      }
+    ]
+  },
+  "100": {
+    "id": 100,
+    "order": "100.00000000000000000000",
+    "Name": "Neosolium",
+    "Notes": {
+      "id": 11393,
+      "value": "lat",
+      "color": "dark-gray"
+    },
+    "places": [
+      {
+        "id": 19,
+        "value": "Banská Bystrica"
+      }
+    ]
+  },
+  "101": {
+    "id": 101,
+    "order": "101.00000000000000000000",
+    "Name": "Belgradium",
+    "Notes": {
+      "id": 11393,
+      "value": "lat",
+      "color": "dark-gray"
+    },
+    "places": [
+      {
+        "id": 34,
+        "value": "Belgrade"
+      }
+    ]
+  },
+  "102": {
+    "id": 102,
+    "order": "102.00000000000000000000",
+    "Name": "Cibinium",
+    "Notes": {
+      "id": 11393,
+      "value": "lat",
+      "color": "dark-gray"
+    },
+    "places": [
+      {
+        "id": 73,
+        "value": "Sibiu"
+      }
+    ]
+  },
+  "103": {
+    "id": 103,
+    "order": "103.00000000000000000000",
+    "Name": "Clagenfurt",
+    "Notes": {
+      "id": 11393,
+      "value": "lat",
+      "color": "dark-gray"
+    },
+    "places": [
+      {
+        "id": 26,
+        "value": "Klagenfurt"
+      }
+    ]
+  },
+  "104": {
+    "id": 104,
+    "order": "104.00000000000000000000",
+    "Name": "Crembsium",
+    "Notes": {
+      "id": 11393,
+      "value": "lat",
+      "color": "dark-gray"
+    },
+    "places": [
+      {
+        "id": 11,
+        "value": "Krems"
+      }
+    ]
+  },
+  "105": {
+    "id": 105,
+    "order": "105.00000000000000000000",
+    "Name": "Oberneustadt",
+    "Notes": {
+      "id": 11394,
+      "value": "ger",
+      "color": "green"
+    },
+    "places": [
+      {
+        "id": 139,
+        "value": "Baia Sprie"
+      }
+    ]
+  },
+  "106": {
+    "id": 106,
+    "order": "106.00000000000000000000",
+    "Name": "Fünfkirchen",
+    "Notes": {
+      "id": 11394,
+      "value": "ger",
+      "color": "green"
+    },
+    "places": [
+      {
+        "id": 31,
+        "value": "Pécs"
+      }
+    ]
+  },
+  "107": {
+    "id": 107,
+    "order": "107.00000000000000000000",
+    "Name": "Graecium",
+    "Notes": {
+      "id": 11393,
+      "value": "lat",
+      "color": "dark-gray"
+    },
+    "places": [
+      {
+        "id": 2,
+        "value": "Graz"
+      }
+    ]
+  },
+  "108": {
+    "id": 108,
+    "order": "108.00000000000000000000",
+    "Name": "Gran",
+    "Notes": {
+      "id": 11394,
+      "value": "ger",
+      "color": "green"
+    },
+    "places": [
+      {
+        "id": 80,
+        "value": "Esztergom"
+      }
+    ]
+  },
+  "109": {
+    "id": 109,
+    "order": "109.00000000000000000000",
+    "Name": "Grossneustadt",
+    "Notes": {
+      "id": 11394,
+      "value": "ger",
+      "color": "green"
+    },
+    "places": [
+      {
+        "id": 74,
+        "value": "Baia Mare"
+      }
+    ]
+  },
+  "110": {
+    "id": 110,
+    "order": "110.00000000000000000000",
+    "Name": "Grosswardein",
+    "Notes": {
+      "id": 11394,
+      "value": "ger",
+      "color": "green"
+    },
+    "places": [
+      {
+        "id": 82,
+        "value": "Oradea"
+      }
+    ]
+  },
+  "111": {
+    "id": 111,
+    "order": "111.00000000000000000000",
+    "Name": "Magno-Varadinum",
+    "Notes": {
+      "id": 11393,
+      "value": "lat",
+      "color": "dark-gray"
+    },
+    "places": [
+      {
+        "id": 82,
+        "value": "Oradea"
+      }
+    ]
+  },
+  "112": {
+    "id": 112,
+    "order": "112.00000000000000000000",
+    "Name": "Nagyvárad",
+    "Notes": {
+      "id": 11395,
+      "value": "hun",
+      "color": "dark-gray"
+    },
+    "places": [
+      {
+        "id": 82,
+        "value": "Oradea"
+      }
+    ]
+  },
+  "113": {
+    "id": 113,
+    "order": "113.00000000000000000000",
+    "Name": "Gyöngyösinum",
+    "Notes": {
+      "id": 11393,
+      "value": "lat",
+      "color": "dark-gray"
+    },
+    "places": [
+      {
+        "id": 57,
+        "value": "Gyöngyös"
+      }
+    ]
+  },
+  "114": {
+    "id": 114,
+    "order": "114.00000000000000000000",
+    "Name": "Gyulafehérvár",
+    "Notes": {
+      "id": 11395,
+      "value": "hun",
+      "color": "dark-gray"
+    },
+    "places": [
+      {
+        "id": 70,
+        "value": "Alba Julia"
+      }
+    ]
+  },
+  "115": {
+    "id": 115,
+    "order": "115.00000000000000000000",
+    "Name": "Hermannstadt",
+    "Notes": {
+      "id": 11394,
+      "value": "ger",
+      "color": "green"
+    },
+    "places": [
+      {
+        "id": 73,
+        "value": "Sibiu"
+      }
+    ]
+  },
+  "116": {
+    "id": 116,
+    "order": "116.00000000000000000000",
+    "Name": "Úrvölgy",
+    "Notes": {
+      "id": 11395,
+      "value": "hun",
+      "color": "dark-gray"
+    },
+    "places": [
+      {
+        "id": 87,
+        "value": "Špania Dolina"
+      }
+    ]
+  },
+  "117": {
+    "id": 117,
+    "order": "117.00000000000000000000",
+    "Name": "Herrengrund",
+    "Notes": {
+      "id": 11394,
+      "value": "ger",
+      "color": "green"
+    },
+    "places": [
+      {
+        "id": 87,
+        "value": "Špania Dolina"
+      }
+    ]
+  },
+  "118": {
+    "id": 118,
+    "order": "118.00000000000000000000",
+    "Name": "Erlau",
+    "Notes": {
+      "id": 11394,
+      "value": "ger",
+      "color": "green"
+    },
+    "places": [
+      {
+        "id": 23,
+        "value": "Eger"
+      }
+    ]
+  },
+  "119": {
+    "id": 119,
+    "order": "119.00000000000000000000",
+    "Name": "Jager",
+    "Notes": null,
+    "places": [
+      {
+        "id": 23,
+        "value": "Eger"
+      }
+    ]
+  },
+  "120": {
+    "id": 120,
+    "order": "120.00000000000000000000",
+    "Name": "Judenburgum",
+    "Notes": {
+      "id": 11393,
+      "value": "lat",
+      "color": "dark-gray"
+    },
+    "places": [
+      {
+        "id": 25,
+        "value": "Judenburg"
+      }
+    ]
+  },
+  "121": {
+    "id": 121,
+    "order": "121.00000000000000000000",
+    "Name": "Kassa",
+    "Notes": {
+      "id": 11395,
+      "value": "hun",
+      "color": "dark-gray"
+    },
+    "places": [
+      {
+        "id": 21,
+        "value": "Košice"
+      }
+    ]
+  },
+  "122": {
+    "id": 122,
+    "order": "122.00000000000000000000",
+    "Name": "Leopoldopolis",
+    "Notes": {
+      "id": 11393,
+      "value": "lat",
+      "color": "dark-gray"
+    },
+    "places": [
+      {
+        "id": 68,
+        "value": "Leopoldov"
+      }
+    ]
+  },
+  "123": {
+    "id": 123,
+    "order": "123.00000000000000000000",
+    "Name": "Leopoldstadt",
+    "Notes": {
+      "id": 11394,
+      "value": "ger",
+      "color": "green"
+    },
+    "places": [
+      {
+        "id": 68,
+        "value": "Leopoldov"
+      }
+    ]
+  },
+  "124": {
+    "id": 124,
+    "order": "124.00000000000000000000",
+    "Name": "Újvároska",
+    "Notes": {
+      "id": 11395,
+      "value": "hun",
+      "color": "dark-gray"
+    },
+    "places": [
+      {
+        "id": 68,
+        "value": "Leopoldov"
+      }
+    ]
+  },
+  "125": {
+    "id": 125,
+    "order": "125.00000000000000000000",
+    "Name": "Lőcse",
+    "Notes": {
+      "id": 11395,
+      "value": "hun",
+      "color": "dark-gray"
+    },
+    "places": [
+      {
+        "id": 20,
+        "value": "Levoča"
+      }
+    ]
+  },
+  "126": {
+    "id": 126,
+    "order": "126.00000000000000000000",
+    "Name": "Leutsovia",
+    "Notes": {
+      "id": 11393,
+      "value": "lat",
+      "color": "dark-gray"
+    },
+    "places": [
+      {
+        "id": 20,
+        "value": "Levoča"
+      }
+    ]
+  },
+  "127": {
+    "id": 127,
+    "order": "127.00000000000000000000",
+    "Name": "Lincium",
+    "Notes": {
+      "id": 11393,
+      "value": "lat",
+      "color": "dark-gray"
+    },
+    "places": [
+      {
+        "id": 3,
+        "value": "Linz"
+      }
+    ]
+  },
+  "128": {
+    "id": 128,
+    "order": "128.00000000000000000000",
+    "Name": "Nándorfehérvár",
+    "Notes": {
+      "id": 11395,
+      "value": "hun",
+      "color": "dark-gray"
+    },
+    "places": [
+      {
+        "id": 34,
+        "value": "Belgrade"
+      }
+    ]
+  },
+  "129": {
+    "id": 129,
+    "order": "129.00000000000000000000",
+    "Name": "Neostadium",
+    "Notes": {
+      "id": 11393,
+      "value": "lat",
+      "color": "dark-gray"
+    },
+    "places": [
+      {
+        "id": 12,
+        "value": "Wiener Neustadt"
+      }
+    ]
+  },
+  "130": {
+    "id": 130,
+    "order": "130.00000000000000000000",
+    "Name": "Odorhellen",
+    "Notes": {
+      "id": 11394,
+      "value": "ger",
+      "color": "green"
+    },
+    "places": [
+      {
+        "id": 83,
+        "value": "Odorheiu Secuiesc"
+      }
+    ]
+  },
+  "131": {
+    "id": 131,
+    "order": "131.00000000000000000000",
+    "Name": "Székelyudvarhely",
+    "Notes": {
+      "id": 11395,
+      "value": "hun",
+      "color": "dark-gray"
+    },
+    "places": [
+      {
+        "id": 83,
+        "value": "Odorheiu Secuiesc"
+      }
+    ]
+  },
+  "132": {
+    "id": 132,
+    "order": "132.00000000000000000000",
+    "Name": "Passavium",
+    "Notes": {
+      "id": 11393,
+      "value": "lat",
+      "color": "dark-gray"
+    },
+    "places": [
+      {
+        "id": 7,
+        "value": "Passau"
+      }
+    ]
+  },
+  "133": {
+    "id": 133,
+    "order": "133.00000000000000000000",
+    "Name": "Pestinum",
+    "Notes": {
+      "id": 11393,
+      "value": "lat",
+      "color": "dark-gray"
+    },
+    "places": [
+      {
+        "id": 244,
+        "value": "Pest"
+      }
+    ]
+  },
+  "134": {
+    "id": 134,
+    "order": "134.00000000000000000000",
+    "Name": "Petro-Varadinum",
+    "Notes": {
+      "id": 11393,
+      "value": "lat",
+      "color": "dark-gray"
+    },
+    "places": [
+      {
+        "id": 69,
+        "value": "Petrovaradin"
+      }
+    ]
+  },
+  "135": {
+    "id": 135,
+    "order": "135.00000000000000000000",
+    "Name": "Bösing",
+    "Notes": {
+      "id": 11394,
+      "value": "ger",
+      "color": "green"
+    },
+    "places": [
+      {
+        "id": 47,
+        "value": "Pezinok"
+      }
+    ]
+  },
+  "136": {
+    "id": 136,
+    "order": "136.00000000000000000000",
+    "Name": "Bazinium",
+    "Notes": {
+      "id": 11393,
+      "value": "lat",
+      "color": "dark-gray"
+    },
+    "places": [
+      {
+        "id": 47,
+        "value": "Pezinok"
+      }
+    ]
+  },
+  "137": {
+    "id": 137,
+    "order": "137.00000000000000000000",
+    "Name": "Deutsch Piekar",
+    "Notes": {
+      "id": 11394,
+      "value": "ger",
+      "color": "green"
+    },
+    "places": [
+      {
+        "id": 124,
+        "value": "Piekary Śląskie"
+      }
+    ]
+  },
+  "138": {
+    "id": 138,
+    "order": "138.00000000000000000000",
+    "Name": "Raab",
+    "Notes": {
+      "id": 11394,
+      "value": "ger",
+      "color": "green"
+    },
+    "places": [
+      {
+        "id": 8,
+        "value": "Győr"
+      }
+    ]
+  },
+  "139": {
+    "id": 139,
+    "order": "139.00000000000000000000",
+    "Name": "Arrabona",
+    "Notes": {
+      "id": 11393,
+      "value": "lat",
+      "color": "dark-gray"
+    },
+    "places": [
+      {
+        "id": 8,
+        "value": "Győr"
+      }
+    ]
+  },
+  "140": {
+    "id": 140,
+    "order": "140.00000000000000000000",
+    "Name": "Szatmárnémeti",
+    "Notes": {
+      "id": 11395,
+      "value": "hun",
+      "color": "dark-gray"
+    },
+    "places": [
+      {
+        "id": 58,
+        "value": "Satu Mare"
+      }
+    ]
+  },
+  "141": {
+    "id": 141,
+    "order": "141.00000000000000000000",
+    "Name": "Sathmar",
+    "Notes": {
+      "id": 11394,
+      "value": "ger",
+      "color": "green"
+    },
+    "places": [
+      {
+        "id": 58,
+        "value": "Satu Mare"
+      }
+    ]
+  },
+  "142": {
+    "id": 142,
+    "order": "142.00000000000000000000",
+    "Name": "Scepusium",
+    "Notes": {
+      "id": 11393,
+      "value": "lat",
+      "color": "dark-gray"
+    },
+    "places": [
+      {
+        "id": 78,
+        "value": "Spišska Kapitula"
+      }
+    ]
+  },
+  "143": {
+    "id": 143,
+    "order": "143.00000000000000000000",
+    "Name": "Szepeshely",
+    "Notes": {
+      "id": 11395,
+      "value": "hun",
+      "color": "dark-gray"
+    },
+    "places": [
+      {
+        "id": 78,
+        "value": "Spišska Kapitula"
+      }
+    ]
+  },
+  "144": {
+    "id": 144,
+    "order": "144.00000000000000000000",
+    "Name": "Schurz",
+    "Notes": {
+      "id": 11394,
+      "value": "ger",
+      "color": "green"
+    },
+    "places": [
+      {
+        "id": 64,
+        "value": "Žireč"
+      }
+    ]
+  },
+  "145": {
+    "id": 145,
+    "order": "145.00000000000000000000",
+    "Name": "Šaľa nad Váhom",
+    "Notes": null,
+    "places": [
+      {
+        "id": 245,
+        "value": "Šaľa"
+      }
+    ]
+  },
+  "146": {
+    "id": 146,
+    "order": "146.00000000000000000000",
+    "Name": "Vágsellye",
+    "Notes": {
+      "id": 11395,
+      "value": "hun",
+      "color": "dark-gray"
+    },
+    "places": [
+      {
+        "id": 245,
+        "value": "Šaľa"
+      }
+    ]
+  },
+  "147": {
+    "id": 147,
+    "order": "147.00000000000000000000",
+    "Name": "Sellia",
+    "Notes": {
+      "id": 11393,
+      "value": "lat",
+      "color": "dark-gray"
+    },
+    "places": [
+      {
+        "id": 245,
+        "value": "Šaľa"
+      }
+    ]
+  },
+  "148": {
+    "id": 148,
+    "order": "148.00000000000000000000",
+    "Name": "Selmecbánya",
+    "Notes": {
+      "id": 11395,
+      "value": "hun",
+      "color": "dark-gray"
+    },
+    "places": [
+      {
+        "id": 75,
+        "value": "Banská Štiavnica"
+      }
+    ]
+  },
+  "149": {
+    "id": 149,
+    "order": "149.00000000000000000000",
+    "Name": "Schemnitz",
+    "Notes": {
+      "id": 11393,
+      "value": "lat",
+      "color": "dark-gray"
+    },
+    "places": [
+      {
+        "id": 75,
+        "value": "Banská Štiavnica"
+      }
+    ]
+  },
+  "150": {
+    "id": 150,
+    "order": "150.00000000000000000000",
+    "Name": "Sillein",
+    "Notes": {
+      "id": 11394,
+      "value": "ger",
+      "color": "green"
+    },
+    "places": [
+      {
+        "id": 79,
+        "value": "Žilina"
+      }
+    ]
+  },
+  "151": {
+    "id": 151,
+    "order": "151.00000000000000000000",
+    "Name": "Zsolna",
+    "Notes": {
+      "id": 11395,
+      "value": "hun",
+      "color": "dark-gray"
+    },
+    "places": [
+      {
+        "id": 79,
+        "value": "Žilina"
+      }
+    ]
+  },
+  "152": {
+    "id": 152,
+    "order": "152.00000000000000000000",
+    "Name": "Skalitz",
+    "Notes": {
+      "id": 11394,
+      "value": "ger",
+      "color": "green"
+    },
+    "places": [
+      {
+        "id": 17,
+        "value": "Skalica"
+      }
+    ]
+  },
+  "153": {
+    "id": 153,
+    "order": "153.00000000000000000000",
+    "Name": "Sopronium",
+    "Notes": {
+      "id": 11393,
+      "value": "lat",
+      "color": "dark-gray"
+    },
+    "places": [
+      {
+        "id": 13,
+        "value": "Sopron"
+      }
+    ]
+  },
+  "154": {
+    "id": 154,
+    "order": "154.00000000000000000000",
+    "Name": "Siegelsberg",
+    "Notes": {
+      "id": 11394,
+      "value": "ger",
+      "color": "green"
+    },
+    "places": [
+      {
+        "id": 246,
+        "value": "Štiavnické Bane"
+      }
+    ]
+  },
+  "155": {
+    "id": 155,
+    "order": "155.00000000000000000000",
+    "Name": "Hegybánya",
+    "Notes": {
+      "id": 11395,
+      "value": "hun",
+      "color": "dark-gray"
+    },
+    "places": [
+      {
+        "id": 246,
+        "value": "Štiavnické Bane"
+      }
+    ]
+  },
+  "156": {
+    "id": 156,
+    "order": "156.00000000000000000000",
+    "Name": "Winschachtum",
+    "Notes": {
+      "id": 11393,
+      "value": "lat",
+      "color": "dark-gray"
+    },
+    "places": [
+      {
+        "id": 246,
+        "value": "Štiavnické Bane"
+      }
+    ]
+  },
+  "157": {
+    "id": 157,
+    "order": "157.00000000000000000000",
+    "Name": "Alba Regia",
+    "Notes": {
+      "id": 11393,
+      "value": "lat",
+      "color": "dark-gray"
+    },
+    "places": [
+      {
+        "id": 84,
+        "value": "Székesfehérvár"
+      }
+    ]
+  },
+  "158": {
+    "id": 158,
+    "order": "158.00000000000000000000",
+    "Name": "Stuhlweißenburg",
+    "Notes": {
+      "id": 11394,
+      "value": "ger",
+      "color": "green"
+    },
+    "places": [
+      {
+        "id": 84,
+        "value": "Székesfehérvár"
+      }
+    ]
+  },
+  "159": {
+    "id": 159,
+    "order": "159.00000000000000000000",
+    "Name": "Styra",
+    "Notes": {
+      "id": 11393,
+      "value": "lat",
+      "color": "dark-gray"
+    },
+    "places": [
+      {
+        "id": 4,
+        "value": "Steyr"
+      }
+    ]
+  },
+  "160": {
+    "id": 160,
+    "order": "160.00000000000000000000",
+    "Name": "Szélakna",
+    "Notes": {
+      "id": 11395,
+      "value": "hun",
+      "color": "dark-gray"
+    },
+    "places": [
+      {
+        "id": 246,
+        "value": "Štiavnické Bane"
+      }
+    ]
+  },
+  "161": {
+    "id": 161,
+    "order": "161.00000000000000000000",
+    "Name": "Temesvarinum",
+    "Notes": {
+      "id": 11393,
+      "value": "lat",
+      "color": "dark-gray"
+    },
+    "places": [
+      {
+        "id": 35,
+        "value": "Timişoara"
+      }
+    ]
+  },
+  "162": {
+    "id": 162,
+    "order": "162.00000000000000000000",
+    "Name": "Tergeste",
+    "Notes": {
+      "id": 11393,
+      "value": "lat",
+      "color": "dark-gray"
+    },
+    "places": [
+      {
+        "id": 28,
+        "value": "Trieste"
+      }
+    ]
+  },
+  "163": {
+    "id": 163,
+    "order": "163.00000000000000000000",
+    "Name": "Thuroczium",
+    "Notes": {
+      "id": 11393,
+      "value": "lat",
+      "color": "dark-gray"
+    },
+    "places": [
+      {
+        "id": 81,
+        "value": "Kláštor pod Znievom"
+      }
+    ]
+  },
+  "164": {
+    "id": 164,
+    "order": "164.00000000000000000000",
+    "Name": "Znióváralja",
+    "Notes": {
+      "id": 11395,
+      "value": "hun",
+      "color": "dark-gray"
+    },
+    "places": [
+      {
+        "id": 81,
+        "value": "Kláštor pod Znievom"
+      }
+    ]
+  },
+  "165": {
+    "id": 165,
+    "order": "165.00000000000000000000",
+    "Name": "Kloster(-Kühhorn)",
+    "Notes": {
+      "id": 11394,
+      "value": "ger",
+      "color": "green"
+    },
+    "places": [
+      {
+        "id": 81,
+        "value": "Kláštor pod Znievom"
+      }
+    ]
+  },
+  "166": {
+    "id": 166,
+    "order": "166.00000000000000000000",
+    "Name": "Traunkirchium",
+    "Notes": {
+      "id": 11393,
+      "value": "lat",
+      "color": "dark-gray"
+    },
+    "places": [
+      {
+        "id": 44,
+        "value": "Traunkirchen"
+      }
+    ]
+  },
+  "167": {
+    "id": 167,
+    "order": "167.00000000000000000000",
+    "Name": "Trenchinium",
+    "Notes": {
+      "id": 11393,
+      "value": "lat",
+      "color": "dark-gray"
+    },
+    "places": [
+      {
+        "id": 18,
+        "value": "Trenčín"
+      }
+    ]
+  },
+  "168": {
+    "id": 168,
+    "order": "168.00000000000000000000",
+    "Name": "Trentschin",
+    "Notes": {
+      "id": 11394,
+      "value": "ger",
+      "color": "green"
+    },
+    "places": [
+      {
+        "id": 18,
+        "value": "Trenčín"
+      }
+    ]
+  },
+  "169": {
+    "id": 169,
+    "order": "169.00000000000000000000",
+    "Name": "Trencsén",
+    "Notes": {
+      "id": 11395,
+      "value": "hun",
+      "color": "dark-gray"
+    },
+    "places": [
+      {
+        "id": 18,
+        "value": "Trenčín"
+      }
+    ]
+  },
+  "170": {
+    "id": 170,
+    "order": "170.00000000000000000000",
+    "Name": "Trentsinium",
+    "Notes": {
+      "id": 11393,
+      "value": "lat",
+      "color": "dark-gray"
+    },
+    "places": [
+      {
+        "id": 18,
+        "value": "Trenčín"
+      }
+    ]
+  },
+  "171": {
+    "id": 171,
+    "order": "171.00000000000000000000",
+    "Name": "Tyrnavia",
+    "Notes": {
+      "id": 11393,
+      "value": "lat",
+      "color": "dark-gray"
+    },
+    "places": [
+      {
+        "id": 6,
+        "value": "Trnava"
+      }
+    ]
+  },
+  "172": {
+    "id": 172,
+    "order": "172.00000000000000000000",
+    "Name": "Tyrnau",
+    "Notes": {
+      "id": 11394,
+      "value": "ger",
+      "color": "green"
+    },
+    "places": [
+      {
+        "id": 6,
+        "value": "Trnava"
+      }
+    ]
+  },
+  "173": {
+    "id": 173,
+    "order": "173.00000000000000000000",
+    "Name": "Unguarinum",
+    "Notes": {
+      "id": 11393,
+      "value": "lat",
+      "color": "dark-gray"
+    },
+    "places": [
+      {
+        "id": 247,
+        "value": "Uschhorod"
+      }
+    ]
+  },
+  "174": {
+    "id": 174,
+    "order": "174.00000000000000000000",
+    "Name": "Ungvár",
+    "Notes": {
+      "id": 11395,
+      "value": "hun",
+      "color": "dark-gray"
+    },
+    "places": [
+      {
+        "id": 247,
+        "value": "Uschhorod"
+      }
+    ]
+  },
+  "175": {
+    "id": 175,
+    "order": "175.00000000000000000000",
+    "Name": "Užhorod",
+    "Notes": null,
+    "places": [
+      {
+        "id": 247,
+        "value": "Uschhorod"
+      }
+    ]
+  },
+  "176": {
+    "id": 176,
+    "order": "176.00000000000000000000",
+    "Name": "Zagrabia",
+    "Notes": {
+      "id": 11393,
+      "value": "lat",
+      "color": "dark-gray"
+    },
+    "places": [
+      {
+        "id": 10,
+        "value": "Zagreb"
       }
     ]
   }
