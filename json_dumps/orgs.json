@@ -8839,7 +8839,25 @@
         "order": "141.00000000000000000000",
         "name": "Jesuitenresidenz Maria Scheinensis",
         "jesuiten_id": "jesuiten_org__142",
-        "located_in": [],
+        "located_in": [
+            {
+                "id": 258,
+                "order": "250.00000000000000000000",
+                "name": "Krupka",
+                "jesuiten_id": "jesuiten_place__258",
+                "geonames": "https://www.geonames.org/3072598/krupka.html",
+                "lat": "50.68449",
+                "long": "13.85815",
+                "wikidata": "https://www.wikidata.org/wiki/Q593629",
+                "alt_names": [
+                    {
+                        "id": 186,
+                        "value": "Graupen"
+                    }
+                ],
+                "msdesc": []
+            }
+        ],
         "gnd": "",
         "msdesc": [],
         "alt_name": "Residentia Maria Scheinensis",
