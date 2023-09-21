@@ -5625,7 +5625,7 @@
   "247": {
     "id": 247,
     "order": "175.50000000000000000000",
-    "name": "Uschhorod",
+    "name": "Uzhhorod",
     "jesuiten_id": "jesuiten_place__247",
     "geonames": "https://www.geonames.org/690548/uzhgorod.html",
     "lat": "48.62420",
@@ -5643,6 +5643,10 @@
       {
         "id": 175,
         "value": "Užhorod"
+      },
+      {
+        "id": 187,
+        "value": "Uschhorod"
       }
     ],
     "msdesc": []

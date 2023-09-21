@@ -13598,5 +13598,122 @@
         "alt_name": "Residentia Grupnensis",
         "notes": "",
         "persons": []
+    },
+    "291": {
+        "id": 291,
+        "order": "281.00000000000000000000",
+        "name": "Jesuitenkolleg Wiener Neustadt",
+        "jesuiten_id": "jesuiten_org__291",
+        "located_in": [
+            {
+                "id": 12,
+                "order": "12.00000000000000000000",
+                "name": "Wiener Neustadt",
+                "jesuiten_id": "jesuiten_place__12",
+                "geonames": "https://www.geonames.org/2761353/wiener-neustadt.html",
+                "lat": "47.80485",
+                "long": "16.23196",
+                "wikidata": "https://www.wikidata.org/wiki/Q131612",
+                "alt_names": [
+                    {
+                        "id": 129,
+                        "value": "Neostadium"
+                    }
+                ],
+                "msdesc": [
+                    {
+                        "id": 4,
+                        "value": "Cod. 12066"
+                    },
+                    {
+                        "id": 6,
+                        "value": "Cod. 12123"
+                    },
+                    {
+                        "id": 10,
+                        "value": "Cod. 12138"
+                    },
+                    {
+                        "id": 11,
+                        "value": "Cod. 12266"
+                    },
+                    {
+                        "id": 31,
+                        "value": "Cod. 12273"
+                    },
+                    {
+                        "id": 32,
+                        "value": "Cod. 12274"
+                    },
+                    {
+                        "id": 33,
+                        "value": "Cod. 12275"
+                    },
+                    {
+                        "id": 34,
+                        "value": "Cod. 12276"
+                    },
+                    {
+                        "id": 30,
+                        "value": "Cod. 12277"
+                    },
+                    {
+                        "id": 70,
+                        "value": "Cod. 12231"
+                    },
+                    {
+                        "id": 60,
+                        "value": "Cod. 12241"
+                    }
+                ]
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Collegium Neostadiense",
+        "notes": "",
+        "persons": []
+    },
+    "292": {
+        "id": 292,
+        "order": "282.00000000000000000000",
+        "name": "Jesuitenkolleg Uzhhorod",
+        "jesuiten_id": "jesuiten_org__292",
+        "located_in": [
+            {
+                "id": 247,
+                "order": "175.50000000000000000000",
+                "name": "Uzhhorod",
+                "jesuiten_id": "jesuiten_place__247",
+                "geonames": "https://www.geonames.org/690548/uzhgorod.html",
+                "lat": "48.62420",
+                "long": "22.29470",
+                "wikidata": "https://www.wikidata.org/wiki/Q156711",
+                "alt_names": [
+                    {
+                        "id": 173,
+                        "value": "Unguarinum"
+                    },
+                    {
+                        "id": 174,
+                        "value": "Ungvár"
+                    },
+                    {
+                        "id": 175,
+                        "value": "Užhorod"
+                    },
+                    {
+                        "id": 187,
+                        "value": "Uschhorod"
+                    }
+                ],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "",
+        "notes": "",
+        "persons": []
     }
 }
