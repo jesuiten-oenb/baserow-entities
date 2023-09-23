@@ -2933,5 +2933,113 @@
         "value": "Uzhhorod"
       }
     ]
+  },
+  "188": {
+    "id": 188,
+    "order": "188.00000000000000000000",
+    "Name": "Jablunkovský průsmyk",
+    "Notes": null,
+    "places": [
+      {
+        "id": 262,
+        "value": "Jablunkov Pass"
+      }
+    ]
+  },
+  "189": {
+    "id": 189,
+    "order": "189.00000000000000000000",
+    "Name": "Passus ad Jabluncam",
+    "Notes": {
+      "id": 11393,
+      "value": "lat",
+      "color": "dark-gray"
+    },
+    "places": [
+      {
+        "id": 262,
+        "value": "Jablunkov Pass"
+      }
+    ]
+  },
+  "190": {
+    "id": 190,
+    "order": "190.00000000000000000000",
+    "Name": "Woporschan",
+    "Notes": {
+      "id": 11394,
+      "value": "ger",
+      "color": "green"
+    },
+    "places": [
+      {
+        "id": 265,
+        "value": "Opařany"
+      }
+    ]
+  },
+  "191": {
+    "id": 191,
+    "order": "191.00000000000000000000",
+    "Name": "Woparzan",
+    "Notes": {
+      "id": 11394,
+      "value": "ger",
+      "color": "green"
+    },
+    "places": [
+      {
+        "id": 265,
+        "value": "Opařany"
+      }
+    ]
+  },
+  "192": {
+    "id": 192,
+    "order": "192.00000000000000000000",
+    "Name": "Altbunzlau",
+    "Notes": {
+      "id": 11394,
+      "value": "ger",
+      "color": "green"
+    },
+    "places": [
+      {
+        "id": 266,
+        "value": "Brandýs nad Labem-Stará Boleslav"
+      }
+    ]
+  },
+  "193": {
+    "id": 193,
+    "order": "193.00000000000000000000",
+    "Name": "Strassnitium",
+    "Notes": {
+      "id": 11393,
+      "value": "lat",
+      "color": "dark-gray"
+    },
+    "places": [
+      {
+        "id": 267,
+        "value": "Strašnice"
+      }
+    ]
+  },
+  "194": {
+    "id": 194,
+    "order": "194.00000000000000000000",
+    "Name": "Lipsia",
+    "Notes": {
+      "id": 11393,
+      "value": "lat",
+      "color": "dark-gray"
+    },
+    "places": [
+      {
+        "id": 268,
+        "value": "Leipzig"
+      }
+    ]
   }
 }

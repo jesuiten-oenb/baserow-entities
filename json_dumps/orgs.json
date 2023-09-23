@@ -2633,7 +2633,7 @@
     "32": {
         "id": 32,
         "order": "32.00000000000000000000",
-        "name": "Jesuitenmission in Košice",
+        "name": "Jesuitenmission Košice",
         "jesuiten_id": "jesuiten_org__32",
         "located_in": [
             {
@@ -5988,98 +5988,6 @@
         "notes": "",
         "persons": []
     },
-    "74": {
-        "id": 74,
-        "order": "74.00000000000000000000",
-        "name": "Jesuitenresidenz Satu Mare",
-        "jesuiten_id": "jesuiten_org__74",
-        "located_in": [
-            {
-                "id": 58,
-                "order": "58.00000000000000000000",
-                "name": "Satu Mare",
-                "jesuiten_id": "jesuiten_place__58",
-                "geonames": "https://www.geonames.org/667873/satu-mare.html",
-                "lat": "47.79926",
-                "long": "22.86255",
-                "wikidata": "",
-                "alt_names": [
-                    {
-                        "id": 24,
-                        "value": "Szat(t)marinum"
-                    },
-                    {
-                        "id": 140,
-                        "value": "Szatmárnémeti"
-                    },
-                    {
-                        "id": 141,
-                        "value": "Sathmar"
-                    }
-                ],
-                "msdesc": [
-                    {
-                        "id": 66,
-                        "value": "Cod. 12058"
-                    },
-                    {
-                        "id": 68,
-                        "value": "Cod. 12060"
-                    },
-                    {
-                        "id": 4,
-                        "value": "Cod. 12066"
-                    },
-                    {
-                        "id": 6,
-                        "value": "Cod. 12123"
-                    },
-                    {
-                        "id": 7,
-                        "value": "Cod. 12057"
-                    },
-                    {
-                        "id": 31,
-                        "value": "Cod. 12273"
-                    },
-                    {
-                        "id": 32,
-                        "value": "Cod. 12274"
-                    },
-                    {
-                        "id": 33,
-                        "value": "Cod. 12275"
-                    },
-                    {
-                        "id": 34,
-                        "value": "Cod. 12276"
-                    },
-                    {
-                        "id": 30,
-                        "value": "Cod. 12277"
-                    },
-                    {
-                        "id": 70,
-                        "value": "Cod. 12231"
-                    },
-                    {
-                        "id": 60,
-                        "value": "Cod. 12241"
-                    }
-                ]
-            }
-        ],
-        "gnd": "",
-        "msdesc": [
-            {
-                "id": 11,
-                "value": "Cod. 12266"
-            }
-        ],
-        "alt_name": "Residentia Sattmarinensis / Szatmariensis",
-        "notes": "",
-        "persons": []
-    },
     "76": {
         "id": 76,
         "order": "76.00000000000000000000",
@@ -7241,6 +7149,10 @@
             {
                 "id": 11,
                 "value": "Cod. 12266"
+            },
+            {
+                "id": 85,
+                "value": "Cod. 12278"
             }
         ],
         "alt_name": "Collegium Trenchiniense",
@@ -7370,7 +7282,12 @@
             }
         ],
         "gnd": "",
-        "msdesc": [],
+        "msdesc": [
+            {
+                "id": 85,
+                "value": "Cod. 12278"
+            }
+        ],
         "alt_name": "Domus professae Pragae ad Sanctum Nicolaum",
         "notes": "",
         "persons": []
@@ -7395,7 +7312,12 @@
             }
         ],
         "gnd": "",
-        "msdesc": [],
+        "msdesc": [
+            {
+                "id": 85,
+                "value": "Cod. 12278"
+            }
+        ],
         "alt_name": "Collegium Brzeznicense",
         "notes": "",
         "persons": []
@@ -7403,7 +7325,7 @@
     "94": {
         "id": 94,
         "order": "94.00000000000000000000",
-        "name": "Jesuitenresidenz in Svata",
+        "name": "Jesuitenresidenz Svatá Hora",
         "jesuiten_id": "jesuiten_org__94",
         "located_in": [
             {
@@ -7420,7 +7342,12 @@
             }
         ],
         "gnd": "",
-        "msdesc": [],
+        "msdesc": [
+            {
+                "id": 85,
+                "value": "Cod. 12278"
+            }
+        ],
         "alt_name": "Residentia in Sancto Monte, Residentia Sacro-montana",
         "notes": "",
         "persons": []
@@ -7454,7 +7381,12 @@
             }
         ],
         "gnd": "",
-        "msdesc": [],
+        "msdesc": [
+            {
+                "id": 85,
+                "value": "Cod. 12278"
+            }
+        ],
         "alt_name": "Collegium Commotoviense",
         "notes": "http://reholnici.hiu.cas.cz/katalog/l.dll?hal~1000099827",
         "persons": []
@@ -7488,7 +7420,12 @@
             }
         ],
         "gnd": "",
-        "msdesc": [],
+        "msdesc": [
+            {
+                "id": 85,
+                "value": "Cod. 12278"
+            }
+        ],
         "alt_name": "Collegium Crumloviense",
         "notes": "",
         "persons": []
@@ -7522,7 +7459,12 @@
             }
         ],
         "gnd": "",
-        "msdesc": [],
+        "msdesc": [
+            {
+                "id": 85,
+                "value": "Cod. 12278"
+            }
+        ],
         "alt_name": "Collegium Egrense",
         "notes": "http://reholnici.hiu.cas.cz/katalog/l.dll?hal~1000099837",
         "persons": []
@@ -7560,7 +7502,12 @@
             }
         ],
         "gnd": "",
-        "msdesc": [],
+        "msdesc": [
+            {
+                "id": 85,
+                "value": "Cod. 12278"
+            }
+        ],
         "alt_name": "Collegium Gitzinense",
         "notes": "",
         "persons": []
@@ -7591,7 +7538,7 @@
         ],
         "gnd": "",
         "msdesc": [],
-        "alt_name": "Collegium Glacense",
+        "alt_name": "Collegium Glacense / Glacii",
         "notes": "http://reholnici.hiu.cas.cz/katalog/l.dll?hal~1000099829",
         "persons": []
     },
@@ -7620,7 +7567,12 @@
             }
         ],
         "gnd": "",
-        "msdesc": [],
+        "msdesc": [
+            {
+                "id": 85,
+                "value": "Cod. 12278"
+            }
+        ],
         "alt_name": "Collegium Glattoviense",
         "notes": "http://reholnici.hiu.cas.cz/katalog/l.dll?hal~1000099836",
         "persons": []
@@ -7670,7 +7622,12 @@
             }
         ],
         "gnd": "",
-        "msdesc": [],
+        "msdesc": [
+            {
+                "id": 85,
+                "value": "Cod. 12278"
+            }
+        ],
         "alt_name": "Collegium Hradistiense",
         "notes": "http://reholnici.hiu.cas.cz/katalog/l.dll?hal~1000099843",
         "persons": []
@@ -7700,7 +7657,12 @@
             }
         ],
         "gnd": "",
-        "msdesc": [],
+        "msdesc": [
+            {
+                "id": 85,
+                "value": "Cod. 12278"
+            }
+        ],
         "alt_name": "Collegium Iglaviense",
         "notes": "http://reholnici.hiu.cas.cz/katalog/l.dll?hal~1000099841",
         "persons": []
@@ -7725,7 +7687,12 @@
             }
         ],
         "gnd": "",
-        "msdesc": [],
+        "msdesc": [
+            {
+                "id": 85,
+                "value": "Cod. 12278"
+            }
+        ],
         "alt_name": "Collegium Kuttenbergense",
         "notes": "http://reholnici.hiu.cas.cz/katalog/l.dll?hal~1000099832",
         "persons": []
@@ -7750,7 +7717,12 @@
             }
         ],
         "gnd": "",
-        "msdesc": [],
+        "msdesc": [
+            {
+                "id": 85,
+                "value": "Cod. 12278"
+            }
+        ],
         "alt_name": "Residentia Jenikoviensis",
         "notes": "http://reholnici.hiu.cas.cz/katalog/l.dll?hal~1000101632",
         "persons": []
@@ -7830,7 +7802,12 @@
             }
         ],
         "gnd": "",
-        "msdesc": [],
+        "msdesc": [
+            {
+                "id": 85,
+                "value": "Cod. 12278"
+            }
+        ],
         "alt_name": "Collegium Litomericense",
         "notes": "http://reholnici.hiu.cas.cz/katalog/l.dll?hal~1000099835",
         "persons": []
@@ -7880,7 +7857,12 @@
             }
         ],
         "gnd": "",
-        "msdesc": [],
+        "msdesc": [
+            {
+                "id": 85,
+                "value": "Cod. 12278"
+            }
+        ],
         "alt_name": "Collegium Novo-Domense",
         "notes": "http://reholnici.hiu.cas.cz/katalog/l.dll?hal~1000099828",
         "persons": []
@@ -7905,7 +7887,12 @@
             }
         ],
         "gnd": "",
-        "msdesc": [],
+        "msdesc": [
+            {
+                "id": 85,
+                "value": "Cod. 12278"
+            }
+        ],
         "alt_name": "Collegium Olomucense",
         "notes": "http://reholnici.hiu.cas.cz/katalog/l.dll?hal~1000099839",
         "persons": []
@@ -7930,34 +7917,14 @@
             }
         ],
         "gnd": "",
-        "msdesc": [],
-        "alt_name": "Collegium Oppaviense",
-        "notes": "http://reholnici.hiu.cas.cz/katalog/l.dll?hal~1000099846",
-        "persons": []
-    },
-    "114": {
-        "id": 114,
-        "order": "114.00000000000000000000",
-        "name": "Jesuitenresidenz Cieszyn (?)",
-        "jesuiten_id": "jesuiten_org__114",
-        "located_in": [
+        "msdesc": [
             {
-                "id": 129,
-                "order": "126.00000000000000000000",
-                "name": "Cieszyn",
-                "jesuiten_id": "jesuiten_place__129",
-                "geonames": "https://www.geonames.org/3101321/cieszyn.html",
-                "lat": "49.75133",
-                "long": "18.63213",
-                "wikidata": "https://www.wikidata.org/wiki/Q321197",
-                "alt_names": [],
-                "msdesc": []
+                "id": 85,
+                "value": "Cod. 12278"
             }
         ],
-        "gnd": "",
-        "msdesc": [],
-        "alt_name": "Collegium Tessinium",
-        "notes": "",
+        "alt_name": "Collegium Oppaviense",
+        "notes": "http://reholnici.hiu.cas.cz/katalog/l.dll?hal~1000099846",
         "persons": []
     },
     "115": {
@@ -8005,7 +7972,12 @@
             }
         ],
         "gnd": "https://d-nb.info/gnd/4355860-4",
-        "msdesc": [],
+        "msdesc": [
+            {
+                "id": 85,
+                "value": "Cod. 12278"
+            }
+        ],
         "alt_name": "Collegium Pragae / Clementinum",
         "notes": "",
         "persons": []
@@ -8030,7 +8002,12 @@
             }
         ],
         "gnd": "",
-        "msdesc": [],
+        "msdesc": [
+            {
+                "id": 85,
+                "value": "Cod. 12278"
+            }
+        ],
         "alt_name": "Collegium Reginae-Hradicense",
         "notes": "",
         "persons": []
@@ -8063,7 +8040,7 @@
     "119": {
         "id": 119,
         "order": "119.00000000000000000000",
-        "name": "Jesutienkolleg Świdnica",
+        "name": "Jesuitenkolleg Świdnica",
         "jesuiten_id": "jesuiten_org__119",
         "located_in": [
             {
@@ -8110,7 +8087,12 @@
             }
         ],
         "gnd": "",
-        "msdesc": [],
+        "msdesc": [
+            {
+                "id": 85,
+                "value": "Cod. 12278"
+            }
+        ],
         "alt_name": "Collegium Telczense et domus tertiae probationis",
         "notes": "",
         "persons": []
@@ -8174,7 +8156,12 @@
             }
         ],
         "gnd": "",
-        "msdesc": [],
+        "msdesc": [
+            {
+                "id": 85,
+                "value": "Cod. 12278"
+            }
+        ],
         "alt_name": "Collegium Znoymense",
         "notes": "",
         "persons": []
@@ -8204,7 +8191,12 @@
             }
         ],
         "gnd": "",
-        "msdesc": [],
+        "msdesc": [
+            {
+                "id": 85,
+                "value": "Cod. 12278"
+            }
+        ],
         "alt_name": "Domus probationis Brunae",
         "notes": "",
         "persons": []
@@ -8234,7 +8226,12 @@
             }
         ],
         "gnd": "",
-        "msdesc": [],
+        "msdesc": [
+            {
+                "id": 85,
+                "value": "Cod. 12278"
+            }
+        ],
         "alt_name": "Collegium Brunense",
         "notes": "",
         "persons": []
@@ -8263,6 +8260,10 @@
             {
                 "id": 43,
                 "value": "Cod. 12254"
+            },
+            {
+                "id": 85,
+                "value": "Cod. 12278"
             }
         ],
         "alt_name": "Residentia Turzani (Turzanensis) / Collegium Turzanum ?",
@@ -8580,9 +8581,27 @@
         "order": "130.50000000000000000000",
         "name": "Jesuitenmission Pommersdorf",
         "jesuiten_id": "jesuiten_org__133",
-        "located_in": [],
+        "located_in": [
+            {
+                "id": 263,
+                "order": "255.00000000000000000000",
+                "name": "Pomorzowice",
+                "jesuiten_id": "jesuiten_place__263",
+                "geonames": "https://www.geonames.org/3088363/pomorzowice.html",
+                "lat": "50.28396",
+                "long": "17.76120",
+                "wikidata": "https://www.wikidata.org/wiki/Q7227431",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
         "gnd": "",
-        "msdesc": [],
+        "msdesc": [
+            {
+                "id": 85,
+                "value": "Cod. 12278"
+            }
+        ],
         "alt_name": "Missio Pommersdorffensis",
         "notes": "",
         "persons": []
@@ -8624,7 +8643,12 @@
             }
         ],
         "gnd": "",
-        "msdesc": [],
+        "msdesc": [
+            {
+                "id": 85,
+                "value": "Cod. 12278"
+            }
+        ],
         "alt_name": "Missio Bransdorffensis",
         "notes": "",
         "persons": []
@@ -8632,7 +8656,7 @@
     "134": {
         "id": 134,
         "order": "133.00000000000000000000",
-        "name": "Jesutienresidenz Piekary",
+        "name": "Jesuitenresidenz Piekary",
         "jesuiten_id": "jesuiten_org__134",
         "located_in": [
             {
@@ -8704,7 +8728,12 @@
             }
         ],
         "gnd": "",
-        "msdesc": [],
+        "msdesc": [
+            {
+                "id": 85,
+                "value": "Cod. 12278"
+            }
+        ],
         "alt_name": "Residentia Kossumbergensis",
         "notes": "",
         "persons": []
@@ -8754,7 +8783,12 @@
             }
         ],
         "gnd": "",
-        "msdesc": [],
+        "msdesc": [
+            {
+                "id": 85,
+                "value": "Cod. 12278"
+            }
+        ],
         "alt_name": "Domus Tertiae probationis Telczii",
         "notes": "",
         "persons": []
@@ -8859,7 +8893,12 @@
             }
         ],
         "gnd": "",
-        "msdesc": [],
+        "msdesc": [
+            {
+                "id": 85,
+                "value": "Cod. 12278"
+            }
+        ],
         "alt_name": "Residentia Maria Scheinensis",
         "notes": "",
         "persons": []
@@ -9233,8 +9272,13 @@
             }
         ],
         "gnd": "",
-        "msdesc": [],
-        "alt_name": "Residentia Szatmariensis",
+        "msdesc": [
+            {
+                "id": 11,
+                "value": "Cod. 12266"
+            }
+        ],
+        "alt_name": "Residentia Szatmariensis / Sattmariensis",
         "notes": "",
         "persons": []
     },
@@ -9520,7 +9564,12 @@
             }
         ],
         "gnd": "",
-        "msdesc": [],
+        "msdesc": [
+            {
+                "id": 85,
+                "value": "Cod. 12278"
+            }
+        ],
         "alt_name": "Missio Saxa-Dresdensis",
         "notes": "",
         "persons": []
@@ -10205,6 +10254,10 @@
         "gnd": "",
         "msdesc": [
             {
+                "id": 85,
+                "value": "Cod. 12278"
+            },
+            {
                 "id": 72,
                 "value": "Cod. 12233"
             }
@@ -10527,7 +10580,12 @@
             }
         ],
         "gnd": "",
-        "msdesc": [],
+        "msdesc": [
+            {
+                "id": 85,
+                "value": "Cod. 12278"
+            }
+        ],
         "alt_name": "Missio Rzimoviensis",
         "notes": "",
         "persons": []
@@ -11722,7 +11780,7 @@
     "227": {
         "id": 227,
         "order": "223.00000000000000000000",
-        "name": "Jesutienmission Moravec",
+        "name": "Jesuitenmission Moravec",
         "jesuiten_id": "jesuiten_org__227",
         "located_in": [
             {
@@ -12299,7 +12357,7 @@
     "249": {
         "id": 249,
         "order": "245.00000000000000000000",
-        "name": "Jesutienresidenz Cheb",
+        "name": "Jesuitenresidenz Cheb",
         "jesuiten_id": "jesuiten_org__249",
         "located_in": [
             {
@@ -12443,7 +12501,7 @@
     "254": {
         "id": 254,
         "order": "250.00000000000000000000",
-        "name": "Jesuitenmission in Moravské Budějovice",
+        "name": "Jesuitenmission Moravské Budějovice",
         "jesuiten_id": "jesuiten_org__254",
         "located_in": [
             {
@@ -12552,7 +12610,12 @@
             }
         ],
         "gnd": "",
-        "msdesc": [],
+        "msdesc": [
+            {
+                "id": 85,
+                "value": "Cod. 12278"
+            }
+        ],
         "alt_name": "Residentia Zampachensis",
         "notes": "",
         "persons": []
@@ -13100,7 +13163,7 @@
     "275": {
         "id": 275,
         "order": "265.00000000000000000000",
-        "name": "Jesuitenmissio Sibiu",
+        "name": "Jesuitenmission Sibiu",
         "jesuiten_id": "jesuiten_org__275",
         "located_in": [
             {
@@ -13263,7 +13326,7 @@
     "278": {
         "id": 278,
         "order": "268.00000000000000000000",
-        "name": "Jesuitenresidenz",
+        "name": "Jesuitenresidenz Kamianets-Podilskyi",
         "jesuiten_id": "jesuiten_org__278",
         "located_in": [
             {
@@ -13305,7 +13368,7 @@
     "280": {
         "id": 280,
         "order": "270.00000000000000000000",
-        "name": "Jesuitenmission in Wallachia",
+        "name": "Jesuitenmission Wallachia",
         "jesuiten_id": "jesuiten_org__280",
         "located_in": [
             {
@@ -13335,7 +13398,7 @@
     "281": {
         "id": 281,
         "order": "271.00000000000000000000",
-        "name": "Jesuitenmision Ukraina",
+        "name": "Jesuitenmission Ukraina",
         "jesuiten_id": "jesuiten_org__281",
         "located_in": [],
         "gnd": "",
@@ -13424,7 +13487,12 @@
             }
         ],
         "gnd": "",
-        "msdesc": [],
+        "msdesc": [
+            {
+                "id": 85,
+                "value": "Cod. 12278"
+            }
+        ],
         "alt_name": "Residentia Liebeschicensis",
         "notes": "",
         "persons": []
@@ -13479,38 +13547,13 @@
             }
         ],
         "gnd": "https://www.wikidata.org/wiki/Q28312735",
-        "msdesc": [],
-        "alt_name": "Residentia Tuchomericensis",
-        "notes": "",
-        "persons": []
-    },
-    "287": {
-        "id": 287,
-        "order": "277.00000000000000000000",
-        "name": "Jesuitenresidenz Stráž pod Ralskem",
-        "jesuiten_id": "jesuiten_org__287",
-        "located_in": [
+        "msdesc": [
             {
-                "id": 256,
-                "order": "248.00000000000000000000",
-                "name": "Stráž pod Ralskem",
-                "jesuiten_id": "jesuiten_place__256",
-                "geonames": "https://www.geonames.org/3064983/straz-pod-ralskem.html",
-                "lat": "50.70280",
-                "long": "14.80102",
-                "wikidata": "https://www.wikidata.org/wiki/Q1761686",
-                "alt_names": [
-                    {
-                        "id": 184,
-                        "value": "Wartenberg"
-                    }
-                ],
-                "msdesc": []
+                "id": 85,
+                "value": "Cod. 12278"
             }
         ],
-        "gnd": "",
-        "msdesc": [],
-        "alt_name": "Residentia Wartenbergensis",
+        "alt_name": "Residentia Tuchomericensis",
         "notes": "",
         "persons": []
     },
@@ -13713,6 +13756,361 @@
         "gnd": "",
         "msdesc": [],
         "alt_name": "",
+        "notes": "",
+        "persons": []
+    },
+    "293": {
+        "id": 293,
+        "order": "283.00000000000000000000",
+        "name": "Jesuitenmission Jablunkov Pass",
+        "jesuiten_id": "jesuiten_org__293",
+        "located_in": [
+            {
+                "id": 262,
+                "order": "254.00000000000000000000",
+                "name": "Jablunkov Pass",
+                "jesuiten_id": "jesuiten_place__262",
+                "geonames": "https://www.geonames.org/3074592/jablunkovsky-prusmyk.html",
+                "lat": "49.51667",
+                "long": "18.75000",
+                "wikidata": "https://www.wikidata.org/wiki/Q1319012",
+                "alt_names": [
+                    {
+                        "id": 188,
+                        "value": "Jablunkovský průsmyk"
+                    },
+                    {
+                        "id": 189,
+                        "value": "Passus ad Jabluncam"
+                    }
+                ],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio in Silesiae,Ungariaeque Passu ad Jabluncam",
+        "notes": "\"In missione hac, quae stationem quidem suam nacta in passu hoc silesiae ac ungariae inter praesidiarios milites, re autem vera magis in emolumentum rudis huius viciniae instituta est et in annum quintum nostrorum  et in annum quintum nostrorum cordi erat missionariorum ... \" (Cod. 12299, f. 76r).",
+        "persons": []
+    },
+    "294": {
+        "id": 294,
+        "order": "284.00000000000000000000",
+        "name": "Jesuitenmission Lichtensteinica Böhmen",
+        "jesuiten_id": "jesuiten_org__294",
+        "located_in": [],
+        "gnd": "",
+        "msdesc": [
+            {
+                "id": 85,
+                "value": "Cod. 12278"
+            }
+        ],
+        "alt_name": "Missio Lichtensteinensis",
+        "notes": "",
+        "persons": []
+    },
+    "295": {
+        "id": 295,
+        "order": "285.00000000000000000000",
+        "name": "Jesuitenmission in Jáchymov",
+        "jesuiten_id": "jesuiten_org__295",
+        "located_in": [
+            {
+                "id": 264,
+                "order": "256.00000000000000000000",
+                "name": "Jáchymov",
+                "jesuiten_id": "jesuiten_place__264",
+                "geonames": "https://www.geonames.org/3074587/jachymov.html",
+                "lat": "50.35846",
+                "long": "12.93465",
+                "wikidata": "https://www.wikidata.org/wiki/Q830418",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [
+            {
+                "id": 85,
+                "value": "Cod. 12278"
+            }
+        ],
+        "alt_name": "Missio in Valle S. Joachimi",
+        "notes": "",
+        "persons": []
+    },
+    "296": {
+        "id": 296,
+        "order": "286.00000000000000000000",
+        "name": "Jesuitenresidenz Opařany",
+        "jesuiten_id": "jesuiten_org__296",
+        "located_in": [
+            {
+                "id": 265,
+                "order": "257.00000000000000000000",
+                "name": "Opařany",
+                "jesuiten_id": "jesuiten_place__265",
+                "geonames": "https://www.geonames.org/3068950/oparany.html",
+                "lat": "49.39678",
+                "long": "14.48137",
+                "wikidata": "https://www.wikidata.org/wiki/Q1674877",
+                "alt_names": [
+                    {
+                        "id": 190,
+                        "value": "Woporschan"
+                    },
+                    {
+                        "id": 191,
+                        "value": "Woparzan"
+                    }
+                ],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [
+            {
+                "id": 85,
+                "value": "Cod. 12278"
+            }
+        ],
+        "alt_name": "Residentia Woparzanensis / Woparzana",
+        "notes": "",
+        "persons": []
+    },
+    "297": {
+        "id": 297,
+        "order": "287.00000000000000000000",
+        "name": "Jesuitenresidenz Brandýs nad Labem-Stará Boleslav",
+        "jesuiten_id": "jesuiten_org__297",
+        "located_in": [
+            {
+                "id": 266,
+                "order": "258.00000000000000000000",
+                "name": "Brandýs nad Labem-Stará Boleslav",
+                "jesuiten_id": "jesuiten_place__266",
+                "geonames": "https://www.geonames.org/3078837/brandys-nad-labem-stara-boleslav.html",
+                "lat": "50.18709",
+                "long": "14.66326",
+                "wikidata": "https://www.wikidata.org/wiki/Q898468",
+                "alt_names": [
+                    {
+                        "id": 192,
+                        "value": "Altbunzlau"
+                    }
+                ],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [
+            {
+                "id": 85,
+                "value": "Cod. 12278"
+            }
+        ],
+        "alt_name": "Residentia Vetero-Boleslaviensis / Boleslavia",
+        "notes": "",
+        "persons": []
+    },
+    "298": {
+        "id": 298,
+        "order": "288.00000000000000000000",
+        "name": "Jesuitenresidenz Strašnice",
+        "jesuiten_id": "jesuiten_org__298",
+        "located_in": [
+            {
+                "id": 267,
+                "order": "259.00000000000000000000",
+                "name": "Strašnice",
+                "jesuiten_id": "jesuiten_place__267",
+                "geonames": "https://www.geonames.org/3065304/stare-strasnice.html",
+                "lat": "50.07649",
+                "long": "14.51037",
+                "wikidata": "https://www.wikidata.org/wiki/Q2297365",
+                "alt_names": [
+                    {
+                        "id": 193,
+                        "value": "Strassnitium"
+                    }
+                ],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [
+            {
+                "id": 85,
+                "value": "Cod. 12278"
+            }
+        ],
+        "alt_name": "Residentia Strassnitiensis",
+        "notes": "",
+        "persons": []
+    },
+    "299": {
+        "id": 299,
+        "order": "289.00000000000000000000",
+        "name": "Jesuitenmission Poenitentia in Bohemia-Germanica",
+        "jesuiten_id": "jesuiten_org__299",
+        "located_in": [],
+        "gnd": "",
+        "msdesc": [
+            {
+                "id": 85,
+                "value": "Cod. 12278"
+            }
+        ],
+        "alt_name": "Missio de poenitentia in Boemia Germanica",
+        "notes": "",
+        "persons": []
+    },
+    "300": {
+        "id": 300,
+        "order": "290.00000000000000000000",
+        "name": "Jesuitenmission Poenitentia Bohemia Bohemica",
+        "jesuiten_id": "jesuiten_org__300",
+        "located_in": [],
+        "gnd": "",
+        "msdesc": [
+            {
+                "id": 85,
+                "value": "Cod. 12278"
+            }
+        ],
+        "alt_name": "Missio de Poenitentiae in Boemia Boemica",
+        "notes": "",
+        "persons": []
+    },
+    "301": {
+        "id": 301,
+        "order": "291.00000000000000000000",
+        "name": "Jesuitenmission Poenitentia Moravia",
+        "jesuiten_id": "jesuiten_org__301",
+        "located_in": [],
+        "gnd": "",
+        "msdesc": [
+            {
+                "id": 85,
+                "value": "Cod. 12278"
+            }
+        ],
+        "alt_name": "Missio de poenitentia Moravica",
+        "notes": "",
+        "persons": []
+    },
+    "302": {
+        "id": 302,
+        "order": "292.00000000000000000000",
+        "name": "Jesuitenmission Leipzig",
+        "jesuiten_id": "jesuiten_org__302",
+        "located_in": [
+            {
+                "id": 268,
+                "order": "260.00000000000000000000",
+                "name": "Leipzig",
+                "jesuiten_id": "jesuiten_place__268",
+                "geonames": "https://www.geonames.org/2879139/leipzig.html",
+                "lat": "51.33962",
+                "long": "12.37129",
+                "wikidata": "https://www.wikidata.org/wiki/Q2079",
+                "alt_names": [
+                    {
+                        "id": 194,
+                        "value": "Lipsia"
+                    }
+                ],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [
+            {
+                "id": 85,
+                "value": "Cod. 12278"
+            }
+        ],
+        "alt_name": "Missio Liepsiensis",
+        "notes": "",
+        "persons": []
+    },
+    "303": {
+        "id": 303,
+        "order": "293.00000000000000000000",
+        "name": "Jesuitenmission Hubertusburg",
+        "jesuiten_id": "jesuiten_org__303",
+        "located_in": [
+            {
+                "id": 269,
+                "order": "261.00000000000000000000",
+                "name": "Hubertusburg",
+                "jesuiten_id": "jesuiten_place__269",
+                "geonames": "https://www.geonames.org/2898171/hubertusburg.html",
+                "lat": "51.27782",
+                "long": "12.93904",
+                "wikidata": "https://www.wikidata.org/wiki/Q517828",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [
+            {
+                "id": 85,
+                "value": "Cod. 12278"
+            }
+        ],
+        "alt_name": "Missio Hubertuoburgensis",
+        "notes": "",
+        "persons": []
+    },
+    "304": {
+        "id": 304,
+        "order": "294.00000000000000000000",
+        "name": "Jesuitenmission Bohemia, Moravia, Silesia",
+        "jesuiten_id": "jesuiten_org__304",
+        "located_in": [
+            {
+                "id": 270,
+                "order": "262.00000000000000000000",
+                "name": "Silesia",
+                "jesuiten_id": "jesuiten_place__270",
+                "geonames": "https://www.geonames.org/3066138/silesia.html",
+                "lat": "51.00000",
+                "long": "18.00000",
+                "wikidata": "https://www.wikidata.org/wiki/Q81720",
+                "alt_names": [],
+                "msdesc": []
+            },
+            {
+                "id": 271,
+                "order": "263.00000000000000000000",
+                "name": "Moravia",
+                "jesuiten_id": "jesuiten_place__271",
+                "geonames": "https://www.geonames.org/3070359/moravia.html",
+                "lat": "49.50000",
+                "long": "17.00000",
+                "wikidata": "https://www.wikidata.org/wiki/Q43266",
+                "alt_names": [],
+                "msdesc": []
+            },
+            {
+                "id": 272,
+                "order": "264.00000000000000000000",
+                "name": "Bohemia",
+                "jesuiten_id": "jesuiten_place__272",
+                "geonames": "https://www.geonames.org/3078198/cechy.html",
+                "lat": "50.00000",
+                "long": "14.50000",
+                "wikidata": "https://www.wikidata.org/wiki/Q39193",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Archi-episcopalis, episcopales item per Bohemiam, Moraviam ac Silesiam",
         "notes": "",
         "persons": []
     }

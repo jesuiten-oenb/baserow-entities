@@ -156,7 +156,7 @@
       },
       {
         "id": 32,
-        "value": "Jesuitenmission in Košice"
+        "value": "Jesuitenmission Košice"
       },
       {
         "id": 33,
@@ -2764,10 +2764,6 @@
         "value": "Jesuitenresidenz Esztergom"
       },
       {
-        "id": 74,
-        "value": "Jesuitenresidenz Satu Mare"
-      },
-      {
         "id": 76,
         "value": "Jesuitenresidenz Odorheiu Secuiesc"
       },
@@ -2822,6 +2818,10 @@
       {
         "id": 91,
         "value": "Jesuitenkolleg Varaždin"
+      },
+      {
+        "id": 151,
+        "value": "Jesuitenresidenz Satu Mare"
       }
     ],
     "note_type_catalogue": "http://data.onb.ac.at/rec/AC13949758",
@@ -2984,6 +2984,81 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1711"
+  },
+  "82": {
+    "id": 82,
+    "order": "8.40000000000000035527",
+    "signatur": "Cod. 12299",
+    "jesuiten_id": "jesuiten_msdesc__82",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948660",
+    "title": "Litterae annuae provinciae Bohemiae Societatis Iesu a. 1713",
+    "date": "1714",
+    "persons": [],
+    "mentioned_places": [],
+    "note_type_facs": "",
+    "xml_id": "cod_12299",
+    "extent": "132, II* Bl.",
+    "height": "270",
+    "width": "190",
+    "foliation": "Moderne Foliierung.",
+    "acc_mat": "",
+    "binding": "Pappeinband mit Buntpapier kaschiert, 18. Jhdt.",
+    "summary": "Zusammengesetzte Handschrift aus den Berichten für das Jahr 1713 verschiedenen Domizilen in Böhmen. Auf ff. 3r-4v allgemeine Anzahl der Mitglieder und eine tabellarische Auflistung der Anzahl der Communicantes, Conversos, Dictiones ad populum, Catecheses, Sodalitates, Studioses und Seminaristas.",
+    "not_before": null,
+    "not_after": null,
+    "# when": "1714",
+    "date_letter": "1713"
+  },
+  "83": {
+    "id": 83,
+    "order": "8.42857142857142882519",
+    "signatur": "Cod. 12300",
+    "jesuiten_id": "jesuiten_msdesc__83",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948661",
+    "title": "Litterae annuae provinciae Bohemiae Societatis Iesu a. 1714",
+    "date": "1715",
+    "persons": [],
+    "mentioned_places": [],
+    "note_type_facs": "",
+    "xml_id": "cod_12300",
+    "extent": "II, 126, II* Bl.",
+    "height": "270",
+    "width": "190",
+    "foliation": "Moderne Foliierung.",
+    "acc_mat": "",
+    "binding": "Pergamenteinband mit buntem Marmorpappier beklebt.",
+    "summary": "Zusammengesetzte Handschrift aus den Berichten für das Jahr 1714 verschiedenen Domizilen in Böhmen.",
+    "not_before": null,
+    "not_after": null,
+    "# when": "1715",
+    "date_letter": "1714"
+  },
+  "84": {
+    "id": 84,
+    "order": "8.44444444444444464182",
+    "signatur": "Cod. 12301",
+    "jesuiten_id": "jesuiten_msdesc__84",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948662",
+    "title": "Litterae annuae provinciae Bohemiae Societatis Iesu a. 1715",
+    "date": "1716",
+    "persons": [],
+    "mentioned_places": [],
+    "note_type_facs": "",
+    "xml_id": "cod_12301",
+    "extent": "I, 161, I* Bl.",
+    "height": "265",
+    "width": "185",
+    "foliation": "Moderne Foliierung.",
+    "acc_mat": "",
+    "binding": "Pergamenteinband mit buntem Marmorpappier beklebt.",
+    "summary": "Zusammengesetzte Handschrift aus den Berichten für das Jahr 1715 verschiedenen Domizilen in Böhmen.",
+    "not_before": null,
+    "not_after": null,
+    "# when": "1716",
+    "date_letter": "1715"
   },
   "44": {
     "id": 44,
@@ -3275,6 +3350,212 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1752"
+  },
+  "85": {
+    "id": 85,
+    "order": "9.66666666666666607455",
+    "signatur": "Cod. 12278",
+    "jesuiten_id": "jesuiten_msdesc__85",
+    "mentioned_orgs": [
+      {
+        "id": 89,
+        "value": "Jesuitenkolleg Trenčín"
+      },
+      {
+        "id": 92,
+        "value": "Profeßhaus Prag"
+      },
+      {
+        "id": 93,
+        "value": "Jesuitenkolleg Březnice"
+      },
+      {
+        "id": 94,
+        "value": "Jesuitenresidenz Svatá Hora"
+      },
+      {
+        "id": 95,
+        "value": "Jesuitenkolleg Chomutov"
+      },
+      {
+        "id": 96,
+        "value": "Jesuitenkolleg Krumlov"
+      },
+      {
+        "id": 97,
+        "value": "Jesuitenkolleg Cheb"
+      },
+      {
+        "id": 98,
+        "value": "Jesuitenkolleg Jičín"
+      },
+      {
+        "id": 100,
+        "value": "Jesuitenkolleg Klatovy"
+      },
+      {
+        "id": 102,
+        "value": "Jesuitenkolleg Uherské Hradiště"
+      },
+      {
+        "id": 103,
+        "value": "Jesuitenkolleg Jihlava"
+      },
+      {
+        "id": 104,
+        "value": "Jesuitenkolleg Kutná Hora"
+      },
+      {
+        "id": 105,
+        "value": "Jesuitenresidenz Golčův Jeníkov"
+      },
+      {
+        "id": 108,
+        "value": "Jesuitenkolleg Litoměřice"
+      },
+      {
+        "id": 111,
+        "value": "Jesuitenkolleg Jindřichův Hradec"
+      },
+      {
+        "id": 112,
+        "value": "Jesuitenkolleg Olomouc"
+      },
+      {
+        "id": 113,
+        "value": "Jesuitenkolleg Opava"
+      },
+      {
+        "id": 116,
+        "value": "Jesuitenkolleg Prague ad S. Clementem"
+      },
+      {
+        "id": 117,
+        "value": "Jesuitenkolleg Hradec Králové"
+      },
+      {
+        "id": 120,
+        "value": "Jesuitenkolleg Telč"
+      },
+      {
+        "id": 122,
+        "value": "Jesuitenkolleg Znoymo"
+      },
+      {
+        "id": 160,
+        "value": "Probationshaus Brno"
+      },
+      {
+        "id": 123,
+        "value": "Jesuitenkolleg Brno"
+      },
+      {
+        "id": 124,
+        "value": "Jesuitenresidenz Tuřany"
+      },
+      {
+        "id": 133,
+        "value": "Jesuitenmission Pommersdorf"
+      },
+      {
+        "id": 132,
+        "value": "Jesuitenmission Brantice"
+      },
+      {
+        "id": 136,
+        "value": "Jesuitenresidenz Košumberk"
+      },
+      {
+        "id": 138,
+        "value": "Probationshaus Telč"
+      },
+      {
+        "id": 142,
+        "value": "Jesuitenresidenz Maria Scheinensis"
+      },
+      {
+        "id": 161,
+        "value": "Jesuitenmission Dresden"
+      },
+      {
+        "id": 197,
+        "value": "Jesuitenkolleg Prague ad S. Ignatium"
+      },
+      {
+        "id": 196,
+        "value": "Jesuitenmission Římov"
+      },
+      {
+        "id": 258,
+        "value": "Jesuitenresidenz Žampach"
+      },
+      {
+        "id": 284,
+        "value": "Jesuitenresidenz Liběšice"
+      },
+      {
+        "id": 286,
+        "value": "Jesuitenresidenz Tuchmeritz"
+      },
+      {
+        "id": 294,
+        "value": "Jesuitenmission Lichtensteinica Böhmen"
+      },
+      {
+        "id": 295,
+        "value": "Jesuitenmission in Jáchymov"
+      },
+      {
+        "id": 296,
+        "value": "Jesuitenresidenz Opařany"
+      },
+      {
+        "id": 297,
+        "value": "Jesuitenresidenz Brandýs nad Labem-Stará Boleslav"
+      },
+      {
+        "id": 298,
+        "value": "Jesuitenresidenz Strašnice"
+      },
+      {
+        "id": 299,
+        "value": "Jesuitenmission Poenitentia in Bohemia-Germanica"
+      },
+      {
+        "id": 300,
+        "value": "Jesuitenmission Poenitentia Bohemia Bohemica"
+      },
+      {
+        "id": 301,
+        "value": "Jesuitenmission Poenitentia Moravia"
+      },
+      {
+        "id": 302,
+        "value": "Jesuitenmission Leipzig"
+      },
+      {
+        "id": 303,
+        "value": "Jesuitenmission Hubertusburg"
+      }
+    ],
+    "note_type_catalogue": "",
+    "title": "Litterae annuae provinciae Bohemiae Societatis Iesu a. 1760",
+    "date": "1761–1763",
+    "persons": [],
+    "mentioned_places": [],
+    "note_type_facs": "",
+    "xml_id": "cod_12278",
+    "extent": "I, 93 Bl.",
+    "height": "355",
+    "width": "225",
+    "foliation": "Moderne Foliierung.",
+    "acc_mat": "",
+    "binding": "Pappeinband mit buntem Marmorpapier überzogen.",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist thematisch in 21 Kapitel gegliedert. Tabellarische Liste der Domizilen (fols. 4v-7v) hier nur vereinzelt erschlossen.",
+    "not_before": "1761",
+    "not_after": "1763",
+    "# when": "",
+    "date_letter": "1760"
   },
   "13": {
     "id": 13,
@@ -5067,7 +5348,7 @@
       },
       {
         "id": 32,
-        "value": "Jesuitenmission in Košice"
+        "value": "Jesuitenmission Košice"
       },
       {
         "id": 33,
@@ -5272,8 +5553,8 @@
     "width": "180",
     "foliation": "Moderne Foliierung.",
     "acc_mat": "",
-    "binding": "Pappeinband mit Buntpapier kaschiert. Wien, 18. Jhdt.",
-    "summary": "Zusammengesetzte Handschrift aus den Berichten für das Jahr 1711 verschiedenen Häusern in Böhmen. Auf ff. 2r-3v allgemeine Anzahl der Mitglieder und eine tabellarische Auflistung der Anzahl der Communicantes, Conversos, Dictiones ad populum, Catecheses, Sodalitates, Studioses und Seminaristas.",
+    "binding": "Pappeinband mit Buntpapier kaschiert, 18. Jhdt.",
+    "summary": "Zusammengesetzte Handschrift aus den Berichten für das Jahr 1712 verschiedenen Häusern in Böhmen. Auf ff. 2r-3v allgemeine Anzahl der Mitglieder und eine tabellarische Auflistung der Anzahl der Communicantes, Conversos, Dictiones ad populum, Catecheses, Sodalitates, Studioses und Seminaristas.",
     "not_before": null,
     "not_after": null,
     "# when": "1713",

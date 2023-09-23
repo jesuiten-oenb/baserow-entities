@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cod_12291.xml" xml:base="https://oenb.ac.at" prev="https://oenb.ac.at/cod_12290.xml" next="https://oenb.ac.at/cod_12292.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cod_12300.xml" xml:base="https://oenb.ac.at" prev="https://oenb.ac.at/cod_12299.xml" next="https://oenb.ac.at/cod_12301.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">Wien, Österreichische nationalbibliothek, Cod. 12291</title>
+                <title type="main">Wien, Österreichische nationalbibliothek, Cod. 12300</title>
                 <title type="sub">Jesuiten Littera annuae</title>
                 <respStmt>
                     <resp>Beschreibung und TEI-encoding</resp>
@@ -19,29 +19,28 @@
                 </availability>
             </publicationStmt>
             <sourceDesc>
-                <msDesc xml:lang="de" xml:id="cod_12291">
+                <msDesc xml:lang="de" xml:id="cod_12300">
                     <msIdentifier>
                         <country>Österreich</country>
                         <settlement>Wien</settlement>
                         <repository>Österreichische Nationalbibliothek</repository>
-                        <idno>Cod. 12291</idno>
+                        <idno>Cod. 12300</idno>
                     </msIdentifier>
                     <head>
-                        <title>Litterae annuae provinciae Bohemiae Societatis Iesu a. 1705</title>
-                        <origDate notBefore="1706-01-01">ab 1706</origDate>
+                        <title>Litterae annuae provinciae Bohemiae Societatis Iesu a. 1714</title>
                         <note type="catalogue">
-                            <ref target="http://data.onb.ac.at/rec/AC13948625"/>
+                            <ref target="http://data.onb.ac.at/rec/AC13948661"/>
                         </note>
                     </head>
                     <msContents>                   
                         <summary>
-                                Zusammengesetzte Handschrift aus den Berichten verschiedenen Häusern in Böhmen. Auf ff. 1r-3v allgemeine Anzahl der Mitglieder und eine tabellarische Auflistung der Anzahl der Communicantes, Conversos, Dictiones ad populum, Catecheses, Sodalitates, Studioses und Seminaristas. 
+                                Zusammengesetzte Handschrift aus den Berichten für das Jahr 1714 verschiedenen Domizilen in Böhmen. 
                                 
                         </summary> 
                         <textLang mainLang="lat"/>
                         
                                 <msItem n="None">
-                                    <locus from="5r" to="8r">5r-8r</locus>
+                                    <locus from="4r" to="6r">4r-6r</locus>
                                     <note>
                                         <listOrg>
                                         <org>
@@ -51,11 +50,21 @@
                                     </note>
                                 </msItem>
                                 <msItem n="None">
-                                    <locus from="8r" to="8v">8r-8v</locus>
+                                    <locus from="6r" to="6v">6r-6v</locus>
                                     <note>
                                         <listOrg>
                                         <org>
                                             <orgName key="#jesuiten_org__41">Missio Castrensis</orgName>
+                                        </org>
+                                    </listOrg>
+                                    </note>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="7r" to="8v">7r-8v</locus>
+                                    <note>
+                                        <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__161">Jesuitenmission Dresden</orgName>
                                         </org>
                                     </listOrg>
                                     </note>
@@ -71,7 +80,7 @@
                                     </note>
                                 </msItem>
                                 <msItem n="None">
-                                    <locus from="11r" to="14v">11r-14v</locus>
+                                    <locus from="11r" to="13v">11r-13v</locus>
                                     <note>
                                         <listOrg>
                                         <org>
@@ -91,7 +100,7 @@
                                     </note>
                                 </msItem>
                                 <msItem n="None">
-                                    <locus from="17r" to="18v">17r-18v</locus>
+                                    <locus from="17r" to="19v">17r-19v</locus>
                                     <note>
                                         <listOrg>
                                         <org>
@@ -101,7 +110,7 @@
                                     </note>
                                 </msItem>
                                 <msItem n="None">
-                                    <locus from="19r" to="22r">19r-22r</locus>
+                                    <locus from="21r" to="22v">21r-22v</locus>
                                     <note>
                                         <listOrg>
                                         <org>
@@ -111,7 +120,7 @@
                                     </note>
                                 </msItem>
                                 <msItem n="None">
-                                    <locus from="23r" to="24v">23r-24v</locus>
+                                    <locus from="23r" to="25v">23r-25v</locus>
                                     <note>
                                         <listOrg>
                                         <org>
@@ -121,7 +130,7 @@
                                     </note>
                                 </msItem>
                                 <msItem n="None">
-                                    <locus from="25r" to="27r">25r-27r</locus>
+                                    <locus from="27r" to="29r">27r-29r</locus>
                                     <note>
                                         <listOrg>
                                         <org>
@@ -131,11 +140,18 @@
                                     </note>
                                 </msItem>
                                 <msItem n="None">
-                                    <locus from="29r" to="32v">29r-32v</locus>
-                                    <title>Missio patrum teriae probationis Giezinii</title>
+                                    <locus from="29r" to="30v">29r-30v</locus>
+                                    <title>Fructus missionis patrum</title>
+                                    <note>
+                                        <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__159">Probationshaus Jičín</orgName>
+                                        </org>
+                                    </listOrg>
+                                    </note>
                                 </msItem>
                                 <msItem n="None">
-                                    <locus from="33r" to="36r">33r-36r</locus>
+                                    <locus from="31r" to="35v">31r-35v</locus>
                                     <note>
                                         <listOrg>
                                         <org>
@@ -145,7 +161,7 @@
                                     </note>
                                 </msItem>
                                 <msItem n="None">
-                                    <locus from="37r" to="38v">37r-38v</locus>
+                                    <locus from="36r" to="37v">36r-37v</locus>
                                     <note>
                                         <listOrg>
                                         <org>
@@ -155,7 +171,7 @@
                                     </note>
                                 </msItem>
                                 <msItem n="None">
-                                    <locus from="39r" to="42v">39r-42v</locus>
+                                    <locus from="38r" to="39v">38r-39v</locus>
                                     <note>
                                         <listOrg>
                                         <org>
@@ -165,7 +181,7 @@
                                     </note>
                                 </msItem>
                                 <msItem n="None">
-                                    <locus from="43r" to="46r">43r-46r</locus>
+                                    <locus from="40r" to="41v">40r-41v</locus>
                                     <note>
                                         <listOrg>
                                         <org>
@@ -175,11 +191,7 @@
                                     </note>
                                 </msItem>
                                 <msItem n="None">
-                                    <locus from="46r" to="46v">46r-46v</locus>
-                                    <title>Annua missionis in montanis Hungariam versus</title>
-                                </msItem>
-                                <msItem n="None">
-                                    <locus from="47r" to="50v">47r-50v</locus>
+                                    <locus from="42r" to="44r">42r-44r</locus>
                                     <note>
                                         <listOrg>
                                         <org>
@@ -189,7 +201,7 @@
                                     </note>
                                 </msItem>
                                 <msItem n="None">
-                                    <locus from="51r" to="52v">51r-52v</locus>
+                                    <locus from="46r" to="48v">46r-48v</locus>
                                     <note>
                                         <listOrg>
                                         <org>
@@ -199,7 +211,17 @@
                                     </note>
                                 </msItem>
                                 <msItem n="None">
-                                    <locus from="53r" to="54v">53r-54v</locus>
+                                    <locus from="49r" to="49v">49r-49v</locus>
+                                    <note>
+                                        <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__105">Jesuitenresidenz Golčův Jeníkov</orgName>
+                                        </org>
+                                    </listOrg>
+                                    </note>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="50r" to="52r">50r-52r</locus>
                                     <note>
                                         <listOrg>
                                         <org>
@@ -209,7 +231,7 @@
                                     </note>
                                 </msItem>
                                 <msItem n="None">
-                                    <locus from="55r" to="55v">55r-55v</locus>
+                                    <locus from="52v" to="54v">52v-54v</locus>
                                     <note>
                                         <listOrg>
                                         <org>
@@ -219,7 +241,7 @@
                                     </note>
                                 </msItem>
                                 <msItem n="None">
-                                    <locus from="56r" to="57v">56r-57v</locus>
+                                    <locus from="55r" to="56v">55r-56v</locus>
                                     <note>
                                         <listOrg>
                                         <org>
@@ -229,7 +251,7 @@
                                     </note>
                                 </msItem>
                                 <msItem n="None">
-                                    <locus from="58r" to="59v">58r-59v</locus>
+                                    <locus from="57r" to="60r">57r-60r</locus>
                                     <note>
                                         <listOrg>
                                         <org>
@@ -239,7 +261,7 @@
                                     </note>
                                 </msItem>
                                 <msItem n="None">
-                                    <locus from="60r" to="63r">60r-63r</locus>
+                                    <locus from="61r" to="63r">61r-63r</locus>
                                     <note>
                                         <listOrg>
                                         <org>
@@ -249,7 +271,7 @@
                                     </note>
                                 </msItem>
                                 <msItem n="None">
-                                    <locus from="64r" to="67v">64r-67v</locus>
+                                    <locus from="65r" to="68r">65r-68r</locus>
                                     <note>
                                         <listOrg>
                                         <org>
@@ -259,7 +281,7 @@
                                     </note>
                                 </msItem>
                                 <msItem n="None">
-                                    <locus from="68r" to="69v">68r-69v</locus>
+                                    <locus from="69r" to="74r">69r-74r</locus>
                                     <note>
                                         <listOrg>
                                         <org>
@@ -269,7 +291,7 @@
                                     </note>
                                 </msItem>
                                 <msItem n="None">
-                                    <locus from="70r" to="72v">70r-72v</locus>
+                                    <locus from="75r" to="77v">75r-77v</locus>
                                     <note>
                                         <listOrg>
                                         <org>
@@ -279,10 +301,7 @@
                                     </note>
                                 </msItem>
                                 <msItem n="None">
-                                    <locus from="72v" to="73v">72v-73v</locus>
-                                </msItem>
-                                <msItem n="None">
-                                    <locus from="73v" to="74r">73v-74r</locus>
+                                    <locus from="77v" to="78r">77v-78r</locus>
                                     <note>
                                         <listOrg>
                                         <org>
@@ -292,7 +311,7 @@
                                     </note>
                                 </msItem>
                                 <msItem n="None">
-                                    <locus from="74r" to="75v">74r-75v</locus>
+                                    <locus from="78r" to="78v">78r-78v</locus>
                                     <note>
                                         <listOrg>
                                         <org>
@@ -302,7 +321,17 @@
                                     </note>
                                 </msItem>
                                 <msItem n="None">
-                                    <locus from="76r" to="77v">76r-77v</locus>
+                                    <locus from="79r" to="82r">79r-82r</locus>
+                                    <note>
+                                        <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__140">Jesuitenresidenz Cieszyn</orgName>
+                                        </org>
+                                    </listOrg>
+                                    </note>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="83r" to="84v">83r-84v</locus>
                                     <note>
                                         <listOrg>
                                         <org>
@@ -312,7 +341,7 @@
                                     </note>
                                 </msItem>
                                 <msItem n="None">
-                                    <locus from="78r" to="79v">78r-79v</locus>
+                                    <locus from="85r" to="86v">85r-86v</locus>
                                     <note>
                                         <listOrg>
                                         <org>
@@ -322,7 +351,7 @@
                                     </note>
                                 </msItem>
                                 <msItem n="None">
-                                    <locus from="80r" to="81v">80r-81v</locus>
+                                    <locus from="87r" to="88v">87r-88v</locus>
                                     <note>
                                         <listOrg>
                                         <org>
@@ -332,7 +361,7 @@
                                     </note>
                                 </msItem>
                                 <msItem n="None">
-                                    <locus from="81r" to="89v">81r-89v</locus>
+                                    <locus from="89r" to="92r">89r-92r</locus>
                                     <note>
                                         <listOrg>
                                         <org>
@@ -342,7 +371,7 @@
                                     </note>
                                 </msItem>
                                 <msItem n="None">
-                                    <locus from="90r" to="92r">90r-92r</locus>
+                                    <locus from="93r" to="96r">93r-96r</locus>
                                     <note>
                                         <listOrg>
                                         <org>
@@ -352,7 +381,7 @@
                                     </note>
                                 </msItem>
                                 <msItem n="None">
-                                    <locus from="92r" to="93r">92r-93r</locus>
+                                    <locus from="97r" to="98v">97r-98v</locus>
                                     <note>
                                         <listOrg>
                                         <org>
@@ -362,7 +391,7 @@
                                     </note>
                                 </msItem>
                                 <msItem n="None">
-                                    <locus from="94r" to="95r">94r-95r</locus>
+                                    <locus from="99r" to="100v">99r-100v</locus>
                                     <note>
                                         <listOrg>
                                         <org>
@@ -372,7 +401,7 @@
                                     </note>
                                 </msItem>
                                 <msItem n="None">
-                                    <locus from="96r" to="98v">96r-98v</locus>
+                                    <locus from="102r" to="106r">102r-106r</locus>
                                     <note>
                                         <listOrg>
                                         <org>
@@ -382,7 +411,7 @@
                                     </note>
                                 </msItem>
                                 <msItem n="None">
-                                    <locus from="98v" to="99v">98v-99v</locus>
+                                    <locus from="107r" to="108v">107r-108v</locus>
                                     <note>
                                         <listOrg>
                                         <org>
@@ -392,7 +421,21 @@
                                     </note>
                                 </msItem>
                                 <msItem n="None">
-                                    <locus from="100r" to="101v">100r-101v</locus>
+                                    <locus from="109r" to="110v">109r-110v</locus>
+                                    <note>
+                                        <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__120">Jesuitenkolleg Telč</orgName>
+                                        </org>
+                                        <org>
+                                            <orgName key="#jesuiten_org__138">Probationshaus Telč</orgName>
+                                        </org>
+                                    </listOrg>
+                                    </note>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="111r" to="112r">111r-112r</locus>
+                                    <title>Annuae missionis patrum</title>
                                     <note>
                                         <listOrg>
                                         <org>
@@ -402,11 +445,7 @@
                                     </note>
                                 </msItem>
                                 <msItem n="None">
-                                    <locus from="102r" to="103v">102r-103v</locus>
-                                    <title>Missio patrum probationis Telczii</title>
-                                </msItem>
-                                <msItem n="None">
-                                    <locus from="104r" to="107v">104r-107v</locus>
+                                    <locus from="113r" to="116v">113r-116v</locus>
                                     <note>
                                         <listOrg>
                                         <org>
@@ -416,7 +455,7 @@
                                     </note>
                                 </msItem>
                                 <msItem n="None">
-                                    <locus from="108r" to="109r">108r-109r</locus>
+                                    <locus from="116v" to="117r">116v-117r</locus>
                                     <note>
                                         <listOrg>
                                         <org>
@@ -426,7 +465,7 @@
                                     </note>
                                 </msItem>
                                 <msItem n="None">
-                                    <locus from="110r" to="112r">110r-112r</locus>
+                                    <locus from="118r" to="120r">118r-120r</locus>
                                     <note>
                                         <listOrg>
                                         <org>
@@ -436,7 +475,7 @@
                                     </note>
                                 </msItem>
                                 <msItem n="None">
-                                    <locus from="114r" to="117r">114r-117r</locus>
+                                    <locus from="121r" to="125v">121r-125v</locus>
                                     <note>
                                         <listOrg>
                                         <org>
@@ -449,7 +488,7 @@
                                     </note>
                                 </msItem>
                                 <msItem n="None">
-                                    <locus from="118r" to="121v">118r-121v</locus>
+                                    <locus from="126r" to="126v">126r-126v</locus>
                                     <note>
                                         <listOrg>
                                         <org>
@@ -467,10 +506,10 @@
                             <supportDesc material="paper">
                                 <support>Papier</support>
                                 <extent>
-                                    <measure type="leavesCount" unit="folio">I, 121 Bl.</measure>
+                                    <measure type="leavesCount" unit="folio">II, 126, II* Bl.</measure>
                                     <dimensions type="leaf_current" unit="mm">
-                                        <height>260</height>
-                                        <width>193</width>
+                                        <height>270</height>
+                                        <width>190</width>
                                     </dimensions>
                                 </extent>
                                 <foliation>Moderne Foliierung.</foliation>
@@ -479,7 +518,7 @@
                         </objectDesc>
                         <bindingDesc>
                             <binding>
-                                <p>Pappeinband mit grünlichem Buntpapier kaschiert. Wien, 19. Jhdt.</p>
+                                <p>Pergamenteinband mit buntem Marmorpappier beklebt.</p>
                             </binding>
                         </bindingDesc>
                         <accMat/>                        
@@ -546,6 +585,16 @@
                   </location>
                   <note>http://reholnici.hiu.cas.cz/katalog/l.dll?hal~1000099841</note>
                <noteGrp><note target="cod_11960.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11960</note><note target="cod_12001.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12001</note><note target="cod_12278.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12278</note><note target="cod_12288.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12288</note><note target="cod_12289.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12289</note><note target="cod_12290.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12290</note><note target="cod_12291.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12291</note><note target="cod_12292.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12292</note><note target="cod_12293.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12293</note><note target="cod_12294.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12294</note><note target="cod_12295.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12295</note><note target="cod_12296.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12296</note><note target="cod_12297.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12297</note><note target="cod_12298.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12298</note><note target="cod_12299.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12299</note><note target="cod_12300.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12300</note><note target="cod_12301.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12301</note></noteGrp></org>
+               <org xml:id="jesuiten_org__105">
+                  <orgName>Jesuitenresidenz Golčův Jeníkov</orgName>
+                  <orgName type="alt">Residentia Jenikoviensis</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__109">Golčův Jeníkov</placeName>
+                     <geo>49.81626 15.47686</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/3076098/</idno></note>
+                  </location>
+                  <note>http://reholnici.hiu.cas.cz/katalog/l.dll?hal~1000101632</note>
+               <noteGrp><note target="cod_12001.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12001</note><note target="cod_12278.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12278</note><note target="cod_12288.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12288</note><note target="cod_12289.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12289</note><note target="cod_12292.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12292</note><note target="cod_12293.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12293</note><note target="cod_12294.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12294</note><note target="cod_12295.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12295</note><note target="cod_12297.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12297</note><note target="cod_12298.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12298</note><note target="cod_12299.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12299</note><note target="cod_12300.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12300</note><note target="cod_12301.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12301</note></noteGrp></org>
                <org xml:id="jesuiten_org__104">
                   <orgName>Jesuitenkolleg Kutná Hora</orgName>
                   <orgName type="alt">Collegium Kuttenbergense</orgName>
@@ -556,6 +605,24 @@
                   </location>
                   <note>http://reholnici.hiu.cas.cz/katalog/l.dll?hal~1000099832</note>
                <noteGrp><note target="cod_11960.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11960</note><note target="cod_12278.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12278</note><note target="cod_12288.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12288</note><note target="cod_12289.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12289</note><note target="cod_12290.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12290</note><note target="cod_12291.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12291</note><note target="cod_12292.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12292</note><note target="cod_12293.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12293</note><note target="cod_12294.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12294</note><note target="cod_12295.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12295</note><note target="cod_12296.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12296</note><note target="cod_12297.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12297</note><note target="cod_12298.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12298</note><note target="cod_12299.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12299</note><note target="cod_12300.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12300</note><note target="cod_12301.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12301</note></noteGrp></org>
+               <org xml:id="jesuiten_org__161">
+                  <orgName>Jesuitenmission Dresden</orgName>
+                  <orgName type="alt">Missio Saxa-Dresdensis</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__132">Dresden</placeName>
+                     <geo>51.05089 13.73832</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/2935022/</idno></note>
+                  </location>
+               <noteGrp><note target="cod_12278.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12278</note><note target="cod_12296.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12296</note><note target="cod_12299.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12299</note><note target="cod_12300.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12300</note><note target="cod_12301.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12301</note></noteGrp></org>
+               <org xml:id="jesuiten_org__140">
+                  <orgName>Jesuitenresidenz Cieszyn</orgName>
+                  <orgName type="alt">Residentia Teschinensis</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__129">Cieszyn</placeName>
+                     <geo>49.75133 18.63213</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/3101321/</idno></note>
+                  </location>
+               <noteGrp><note target="cod_12001.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12001</note><note target="cod_12288.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12288</note><note target="cod_12292.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12292</note><note target="cod_12293.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12293</note><note target="cod_12294.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12294</note><note target="cod_12296.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12296</note><note target="cod_12298.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12298</note><note target="cod_12299.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12299</note><note target="cod_12300.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12300</note><note target="cod_12301.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12301</note></noteGrp></org>
                <org xml:id="jesuiten_org__41">
                   <orgName>Missio Castrensis</orgName>
                   <orgName type="alt">Missio Castrensis</orgName>
@@ -587,6 +654,15 @@
                      <note type="idno"><idno type="geonames">https://sws.geonames.org/3088363/</idno></note>
                   </location>
                <noteGrp><note target="cod_12278.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12278</note><note target="cod_12289.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12289</note><note target="cod_12290.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12290</note><note target="cod_12291.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12291</note><note target="cod_12292.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12292</note><note target="cod_12293.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12293</note><note target="cod_12294.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12294</note><note target="cod_12295.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12295</note><note target="cod_12296.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12296</note><note target="cod_12297.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12297</note><note target="cod_12299.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12299</note><note target="cod_12300.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12300</note><note target="cod_12301.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12301</note></noteGrp></org>
+               <org xml:id="jesuiten_org__120">
+                  <orgName>Jesuitenkolleg Telč</orgName>
+                  <orgName type="alt">Collegium Telczense et domus tertiae probationis</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__120">Telč</placeName>
+                     <geo>49.18418 15.45275</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/3064316/</idno></note>
+                  </location>
+               <noteGrp><note target="cod_12278.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12278</note><note target="cod_12288.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12288</note><note target="cod_12289.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12289</note><note target="cod_12292.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12292</note><note target="cod_12295.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12295</note><note target="cod_12296.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12296</note><note target="cod_12299.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12299</note><note target="cod_12300.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12300</note><note target="cod_12301.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12301</note></noteGrp></org>
                <org xml:id="jesuiten_org__197">
                   <orgName>Jesuitenkolleg Prague ad S. Ignatium</orgName>
                   <orgName type="alt">Collegium Pragae ad S. Ignatium / Collegium Neopragense</orgName>
@@ -709,16 +785,15 @@
                      <note type="idno"><idno type="geonames">https://sws.geonames.org/3074204/</idno></note>
                   </location>
                <noteGrp><note target="cod_11960.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11960</note><note target="cod_12001.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12001</note><note target="cod_12278.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12278</note><note target="cod_12288.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12288</note><note target="cod_12289.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12289</note><note target="cod_12290.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12290</note><note target="cod_12291.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12291</note><note target="cod_12292.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12292</note><note target="cod_12293.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12293</note><note target="cod_12294.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12294</note><note target="cod_12295.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12295</note><note target="cod_12296.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12296</note><note target="cod_12298.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12298</note><note target="cod_12299.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12299</note><note target="cod_12300.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12300</note><note target="cod_12301.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12301</note></noteGrp></org>
-               <org xml:id="jesuiten_org__115">
-                  <orgName>Jesuitenkolleg Opole</orgName>
-                  <orgName type="alt">Collegium Oppoliense</orgName>
+               <org xml:id="jesuiten_org__159">
+                  <orgName>Probationshaus Jičín</orgName>
+                  <orgName type="alt">Domus Tertiae Probationis Giczinii (Cod. 12294) / Gitzinii</orgName>
                   <location type="located_in_place">
-                     <placeName key="jesuiten_place__116">Opole</placeName>
-                     <geo>50.67211 17.92533</geo>
-                     <note type="idno"><idno type="geonames">https://sws.geonames.org/3090048/</idno></note>
+                     <placeName key="jesuiten_place__102">Jičín</placeName>
+                     <geo>50.43723 15.35162</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/3074204/</idno></note>
                   </location>
-                  <note>http://reholnici.hiu.cas.cz/katalog/l.dll?hal~1000099851</note>
-               <noteGrp><note target="cod_12288.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12288</note><note target="cod_12289.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12289</note><note target="cod_12290.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12290</note><note target="cod_12291.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12291</note><note target="cod_12292.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12292</note><note target="cod_12293.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12293</note><note target="cod_12294.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12294</note><note target="cod_12295.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12295</note><note target="cod_12296.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12296</note><note target="cod_12297.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12297</note><note target="cod_12298.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12298</note><note target="cod_12299.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12299</note><note target="cod_12300.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12300</note><note target="cod_12301.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12301</note></noteGrp></org>
+               <noteGrp><note target="cod_12294.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12294</note><note target="cod_12295.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12295</note><note target="cod_12297.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12297</note><note target="cod_12298.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12298</note><note target="cod_12300.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12300</note><note target="cod_12301.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12301</note></noteGrp></org>
                <org xml:id="jesuiten_org__97">
                   <orgName>Jesuitenkolleg Cheb</orgName>
                   <orgName type="alt">Collegium Egrense</orgName>
@@ -739,6 +814,16 @@
                   </location>
                   <note>http://reholnici.hiu.cas.cz/katalog/l.dll?hal~1000099827</note>
                <noteGrp><note target="cod_11960.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11960</note><note target="cod_12001.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12001</note><note target="cod_12278.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12278</note><note target="cod_12288.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12288</note><note target="cod_12289.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12289</note><note target="cod_12290.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12290</note><note target="cod_12291.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12291</note><note target="cod_12292.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12292</note><note target="cod_12293.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12293</note><note target="cod_12294.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12294</note><note target="cod_12295.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12295</note><note target="cod_12296.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12296</note><note target="cod_12297.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12297</note><note target="cod_12298.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12298</note><note target="cod_12299.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12299</note><note target="cod_12300.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12300</note><note target="cod_12301.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12301</note></noteGrp></org>
+               <org xml:id="jesuiten_org__115">
+                  <orgName>Jesuitenkolleg Opole</orgName>
+                  <orgName type="alt">Collegium Oppoliense</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__116">Opole</placeName>
+                     <geo>50.67211 17.92533</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/3090048/</idno></note>
+                  </location>
+                  <note>http://reholnici.hiu.cas.cz/katalog/l.dll?hal~1000099851</note>
+               <noteGrp><note target="cod_12288.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12288</note><note target="cod_12289.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12289</note><note target="cod_12290.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12290</note><note target="cod_12291.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12291</note><note target="cod_12292.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12292</note><note target="cod_12293.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12293</note><note target="cod_12294.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12294</note><note target="cod_12295.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12295</note><note target="cod_12296.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12296</note><note target="cod_12297.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12297</note><note target="cod_12298.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12298</note><note target="cod_12299.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12299</note><note target="cod_12300.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12300</note><note target="cod_12301.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12301</note></noteGrp></org>
                <org xml:id="jesuiten_org__138">
                   <orgName>Probationshaus Telč</orgName>
                   <orgName type="alt">Domus Tertiae probationis Telczii</orgName>
