@@ -50026,12 +50026,20 @@
         "value": "Jesuitenkolleg Wien"
       },
       {
+        "id": 3,
+        "value": "Jesuitenresidenz S. Bernardi"
+      },
+      {
         "id": 4,
         "value": "Probationshaus Wien"
       },
       {
         "id": 5,
         "value": "Jesuitenkolleg Graz"
+      },
+      {
+        "id": 7,
+        "value": "Jesuitenresidenz Millstatt"
       },
       {
         "id": 8,
@@ -50058,12 +50066,28 @@
         "value": "Jesuitenkolleg Ljubljana"
       },
       {
+        "id": 14,
+        "value": "Jesuitenresidenz Šentjernej"
+      },
+      {
         "id": 16,
         "value": "Jesuitenkolleg Klagenfurt"
       },
       {
+        "id": 17,
+        "value": "Jesuitenresidenz Eberndorf"
+      },
+      {
         "id": 18,
         "value": "Jesuitenkolleg Zagreb"
+      },
+      {
+        "id": 27,
+        "value": "Jesuitenresidenz Traunkirchen"
+      },
+      {
+        "id": 29,
+        "value": "Jesuitenmission Spiš"
       },
       {
         "id": 35,
@@ -50086,12 +50110,40 @@
         "value": "Jesuitenkolleg Rijeka"
       },
       {
+        "id": 41,
+        "value": "Missio Castrensis"
+      },
+      {
+        "id": 44,
+        "value": "Jesuitenresidenz Varaždin"
+      },
+      {
+        "id": 47,
+        "value": "Jesuitenresidenz Gyöngyös"
+      },
+      {
         "id": 52,
         "value": "Jesuitenkolleg Leoben"
       },
       {
         "id": 53,
         "value": "Jesuitenkolleg Steyr"
+      },
+      {
+        "id": 54,
+        "value": "Jesuitenresidenz Komarom"
+      },
+      {
+        "id": 55,
+        "value": "Jesuitenresidenz Žireč"
+      },
+      {
+        "id": 64,
+        "value": "Jesuitenresidenz Kláštor pod Znievom"
+      },
+      {
+        "id": 70,
+        "value": "Jesuitenresidenz Sárospatak"
       },
       {
         "id": 79,
@@ -50106,8 +50158,60 @@
         "value": "Jesuitenkolleg Trenčín"
       },
       {
+        "id": 128,
+        "value": "Jesuitenmission Pécs"
+      },
+      {
+        "id": 151,
+        "value": "Jesuitenresidenz Satu Mare"
+      },
+      {
+        "id": 202,
+        "value": "Jesuitenresidenz Banská Bystrica"
+      },
+      {
+        "id": 272,
+        "value": "Jesuitenmission Leopoldov"
+      },
+      {
         "id": 292,
         "value": "Jesuitenkolleg Uzhhorod"
+      },
+      {
+        "id": 305,
+        "value": "Jesuitenresidenz Levoča"
+      },
+      {
+        "id": 306,
+        "value": "Jesutienmission Dacia"
+      },
+      {
+        "id": 307,
+        "value": "Jesuitenmission Rosemberg"
+      },
+      {
+        "id": 308,
+        "value": "Jesuitenmission Prešov"
+      },
+      {
+        "id": 309,
+        "value": "Jesuitenmission Banská Štiavnica"
+      },
+      {
+        "id": 310,
+        "value": "Jesuitenmission Rožňava"
+      },
+      {
+        "id": 311,
+        "value": "Jesutienmission Baia Mare"
+      },
+      {
+        "id": 312,
+        "value": "Jesutienmission Veszprém"
+      },
+      {
+        "id": 313,
+        "value": "Jesuitenmission Žilina"
       }
     ],
     "year": null
@@ -55219,6 +55323,956 @@
     "locus_text": "77v-93r",
     "places": [],
     "orgs": [],
+    "year": null
+  },
+  "1966": {
+    "id": 1966,
+    "order": "1918.00000000000000000000",
+    "name": [
+      {
+        "id": 86,
+        "value": "cod_12051__1966"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 86,
+        "value": "Cod. 12051"
+      }
+    ],
+    "order_number": null,
+    "title": "Literae annuae prov. Autriae de a. 1654",
+    "locus_from": "1",
+    "locus_to": "45",
+    "locus_text": "1-45",
+    "places": [],
+    "orgs": [],
+    "year": null
+  },
+  "1967": {
+    "id": 1967,
+    "order": "1919.00000000000000000000",
+    "name": [
+      {
+        "id": 86,
+        "value": "cod_12051__1967"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 86,
+        "value": "Cod. 12051"
+      }
+    ],
+    "order_number": null,
+    "title": "Missiones per Austriam reformandae fidei causa",
+    "locus_from": "45",
+    "locus_to": "50",
+    "locus_text": "45-50",
+    "places": [],
+    "orgs": [],
+    "year": null
+  },
+  "1968": {
+    "id": 1968,
+    "order": "1920.00000000000000000000",
+    "name": [
+      {
+        "id": 86,
+        "value": "cod_12051__1968"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 86,
+        "value": "Cod. 12051"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "61",
+    "locus_to": "65",
+    "locus_text": "61-65",
+    "places": [],
+    "orgs": [
+      {
+        "id": 1,
+        "value": "Profeßhaus Wien"
+      }
+    ],
+    "year": null
+  },
+  "1969": {
+    "id": 1969,
+    "order": "1921.00000000000000000000",
+    "name": [
+      {
+        "id": 86,
+        "value": "cod_12051__1969"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 86,
+        "value": "Cod. 12051"
+      }
+    ],
+    "order_number": null,
+    "title": "Missiones per Austriam reformandae fidei causa (Fragment = S. 45-48)",
+    "locus_from": "66",
+    "locus_to": "",
+    "locus_text": "66-",
+    "places": [],
+    "orgs": [],
+    "year": null
+  },
+  "1970": {
+    "id": 1970,
+    "order": "1922.00000000000000000000",
+    "name": [
+      {
+        "id": 87,
+        "value": "cod_12052__1970"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 87,
+        "value": "Cod. 12052"
+      }
+    ],
+    "order_number": null,
+    "title": "Numerus personarum",
+    "locus_from": "1",
+    "locus_to": "2",
+    "locus_text": "1-2",
+    "places": [],
+    "orgs": [],
+    "year": null
+  },
+  "1971": {
+    "id": 1971,
+    "order": "1923.00000000000000000000",
+    "name": [
+      {
+        "id": 87,
+        "value": "cod_12052__1971"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 87,
+        "value": "Cod. 12052"
+      }
+    ],
+    "order_number": null,
+    "title": "Eulogia defunctorum",
+    "locus_from": "2",
+    "locus_to": "13",
+    "locus_text": "2-13",
+    "places": [],
+    "orgs": [],
+    "year": null
+  },
+  "1972": {
+    "id": 1972,
+    "order": "1924.00000000000000000000",
+    "name": [
+      {
+        "id": 87,
+        "value": "cod_12052__1972"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 87,
+        "value": "Cod. 12052"
+      }
+    ],
+    "order_number": null,
+    "title": "Schola",
+    "locus_from": "40",
+    "locus_to": "45",
+    "locus_text": "40-45",
+    "places": [],
+    "orgs": [],
+    "year": null
+  },
+  "1973": {
+    "id": 1973,
+    "order": "1925.00000000000000000000",
+    "name": [
+      {
+        "id": 87,
+        "value": "cod_12052__1973"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 87,
+        "value": "Cod. 12052"
+      }
+    ],
+    "order_number": null,
+    "title": "Missiones",
+    "locus_from": "66",
+    "locus_to": "69",
+    "locus_text": "66-69",
+    "places": [],
+    "orgs": [],
+    "year": null
+  },
+  "1974": {
+    "id": 1974,
+    "order": "1926.00000000000000000000",
+    "name": [
+      {
+        "id": 88,
+        "value": "cod_12053__1974"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 88,
+        "value": "Cod. 12053"
+      }
+    ],
+    "order_number": null,
+    "title": "Numerus personarum",
+    "locus_from": "1",
+    "locus_to": "3",
+    "locus_text": "1-3",
+    "places": [],
+    "orgs": [],
+    "year": null
+  },
+  "1975": {
+    "id": 1975,
+    "order": "1927.00000000000000000000",
+    "name": [
+      {
+        "id": 88,
+        "value": "cod_12053__1975"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 88,
+        "value": "Cod. 12053"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "3",
+    "locus_to": "19",
+    "locus_text": "3-19",
+    "places": [],
+    "orgs": [
+      {
+        "id": 1,
+        "value": "Profeßhaus Wien"
+      },
+      {
+        "id": 2,
+        "value": "Jesuitenkolleg Wien"
+      }
+    ],
+    "year": null
+  },
+  "1976": {
+    "id": 1976,
+    "order": "1928.00000000000000000000",
+    "name": [
+      {
+        "id": 88,
+        "value": "cod_12053__1976"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 88,
+        "value": "Cod. 12053"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "19",
+    "locus_to": "20",
+    "locus_text": "19-20",
+    "places": [],
+    "orgs": [
+      {
+        "id": 4,
+        "value": "Probationshaus Wien"
+      }
+    ],
+    "year": null
+  },
+  "1977": {
+    "id": 1977,
+    "order": "1929.00000000000000000000",
+    "name": [
+      {
+        "id": 88,
+        "value": "cod_12053__1977"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 88,
+        "value": "Cod. 12053"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "20",
+    "locus_to": "20",
+    "locus_text": "20-20",
+    "places": [],
+    "orgs": [
+      {
+        "id": 35,
+        "value": "Jesuitenkolleg Krems"
+      }
+    ],
+    "year": null
+  },
+  "1978": {
+    "id": 1978,
+    "order": "1930.00000000000000000000",
+    "name": [
+      {
+        "id": 88,
+        "value": "cod_12053__1978"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 88,
+        "value": "Cod. 12053"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "20",
+    "locus_to": "26",
+    "locus_text": "20-26",
+    "places": [],
+    "orgs": [
+      {
+        "id": 8,
+        "value": "Jesuitenkolleg Linz"
+      }
+    ],
+    "year": null
+  },
+  "1979": {
+    "id": 1979,
+    "order": "1931.00000000000000000000",
+    "name": [
+      {
+        "id": 88,
+        "value": "cod_12053__1979"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 88,
+        "value": "Cod. 12053"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "26",
+    "locus_to": "27",
+    "locus_text": "26-27",
+    "places": [],
+    "orgs": [
+      {
+        "id": 53,
+        "value": "Jesuitenkolleg Steyr"
+      }
+    ],
+    "year": null
+  },
+  "1980": {
+    "id": 1980,
+    "order": "1932.00000000000000000000",
+    "name": [
+      {
+        "id": 88,
+        "value": "cod_12053__1980"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 88,
+        "value": "Cod. 12053"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "27",
+    "locus_to": "34",
+    "locus_text": "27-34",
+    "places": [],
+    "orgs": [
+      {
+        "id": 5,
+        "value": "Jesuitenkolleg Graz"
+      }
+    ],
+    "year": null
+  },
+  "1981": {
+    "id": 1981,
+    "order": "1933.00000000000000000000",
+    "name": [
+      {
+        "id": 88,
+        "value": "cod_12053__1981"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 88,
+        "value": "Cod. 12053"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "34",
+    "locus_to": "35",
+    "locus_text": "34-35",
+    "places": [],
+    "orgs": [
+      {
+        "id": 7,
+        "value": "Jesuitenresidenz Millstatt"
+      }
+    ],
+    "year": null
+  },
+  "1982": {
+    "id": 1982,
+    "order": "1934.00000000000000000000",
+    "name": [
+      {
+        "id": 88,
+        "value": "cod_12053__1982"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 88,
+        "value": "Cod. 12053"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "35",
+    "locus_to": "36",
+    "locus_text": "35-36",
+    "places": [],
+    "orgs": [
+      {
+        "id": 52,
+        "value": "Jesuitenkolleg Leoben"
+      }
+    ],
+    "year": null
+  },
+  "1983": {
+    "id": 1983,
+    "order": "1935.00000000000000000000",
+    "name": [
+      {
+        "id": 88,
+        "value": "cod_12053__1983"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 88,
+        "value": "Cod. 12053"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "36",
+    "locus_to": "38",
+    "locus_text": "36-38",
+    "places": [],
+    "orgs": [
+      {
+        "id": 37,
+        "value": "Jesuitenkolleg Judenburg"
+      }
+    ],
+    "year": null
+  },
+  "1984": {
+    "id": 1984,
+    "order": "1936.00000000000000000000",
+    "name": [
+      {
+        "id": 88,
+        "value": "cod_12053__1984"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 88,
+        "value": "Cod. 12053"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "38",
+    "locus_to": "40",
+    "locus_text": "38-40",
+    "places": [],
+    "orgs": [
+      {
+        "id": 16,
+        "value": "Jesuitenkolleg Klagenfurt"
+      }
+    ],
+    "year": null
+  },
+  "1985": {
+    "id": 1985,
+    "order": "1937.00000000000000000000",
+    "name": [
+      {
+        "id": 88,
+        "value": "cod_12053__1985"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 88,
+        "value": "Cod. 12053"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "40",
+    "locus_to": "42",
+    "locus_text": "40-42",
+    "places": [],
+    "orgs": [
+      {
+        "id": 13,
+        "value": "Jesuitenkolleg Ljubljana"
+      }
+    ],
+    "year": null
+  },
+  "1986": {
+    "id": 1986,
+    "order": "1938.00000000000000000000",
+    "name": [
+      {
+        "id": 88,
+        "value": "cod_12053__1986"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 88,
+        "value": "Cod. 12053"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "42",
+    "locus_to": "43",
+    "locus_text": "42-43",
+    "places": [],
+    "orgs": [
+      {
+        "id": 36,
+        "value": "Jesuitenkolleg Gorizia"
+      }
+    ],
+    "year": null
+  },
+  "1987": {
+    "id": 1987,
+    "order": "1939.00000000000000000000",
+    "name": [
+      {
+        "id": 88,
+        "value": "cod_12053__1987"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 88,
+        "value": "Cod. 12053"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "43",
+    "locus_to": "44",
+    "locus_text": "43-44",
+    "places": [],
+    "orgs": [
+      {
+        "id": 38,
+        "value": "Jesuitenkolleg Trieste"
+      }
+    ],
+    "year": null
+  },
+  "1988": {
+    "id": 1988,
+    "order": "1940.00000000000000000000",
+    "name": [
+      {
+        "id": 88,
+        "value": "cod_12053__1988"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 88,
+        "value": "Cod. 12053"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "44",
+    "locus_to": "45",
+    "locus_text": "44-45",
+    "places": [],
+    "orgs": [
+      {
+        "id": 40,
+        "value": "Jesuitenkolleg Rijeka"
+      }
+    ],
+    "year": null
+  },
+  "1989": {
+    "id": 1989,
+    "order": "1941.00000000000000000000",
+    "name": [
+      {
+        "id": 88,
+        "value": "cod_12053__1989"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 88,
+        "value": "Cod. 12053"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "45",
+    "locus_to": "47",
+    "locus_text": "45-47",
+    "places": [],
+    "orgs": [
+      {
+        "id": 18,
+        "value": "Jesuitenkolleg Zagreb"
+      }
+    ],
+    "year": null
+  },
+  "1990": {
+    "id": 1990,
+    "order": "1942.00000000000000000000",
+    "name": [
+      {
+        "id": 88,
+        "value": "cod_12053__1990"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 88,
+        "value": "Cod. 12053"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "47",
+    "locus_to": "50",
+    "locus_text": "47-50",
+    "places": [],
+    "orgs": [
+      {
+        "id": 91,
+        "value": "Jesuitenkolleg Varaždin"
+      }
+    ],
+    "year": null
+  },
+  "1991": {
+    "id": 1991,
+    "order": "1943.00000000000000000000",
+    "name": [
+      {
+        "id": 88,
+        "value": "cod_12053__1991"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 88,
+        "value": "Cod. 12053"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "50",
+    "locus_to": "53",
+    "locus_text": "50-53",
+    "places": [],
+    "orgs": [
+      {
+        "id": 11,
+        "value": "Jesuitenkolleg Trnava"
+      }
+    ],
+    "year": null
+  },
+  "1992": {
+    "id": 1992,
+    "order": "1944.00000000000000000000",
+    "name": [
+      {
+        "id": 88,
+        "value": "cod_12053__1992"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 88,
+        "value": "Cod. 12053"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "53",
+    "locus_to": "54",
+    "locus_text": "53-54",
+    "places": [],
+    "orgs": [
+      {
+        "id": 9,
+        "value": "Jesuitenkolleg Bratislava"
+      }
+    ],
+    "year": null
+  },
+  "1993": {
+    "id": 1993,
+    "order": "1945.00000000000000000000",
+    "name": [
+      {
+        "id": 88,
+        "value": "cod_12053__1993"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 88,
+        "value": "Cod. 12053"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "54",
+    "locus_to": "54",
+    "locus_text": "54-54",
+    "places": [],
+    "orgs": [
+      {
+        "id": 12,
+        "value": "Jesuitenkolleg Győr"
+      }
+    ],
+    "year": null
+  },
+  "1994": {
+    "id": 1994,
+    "order": "1946.00000000000000000000",
+    "name": [
+      {
+        "id": 88,
+        "value": "cod_12053__1994"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 88,
+        "value": "Cod. 12053"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "54",
+    "locus_to": "55",
+    "locus_text": "54-55",
+    "places": [],
+    "orgs": [
+      {
+        "id": 87,
+        "value": "Jesuitenkolleg Sopron"
+      }
+    ],
+    "year": null
+  },
+  "1995": {
+    "id": 1995,
+    "order": "1947.00000000000000000000",
+    "name": [
+      {
+        "id": 88,
+        "value": "cod_12053__1995"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 88,
+        "value": "Cod. 12053"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "55",
+    "locus_to": "57",
+    "locus_text": "55-57",
+    "places": [],
+    "orgs": [
+      {
+        "id": 89,
+        "value": "Jesuitenkolleg Trenčín"
+      }
+    ],
+    "year": null
+  },
+  "1996": {
+    "id": 1996,
+    "order": "1948.00000000000000000000",
+    "name": [
+      {
+        "id": 88,
+        "value": "cod_12053__1996"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 88,
+        "value": "Cod. 12053"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "57",
+    "locus_to": "57",
+    "locus_text": "57-57",
+    "places": [],
+    "orgs": [
+      {
+        "id": 292,
+        "value": "Jesuitenkolleg Uzhhorod"
+      }
+    ],
+    "year": null
+  },
+  "1997": {
+    "id": 1997,
+    "order": "1949.00000000000000000000",
+    "name": [
+      {
+        "id": 88,
+        "value": "cod_12053__1997"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 88,
+        "value": "Cod. 12053"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "57",
+    "locus_to": "59",
+    "locus_text": "57-59",
+    "places": [],
+    "orgs": [
+      {
+        "id": 157,
+        "value": "Jesuitenresidenz Košice"
+      }
+    ],
+    "year": null
+  },
+  "1998": {
+    "id": 1998,
+    "order": "1950.00000000000000000000",
+    "name": [
+      {
+        "id": 88,
+        "value": "cod_12053__1998"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 88,
+        "value": "Cod. 12053"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "59",
+    "locus_to": "60",
+    "locus_text": "59-60",
+    "places": [],
+    "orgs": [
+      {
+        "id": 62,
+        "value": "Jesuitenresidenz Spiš"
+      }
+    ],
+    "year": null
+  },
+  "1999": {
+    "id": 1999,
+    "order": "1951.00000000000000000000",
+    "name": [
+      {
+        "id": 88,
+        "value": "cod_12053__1999"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 88,
+        "value": "Cod. 12053"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "60",
+    "locus_to": "62",
+    "locus_text": "60-62",
+    "places": [],
+    "orgs": [
+      {
+        "id": 47,
+        "value": "Jesuitenresidenz Gyöngyös"
+      }
+    ],
     "year": null
   }
 }
