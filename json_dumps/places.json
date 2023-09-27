@@ -5816,7 +5816,16 @@
     "lat": "50.45006",
     "long": "14.01629",
     "wikidata": "",
-    "alt_names": [],
+    "alt_names": [
+      {
+        "id": 203,
+        "value": "Zedlicium"
+      },
+      {
+        "id": 204,
+        "value": "Sedlicium"
+      }
+    ],
     "msdesc": []
   },
   "195": {
@@ -6798,6 +6807,329 @@
         "value": "Dakien"
       }
     ],
+    "msdesc": []
+  },
+  "274": {
+    "id": 274,
+    "order": "266.00000000000000000000",
+    "name": "Kapfenberg",
+    "jesuiten_id": "jesuiten_place__274",
+    "geonames": "https://www.geonames.org/2774773/kapfenberg.html",
+    "lat": "47.44458",
+    "long": "15.29331",
+    "wikidata": "https://www.wikidata.org/wiki/Q623049",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "275": {
+    "id": 275,
+    "order": "267.00000000000000000000",
+    "name": "Rumburg",
+    "jesuiten_id": "jesuiten_place__275",
+    "geonames": "https://www.geonames.org/3066578/rumburk.html",
+    "lat": "50.95151",
+    "long": "14.55699",
+    "wikidata": "https://www.wikidata.org/wiki/Q149103",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "276": {
+    "id": 276,
+    "order": "268.00000000000000000000",
+    "name": "Jiřetín pod Jedlovou",
+    "jesuiten_id": "jesuiten_place__276",
+    "geonames": "https://www.geonames.org/3074133/jiretin-pod-jedlovou.html",
+    "lat": "50.87445",
+    "long": "14.57508",
+    "wikidata": "https://www.wikidata.org/wiki/Q164471",
+    "alt_names": [
+      {
+        "id": 196,
+        "value": "Georgenthal"
+      }
+    ],
+    "msdesc": []
+  },
+  "277": {
+    "id": 277,
+    "order": "269.00000000000000000000",
+    "name": "Meißen",
+    "jesuiten_id": "jesuiten_place__277",
+    "geonames": "",
+    "lat": null,
+    "long": null,
+    "wikidata": "https://www.wikidata.org/wiki/Q8738",
+    "alt_names": [
+      {
+        "id": 197,
+        "value": "Misnia"
+      }
+    ],
+    "msdesc": []
+  },
+  "278": {
+    "id": 278,
+    "order": "270.00000000000000000000",
+    "name": "Lusatia",
+    "jesuiten_id": "jesuiten_place__278",
+    "geonames": "",
+    "lat": null,
+    "long": null,
+    "wikidata": "https://www.wikidata.org/wiki/Q32530",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "279": {
+    "id": 279,
+    "order": "271.00000000000000000000",
+    "name": "Retz",
+    "jesuiten_id": "jesuiten_place__279",
+    "geonames": "https://www.geonames.org/2767521/retz.html",
+    "lat": "48.75712",
+    "long": "15.95485",
+    "wikidata": "https://www.wikidata.org/wiki/Q140180",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "280": {
+    "id": 280,
+    "order": "272.00000000000000000000",
+    "name": "Staré Hrady",
+    "jesuiten_id": "jesuiten_place__280",
+    "geonames": "https://www.geonames.org/3065352/stare-hrady.html",
+    "lat": "50.38601",
+    "long": "15.21296",
+    "wikidata": "https://www.wikidata.org/wiki/Q1969100",
+    "alt_names": [
+      {
+        "id": 198,
+        "value": "Alteburg"
+      },
+      {
+        "id": 199,
+        "value": "Altenburg"
+      },
+      {
+        "id": 200,
+        "value": "Aldeburgum"
+      }
+    ],
+    "msdesc": []
+  },
+  "281": {
+    "id": 281,
+    "order": "273.00000000000000000000",
+    "name": "Kopidlno",
+    "jesuiten_id": "jesuiten_place__281",
+    "geonames": "https://www.geonames.org/3073261/kopidlno.html",
+    "lat": "50.33085",
+    "long": "15.27029",
+    "wikidata": "https://www.wikidata.org/wiki/Q1784043",
+    "alt_names": [
+      {
+        "id": 201,
+        "value": "Copidlanum"
+      },
+      {
+        "id": 202,
+        "value": "Coppitlanum"
+      }
+    ],
+    "msdesc": []
+  },
+  "282": {
+    "id": 282,
+    "order": "274.00000000000000000000",
+    "name": "Březina u Mnichova Hradiště",
+    "jesuiten_id": "jesuiten_place__282",
+    "geonames": "https://www.geonames.org/3078699/brezina.html",
+    "lat": "50.54855",
+    "long": "15.03279",
+    "wikidata": "",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "283": {
+    "id": 283,
+    "order": "275.00000000000000000000",
+    "name": "Kroměříž",
+    "jesuiten_id": "jesuiten_place__283",
+    "geonames": "https://www.geonames.org/3072649/kromeriz.html",
+    "lat": "49.29785",
+    "long": "17.39312",
+    "wikidata": "https://www.wikidata.org/wiki/Q158239",
+    "alt_names": [
+      {
+        "id": 205,
+        "value": "Cremsirium"
+      }
+    ],
+    "msdesc": []
+  },
+  "284": {
+    "id": 284,
+    "order": "276.00000000000000000000",
+    "name": "Teplice",
+    "jesuiten_id": "jesuiten_place__284",
+    "geonames": "https://www.geonames.org/3064288/teplice.html",
+    "lat": "50.64040",
+    "long": "13.82451",
+    "wikidata": "https://www.wikidata.org/wiki/Q146342",
+    "alt_names": [
+      {
+        "id": 206,
+        "value": "Teplitz"
+      }
+    ],
+    "msdesc": []
+  },
+  "285": {
+    "id": 285,
+    "order": "277.00000000000000000000",
+    "name": "Jawor",
+    "jesuiten_id": "jesuiten_place__285",
+    "geonames": "https://www.geonames.org/3097367/jawor.html",
+    "lat": "51.05132",
+    "long": "16.19347",
+    "wikidata": "https://www.wikidata.org/wiki/Q731805",
+    "alt_names": [
+      {
+        "id": 207,
+        "value": "Jaurovia"
+      }
+    ],
+    "msdesc": []
+  },
+  "286": {
+    "id": 286,
+    "order": "278.00000000000000000000",
+    "name": "Frýdlant",
+    "jesuiten_id": "jesuiten_place__286",
+    "geonames": "https://www.geonames.org/3076124/frydlant.html",
+    "lat": "50.92139",
+    "long": "15.07974",
+    "wikidata": "https://www.wikidata.org/wiki/Q986077",
+    "alt_names": [
+      {
+        "id": 208,
+        "value": "Fridlandia"
+      }
+    ],
+    "msdesc": []
+  },
+  "287": {
+    "id": 287,
+    "order": "279.00000000000000000000",
+    "name": "Liberec",
+    "jesuiten_id": "jesuiten_place__287",
+    "geonames": "https://www.geonames.org/3071961/liberec.html",
+    "lat": "50.76711",
+    "long": "15.05619",
+    "wikidata": "https://www.wikidata.org/wiki/Q146351",
+    "alt_names": [
+      {
+        "id": 209,
+        "value": "Reichenberg"
+      }
+    ],
+    "msdesc": []
+  },
+  "288": {
+    "id": 288,
+    "order": "280.00000000000000000000",
+    "name": "Smiřice",
+    "jesuiten_id": "jesuiten_place__288",
+    "geonames": "https://www.geonames.org/3065728/smirice.html",
+    "lat": "50.29978",
+    "long": "15.86508",
+    "wikidata": "https://www.wikidata.org/wiki/Q2093942",
+    "alt_names": [
+      {
+        "id": 211,
+        "value": "Smirschitz"
+      }
+    ],
+    "msdesc": []
+  },
+  "289": {
+    "id": 289,
+    "order": "281.00000000000000000000",
+    "name": "Bechyně",
+    "jesuiten_id": "jesuiten_place__289",
+    "geonames": "https://www.geonames.org/3079616/bechyne.html",
+    "lat": "49.29523",
+    "long": "14.46810",
+    "wikidata": "https://www.wikidata.org/wiki/Q20492",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "290": {
+    "id": 290,
+    "order": "282.00000000000000000000",
+    "name": "Vrchlabí",
+    "jesuiten_id": "jesuiten_place__290",
+    "geonames": "https://www.geonames.org/3062439/vrchlabi.html",
+    "lat": "50.62697",
+    "long": "15.60937",
+    "wikidata": "https://www.wikidata.org/wiki/Q1008595",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "291": {
+    "id": 291,
+    "order": "283.00000000000000000000",
+    "name": "Przemków",
+    "jesuiten_id": "jesuiten_place__291",
+    "geonames": "https://www.geonames.org/3087954/przemkow.html",
+    "lat": "51.52530",
+    "long": "15.79441",
+    "wikidata": "https://www.wikidata.org/wiki/Q1005428",
+    "alt_names": [
+      {
+        "id": 212,
+        "value": "Primkenau"
+      },
+      {
+        "id": 213,
+        "value": "Primkenavia"
+      }
+    ],
+    "msdesc": []
+  },
+  "292": {
+    "id": 292,
+    "order": "284.00000000000000000000",
+    "name": "Česká Lípa",
+    "jesuiten_id": "jesuiten_place__292",
+    "geonames": "https://www.geonames.org/3077929/ceska-lipa.html",
+    "lat": "50.68551",
+    "long": "14.53764",
+    "wikidata": "https://www.wikidata.org/wiki/Q740863",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "294": {
+    "id": 294,
+    "order": "285.00000000000000000000",
+    "name": "Zahrádky",
+    "jesuiten_id": "jesuiten_place__294",
+    "geonames": "https://www.geonames.org/3061986/zahradky.html",
+    "lat": "50.63411",
+    "long": "14.52460",
+    "wikidata": "",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "295": {
+    "id": 295,
+    "order": "286.00000000000000000000",
+    "name": "Turnov",
+    "jesuiten_id": "jesuiten_place__295",
+    "geonames": "https://www.geonames.org/3063853/turnov.html",
+    "lat": "50.58356",
+    "long": "15.15186",
+    "wikidata": "",
+    "alt_names": [],
     "msdesc": []
   }
 }

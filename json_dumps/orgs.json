@@ -12051,7 +12051,16 @@
                 "lat": "50.45006",
                 "long": "14.01629",
                 "wikidata": "",
-                "alt_names": [],
+                "alt_names": [
+                    {
+                        "id": 203,
+                        "value": "Zedlicium"
+                    },
+                    {
+                        "id": 204,
+                        "value": "Sedlicium"
+                    }
+                ],
                 "msdesc": []
             }
         ],
@@ -14879,6 +14888,810 @@
         "gnd": "",
         "msdesc": [],
         "alt_name": "Missio Zolnensis",
+        "notes": "",
+        "persons": []
+    },
+    "314": {
+        "id": 314,
+        "order": "304.00000000000000000000",
+        "name": "Jesuitenmission Rumburg und Jiřetín pod Jedlovou",
+        "jesuiten_id": "jesuiten_org__314",
+        "located_in": [
+            {
+                "id": 275,
+                "order": "267.00000000000000000000",
+                "name": "Rumburg",
+                "jesuiten_id": "jesuiten_place__275",
+                "geonames": "https://www.geonames.org/3066578/rumburk.html",
+                "lat": "50.95151",
+                "long": "14.55699",
+                "wikidata": "https://www.wikidata.org/wiki/Q149103",
+                "alt_names": [],
+                "msdesc": []
+            },
+            {
+                "id": 276,
+                "order": "268.00000000000000000000",
+                "name": "Jiřetín pod Jedlovou",
+                "jesuiten_id": "jesuiten_place__276",
+                "geonames": "https://www.geonames.org/3074133/jiretin-pod-jedlovou.html",
+                "lat": "50.87445",
+                "long": "14.57508",
+                "wikidata": "https://www.wikidata.org/wiki/Q164471",
+                "alt_names": [
+                    {
+                        "id": 196,
+                        "value": "Georgenthal"
+                    }
+                ],
+                "msdesc": []
+            },
+            {
+                "id": 277,
+                "order": "269.00000000000000000000",
+                "name": "Meißen",
+                "jesuiten_id": "jesuiten_place__277",
+                "geonames": "",
+                "lat": null,
+                "long": null,
+                "wikidata": "https://www.wikidata.org/wiki/Q8738",
+                "alt_names": [
+                    {
+                        "id": 197,
+                        "value": "Misnia"
+                    }
+                ],
+                "msdesc": []
+            },
+            {
+                "id": 278,
+                "order": "270.00000000000000000000",
+                "name": "Lusatia",
+                "jesuiten_id": "jesuiten_place__278",
+                "geonames": "",
+                "lat": null,
+                "long": null,
+                "wikidata": "https://www.wikidata.org/wiki/Q32530",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Misio Rumburgensis et Georgenthal",
+        "notes": "Rumburgum et Georgenthal oppida Boemiae ad fines Lusatiae et Misniae sita (Cod. 11961, f. 4v).",
+        "persons": []
+    },
+    "316": {
+        "id": 316,
+        "order": "306.00000000000000000000",
+        "name": "Jesuitenmission Mladá Boleslav",
+        "jesuiten_id": "jesuiten_org__316",
+        "located_in": [
+            {
+                "id": 257,
+                "order": "249.00000000000000000000",
+                "name": "Mladá Boleslav",
+                "jesuiten_id": "jesuiten_place__257",
+                "geonames": "https://www.geonames.org/3070544/mlada-boleslav.html",
+                "lat": "50.41135",
+                "long": "14.90318",
+                "wikidata": "https://www.wikidata.org/wiki/Q191805",
+                "alt_names": [
+                    {
+                        "id": 185,
+                        "value": "Jungbunzlau"
+                    }
+                ],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Junior Boleslaviensis",
+        "notes": "",
+        "persons": []
+    },
+    "317": {
+        "id": 317,
+        "order": "307.00000000000000000000",
+        "name": "Jesuitenmission Staré Hrady und Kopidlno",
+        "jesuiten_id": "jesuiten_org__317",
+        "located_in": [
+            {
+                "id": 280,
+                "order": "272.00000000000000000000",
+                "name": "Staré Hrady",
+                "jesuiten_id": "jesuiten_place__280",
+                "geonames": "https://www.geonames.org/3065352/stare-hrady.html",
+                "lat": "50.38601",
+                "long": "15.21296",
+                "wikidata": "https://www.wikidata.org/wiki/Q1969100",
+                "alt_names": [
+                    {
+                        "id": 198,
+                        "value": "Alteburg"
+                    },
+                    {
+                        "id": 199,
+                        "value": "Altenburg"
+                    },
+                    {
+                        "id": 200,
+                        "value": "Aldeburgum"
+                    }
+                ],
+                "msdesc": []
+            },
+            {
+                "id": 281,
+                "order": "273.00000000000000000000",
+                "name": "Kopidlno",
+                "jesuiten_id": "jesuiten_place__281",
+                "geonames": "https://www.geonames.org/3073261/kopidlno.html",
+                "lat": "50.33085",
+                "long": "15.27029",
+                "wikidata": "https://www.wikidata.org/wiki/Q1784043",
+                "alt_names": [
+                    {
+                        "id": 201,
+                        "value": "Copidlanum"
+                    },
+                    {
+                        "id": 202,
+                        "value": "Coppitlanum"
+                    }
+                ],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Alteburgensis et Coppitlanensis",
+        "notes": "",
+        "persons": []
+    },
+    "318": {
+        "id": 318,
+        "order": "308.00000000000000000000",
+        "name": "Jesuitenmission Březina u Mnichova Hradiště (?)",
+        "jesuiten_id": "jesuiten_org__318",
+        "located_in": [
+            {
+                "id": 282,
+                "order": "274.00000000000000000000",
+                "name": "Březina u Mnichova Hradiště",
+                "jesuiten_id": "jesuiten_place__282",
+                "geonames": "https://www.geonames.org/3078699/brezina.html",
+                "lat": "50.54855",
+                "long": "15.03279",
+                "wikidata": "",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Breznicensis",
+        "notes": "Distat Gitzinis Breznicium milliaria omnino duo de viginti",
+        "persons": []
+    },
+    "319": {
+        "id": 319,
+        "order": "309.00000000000000000000",
+        "name": "Jesuitenresidenz Żagań",
+        "jesuiten_id": "jesuiten_org__319",
+        "located_in": [
+            {
+                "id": 118,
+                "order": "115.00000000000000000000",
+                "name": "Żagań",
+                "jesuiten_id": "jesuiten_place__118",
+                "geonames": "https://www.geonames.org/3080944/zagan.html",
+                "lat": "51.61759",
+                "long": "15.31486",
+                "wikidata": "https://www.wikidata.org/wiki/Q158459",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Residentia Saganensis",
+        "notes": "",
+        "persons": []
+    },
+    "320": {
+        "id": 320,
+        "order": "310.00000000000000000000",
+        "name": "Jesuitenkolleg Kroměříž",
+        "jesuiten_id": "jesuiten_org__320",
+        "located_in": [
+            {
+                "id": 283,
+                "order": "275.00000000000000000000",
+                "name": "Kroměříž",
+                "jesuiten_id": "jesuiten_place__283",
+                "geonames": "https://www.geonames.org/3072649/kromeriz.html",
+                "lat": "49.29785",
+                "long": "17.39312",
+                "wikidata": "https://www.wikidata.org/wiki/Q158239",
+                "alt_names": [
+                    {
+                        "id": 205,
+                        "value": "Cremsirium"
+                    }
+                ],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Collegium Cremsiriense",
+        "notes": "",
+        "persons": []
+    },
+    "321": {
+        "id": 321,
+        "order": "311.00000000000000000000",
+        "name": "Jesuitenmission Brzeznicensis (?)",
+        "jesuiten_id": "jesuiten_org__321",
+        "located_in": [],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Brzeznicensis",
+        "notes": "",
+        "persons": []
+    },
+    "322": {
+        "id": 322,
+        "order": "312.00000000000000000000",
+        "name": "Jesuitenmission Teplitz",
+        "jesuiten_id": "jesuiten_org__322",
+        "located_in": [
+            {
+                "id": 284,
+                "order": "276.00000000000000000000",
+                "name": "Teplice",
+                "jesuiten_id": "jesuiten_place__284",
+                "geonames": "https://www.geonames.org/3064288/teplice.html",
+                "lat": "50.64040",
+                "long": "13.82451",
+                "wikidata": "https://www.wikidata.org/wiki/Q146342",
+                "alt_names": [
+                    {
+                        "id": 206,
+                        "value": "Teplitz"
+                    }
+                ],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Töplicensis",
+        "notes": "Töplicium oppidum est ad Boemiae, quam Misniae respicit fines (Cod. 11961, f. 71r).",
+        "persons": []
+    },
+    "323": {
+        "id": 323,
+        "order": "313.00000000000000000000",
+        "name": "Jesuitenmissionen Silesia",
+        "jesuiten_id": "jesuiten_org__323",
+        "located_in": [
+            {
+                "id": 270,
+                "order": "262.00000000000000000000",
+                "name": "Silesia",
+                "jesuiten_id": "jesuiten_place__270",
+                "geonames": "https://www.geonames.org/3066138/silesia.html",
+                "lat": "51.00000",
+                "long": "18.00000",
+                "wikidata": "https://www.wikidata.org/wiki/Q81720",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missiones Silesiticae",
+        "notes": "",
+        "persons": []
+    },
+    "324": {
+        "id": 324,
+        "order": "314.00000000000000000000",
+        "name": "Jesuitenmission Jawor",
+        "jesuiten_id": "jesuiten_org__324",
+        "located_in": [
+            {
+                "id": 285,
+                "order": "277.00000000000000000000",
+                "name": "Jawor",
+                "jesuiten_id": "jesuiten_place__285",
+                "geonames": "https://www.geonames.org/3097367/jawor.html",
+                "lat": "51.05132",
+                "long": "16.19347",
+                "wikidata": "https://www.wikidata.org/wiki/Q731805",
+                "alt_names": [
+                    {
+                        "id": 207,
+                        "value": "Jaurovia"
+                    }
+                ],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Iauroviensis",
+        "notes": "",
+        "persons": []
+    },
+    "325": {
+        "id": 325,
+        "order": "315.00000000000000000000",
+        "name": "Jesuitenmission Stará Boleslav",
+        "jesuiten_id": "jesuiten_org__325",
+        "located_in": [
+            {
+                "id": 266,
+                "order": "258.00000000000000000000",
+                "name": "Brandýs nad Labem-Stará Boleslav",
+                "jesuiten_id": "jesuiten_place__266",
+                "geonames": "https://www.geonames.org/3078837/brandys-nad-labem-stara-boleslav.html",
+                "lat": "50.18709",
+                "long": "14.66326",
+                "wikidata": "https://www.wikidata.org/wiki/Q898468",
+                "alt_names": [
+                    {
+                        "id": 192,
+                        "value": "Altbunzlau"
+                    }
+                ],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Boleslaviensis",
+        "notes": "",
+        "persons": []
+    },
+    "326": {
+        "id": 326,
+        "order": "316.00000000000000000000",
+        "name": "Jesuitenmission Legnica",
+        "jesuiten_id": "jesuiten_org__326",
+        "located_in": [
+            {
+                "id": 110,
+                "order": "107.00000000000000000000",
+                "name": "Legnica",
+                "jesuiten_id": "jesuiten_place__110",
+                "geonames": "https://www.geonames.org/3093692/legnica.html",
+                "lat": "51.21006",
+                "long": "16.16190",
+                "wikidata": "https://www.wikidata.org/wiki/Q106274",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Lignicensis",
+        "notes": "",
+        "persons": []
+    },
+    "327": {
+        "id": 327,
+        "order": "317.00000000000000000000",
+        "name": "Jesuitenmission Frýdlant v Čechách",
+        "jesuiten_id": "jesuiten_org__327",
+        "located_in": [
+            {
+                "id": 286,
+                "order": "278.00000000000000000000",
+                "name": "Frýdlant",
+                "jesuiten_id": "jesuiten_place__286",
+                "geonames": "https://www.geonames.org/3076124/frydlant.html",
+                "lat": "50.92139",
+                "long": "15.07974",
+                "wikidata": "https://www.wikidata.org/wiki/Q986077",
+                "alt_names": [
+                    {
+                        "id": 208,
+                        "value": "Fridlandia"
+                    }
+                ],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Fridlandensis",
+        "notes": "",
+        "persons": []
+    },
+    "328": {
+        "id": 328,
+        "order": "318.00000000000000000000",
+        "name": "Jesuitenmission Liberec",
+        "jesuiten_id": "jesuiten_org__328",
+        "located_in": [
+            {
+                "id": 287,
+                "order": "279.00000000000000000000",
+                "name": "Liberec",
+                "jesuiten_id": "jesuiten_place__287",
+                "geonames": "https://www.geonames.org/3071961/liberec.html",
+                "lat": "50.76711",
+                "long": "15.05619",
+                "wikidata": "https://www.wikidata.org/wiki/Q146351",
+                "alt_names": [
+                    {
+                        "id": 209,
+                        "value": "Reichenberg"
+                    }
+                ],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Reichenbergensis",
+        "notes": "",
+        "persons": []
+    },
+    "329": {
+        "id": 329,
+        "order": "319.00000000000000000000",
+        "name": "Jesuitenmission Smiřice",
+        "jesuiten_id": "jesuiten_org__329",
+        "located_in": [
+            {
+                "id": 288,
+                "order": "280.00000000000000000000",
+                "name": "Smiřice",
+                "jesuiten_id": "jesuiten_place__288",
+                "geonames": "https://www.geonames.org/3065728/smirice.html",
+                "lat": "50.29978",
+                "long": "15.86508",
+                "wikidata": "https://www.wikidata.org/wiki/Q2093942",
+                "alt_names": [
+                    {
+                        "id": 211,
+                        "value": "Smirschitz"
+                    }
+                ],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Schmirzicensis",
+        "notes": "",
+        "persons": []
+    },
+    "330": {
+        "id": 330,
+        "order": "320.00000000000000000000",
+        "name": "Jesuitenmission Bechyně (?)",
+        "jesuiten_id": "jesuiten_org__330",
+        "located_in": [
+            {
+                "id": 289,
+                "order": "281.00000000000000000000",
+                "name": "Bechyně",
+                "jesuiten_id": "jesuiten_place__289",
+                "geonames": "https://www.geonames.org/3079616/bechyne.html",
+                "lat": "49.29523",
+                "long": "14.46810",
+                "wikidata": "https://www.wikidata.org/wiki/Q20492",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Bechinensis",
+        "notes": "",
+        "persons": []
+    },
+    "331": {
+        "id": 331,
+        "order": "321.00000000000000000000",
+        "name": "Jesuitenmission Vrchlabí",
+        "jesuiten_id": "jesuiten_org__331",
+        "located_in": [
+            {
+                "id": 290,
+                "order": "282.00000000000000000000",
+                "name": "Vrchlabí",
+                "jesuiten_id": "jesuiten_place__290",
+                "geonames": "https://www.geonames.org/3062439/vrchlabi.html",
+                "lat": "50.62697",
+                "long": "15.60937",
+                "wikidata": "https://www.wikidata.org/wiki/Q1008595",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Albipolensis, Giadlicensis, Boleslaviensis aliqaue",
+        "notes": "",
+        "persons": []
+    },
+    "332": {
+        "id": 332,
+        "order": "322.00000000000000000000",
+        "name": "Jesuitenmission Przemków",
+        "jesuiten_id": "jesuiten_org__332",
+        "located_in": [
+            {
+                "id": 291,
+                "order": "283.00000000000000000000",
+                "name": "Przemków",
+                "jesuiten_id": "jesuiten_place__291",
+                "geonames": "https://www.geonames.org/3087954/przemkow.html",
+                "lat": "51.52530",
+                "long": "15.79441",
+                "wikidata": "https://www.wikidata.org/wiki/Q1005428",
+                "alt_names": [
+                    {
+                        "id": 212,
+                        "value": "Primkenau"
+                    },
+                    {
+                        "id": 213,
+                        "value": "Primkenavia"
+                    }
+                ],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Primkenaviensis",
+        "notes": "",
+        "persons": []
+    },
+    "333": {
+        "id": 333,
+        "order": "323.00000000000000000000",
+        "name": "Jesuitenmission Nimbs (?)",
+        "jesuiten_id": "jesuiten_org__333",
+        "located_in": [],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio in dominio Nimbs districtus Litomericensis",
+        "notes": "",
+        "persons": []
+    },
+    "334": {
+        "id": 334,
+        "order": "324.00000000000000000000",
+        "name": "Jesuitenmission Lípa (?)",
+        "jesuiten_id": "jesuiten_org__334",
+        "located_in": [
+            {
+                "id": 292,
+                "order": "284.00000000000000000000",
+                "name": "Česká Lípa",
+                "jesuiten_id": "jesuiten_place__292",
+                "geonames": "https://www.geonames.org/3077929/ceska-lipa.html",
+                "lat": "50.68551",
+                "long": "14.53764",
+                "wikidata": "https://www.wikidata.org/wiki/Q740863",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Lippensis",
+        "notes": "",
+        "persons": []
+    },
+    "335": {
+        "id": 335,
+        "order": "325.00000000000000000000",
+        "name": "Jesuitenmission Kemnitz und Rumberg",
+        "jesuiten_id": "jesuiten_org__335",
+        "located_in": [
+            {
+                "id": 275,
+                "order": "267.00000000000000000000",
+                "name": "Rumburg",
+                "jesuiten_id": "jesuiten_place__275",
+                "geonames": "https://www.geonames.org/3066578/rumburk.html",
+                "lat": "50.95151",
+                "long": "14.55699",
+                "wikidata": "https://www.wikidata.org/wiki/Q149103",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Kemnitzensis et Rhumbergensis",
+        "notes": "",
+        "persons": []
+    },
+    "336": {
+        "id": 336,
+        "order": "326.00000000000000000000",
+        "name": "Jesuitenmission Zahrádky, Turnov,",
+        "jesuiten_id": "jesuiten_org__336",
+        "located_in": [
+            {
+                "id": 294,
+                "order": "285.00000000000000000000",
+                "name": "Zahrádky",
+                "jesuiten_id": "jesuiten_place__294",
+                "geonames": "https://www.geonames.org/3061986/zahradky.html",
+                "lat": "50.63411",
+                "long": "14.52460",
+                "wikidata": "",
+                "alt_names": [],
+                "msdesc": []
+            },
+            {
+                "id": 295,
+                "order": "286.00000000000000000000",
+                "name": "Turnov",
+                "jesuiten_id": "jesuiten_place__295",
+                "geonames": "https://www.geonames.org/3063853/turnov.html",
+                "lat": "50.58356",
+                "long": "15.15186",
+                "wikidata": "",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio in Neuschloss, Hradisch, Backovium, Turnovium et in dominium Culmense",
+        "notes": "",
+        "persons": []
+    },
+    "337": {
+        "id": 337,
+        "order": "327.00000000000000000000",
+        "name": "Jesuitenresidenz Hradec Králové",
+        "jesuiten_id": "jesuiten_org__337",
+        "located_in": [
+            {
+                "id": 117,
+                "order": "114.00000000000000000000",
+                "name": "Hradec Králové",
+                "jesuiten_id": "jesuiten_place__117",
+                "geonames": "https://www.geonames.org/3074967/hradec-kralove.html",
+                "lat": "50.20923",
+                "long": "15.83277",
+                "wikidata": "https://www.wikidata.org/wiki/Q180139",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Residentia Reginae-Hradecensis",
+        "notes": "",
+        "persons": []
+    },
+    "338": {
+        "id": 338,
+        "order": "328.00000000000000000000",
+        "name": "Jesuitenresidenz Klatovy",
+        "jesuiten_id": "jesuiten_org__338",
+        "located_in": [
+            {
+                "id": 104,
+                "order": "101.00000000000000000000",
+                "name": "Klatovy",
+                "jesuiten_id": "jesuiten_place__104",
+                "geonames": "https://www.geonames.org/3073660/klatovy.html",
+                "lat": "49.39552",
+                "long": "13.29505",
+                "wikidata": "https://www.wikidata.org/wiki/Q602976",
+                "alt_names": [
+                    {
+                        "id": 60,
+                        "value": "Klattau"
+                    }
+                ],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Residentia Glattoviensis",
+        "notes": "",
+        "persons": []
+    },
+    "339": {
+        "id": 339,
+        "order": "329.00000000000000000000",
+        "name": "Jesutienresidenz Wrocław",
+        "jesuiten_id": "jesuiten_org__339",
+        "located_in": [
+            {
+                "id": 121,
+                "order": "118.00000000000000000000",
+                "name": "Wrocław",
+                "jesuiten_id": "jesuiten_place__121",
+                "geonames": "https://www.geonames.org/3081368/wroclaw.html",
+                "lat": "51.10000",
+                "long": "17.03333",
+                "wikidata": "https://www.wikidata.org/wiki/Q1799",
+                "alt_names": [
+                    {
+                        "id": 80,
+                        "value": "Breslau"
+                    },
+                    {
+                        "id": 81,
+                        "value": "Vratislavia"
+                    }
+                ],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Residentia Wratislaviensis",
+        "notes": "",
+        "persons": []
+    },
+    "340": {
+        "id": 340,
+        "order": "330.00000000000000000000",
+        "name": "Jesuitenkolleg Prague Micro",
+        "jesuiten_id": "jesuiten_org__340",
+        "located_in": [
+            {
+                "id": 93,
+                "order": "90.00000000000000000000",
+                "name": "Prague",
+                "jesuiten_id": "jesuiten_place__93",
+                "geonames": "https://www.geonames.org/3067696/prague.html",
+                "lat": "50.08804",
+                "long": "14.42076",
+                "wikidata": "https://www.wikidata.org/wiki/Q1085",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Collegium Micropragensis",
+        "notes": "",
+        "persons": []
+    },
+    "341": {
+        "id": 341,
+        "order": "331.00000000000000000000",
+        "name": "Jesuitenmission Ivančice",
+        "jesuiten_id": "jesuiten_org__341",
+        "located_in": [
+            {
+                "id": 212,
+                "order": "209.00000000000000000000",
+                "name": "Ivančice",
+                "jesuiten_id": "jesuiten_place__212",
+                "geonames": "https://www.geonames.org/3074615/ivancice.html",
+                "lat": "49.10144",
+                "long": "16.37752",
+                "wikidata": "",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Evanczicensis",
         "notes": "",
         "persons": []
     }
