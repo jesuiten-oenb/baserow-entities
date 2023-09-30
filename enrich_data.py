@@ -16,7 +16,12 @@ for x in br_client.yield_rows(place_table_id, filters=filters):
 for x in tqdm(items):
     update_object = {}
     update_url = f"{br_client.br_base_url}database/rows/table/{place_table_id}/{x['id']}/?user_field_names=true"
-    gn_object = gn_as_object(x["geonames"])
+    try:
+        gn_object = gn_as_object(x["geonames"])
+    except Exception as e:
+        print(f"looks like there is some issue with {x['geonames']}")
+        print(e)
+        continue
     update_object["lat"] = gn_object["latitude"]
     update_object["long"] = gn_object["longitude"]
     r = requests.patch(

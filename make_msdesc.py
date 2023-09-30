@@ -16,10 +16,10 @@ out_dir = os.path.join("data", "editions")
 
 os.makedirs(out_dir, exist_ok=True)
 
-with open(os.path.join(JSON_FOLDER, "msdesc.json"), "r", encoding='utf-8') as f:
+with open(os.path.join(JSON_FOLDER, "msdesc.json"), "r", encoding="utf-8") as f:
     data = json.load(f)
 
-with open(os.path.join(JSON_FOLDER, "ms_item.json"), "r", encoding='utf-8') as f:
+with open(os.path.join(JSON_FOLDER, "ms_item.json"), "r", encoding="utf-8") as f:
     ms_item_data = json.load(f)
 
 ms_item_data = [value for key, value in ms_item_data.items() if value["msdesc"]]
