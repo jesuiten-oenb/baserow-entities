@@ -1039,6 +1039,10 @@
         "value": "Cod. 12060"
       },
       {
+        "id": 93,
+        "value": "Cod. 12061"
+      },
+      {
         "id": 4,
         "value": "Cod. 12066"
       },
@@ -1422,6 +1426,10 @@
       {
         "id": 68,
         "value": "Cod. 12060"
+      },
+      {
+        "id": 93,
+        "value": "Cod. 12061"
       },
       {
         "id": 4,
@@ -3725,6 +3733,10 @@
         "value": "Cod. 12060"
       },
       {
+        "id": 93,
+        "value": "Cod. 12061"
+      },
+      {
         "id": 4,
         "value": "Cod. 12066"
       },
@@ -3789,6 +3801,10 @@
       {
         "id": 66,
         "value": "Cod. 12058"
+      },
+      {
+        "id": 93,
+        "value": "Cod. 12061"
       },
       {
         "id": 4,
@@ -3863,6 +3879,10 @@
       {
         "id": 68,
         "value": "Cod. 12060"
+      },
+      {
+        "id": 93,
+        "value": "Cod. 12061"
       },
       {
         "id": 4,
@@ -5547,6 +5567,10 @@
       {
         "id": 68,
         "value": "Cod. 12060"
+      },
+      {
+        "id": 92,
+        "value": "Cod. 12056"
       }
     ]
   },
@@ -7129,6 +7153,537 @@
     "lat": "50.58356",
     "long": "15.15186",
     "wikidata": "",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "296": {
+    "id": 296,
+    "order": "287.00000000000000000000",
+    "name": "Milín",
+    "jesuiten_id": "jesuiten_place__296",
+    "geonames": "https://www.geonames.org/3070661/milin.html",
+    "lat": "49.63192",
+    "long": "14.04600",
+    "wikidata": "https://www.wikidata.org/wiki/Q2697759",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "297": {
+    "id": 297,
+    "order": "288.00000000000000000000",
+    "name": "Tovačov",
+    "jesuiten_id": "jesuiten_place__297",
+    "geonames": "https://www.geonames.org/3064143/tovacov.html",
+    "lat": "49.43083",
+    "long": "17.28795",
+    "wikidata": "https://www.wikidata.org/wiki/Q1261993",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "298": {
+    "id": 298,
+    "order": "289.00000000000000000000",
+    "name": "Březnice",
+    "jesuiten_id": "jesuiten_place__298",
+    "geonames": "https://www.geonames.org/3078683/breznice.html",
+    "lat": "49.55763",
+    "long": "13.95063",
+    "wikidata": "https://www.wikidata.org/wiki/Q1019970",
+    "alt_names": [
+      {
+        "id": 214,
+        "value": "Bresnitz"
+      }
+    ],
+    "msdesc": []
+  },
+  "299": {
+    "id": 299,
+    "order": "290.00000000000000000000",
+    "name": "Sokolov",
+    "jesuiten_id": "jesuiten_place__299",
+    "geonames": "https://www.geonames.org/3065617/sokolov.html",
+    "lat": "50.18130",
+    "long": "12.64010",
+    "wikidata": "https://www.wikidata.org/wiki/Q727383",
+    "alt_names": [
+      {
+        "id": 215,
+        "value": "Falkenau an der Eger"
+      }
+    ],
+    "msdesc": []
+  },
+  "300": {
+    "id": 300,
+    "order": "291.00000000000000000000",
+    "name": "Napajedla",
+    "jesuiten_id": "jesuiten_place__300",
+    "geonames": "https://www.geonames.org/3070045/napajedla.html",
+    "lat": "49.17156",
+    "long": "17.51194",
+    "wikidata": "",
+    "alt_names": [
+      {
+        "id": 216,
+        "value": "Napagedl"
+      }
+    ],
+    "msdesc": []
+  },
+  "301": {
+    "id": 301,
+    "order": "292.00000000000000000000",
+    "name": "Kvasice",
+    "jesuiten_id": "jesuiten_place__301",
+    "geonames": "https://www.geonames.org/3072451/kvasice.html",
+    "lat": "49.24223",
+    "long": "17.46974",
+    "wikidata": "",
+    "alt_names": [
+      {
+        "id": 217,
+        "value": "Kwaszitz"
+      }
+    ],
+    "msdesc": []
+  },
+  "302": {
+    "id": 302,
+    "order": "293.00000000000000000000",
+    "name": "Otrokovice",
+    "jesuiten_id": "jesuiten_place__302",
+    "geonames": "https://www.geonames.org/3068690/otrokovice.html",
+    "lat": "49.20934",
+    "long": "17.53944",
+    "wikidata": "",
+    "alt_names": [
+      {
+        "id": 218,
+        "value": "Otrakowitzium"
+      }
+    ],
+    "msdesc": []
+  },
+  "303": {
+    "id": 303,
+    "order": "294.00000000000000000000",
+    "name": "Hrušovany nad Jevišovkou",
+    "jesuiten_id": "jesuiten_place__303",
+    "geonames": "https://www.geonames.org/3074764/hrusovany-nad-jevisovkou.html",
+    "lat": "48.82991",
+    "long": "16.40271",
+    "wikidata": "https://www.wikidata.org/wiki/Q1632522",
+    "alt_names": [
+      {
+        "id": 219,
+        "value": "Grusbach"
+      },
+      {
+        "id": 220,
+        "value": "Gruspach"
+      }
+    ],
+    "msdesc": []
+  },
+  "304": {
+    "id": 304,
+    "order": "295.00000000000000000000",
+    "name": "Hungary Kingdom",
+    "jesuiten_id": "jesuiten_place__304",
+    "geonames": "",
+    "lat": null,
+    "long": null,
+    "wikidata": "https://www.wikidata.org/wiki/Q171150",
+    "alt_names": [
+      {
+        "id": 221,
+        "value": "Ungaria"
+      }
+    ],
+    "msdesc": []
+  },
+  "305": {
+    "id": 305,
+    "order": "296.00000000000000000000",
+    "name": "Żernica",
+    "jesuiten_id": "jesuiten_place__305",
+    "geonames": "https://www.geonames.org/3080271/zernica.html",
+    "lat": "50.24770",
+    "long": "18.61547",
+    "wikidata": "",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "306": {
+    "id": 306,
+    "order": "297.00000000000000000000",
+    "name": "Sedlice u Blatné",
+    "jesuiten_id": "jesuiten_place__306",
+    "geonames": "https://www.geonames.org/3066298/sedlice.html",
+    "lat": "49.37715",
+    "long": "13.93895",
+    "wikidata": "https://www.wikidata.org/wiki/Q742108",
+    "alt_names": [
+      {
+        "id": 222,
+        "value": "Sedlitz"
+      }
+    ],
+    "msdesc": []
+  },
+  "307": {
+    "id": 307,
+    "order": "298.00000000000000000000",
+    "name": "Nalžovice",
+    "jesuiten_id": "jesuiten_place__307",
+    "geonames": "https://www.geonames.org/3070058/nalzovice.html",
+    "lat": "49.69859",
+    "long": "14.37075",
+    "wikidata": "https://www.wikidata.org/wiki/Q924855",
+    "alt_names": [
+      {
+        "id": 223,
+        "value": "Nalziovicum"
+      }
+    ],
+    "msdesc": []
+  },
+  "308": {
+    "id": 308,
+    "order": "299.00000000000000000000",
+    "name": "Karlovy Vary",
+    "jesuiten_id": "jesuiten_place__308",
+    "geonames": "",
+    "lat": null,
+    "long": null,
+    "wikidata": "",
+    "alt_names": [
+      {
+        "id": 224,
+        "value": "Karlsbad"
+      },
+      {
+        "id": 225,
+        "value": "Thermae Carolinae"
+      }
+    ],
+    "msdesc": []
+  },
+  "309": {
+    "id": 309,
+    "order": "300.00000000000000000000",
+    "name": "Bílá hora",
+    "jesuiten_id": "jesuiten_place__309",
+    "geonames": "https://www.geonames.org/3079377/bila-hora-%5Bpraha-ruzyne%5D.html",
+    "lat": null,
+    "long": null,
+    "wikidata": "",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "310": {
+    "id": 310,
+    "order": "301.00000000000000000000",
+    "name": "Šternberk",
+    "jesuiten_id": "jesuiten_place__310",
+    "geonames": "https://www.geonames.org/3065166/sternberk.html",
+    "lat": "49.73044",
+    "long": "17.29889",
+    "wikidata": "https://www.wikidata.org/wiki/Q392429",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "311": {
+    "id": 311,
+    "order": "302.00000000000000000000",
+    "name": "Vsetín",
+    "jesuiten_id": "jesuiten_place__311",
+    "geonames": "https://www.geonames.org/3062339/vsetin.html",
+    "lat": "49.33871",
+    "long": "17.99619",
+    "wikidata": "https://www.wikidata.org/wiki/Q513417",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "312": {
+    "id": 312,
+    "order": "303.00000000000000000000",
+    "name": "Lázně Kynžvart",
+    "jesuiten_id": "jesuiten_place__312",
+    "geonames": "https://www.geonames.org/3072265/lazne-kynzvart.html",
+    "lat": "50.01058",
+    "long": "12.62474",
+    "wikidata": "https://www.wikidata.org/wiki/Q1000097",
+    "alt_names": [
+      {
+        "id": 226,
+        "value": "Bad Königswart"
+      }
+    ],
+    "msdesc": []
+  },
+  "313": {
+    "id": 313,
+    "order": "304.00000000000000000000",
+    "name": "Štramberk",
+    "jesuiten_id": "jesuiten_place__313",
+    "geonames": "https://www.geonames.org/3065062/stramberk.html",
+    "lat": "49.59181",
+    "long": "18.11741",
+    "wikidata": "https://www.wikidata.org/wiki/Q392466",
+    "alt_names": [
+      {
+        "id": 227,
+        "value": "Stramberg"
+      }
+    ],
+    "msdesc": []
+  },
+  "314": {
+    "id": 314,
+    "order": "305.00000000000000000000",
+    "name": "Głogówek",
+    "jesuiten_id": "jesuiten_place__314",
+    "geonames": "https://www.geonames.org/3099209/glogowek.html",
+    "lat": "50.35355",
+    "long": "17.86405",
+    "wikidata": "https://www.wikidata.org/wiki/Q954748",
+    "alt_names": [
+      {
+        "id": 228,
+        "value": "Superior Glogovia"
+      },
+      {
+        "id": 229,
+        "value": "Oberglogau"
+      }
+    ],
+    "msdesc": []
+  },
+  "315": {
+    "id": 315,
+    "order": "306.00000000000000000000",
+    "name": "Zemětice",
+    "jesuiten_id": "jesuiten_place__315",
+    "geonames": "https://www.geonames.org/3061539/zemetice.html",
+    "lat": "49.57837",
+    "long": "13.18634",
+    "wikidata": "",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "316": {
+    "id": 316,
+    "order": "307.00000000000000000000",
+    "name": "Andocs",
+    "jesuiten_id": "jesuiten_place__316",
+    "geonames": "https://www.geonames.org/3055988/andocs.html",
+    "lat": "46.64828",
+    "long": "17.92773",
+    "wikidata": "https://www.wikidata.org/wiki/Q760683",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "317": {
+    "id": 317,
+    "order": "308.00000000000000000000",
+    "name": "Kingdom of Poland",
+    "jesuiten_id": "jesuiten_place__317",
+    "geonames": "",
+    "lat": null,
+    "long": null,
+    "wikidata": "https://www.wikidata.org/wiki/Q8890160",
+    "alt_names": [
+      {
+        "id": 230,
+        "value": "Regnum Poloniae"
+      }
+    ],
+    "msdesc": []
+  },
+  "318": {
+    "id": 318,
+    "order": "309.00000000000000000000",
+    "name": "Volhynia",
+    "jesuiten_id": "jesuiten_place__318",
+    "geonames": "https://www.geonames.org/689067/volhynia.html",
+    "lat": "51.00000",
+    "long": "26.00000",
+    "wikidata": "https://www.wikidata.org/wiki/Q7530",
+    "alt_names": [
+      {
+        "id": 231,
+        "value": "Wolhynien"
+      },
+      {
+        "id": 232,
+        "value": "Volinia"
+      }
+    ],
+    "msdesc": []
+  },
+  "319": {
+    "id": 319,
+    "order": "310.00000000000000000000",
+    "name": "Russia",
+    "jesuiten_id": "jesuiten_place__319",
+    "geonames": "",
+    "lat": null,
+    "long": null,
+    "wikidata": "",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "320": {
+    "id": 320,
+    "order": "311.00000000000000000000",
+    "name": "Turobin",
+    "jesuiten_id": "jesuiten_place__320",
+    "geonames": "https://www.geonames.org/756577/turobin.html",
+    "lat": "50.82367",
+    "long": "22.74273",
+    "wikidata": "https://www.wikidata.org/wiki/Q2595900",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "321": {
+    "id": 321,
+    "order": "312.00000000000000000000",
+    "name": "Zamość",
+    "jesuiten_id": "jesuiten_place__321",
+    "geonames": "https://www.geonames.org/753866/zamosc.html",
+    "lat": "50.72314",
+    "long": "23.25196",
+    "wikidata": "https://www.wikidata.org/wiki/Q145972",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "322": {
+    "id": 322,
+    "order": "313.00000000000000000000",
+    "name": "Sawin",
+    "jesuiten_id": "jesuiten_place__322",
+    "geonames": "https://www.geonames.org/759534/sawin.html",
+    "lat": "51.27443",
+    "long": "23.43375",
+    "wikidata": "https://www.wikidata.org/wiki/Q2789398",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "323": {
+    "id": 323,
+    "order": "314.00000000000000000000",
+    "name": "Vilnius",
+    "jesuiten_id": "jesuiten_place__323",
+    "geonames": "https://www.geonames.org/593116/vilnius.html",
+    "lat": "54.68916",
+    "long": "25.27980",
+    "wikidata": "https://www.wikidata.org/wiki/Q216",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "324": {
+    "id": 324,
+    "order": "315.00000000000000000000",
+    "name": "Braniewo",
+    "jesuiten_id": "jesuiten_place__324",
+    "geonames": "https://www.geonames.org/3102677/braniewo.html",
+    "lat": "54.37971",
+    "long": "19.81959",
+    "wikidata": "https://www.wikidata.org/wiki/Q160814",
+    "alt_names": [
+      {
+        "id": 233,
+        "value": "Bransberg"
+      },
+      {
+        "id": 234,
+        "value": "Braunsberg"
+      }
+    ],
+    "msdesc": []
+  },
+  "325": {
+    "id": 325,
+    "order": "316.00000000000000000000",
+    "name": "Pułtusk",
+    "jesuiten_id": "jesuiten_place__325",
+    "geonames": "https://www.geonames.org/760917/pultusk.html",
+    "lat": "52.70250",
+    "long": "21.08276",
+    "wikidata": "https://www.wikidata.org/wiki/Q62937",
+    "alt_names": [
+      {
+        "id": 235,
+        "value": "Pultovien"
+      },
+      {
+        "id": 236,
+        "value": "Pultowsk"
+      }
+    ],
+    "msdesc": []
+  },
+  "326": {
+    "id": 326,
+    "order": "317.00000000000000000000",
+    "name": "Polotsk",
+    "jesuiten_id": "jesuiten_place__326",
+    "geonames": "https://www.geonames.org/623317/polatsk.html",
+    "lat": "55.48790",
+    "long": "28.78560",
+    "wikidata": "https://www.wikidata.org/wiki/Q200797",
+    "alt_names": [
+      {
+        "id": 237,
+        "value": "Polock"
+      }
+    ],
+    "msdesc": []
+  },
+  "327": {
+    "id": 327,
+    "order": "318.00000000000000000000",
+    "name": "Tartu",
+    "jesuiten_id": "jesuiten_place__327",
+    "geonames": "https://www.geonames.org/588335/tartu.html",
+    "lat": "58.38062",
+    "long": "26.72509",
+    "wikidata": "https://www.wikidata.org/wiki/Q13972",
+    "alt_names": [
+      {
+        "id": 238,
+        "value": "Dorpat"
+      },
+      {
+        "id": 239,
+        "value": "Tarbatum"
+      }
+    ],
+    "msdesc": []
+  },
+  "328": {
+    "id": 328,
+    "order": "319.00000000000000000000",
+    "name": "Riga",
+    "jesuiten_id": "jesuiten_place__328",
+    "geonames": "https://www.geonames.org/456172/riga.html",
+    "lat": "56.94600",
+    "long": "24.10589",
+    "wikidata": "https://www.wikidata.org/wiki/Q1773",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "329": {
+    "id": 329,
+    "order": "320.00000000000000000000",
+    "name": "Warsaw",
+    "jesuiten_id": "jesuiten_place__329",
+    "geonames": "https://www.geonames.org/756135/warsaw.html",
+    "lat": "52.22977",
+    "long": "21.01178",
+    "wikidata": "https://www.wikidata.org/wiki/Q270",
     "alt_names": [],
     "msdesc": []
   }

@@ -857,6 +857,149 @@
     "# when": "",
     "date_letter": "1663"
   },
+  "93": {
+    "id": 93,
+    "order": "3.79999999999999982236",
+    "signatur": "Cod. 12061",
+    "jesuiten_id": "jesuiten_msdesc__93",
+    "mentioned_orgs": [
+      {
+        "id": 1,
+        "value": "Profeßhaus Wien"
+      },
+      {
+        "id": 2,
+        "value": "Jesuitenkolleg Wien"
+      },
+      {
+        "id": 4,
+        "value": "Probationshaus Wien"
+      },
+      {
+        "id": 5,
+        "value": "Jesuitenkolleg Graz"
+      },
+      {
+        "id": 8,
+        "value": "Jesuitenkolleg Linz"
+      },
+      {
+        "id": 9,
+        "value": "Jesuitenkolleg Bratislava"
+      },
+      {
+        "id": 11,
+        "value": "Jesuitenkolleg Trnava"
+      },
+      {
+        "id": 12,
+        "value": "Jesuitenkolleg Győr"
+      },
+      {
+        "id": 16,
+        "value": "Jesuitenkolleg Klagenfurt"
+      },
+      {
+        "id": 17,
+        "value": "Jesuitenresidenz Eberndorf"
+      },
+      {
+        "id": 18,
+        "value": "Jesuitenkolleg Zagreb"
+      },
+      {
+        "id": 35,
+        "value": "Jesuitenkolleg Krems"
+      },
+      {
+        "id": 36,
+        "value": "Jesuitenkolleg Gorizia"
+      },
+      {
+        "id": 37,
+        "value": "Jesuitenkolleg Judenburg"
+      },
+      {
+        "id": 38,
+        "value": "Jesuitenkolleg Trieste"
+      },
+      {
+        "id": 40,
+        "value": "Jesuitenkolleg Rijeka"
+      },
+      {
+        "id": 44,
+        "value": "Jesuitenresidenz Varaždin"
+      },
+      {
+        "id": 47,
+        "value": "Jesuitenresidenz Gyöngyös"
+      },
+      {
+        "id": 52,
+        "value": "Jesuitenkolleg Leoben"
+      },
+      {
+        "id": 53,
+        "value": "Jesuitenkolleg Steyr"
+      },
+      {
+        "id": 70,
+        "value": "Jesuitenresidenz Sárospatak"
+      },
+      {
+        "id": 79,
+        "value": "Jesuitenkolleg Košice"
+      },
+      {
+        "id": 202,
+        "value": "Jesuitenresidenz Banská Bystrica"
+      },
+      {
+        "id": 364,
+        "value": "Jesuitenresidenz Bernardi"
+      }
+    ],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948208",
+    "title": "Litterae annuae provinciae Austriae Societatis Iesu a. 1664",
+    "date": "ab 1665",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 13,
+        "value": "Sopron"
+      },
+      {
+        "id": 18,
+        "value": "Trenčín"
+      },
+      {
+        "id": 76,
+        "value": "Sárospatak"
+      },
+      {
+        "id": 77,
+        "value": "Rožňava"
+      },
+      {
+        "id": 78,
+        "value": "Spišska Kapitula"
+      }
+    ],
+    "note_type_facs": "http://data.onb.ac.at/dtl/9190137",
+    "xml_id": "cod_12061",
+    "extent": "II, 67, II* Bl.",
+    "height": null,
+    "width": null,
+    "foliation": "Zeitgenössische Paginierung 1–134.",
+    "acc_mat": "",
+    "binding": "Pergament über Pappdeckeln, 17. Jhdt.",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist thematisch in Kapitel gegliedert. Randbemerkungen zu den erwähnten Themen – hier nur vereinzelt erschlossen.",
+    "not_before": "1665",
+    "not_after": null,
+    "# when": "",
+    "date_letter": "1664"
+  },
   "4": {
     "id": 4,
     "order": "4.00000000000000000000",
@@ -1050,7 +1193,7 @@
     "foliation": "Zeitgenössische Paginierung in Tinte: 1-162. Moderne Foliierung der Vor- und Nachsatzblätter: I-III bzw. I*-II*.",
     "acc_mat": "Ausgelöste Makulatur: ehemaliger kaschierte Einbanddeckel (z. T. gedruckte Musiknoten, unidentifizierter Text in deutschen Kurrentschrift).",
     "binding": "Restauriert 1917.",
-    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist thematisch in 24 Kapitel gegliedert; der letzte davon auf ff. 146-162 trägt den Titel 'Eulogia defunctorum'.",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist thematisch in 24 Kapitel gegliedert; der letzte davon auf ff. 146–162 trägt den Titel 'Eulogia defunctorum'.",
     "not_before": "1670",
     "not_after": null,
     "# when": null,
@@ -2249,6 +2392,190 @@
     "not_after": "1660",
     "# when": "",
     "date_letter": "1657"
+  },
+  "91": {
+    "id": 91,
+    "order": "5.94117647058823550310",
+    "signatur": "Cod. 12055",
+    "jesuiten_id": "jesuiten_msdesc__91",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13947513",
+    "title": "Litterae annuae provinciae Austriae Societatis Iesu a. 1658",
+    "date": "ab 1659",
+    "persons": [],
+    "mentioned_places": [],
+    "note_type_facs": "http://data.onb.ac.at/dtl/9228108",
+    "xml_id": "cod_12055",
+    "extent": "II, 30 Bl.",
+    "height": null,
+    "width": null,
+    "foliation": "Zeitgenössische Paginierung 1–59.",
+    "acc_mat": "",
+    "binding": "Pergament über Pappdeckeln, 17. Jhdt.",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist nach Domizilen geordnet. Auf S. 50–52 Bericht über die Aktivitäten in der ganzen Provinz; S. 52–59 über verschiedene Missionen.",
+    "not_before": "1659",
+    "not_after": null,
+    "# when": "",
+    "date_letter": "1658"
+  },
+  "92": {
+    "id": 92,
+    "order": "5.94444444444444464182",
+    "signatur": "Cod. 12056",
+    "jesuiten_id": "jesuiten_msdesc__92",
+    "mentioned_orgs": [
+      {
+        "id": 1,
+        "value": "Profeßhaus Wien"
+      },
+      {
+        "id": 2,
+        "value": "Jesuitenkolleg Wien"
+      },
+      {
+        "id": 3,
+        "value": "Jesuitenresidenz S. Bernardi"
+      },
+      {
+        "id": 4,
+        "value": "Probationshaus Wien"
+      },
+      {
+        "id": 5,
+        "value": "Jesuitenkolleg Graz"
+      },
+      {
+        "id": 7,
+        "value": "Jesuitenresidenz Millstatt"
+      },
+      {
+        "id": 10,
+        "value": "Jesuitenkolleg Passau"
+      },
+      {
+        "id": 11,
+        "value": "Jesuitenkolleg Trnava"
+      },
+      {
+        "id": 12,
+        "value": "Jesuitenkolleg Győr"
+      },
+      {
+        "id": 13,
+        "value": "Jesuitenkolleg Ljubljana"
+      },
+      {
+        "id": 14,
+        "value": "Jesuitenresidenz Šentjernej"
+      },
+      {
+        "id": 16,
+        "value": "Jesuitenkolleg Klagenfurt"
+      },
+      {
+        "id": 18,
+        "value": "Jesuitenkolleg Zagreb"
+      },
+      {
+        "id": 27,
+        "value": "Jesuitenresidenz Traunkirchen"
+      },
+      {
+        "id": 35,
+        "value": "Jesuitenkolleg Krems"
+      },
+      {
+        "id": 37,
+        "value": "Jesuitenkolleg Judenburg"
+      },
+      {
+        "id": 38,
+        "value": "Jesuitenkolleg Trieste"
+      },
+      {
+        "id": 40,
+        "value": "Jesuitenkolleg Rijeka"
+      },
+      {
+        "id": 41,
+        "value": "Missio Castrensis"
+      },
+      {
+        "id": 47,
+        "value": "Jesuitenresidenz Gyöngyös"
+      },
+      {
+        "id": 53,
+        "value": "Jesuitenkolleg Steyr"
+      },
+      {
+        "id": 54,
+        "value": "Jesuitenresidenz Komarom"
+      },
+      {
+        "id": 55,
+        "value": "Jesuitenresidenz Žireč"
+      },
+      {
+        "id": 57,
+        "value": "Jesuitenresidenz Alba Julia"
+      },
+      {
+        "id": 64,
+        "value": "Jesuitenresidenz Kláštor pod Znievom"
+      },
+      {
+        "id": 71,
+        "value": "Jesuitenresidenz Banská Štiavnica"
+      },
+      {
+        "id": 79,
+        "value": "Jesuitenkolleg Košice"
+      },
+      {
+        "id": 81,
+        "value": "Jesuitenkolleg Banská Bystrica"
+      },
+      {
+        "id": 87,
+        "value": "Jesuitenkolleg Sopron"
+      },
+      {
+        "id": 89,
+        "value": "Jesuitenkolleg Trenčín"
+      },
+      {
+        "id": 292,
+        "value": "Jesuitenkolleg Uzhhorod"
+      },
+      {
+        "id": 377,
+        "value": "Probationshaus Trenčín"
+      }
+    ],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13947514",
+    "title": "Litterae annuae provinciae Austriae Societatis Iesu a. 1659",
+    "date": "1660–1661",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 172,
+        "value": "Transylvania"
+      }
+    ],
+    "note_type_facs": "http://data.onb.ac.at/dtl/9216368",
+    "xml_id": "cod_12056",
+    "extent": "IV, 108, II* Bl.",
+    "height": null,
+    "width": null,
+    "foliation": "Zeitgenössische Paginierung 1–105.",
+    "acc_mat": "",
+    "binding": "Pergament über Pappdeckeln, 17. Jhdt.",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist thematisch geordnet, allerdings ohne Überschriften. Am Rand sind die Themen und Orte bzw. Domizilen vermerkt – hier nur vereinzelt erschlossen.",
+    "not_before": "1660",
+    "not_after": "1661",
+    "# when": "",
+    "date_letter": "1659"
   },
   "7": {
     "id": 7,
@@ -5827,7 +6154,7 @@
     "mentioned_orgs": [],
     "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948868",
     "title": "Historiae provinciae Bohemiae Societatis Iesu liber VIII: Persecutiones et adversitates, quas in terris Bohemiae passa est Societati Iesu",
-    "date": "",
+    "date": "18. Jhdt.",
     "persons": [],
     "mentioned_places": [],
     "note_type_facs": "",
@@ -5843,6 +6170,86 @@
     "not_after": null,
     "# when": "",
     "date_letter": ""
+  },
+  "94": {
+    "id": 94,
+    "order": "31.85714285714285765039",
+    "signatur": "Cod. 12004",
+    "jesuiten_id": "jesuiten_msdesc__94",
+    "mentioned_orgs": [
+      {
+        "id": 116,
+        "value": "Jesuitenkolleg Prague ad S. Clementem"
+      }
+    ],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948870",
+    "title": "Supplementum historiae collegii Societatis Iesu Pragae ad S. Clementem a. 1701–1729",
+    "date": "ab 1729",
+    "persons": [],
+    "mentioned_places": [],
+    "note_type_facs": "",
+    "xml_id": "cod_12004",
+    "extent": "I, 43, I*Bl.",
+    "height": "340",
+    "width": "215",
+    "foliation": "Moderne Foliierung.",
+    "acc_mat": "",
+    "binding": "Pappeinband Wien 19. Jhdt.",
+    "summary": "Zusammengesetzte Handschrift mit Ergänzungen (Supplementa) zu den Litterae Annuae. Chronologisch geordnet,    z. T. mit Randergänzungen. Dublette mancher Supplementa. in Variierende Blattgröße.",
+    "not_before": "1729",
+    "not_after": null,
+    "# when": "",
+    "date_letter": "1701–1729"
+  },
+  "95": {
+    "id": 95,
+    "order": "31.87500000000000000000",
+    "signatur": "Cod. 12005",
+    "jesuiten_id": "jesuiten_msdesc__95",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948871",
+    "title": "Litterae annuae provinciae Poloniae Societatis Iesu a. 1606-1608",
+    "date": "ab 1607 bzw. 1608, 1609",
+    "persons": [],
+    "mentioned_places": [],
+    "note_type_facs": "",
+    "xml_id": "cod_12005",
+    "extent": "I, 77, I* Bl.",
+    "height": "335",
+    "width": "205",
+    "foliation": "Moderne Foliierung.",
+    "acc_mat": "",
+    "binding": "Pappeinband Wien 19. Jhdt.",
+    "summary": "Zusammengesetzte Handschrift. Die Berichte sind nach Domizilen gegliedert. Z. T. stark variierende Blattgröße.",
+    "not_before": null,
+    "not_after": null,
+    "# when": "",
+    "date_letter": "1606–1608"
+  },
+  "96": {
+    "id": 96,
+    "order": "31.88888888888888928363",
+    "signatur": "Cod. 12006",
+    "jesuiten_id": "jesuiten_msdesc__96",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948837",
+    "title": "Litterae annuae provinciae Poloniae Societatis Iesu a. 1586, 1595, 1598, 1599, 1604 et 1605",
+    "date": "16. Jh.",
+    "persons": [],
+    "mentioned_places": [],
+    "note_type_facs": "",
+    "xml_id": "cod_12006",
+    "extent": "I, 99 Bl.",
+    "height": "330",
+    "width": "210",
+    "foliation": "Moderne Foliierung I, 1–36, 36a, 37–98.",
+    "acc_mat": "",
+    "binding": "",
+    "summary": "Zusammengesetzte Handschrift. Die Berichte sind nach Domizilen gegliedert. Z. T. stark variierende Blattgröße.",
+    "not_before": null,
+    "not_after": null,
+    "# when": "",
+    "date_letter": "1586, 1595, 1598, 1599, 1604, 1605"
   },
   "45": {
     "id": 45,
