@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cod_11954.xml" xml:base="https://oenb.ac.at" prev="https://oenb.ac.at/cod_11895.xml" next="https://oenb.ac.at/cod_11960.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cod_11633.xml" xml:base="https://oenb.ac.at" next="https://oenb.ac.at/cod_11895.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">Wien, Österreichische nationalbibliothek, Cod. 11954</title>
+                <title type="main">Wien, Österreichische nationalbibliothek, Cod. 11633</title>
                 <title type="sub">Jesuiten Littera annuae</title>
                 <respStmt>
                     <resp>Beschreibung und TEI-encoding</resp>
@@ -19,40 +19,46 @@
                 </availability>
             </publicationStmt>
             <sourceDesc>
-                <msDesc xml:lang="de" xml:id="cod_11954">
+                <msDesc xml:lang="de" xml:id="cod_11633">
                     <msIdentifier>
                         <country>Österreich</country>
                         <settlement>Wien</settlement>
                         <repository>Österreichische Nationalbibliothek</repository>
-                        <idno>Cod. 11954</idno>
+                        <idno>Cod. 11633</idno>
                     </msIdentifier>
                     <head>
-                        <title>Responsa generalium provinciae Bohemiae Societatis Iesu per procuratores, qui tertio quoque anno Romam mittuntur a. 1568-1669</title>
-                        <origDate notBefore="1625-01-01">17.–18. Jhdt.</origDate>
+                        <title>Summarium constitutionum Societatis Iesu</title>
+                        <origDate notBefore="1601-01-01">17.–18. Jhdt.</origDate>
                         <note type="catalogue">
-                            <ref target="http://data.onb.ac.at/rec/AC13947544"/>
+                            <ref target="http://data.onb.ac.at/rec/AC13948265"/>
                         </note>
                     </head>
                     <msContents>                   
                         <summary>
-                                Die Handschrift ist in zwei Teile gegliedert. Der erste Teil enthält die Antworten auf die Fragen (Resolutiones), die alle drei Jahre nach Rom gesandt wurden. Er ist chronologisch geordnet. Die ersten Seiten, die sich auf die Jahre 1568-1625 beziehen, wurden von einer Hand, wahrscheinlich um 1625, abgeschrieben. Weitere Einträge betreffen Antworten bis 1737. 
-Der zweite Teil beginnt in der Mitte des Buches und ist für die nach der Versammlung eingegangenen Antworten (Resolutiones) bestimmt. Dieser Teil ist bis auf drei Seiten leer geblieben.
-Die Handschrift wurde von Alois Kroess für seine 'Geschichte der Böhmischen Provinz der Gesellschaft Jesu' (Wien, 1910) benutzt. 
+                                Sammelhandschrif mit Kommentaren der Konstitutionen und weiteren Texten, wahrscheinlich für den Handgebrauch der Ordensmitglieder.  Auf f. Ir angeklebt Druckgraphik: S. Fraciscus Xacerius. 
                                 
                         </summary> 
                         <textLang mainLang="lat"/>
                         
                                 <msItem n="None">
-                                    <locus from="1r" to="21r">1r-21r</locus>
-                                    <title>Responsa generalium provinciae per procuratorem qui tertio quoque anno Romam mittitur data. Die Antworten sind chronologisch nach dem Jahr geordnet. U. a. de ludis recreationis gratia; de docendo cantu nostros; de excudendis comoediis etc.</title>
+                                    <locus from="1r" to="97v">1r-97v</locus>
+                                    <title>Kommentar des von Everard Mercurian beauftragten Auszuges aus den Konstitutionen des hl. Ignatius 'Summarium earum Constitutionum quae ad spiritualem Nostrorum institutionem per tinent et ab omnibus observandae sunt' (gegliedert nach den 52 regulae)</title>
                                 </msItem>
                                 <msItem n="None">
-                                    <locus from="" to="">-</locus>
-                                    <title>Resolutiones casuum quae in provincia dantur; Resolutiones casuum ex hoc vel aliis collegiis datae priusquam hic de scribantur RP Prov. exhibebuntur.</title>
+                                    <locus from="97v" to="98v">97v-98v</locus>
+                                    <title>Principia solidae perfectionis</title>
                                 </msItem>
                                 <msItem n="None">
-                                    <locus from="" to="">-</locus>
-                                    <title>Ex bulla Pii IV conditiones utrisque speciei in communione porrigendae sequentibus verbis continentur.</title>
+                                    <locus from="99r" to="150v">99r-150v</locus>
+                                    <title>Kommentar des Werkes 'Regulae communes' (mit Fragen und Antworten; gegliedert nach den 49 regulae)</title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="151r" to="160v">151r-160v</locus>
+                                    <title>Compendiosa regularum modestiae expositio (12 regulae)</title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="161r" to="169v">161r-169v</locus>
+                                    <title>Tractatus de votis societatis</title>
                                 </msItem>
                           
                         
@@ -63,19 +69,19 @@ Die Handschrift wurde von Alois Kroess für seine 'Geschichte der Böhmischen Pr
                             <supportDesc material="paper">
                                 <support>Papier</support>
                                 <extent>
-                                    <measure type="leavesCount" unit="folio">None</measure>
+                                    <measure type="leavesCount" unit="folio">II, 169, I* Bl.</measure>
                                     <dimensions type="leaf_current" unit="mm">
-                                        <height>311</height>
-                                        <width>200</width>
+                                        <height>198</height>
+                                        <width>155</width>
                                     </dimensions>
                                 </extent>
-                                <foliation/>
+                                <foliation>Moderne Foliierung.</foliation>
                                 <collation/>
                             </supportDesc>
                         </objectDesc>
                         <bindingDesc>
                             <binding>
-                                <p>Weißes Leder mit Blindprägung über Holzdeckeln, Brünn, dat. 1596.</p>
+                                <p>Kartoneinband mit Lederrücken</p>
                             </binding>
                         </bindingDesc>
                         <accMat/>                        

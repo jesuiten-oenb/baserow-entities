@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cod_12406.xml" xml:base="https://oenb.ac.at" prev="https://oenb.ac.at/cod_12301.xml" next="https://oenb.ac.at/cod_12407.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cod_11895.xml" xml:base="https://oenb.ac.at" prev="https://oenb.ac.at/cod_11633.xml" next="https://oenb.ac.at/cod_11954.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">Wien, Österreichische nationalbibliothek, Cod. 12406</title>
+                <title type="main">Wien, Österreichische nationalbibliothek, Cod. 11895</title>
                 <title type="sub">Jesuiten Littera annuae</title>
                 <respStmt>
                     <resp>Beschreibung und TEI-encoding</resp>
@@ -19,23 +19,23 @@
                 </availability>
             </publicationStmt>
             <sourceDesc>
-                <msDesc xml:lang="de" xml:id="cod_12406">
+                <msDesc xml:lang="de" xml:id="cod_11895">
                     <msIdentifier>
                         <country>Österreich</country>
                         <settlement>Wien</settlement>
                         <repository>Österreichische Nationalbibliothek</repository>
-                        <idno>Cod. 12406</idno>
+                        <idno>Cod. 11895</idno>
                     </msIdentifier>
                     <head>
-                        <title>Rationes generales residentiae Leopoldinae Societatis Iesu Neostadii a. 1746-1773</title>
-                        <origDate notBefore="1746-01-01">1746–1773</origDate>
+                        <title>Catalogus bibliothecae collegii Societatis Iesu Neostadiensis</title>
+                        <origDate notBefore="1701-01-01">17. Jhdt.</origDate>
                         <note type="catalogue">
-                            <ref target="http://data.onb.ac.at/rec/AC13948697"/>
+                            <ref target="http://data.onb.ac.at/rec/AC13948708"/>
                         </note>
                     </head>
                     <msContents>                   
                         <summary>
-                                Einnahmen-Ausgaben-Rechnungen für die Jahre 1746–1773. Beschrieben wurden die ersten 26 Blätter (1r-26r); der Rest (26v-91v) ist leer. Für jedes jahr wurden außer die Annahme (accepta ex censu, ex mutuo etc.) und die Ausgaben (exposita), werden ab Jahr 1752 (f. 7r) auch die Personen genannt. 
+                                Katalog der Bibliothek des Jesuitenkollegs Wiener Neustadt. Der Katalog ist alphabetisch nach dem Nachnamen des Autors oder nach dem Titel (wenn kein Autor angegeben ist) geordnet. Zu jedem Buch sind auch das Format (Folio, Oktav etc.), der Standort (Albo, Rubro regali etc.), der Druckort und das Druckjahr angegeben. Der Hauptteil dürfte Ende des 17. Jahrhunderts (nach 1695) entstanden sein. Auf f. 197v Nachträge von 1710, 1711 und 1717 mit neu erworbenen Büchern. Fol. 201 ist ein ungebundenes Blatt: Verzeichnis der Bücher, die für den Gebrauch des Dompredigers bestimmt sind (signiert Mattheus Richter). 
                                 
                                 <listOrg>
                                     <head>Erwähnte Körperschaften:</head>
@@ -53,10 +53,10 @@
                             <supportDesc material="paper">
                                 <support>Papier</support>
                                 <extent>
-                                    <measure type="leavesCount" unit="folio">I, ? Bl.</measure>
+                                    <measure type="leavesCount" unit="folio">I, 203 Bl.</measure>
                                     <dimensions type="leaf_current" unit="mm">
-                                        <height>200</height>
-                                        <width>158</width>
+                                        <height>320</height>
+                                        <width>210</width>
                                     </dimensions>
                                 </extent>
                                 <foliation>Moderne Foliierung.</foliation>
@@ -65,10 +65,10 @@
                         </objectDesc>
                         <bindingDesc>
                             <binding>
-                                <p>Pergament (Makulatur) über Pappdeckel, die Deckel mit buntem Marmorpapier beklebt. Titelüberschrift 'Rationes generales residentiae Leopoldiniae Soc. Jesu Neostadii'.</p>
+                                <p>Halbpergament mit Rücken und Einbandecken aus Pergament (Makulatur). Titelschield.</p>
                             </binding>
                         </bindingDesc>
-                        <accMat>Makulatur zur Verstärkung des Rückens und Ecke. Fragment unidentifiziert (Textura, 15.-16. Jh.).</accMat>                        
+                        <accMat>Theologischer Text, letztes Viertel 13. Jhdt. / 1. Viertel 14. Jhdt. 2-zeilige blaue Lombarden.</accMat>                        
                     </physDesc>
                 </msDesc>
             </sourceDesc>
