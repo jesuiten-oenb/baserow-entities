@@ -9185,7 +9185,7 @@
                 "value": "Cod. 12278"
             }
         ],
-        "alt_name": "Collegium Gitzinense",
+        "alt_name": "Collegium Gitzinense / Giczinii",
         "notes": "",
         "persons": []
     },
@@ -10462,7 +10462,7 @@
     "137": {
         "id": 137,
         "order": "136.00000000000000000000",
-        "name": "Jesuitenrisidenz Jelenia Góra",
+        "name": "Jesuitenresidenz Jelenia Góra",
         "jesuiten_id": "jesuiten_org__137",
         "located_in": [
             {
@@ -10554,13 +10554,26 @@
                 "lat": "49.75133",
                 "long": "18.63213",
                 "wikidata": "https://www.wikidata.org/wiki/Q321197",
-                "alt_names": [],
+                "alt_names": [
+                    {
+                        "id": 241,
+                        "value": "Těšín"
+                    },
+                    {
+                        "id": 242,
+                        "value": "Teschen"
+                    },
+                    {
+                        "id": 243,
+                        "value": "Tessinum"
+                    }
+                ],
                 "msdesc": []
             }
         ],
         "gnd": "",
         "msdesc": [],
-        "alt_name": "Residentia Teschinensis",
+        "alt_name": "Residentia Teschinensis / Tessinii",
         "notes": "",
         "persons": []
     },
@@ -14221,7 +14234,20 @@
                 "lat": "49.75133",
                 "long": "18.63213",
                 "wikidata": "https://www.wikidata.org/wiki/Q321197",
-                "alt_names": [],
+                "alt_names": [
+                    {
+                        "id": 241,
+                        "value": "Těšín"
+                    },
+                    {
+                        "id": 242,
+                        "value": "Teschen"
+                    },
+                    {
+                        "id": 243,
+                        "value": "Tessinum"
+                    }
+                ],
                 "msdesc": []
             }
         ],
@@ -16163,7 +16189,7 @@
                 "value": "Cod. 12278"
             }
         ],
-        "alt_name": "Missio Liepsiensis",
+        "alt_name": "Missio Lipsiensis / Liepsiensis",
         "notes": "",
         "persons": []
     },
@@ -16237,7 +16263,24 @@
                 "long": "14.50000",
                 "wikidata": "https://www.wikidata.org/wiki/Q39193",
                 "alt_names": [],
-                "msdesc": []
+                "msdesc": [
+                    {
+                        "id": 107,
+                        "value": "Cod. 12302"
+                    },
+                    {
+                        "id": 108,
+                        "value": "Cod. 12303"
+                    },
+                    {
+                        "id": 110,
+                        "value": "Cod. 12305"
+                    },
+                    {
+                        "id": 109,
+                        "value": "Cod. 12304"
+                    }
+                ]
             }
         ],
         "gnd": "",
@@ -19158,6 +19201,81 @@
         "gnd": "",
         "msdesc": [],
         "alt_name": "Missio Luceoriensis",
+        "notes": "",
+        "persons": []
+    },
+    "400": {
+        "id": 400,
+        "order": "390.00000000000000000000",
+        "name": "Jesuitenmission Olomouc",
+        "jesuiten_id": "jesuiten_org__400",
+        "located_in": [
+            {
+                "id": 114,
+                "order": "111.00000000000000000000",
+                "name": "Olomouc",
+                "jesuiten_id": "jesuiten_place__114",
+                "geonames": "https://www.geonames.org/3069011/olomouc.html",
+                "lat": "49.59552",
+                "long": "17.25175",
+                "wikidata": "https://www.wikidata.org/wiki/Q81137",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Liechtensteinica ad Olomucium",
+        "notes": "",
+        "persons": []
+    },
+    "401": {
+        "id": 401,
+        "order": "391.00000000000000000000",
+        "name": "Jesuitenmission Silesia Superiore,  Cieszyn",
+        "jesuiten_id": "jesuiten_org__401",
+        "located_in": [
+            {
+                "id": 129,
+                "order": "126.00000000000000000000",
+                "name": "Cieszyn",
+                "jesuiten_id": "jesuiten_place__129",
+                "geonames": "https://www.geonames.org/3101321/cieszyn.html",
+                "lat": "49.75133",
+                "long": "18.63213",
+                "wikidata": "https://www.wikidata.org/wiki/Q321197",
+                "alt_names": [
+                    {
+                        "id": 241,
+                        "value": "Těšín"
+                    },
+                    {
+                        "id": 242,
+                        "value": "Teschen"
+                    },
+                    {
+                        "id": 243,
+                        "value": "Tessinum"
+                    }
+                ],
+                "msdesc": []
+            },
+            {
+                "id": 270,
+                "order": "262.00000000000000000000",
+                "name": "Silesia",
+                "jesuiten_id": "jesuiten_place__270",
+                "geonames": "https://www.geonames.org/3066138/silesia.html",
+                "lat": "51.00000",
+                "long": "18.00000",
+                "wikidata": "https://www.wikidata.org/wiki/Q81720",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missionis episcopalis pro superiore Silesia, praesertim ducatu Teschinensi, erecta a serenissimo ac reverendissimo electore Trevirensi eepiscopo Wratislaviensi",
         "notes": "",
         "persons": []
     }

@@ -904,7 +904,7 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/3068927/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q156080</idno>
-               </place>
+               <noteGrp><note target="cod_12303.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12303</note><note target="cod_12304.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12304</note></noteGrp></place>
                <place xml:id="jesuiten_place__116">
                   <placeName>Opole</placeName>
                   <location type="coords">
@@ -1930,7 +1930,7 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/3074592/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q1319012</idno>
-               </place>
+               <noteGrp><note target="cod_12304.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12304</note></noteGrp></place>
                <place xml:id="jesuiten_place__263">
                   <placeName>Pomorzowice</placeName>
                   <location type="coords">
@@ -1994,7 +1994,7 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/3066138/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q81720</idno>
-               <noteGrp><note target="cod_12006.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12006</note></noteGrp></place>
+               <noteGrp><note target="cod_12006.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12006</note><note target="cod_12304.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12304</note></noteGrp></place>
                <place xml:id="jesuiten_place__271">
                   <placeName>Moravia</placeName>
                   <location type="coords">
@@ -2010,7 +2010,7 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/3078198/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q39193</idno>
-               <noteGrp><note target="cod_11961.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11961</note></noteGrp></place>
+               <noteGrp><note target="cod_11961.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11961</note><note target="cod_12302.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12302</note><note target="cod_12303.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12303</note><note target="cod_12304.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12304</note><note target="cod_12305.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12305</note></noteGrp></place>
                <place xml:id="jesuiten_place__273">
                   <placeName>Dacia</placeName>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q971609</idno>
@@ -2236,7 +2236,7 @@
                <place xml:id="jesuiten_place__304">
                   <placeName>Hungary Kingdom</placeName>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q171150</idno>
-               <noteGrp><note target="cod_12006.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12006</note></noteGrp></place>
+               <noteGrp><note target="cod_12006.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12006</note><note target="cod_12304.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12304</note></noteGrp></place>
                <place xml:id="jesuiten_place__305">
                   <placeName>Żernica</placeName>
                   <location type="coords">
@@ -2420,6 +2420,14 @@
                   <idno type="geonames">https://sws.geonames.org/756135/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q270</idno>
                </place>
+               <place xml:id="jesuiten_place__330">
+                  <placeName>Krnov</placeName>
+                  <location type="coords">
+                     <geo>50.08967 17.70385</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3072656/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1789604</idno>
+               <noteGrp><note target="cod_12303.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12303</note><note target="cod_12304.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12304</note></noteGrp></place>
             </listPlace>
          </div>
       </body>

@@ -5702,7 +5702,20 @@
     "lat": "49.75133",
     "long": "18.63213",
     "wikidata": "https://www.wikidata.org/wiki/Q321197",
-    "alt_names": [],
+    "alt_names": [
+      {
+        "id": 241,
+        "value": "Těšín"
+      },
+      {
+        "id": 242,
+        "value": "Teschen"
+      },
+      {
+        "id": 243,
+        "value": "Tessinum"
+      }
+    ],
     "msdesc": []
   },
   "130": {
@@ -7611,7 +7624,24 @@
     "long": "14.50000",
     "wikidata": "https://www.wikidata.org/wiki/Q39193",
     "alt_names": [],
-    "msdesc": []
+    "msdesc": [
+      {
+        "id": 107,
+        "value": "Cod. 12302"
+      },
+      {
+        "id": 108,
+        "value": "Cod. 12303"
+      },
+      {
+        "id": 110,
+        "value": "Cod. 12305"
+      },
+      {
+        "id": 109,
+        "value": "Cod. 12304"
+      }
+    ]
   },
   "273": {
     "id": 273,
@@ -8500,6 +8530,23 @@
     "long": "21.01178",
     "wikidata": "https://www.wikidata.org/wiki/Q270",
     "alt_names": [],
+    "msdesc": []
+  },
+  "330": {
+    "id": 330,
+    "order": "321.00000000000000000000",
+    "name": "Krnov",
+    "jesuiten_id": "jesuiten_place__330",
+    "geonames": "https://www.geonames.org/3072656/krnov.html",
+    "lat": "50.08967",
+    "long": "17.70385",
+    "wikidata": "https://www.wikidata.org/wiki/Q1789604",
+    "alt_names": [
+      {
+        "id": 240,
+        "value": "Carnovia"
+      }
+    ],
     "msdesc": []
   }
 }
