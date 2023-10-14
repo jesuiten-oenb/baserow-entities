@@ -3816,5 +3816,53 @@
         "value": "Cieszyn"
       }
     ]
+  },
+  "244": {
+    "id": 244,
+    "order": "244.00000000000000000000",
+    "Name": "Schlukanavia",
+    "Notes": {
+      "id": 11393,
+      "value": "lat",
+      "color": "dark-gray"
+    },
+    "places": [
+      {
+        "id": 331,
+        "value": "Šluknov"
+      }
+    ]
+  },
+  "245": {
+    "id": 245,
+    "order": "245.00000000000000000000",
+    "Name": "Arnau",
+    "Notes": {
+      "id": 11394,
+      "value": "ger",
+      "color": "green"
+    },
+    "places": [
+      {
+        "id": 332,
+        "value": "Hostinné"
+      }
+    ]
+  },
+  "246": {
+    "id": 246,
+    "order": "246.00000000000000000000",
+    "Name": "Schönau",
+    "Notes": {
+      "id": 11394,
+      "value": "ger",
+      "color": "green"
+    },
+    "places": [
+      {
+        "id": 333,
+        "value": "Świerzawa"
+      }
+    ]
   }
 }

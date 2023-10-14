@@ -4859,7 +4859,12 @@
     "title": "Litterae annuae provinciae Bohemiae Societatis Iesu a. 1711",
     "date": "ab 1712",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Bohemia"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_12297",
     "extent": "107 Bll.",
@@ -4884,7 +4889,12 @@
     "title": "Litterae annuae provinciae Bohemiae Societatis Iesu a. 1713",
     "date": "1714",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Bohemia"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_12299",
     "extent": "132, II* Bl.",
@@ -4909,7 +4919,12 @@
     "title": "Litterae annuae provinciae Bohemiae Societatis Iesu a. 1714",
     "date": "1715",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Bohemia"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_12300",
     "extent": "II, 126, II* Bl.",
@@ -4934,7 +4949,12 @@
     "title": "Litterae annuae provinciae Bohemiae Societatis Iesu a. 1715",
     "date": "1716",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Bohemia"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_12301",
     "extent": "I, 161, I* Bl.",
@@ -5038,6 +5058,66 @@
     "not_after": null,
     "# when": "1720",
     "date_letter": "1719"
+  },
+  "111": {
+    "id": 111,
+    "order": "8.47058823529411775155",
+    "signatur": "Cod. 12306",
+    "jesuiten_id": "jesuiten_msdesc__111",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948667",
+    "title": "Litterae annuae provinciae Bohemiae Societatis Iesu a. 1720",
+    "date": "1721",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Bohemia"
+      }
+    ],
+    "note_type_facs": "",
+    "xml_id": "cod_12306",
+    "extent": "I, 147 Bl.",
+    "height": "265",
+    "width": "190",
+    "foliation": "Moderne Foliierung.",
+    "acc_mat": "",
+    "binding": "Halbband, Deckel mit buntem Marmorpapier überzogen, 18. Jhdt.",
+    "summary": "Zusammengesetzte Handschrift aus den Berichten für das Jahr 1720 verschiedenen Domizilen in Böhmen.",
+    "not_before": null,
+    "not_after": null,
+    "# when": "1721",
+    "date_letter": "1720"
+  },
+  "112": {
+    "id": 112,
+    "order": "8.47368421052631504153",
+    "signatur": "Cod. 12307",
+    "jesuiten_id": "jesuiten_msdesc__112",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948668",
+    "title": "Litterae annuae provinciae Bohemiae Societatis Iesu a. 1721",
+    "date": "ab 1722",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Bohemia"
+      }
+    ],
+    "note_type_facs": "",
+    "xml_id": "cod_12307",
+    "extent": "II, 139, I* Bl.",
+    "height": "267",
+    "width": "190",
+    "foliation": "Moderne Foliierung.",
+    "acc_mat": "",
+    "binding": "Halbband, Deckel mit buntem Marmorpapier überzogen, 18. Jhdt.",
+    "summary": "Zusammengesetzte Handschrift aus den Berichten für das Jahr 1721 verschiedenen Domizilen in Böhmen.",
+    "not_before": "1722",
+    "not_after": null,
+    "# when": "",
+    "date_letter": "1721"
   },
   "44": {
     "id": 44,
@@ -5536,6 +5616,272 @@
     "# when": "",
     "date_letter": "1760"
   },
+  "113": {
+    "id": 113,
+    "order": "9.75000000000000000000",
+    "signatur": "Cod. 12279",
+    "jesuiten_id": "jesuiten_msdesc__113",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948977",
+    "title": "Litterae annuae provinciae Austriae Societatis Iesu a. 1770",
+    "date": "ab 1771",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 1,
+        "value": "Wien"
+      },
+      {
+        "id": 2,
+        "value": "Graz"
+      },
+      {
+        "id": 3,
+        "value": "Linz"
+      },
+      {
+        "id": 4,
+        "value": "Steyr"
+      },
+      {
+        "id": 6,
+        "value": "Trnava"
+      },
+      {
+        "id": 7,
+        "value": "Passau"
+      },
+      {
+        "id": 8,
+        "value": "Győr"
+      },
+      {
+        "id": 9,
+        "value": "Ljubljana"
+      },
+      {
+        "id": 10,
+        "value": "Zagreb"
+      },
+      {
+        "id": 11,
+        "value": "Krems"
+      },
+      {
+        "id": 12,
+        "value": "Wiener Neustadt"
+      },
+      {
+        "id": 13,
+        "value": "Sopron"
+      },
+      {
+        "id": 14,
+        "value": "Kőszeg"
+      },
+      {
+        "id": 15,
+        "value": "Buda"
+      },
+      {
+        "id": 16,
+        "value": "Komárno"
+      },
+      {
+        "id": 17,
+        "value": "Skalica"
+      },
+      {
+        "id": 18,
+        "value": "Trenčín"
+      },
+      {
+        "id": 19,
+        "value": "Banská Bystrica"
+      },
+      {
+        "id": 20,
+        "value": "Levoča"
+      },
+      {
+        "id": 21,
+        "value": "Košice"
+      },
+      {
+        "id": 23,
+        "value": "Eger"
+      },
+      {
+        "id": 24,
+        "value": "Leoben"
+      },
+      {
+        "id": 25,
+        "value": "Judenburg"
+      },
+      {
+        "id": 26,
+        "value": "Klagenfurt"
+      },
+      {
+        "id": 27,
+        "value": "Gorizia"
+      },
+      {
+        "id": 28,
+        "value": "Trieste"
+      },
+      {
+        "id": 29,
+        "value": "Rijeka"
+      },
+      {
+        "id": 30,
+        "value": "Varaždin"
+      },
+      {
+        "id": 31,
+        "value": "Pécs"
+      },
+      {
+        "id": 32,
+        "value": "Požega"
+      },
+      {
+        "id": 33,
+        "value": "Cluj-Napoca"
+      },
+      {
+        "id": 50,
+        "value": "Millstatt"
+      },
+      {
+        "id": 57,
+        "value": "Gyöngyös"
+      },
+      {
+        "id": 58,
+        "value": "Satu Mare"
+      },
+      {
+        "id": 69,
+        "value": "Petrovaradin"
+      },
+      {
+        "id": 72,
+        "value": "Prešov"
+      },
+      {
+        "id": 73,
+        "value": "Sibiu"
+      },
+      {
+        "id": 75,
+        "value": "Banská Štiavnica"
+      },
+      {
+        "id": 78,
+        "value": "Spišska Kapitula"
+      },
+      {
+        "id": 80,
+        "value": "Esztergom"
+      },
+      {
+        "id": 81,
+        "value": "Kláštor pod Znievom"
+      },
+      {
+        "id": 83,
+        "value": "Odorheiu Secuiesc"
+      },
+      {
+        "id": 84,
+        "value": "Székesfehérvár"
+      },
+      {
+        "id": 86,
+        "value": "Osijek"
+      },
+      {
+        "id": 247,
+        "value": "Uzhhorod"
+      }
+    ],
+    "note_type_facs": "",
+    "xml_id": "cod_12279",
+    "extent": "73, I* Bl.",
+    "height": "340",
+    "width": "215",
+    "foliation": "Moderne Foliierung.",
+    "acc_mat": "",
+    "binding": "Pappeinband mit Pergament überzogen, 18. Jhdt.",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist thematisch in 13 Kapitel gegliedert. Tabellarische Liste der Domizilen (fols. 4v-7v) hier nur vereinzelt erschlossen.",
+    "not_before": null,
+    "not_after": null,
+    "# when": "",
+    "date_letter": "1770"
+  },
+  "114": {
+    "id": 114,
+    "order": "9.80000000000000071054",
+    "signatur": "Cod. 12280",
+    "jesuiten_id": "jesuiten_msdesc__114",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948978",
+    "title": "Litterae annuae provinciae Bohemiae Societatis Iesu a. 1666",
+    "date": "1667",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Bohemia"
+      }
+    ],
+    "note_type_facs": "",
+    "xml_id": "cod_12280",
+    "extent": "133 Bl.",
+    "height": "275",
+    "width": "200",
+    "foliation": "Moderne Foliierung.",
+    "acc_mat": "Fragment eines lateinischen Textes; Tinte stark abgerieben.",
+    "binding": "Halbband, Deckel mit Pergament Makulatur überzogen, 17. Jhdt. (?).",
+    "summary": "Zusammengesetzte Handschrift aus den Berichten für das Jahr 1666 verschiedenen Domizilen in Böhmen.",
+    "not_before": null,
+    "not_after": null,
+    "# when": "1667",
+    "date_letter": "1666"
+  },
+  "115": {
+    "id": 115,
+    "order": "9.83333333333333392545",
+    "signatur": "Cod. 12281",
+    "jesuiten_id": "jesuiten_msdesc__115",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948979",
+    "title": "Litterae annuae provinciae Bohemiae Societatis Iesu a. 1667",
+    "date": "ab 1668",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Bohemia"
+      }
+    ],
+    "note_type_facs": "",
+    "xml_id": "cod_12281",
+    "extent": "III, 133, II* Bl.",
+    "height": "260",
+    "width": "180",
+    "foliation": "Moderne Foliierung. Fol. 14 doppelt gezählt.",
+    "acc_mat": "Fragment eines Graduals. Fragmentarisch erhalten sind Introit (Can g00188), Gradual (Can g01326); GrV (Can g01162b). Hufnagel Notation auf vier roten Linien.",
+    "binding": "Pergamenteinband (Makulatur), 17. Jhdt. (?).",
+    "summary": "Die Handschrift besteht aus wohl einer kodikologischen Einheit. Die Berichte aus den Domizilen sind allerdings von verschiedenen Hände geschrieben und mit unterschiedlichen Schriftspiegel.",
+    "not_before": "1668",
+    "not_after": null,
+    "# when": "",
+    "date_letter": "1667"
+  },
   "13": {
     "id": 13,
     "order": "10.00000000000000000000",
@@ -5546,7 +5892,12 @@
     "title": "Litterae annuae provinciae Bohemiae Societatis Iesu a. 1702",
     "date": "ab 1703",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Bohemia"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_12288",
     "extent": "148 Bl.",
@@ -5883,7 +6234,12 @@
     "title": "Litterae annuae provinciae Bohemiae Societatis Iesu a. 1703",
     "date": "ab 1704",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Bohemia"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_12289",
     "extent": "124 Bl..",
@@ -5908,7 +6264,12 @@
     "title": "Litterae annuae provinciae Bohemiae Societatis Iesu a. 1704",
     "date": "ab 1705",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Bohemia"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_12290",
     "extent": "I, 119, I* Bl.",
@@ -5933,7 +6294,12 @@
     "title": "Litterae annuae provinciae Bohemiae Societatis Iesu a. 1705",
     "date": "ab 1706",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Bohemia"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_12291",
     "extent": "I, 121 Bl.",
@@ -6058,7 +6424,12 @@
     "title": "Litterae annuae provinciae Bohemiae Societatis Iesu a. 1706",
     "date": "1707",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Bohemia"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_12292",
     "extent": "III, 117, II* Bl.",
@@ -6083,7 +6454,12 @@
     "title": "Litterae annuae provinciae Bohemiae Societatis Iesu a. 1707",
     "date": "1708",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Bohemia"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_12293",
     "extent": "123 Bl.",
@@ -6108,7 +6484,12 @@
     "title": "Litterae annuae provinciae Bohemiae Societatis Iesu a. 1708",
     "date": "ab 1709",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Bohemia"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_12294",
     "extent": "134 Bl.",
@@ -6133,7 +6514,12 @@
     "title": "Litterae annuae provinciae Bohemiae Societatis Iesu a. 1709",
     "date": "1710",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Bohemia"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_12295",
     "extent": "II, 130, II*.",
@@ -6158,7 +6544,12 @@
     "title": "Litterae annuae provinciae Bohemiae Societatis Iesu a. 1710",
     "date": "1711",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Bohemia"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_12296",
     "extent": "I, 127, I*.",
@@ -7684,7 +8075,12 @@
     "title": "Litterae annuae provinciae Bohemiae Societatis Iesu a. 1712",
     "date": "1713",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Bohemia"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_12298",
     "extent": "I, 113, I* Bl.",
