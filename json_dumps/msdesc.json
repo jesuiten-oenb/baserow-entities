@@ -5874,13 +5874,133 @@
     "height": "260",
     "width": "180",
     "foliation": "Moderne Foliierung. Fol. 14 doppelt gezählt.",
-    "acc_mat": "Fragment eines Graduals. Fragmentarisch erhalten sind Introit (Can g00188), Gradual (Can g01326); GrV (Can g01162b). Hufnagel Notation auf vier roten Linien.",
+    "acc_mat": "Fragment eines Graduals, 14–15. Jhdt. Fragmentarisch erhalten sind Introit (Can g00188), Gradual (Can g01326); GrV (Can g01162b). Hufnagel Notation auf vier roten Linien.",
     "binding": "Pergamenteinband (Makulatur), 17. Jhdt. (?).",
     "summary": "Die Handschrift besteht aus wohl einer kodikologischen Einheit. Die Berichte aus den Domizilen sind allerdings von verschiedenen Hände geschrieben und mit unterschiedlichen Schriftspiegel.",
     "not_before": "1668",
     "not_after": null,
     "# when": "",
     "date_letter": "1667"
+  },
+  "116": {
+    "id": 116,
+    "order": "9.85714285714285765039",
+    "signatur": "Cod. 12282",
+    "jesuiten_id": "jesuiten_msdesc__116",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948087",
+    "title": "Litterae annuae provinciae Bohemiae Societatis Iesu a. 1669",
+    "date": "1670",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Bohemia"
+      }
+    ],
+    "note_type_facs": "",
+    "xml_id": "cod_12282",
+    "extent": "I, 136, I* Bl.",
+    "height": "268",
+    "width": "195",
+    "foliation": "Moderne Foliierung.",
+    "acc_mat": "Fragment eines Antiphonariums aus dem 14-15. Jhdt.: Fragment zum Fest Corpus Christi (A [O quam suavis ...] Can O quam suavis; I Christum regem ... Can 100077; A Fructum salutiferum ... Can 201878; A A fructi frumenti ... Can 200020). Hufnagel Notation auf vier roten Linien. Alternierende rote und blaue Lombarden; Kadelle.",
+    "binding": "Pergamentumschlag (Makulatur).",
+    "summary": "Zusammengesetzte Handschrift aus den Berichten für das Jahr 1669 verschiedenen Domizilen in Böhmen. Zum Teil stark variierende Blattgröße.",
+    "not_before": null,
+    "not_after": null,
+    "# when": "1670",
+    "date_letter": "1669"
+  },
+  "118": {
+    "id": 118,
+    "order": "9.86666666666666714036",
+    "signatur": "Cod. 12283",
+    "jesuiten_id": "jesuiten_msdesc__118",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948146",
+    "title": "Litterae annuae provinciae Bohemiae Societatis Iesu a. 1670",
+    "date": "1671",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Bohemia"
+      }
+    ],
+    "note_type_facs": "",
+    "xml_id": "cod_12283",
+    "extent": "148 Bl.",
+    "height": "275",
+    "width": "200",
+    "foliation": "Moderne Foliierung.",
+    "acc_mat": "Fragment eines Missals (hier erhalten Fest Purificatio Mariae / Darstellung des Herrn). Schrift: Textualis, 2. Hälfte 13. Jh. Schriftspiegel: 300 x 195 mm; 2 Spalte (Spaltebreite 90mm) zu 35 Zeilen. Alternierende rote und blaue Lombarde; Historisierte Initiale am Anfang des Introitus (Can g01167) schwer abgerieben: Darstellung Christi im Tempel, in Blau, Grün, Rot und Gold.",
+    "binding": "Pergamentumschlag (Makulatur).",
+    "summary": "Zusammengesetzte Handschrift aus den Berichten für das Jahr 1670 verschiedenen Domizilen in Böhmen.",
+    "not_before": null,
+    "not_after": null,
+    "# when": "1671",
+    "date_letter": "1670"
+  },
+  "119": {
+    "id": 119,
+    "order": "9.86956521739130465676",
+    "signatur": "Cod. 12284",
+    "jesuiten_id": "jesuiten_msdesc__119",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948147",
+    "title": "Litterae annuae provinciae Bohemiae Societatis Iesu a. 1675",
+    "date": "1676",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Bohemia"
+      }
+    ],
+    "note_type_facs": "",
+    "xml_id": "cod_12284",
+    "extent": "163 Bl.",
+    "height": "270",
+    "width": "190",
+    "foliation": "Moderne Foliierung.",
+    "acc_mat": "",
+    "binding": "Weißes Leder mit Blindprägung über Karton oder Pappe.",
+    "summary": "Zusammengesetzte Handschrift aus den Berichten für das Jahr 1675 verschiedenen Domizilen in Böhmen.",
+    "not_before": null,
+    "not_after": null,
+    "# when": "1676",
+    "date_letter": "1675"
+  },
+  "117": {
+    "id": 117,
+    "order": "9.87500000000000000000",
+    "signatur": "Cod. 12285",
+    "jesuiten_id": "jesuiten_msdesc__117",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948148",
+    "title": "Litterae annuae provinciae Bohemiae Societatis Iesu a. 1676",
+    "date": "1677–Juli 1678",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Bohemia"
+      }
+    ],
+    "note_type_facs": "",
+    "xml_id": "cod_12285",
+    "extent": "180, I* Bl.",
+    "height": "275",
+    "width": "185",
+    "foliation": "Moderne Foliierung.",
+    "acc_mat": "Fragment: 1 beschnittenes Blatt von Homiliarium Heiricus von Auxerre (11–12 Jhdt.). Erhalten sind das Ende von Hom. 27 (In Sexagesima) und der Beginn von Hom. 28 (Dominica in Quinquagesima). 1 Spalte, 32 Zeilen. Schriftspiegel: 225 x min 135.",
+    "binding": "Halbpergamentband: Makulatur als Buchrücken; buntes Marmorpapier.",
+    "summary": "Zusammengesetzte Handschrift aus den Berichten für das Jahr 1676 verschiedenen Domizilen in Böhmen. Zum Teil stark variierende Blattgröße.",
+    "not_before": "1677",
+    "not_after": "1678",
+    "# when": "",
+    "date_letter": "1676"
   },
   "13": {
     "id": 13,

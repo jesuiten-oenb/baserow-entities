@@ -16609,6 +16609,22 @@
                         "value": "Cod. 12281"
                     },
                     {
+                        "id": 116,
+                        "value": "Cod. 12282"
+                    },
+                    {
+                        "id": 118,
+                        "value": "Cod. 12283"
+                    },
+                    {
+                        "id": 119,
+                        "value": "Cod. 12284"
+                    },
+                    {
+                        "id": 117,
+                        "value": "Cod. 12285"
+                    },
+                    {
                         "id": 13,
                         "value": "Cod. 12288"
                     },
@@ -19742,7 +19758,7 @@
     "405": {
         "id": 405,
         "order": "395.00000000000000000000",
-        "name": "Jesuitenmission nŚwierzawa",
+        "name": "Jesuitenmission Świerzawa",
         "jesuiten_id": "jesuiten_org__405",
         "located_in": [
             {
@@ -19815,6 +19831,249 @@
         "gnd": "",
         "msdesc": [],
         "alt_name": "Missio Jaispicensis",
+        "notes": "",
+        "persons": []
+    },
+    "409": {
+        "id": 409,
+        "order": "399.00000000000000000000",
+        "name": "Jesuitenmission Vlčice",
+        "jesuiten_id": "jesuiten_org__409",
+        "located_in": [
+            {
+                "id": 335,
+                "order": "326.00000000000000000000",
+                "name": "Vlčice",
+                "jesuiten_id": "jesuiten_place__335",
+                "geonames": "https://www.geonames.org/3062730/vlcice.html",
+                "lat": "50.56259",
+                "long": "15.82158",
+                "wikidata": "https://www.wikidata.org/wiki/Q1026481",
+                "alt_names": [
+                    {
+                        "id": 247,
+                        "value": "Wildschütz"
+                    },
+                    {
+                        "id": 248,
+                        "value": "Wlcice"
+                    }
+                ],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Wlczicensis / Missio Wildschitzensis",
+        "notes": "",
+        "persons": []
+    },
+    "410": {
+        "id": 410,
+        "order": "400.00000000000000000000",
+        "name": "Jesuitenmission Zbislav",
+        "jesuiten_id": "jesuiten_org__410",
+        "located_in": [
+            {
+                "id": 336,
+                "order": "327.00000000000000000000",
+                "name": "Zbislav",
+                "jesuiten_id": "jesuiten_place__336",
+                "geonames": "https://www.geonames.org/3061778/zbislav.html",
+                "lat": "49.50000",
+                "long": "14.38333",
+                "wikidata": "",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Zbislaviensis",
+        "notes": "",
+        "persons": []
+    },
+    "411": {
+        "id": 411,
+        "order": "401.00000000000000000000",
+        "name": "Jesuitenresidenz Opole",
+        "jesuiten_id": "jesuiten_org__411",
+        "located_in": [
+            {
+                "id": 116,
+                "order": "113.00000000000000000000",
+                "name": "Opole",
+                "jesuiten_id": "jesuiten_place__116",
+                "geonames": "https://www.geonames.org/3090048/opole.html",
+                "lat": "50.67211",
+                "long": "17.92533",
+                "wikidata": "https://www.wikidata.org/wiki/Q92212",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Residentia Oppoliensis",
+        "notes": "",
+        "persons": []
+    },
+    "412": {
+        "id": 412,
+        "order": "402.00000000000000000000",
+        "name": "Jesuitenmission Zruč nad Sázavou",
+        "jesuiten_id": "jesuiten_org__412",
+        "located_in": [
+            {
+                "id": 337,
+                "order": "328.00000000000000000000",
+                "name": "Zruč nad Sázavou",
+                "jesuiten_id": "jesuiten_place__337",
+                "geonames": "https://www.geonames.org/3061332/zruc-nad-sazavou.html",
+                "lat": "49.74010",
+                "long": "15.10606",
+                "wikidata": "https://www.wikidata.org/wiki/Q227189",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Zruczensis",
+        "notes": "",
+        "persons": []
+    },
+    "413": {
+        "id": 413,
+        "order": "403.00000000000000000000",
+        "name": "Jesuitenmission Košumberk",
+        "jesuiten_id": "jesuiten_org__413",
+        "located_in": [
+            {
+                "id": 126,
+                "order": "123.00000000000000000000",
+                "name": "Košumberk (Luže)",
+                "jesuiten_id": "jesuiten_place__126",
+                "geonames": "https://www.geonames.org/3073120/kosumberk.html",
+                "lat": "49.88948",
+                "long": "16.03229",
+                "wikidata": "https://www.wikidata.org/wiki/Q12031338",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Kossumburgensis",
+        "notes": "",
+        "persons": []
+    },
+    "414": {
+        "id": 414,
+        "order": "404.00000000000000000000",
+        "name": "Jesuitenmission Silesia: Opava, Krnov",
+        "jesuiten_id": "jesuiten_org__414",
+        "located_in": [
+            {
+                "id": 115,
+                "order": "112.00000000000000000000",
+                "name": "Opava",
+                "jesuiten_id": "jesuiten_place__115",
+                "geonames": "https://www.geonames.org/3068927/opava.html",
+                "lat": "49.93866",
+                "long": "17.90257",
+                "wikidata": "https://www.wikidata.org/wiki/Q156080",
+                "alt_names": [],
+                "msdesc": []
+            },
+            {
+                "id": 330,
+                "order": "321.00000000000000000000",
+                "name": "Krnov",
+                "jesuiten_id": "jesuiten_place__330",
+                "geonames": "https://www.geonames.org/3072656/krnov.html",
+                "lat": "50.08967",
+                "long": "17.70385",
+                "wikidata": "https://www.wikidata.org/wiki/Q1789604",
+                "alt_names": [
+                    {
+                        "id": 240,
+                        "value": "Carnovia"
+                    }
+                ],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio in ducatus Silesiae Carnoviensem et Oppaviensem",
+        "notes": "",
+        "persons": []
+    },
+    "415": {
+        "id": 415,
+        "order": "405.00000000000000000000",
+        "name": "Jesuitenmission Rösnicensis",
+        "jesuiten_id": "jesuiten_org__415",
+        "located_in": [
+            {
+                "id": 330,
+                "order": "321.00000000000000000000",
+                "name": "Krnov",
+                "jesuiten_id": "jesuiten_place__330",
+                "geonames": "https://www.geonames.org/3072656/krnov.html",
+                "lat": "50.08967",
+                "long": "17.70385",
+                "wikidata": "https://www.wikidata.org/wiki/Q1789604",
+                "alt_names": [
+                    {
+                        "id": 240,
+                        "value": "Carnovia"
+                    }
+                ],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Rösnicensis in ducatu Carnoviensi",
+        "notes": "",
+        "persons": []
+    },
+    "416": {
+        "id": 416,
+        "order": "406.00000000000000000000",
+        "name": "Jesuitenmission Tovačov",
+        "jesuiten_id": "jesuiten_org__416",
+        "located_in": [
+            {
+                "id": 297,
+                "order": "288.00000000000000000000",
+                "name": "Tovačov",
+                "jesuiten_id": "jesuiten_place__297",
+                "geonames": "https://www.geonames.org/3064143/tovacov.html",
+                "lat": "49.43083",
+                "long": "17.28795",
+                "wikidata": "https://www.wikidata.org/wiki/Q1261993",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Towaczoviensis",
+        "notes": "",
+        "persons": []
+    },
+    "417": {
+        "id": 417,
+        "order": "407.00000000000000000000",
+        "name": "Jesuitenmission Trzebesschiezensis (?)",
+        "jesuiten_id": "jesuiten_org__417",
+        "located_in": [],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "",
         "notes": "",
         "persons": []
     }

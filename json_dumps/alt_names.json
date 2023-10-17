@@ -3864,5 +3864,33 @@
         "value": "Świerzawa"
       }
     ]
+  },
+  "247": {
+    "id": 247,
+    "order": "247.00000000000000000000",
+    "Name": "Wildschütz",
+    "Notes": {
+      "id": 11394,
+      "value": "ger",
+      "color": "green"
+    },
+    "places": [
+      {
+        "id": 335,
+        "value": "Vlčice"
+      }
+    ]
+  },
+  "248": {
+    "id": 248,
+    "order": "248.00000000000000000000",
+    "Name": "Wlcice",
+    "Notes": null,
+    "places": [
+      {
+        "id": 335,
+        "value": "Vlčice"
+      }
+    ]
   }
 }

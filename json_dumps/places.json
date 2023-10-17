@@ -7850,6 +7850,22 @@
         "value": "Cod. 12281"
       },
       {
+        "id": 116,
+        "value": "Cod. 12282"
+      },
+      {
+        "id": 118,
+        "value": "Cod. 12283"
+      },
+      {
+        "id": 119,
+        "value": "Cod. 12284"
+      },
+      {
+        "id": 117,
+        "value": "Cod. 12285"
+      },
+      {
         "id": 13,
         "value": "Cod. 12288"
       },
@@ -8861,6 +8877,51 @@
     "lat": "50.54854",
     "long": "13.77535",
     "wikidata": "https://www.wikidata.org/wiki/Q518360",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "335": {
+    "id": 335,
+    "order": "326.00000000000000000000",
+    "name": "Vlčice",
+    "jesuiten_id": "jesuiten_place__335",
+    "geonames": "https://www.geonames.org/3062730/vlcice.html",
+    "lat": "50.56259",
+    "long": "15.82158",
+    "wikidata": "https://www.wikidata.org/wiki/Q1026481",
+    "alt_names": [
+      {
+        "id": 247,
+        "value": "Wildschütz"
+      },
+      {
+        "id": 248,
+        "value": "Wlcice"
+      }
+    ],
+    "msdesc": []
+  },
+  "336": {
+    "id": 336,
+    "order": "327.00000000000000000000",
+    "name": "Zbislav",
+    "jesuiten_id": "jesuiten_place__336",
+    "geonames": "https://www.geonames.org/3061778/zbislav.html",
+    "lat": "49.50000",
+    "long": "14.38333",
+    "wikidata": "",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "337": {
+    "id": 337,
+    "order": "328.00000000000000000000",
+    "name": "Zruč nad Sázavou",
+    "jesuiten_id": "jesuiten_place__337",
+    "geonames": "https://www.geonames.org/3061332/zruc-nad-sazavou.html",
+    "lat": "49.74010",
+    "long": "15.10606",
+    "wikidata": "https://www.wikidata.org/wiki/Q227189",
     "alt_names": [],
     "msdesc": []
   }
