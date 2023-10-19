@@ -3892,5 +3892,69 @@
         "value": "Vlčice"
       }
     ]
+  },
+  "249": {
+    "id": 249,
+    "order": "249.00000000000000000000",
+    "Name": "Gimramovia",
+    "Notes": {
+      "id": 11393,
+      "value": "lat",
+      "color": "dark-gray"
+    },
+    "places": [
+      {
+        "id": 339,
+        "value": "Jimramov"
+      }
+    ]
+  },
+  "250": {
+    "id": 250,
+    "order": "250.00000000000000000000",
+    "Name": "Klum",
+    "Notes": {
+      "id": 11394,
+      "value": "ger",
+      "color": "green"
+    },
+    "places": [
+      {
+        "id": 340,
+        "value": "Chlumec u Chabařovic"
+      }
+    ]
+  },
+  "251": {
+    "id": 251,
+    "order": "251.00000000000000000000",
+    "Name": "Culma",
+    "Notes": {
+      "id": 11393,
+      "value": "lat",
+      "color": "dark-gray"
+    },
+    "places": [
+      {
+        "id": 340,
+        "value": "Chlumec u Chabařovic"
+      }
+    ]
+  },
+  "252": {
+    "id": 252,
+    "order": "252.00000000000000000000",
+    "Name": "Scharendradinum",
+    "Notes": {
+      "id": 11393,
+      "value": "lat",
+      "color": "dark-gray"
+    },
+    "places": [
+      {
+        "id": 362,
+        "value": "Šarengrad"
+      }
+    ]
   }
 }

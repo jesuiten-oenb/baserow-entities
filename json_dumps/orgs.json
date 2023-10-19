@@ -16625,6 +16625,14 @@
                         "value": "Cod. 12285"
                     },
                     {
+                        "id": 120,
+                        "value": "Cod. 12286"
+                    },
+                    {
+                        "id": 121,
+                        "value": "Cod. 12287"
+                    },
+                    {
                         "id": 13,
                         "value": "Cod. 12288"
                     },
@@ -20074,6 +20082,305 @@
         "gnd": "",
         "msdesc": [],
         "alt_name": "",
+        "notes": "",
+        "persons": []
+    },
+    "418": {
+        "id": 418,
+        "order": "408.00000000000000000000",
+        "name": "Jesuitenmission Tecznensis",
+        "jesuiten_id": "jesuiten_org__418",
+        "located_in": [],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Tecznensis",
+        "notes": "",
+        "persons": []
+    },
+    "419": {
+        "id": 419,
+        "order": "409.00000000000000000000",
+        "name": "Jesuitenmission Leobschicensis",
+        "jesuiten_id": "jesuiten_org__419",
+        "located_in": [],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Leobschicensis",
+        "notes": "",
+        "persons": []
+    },
+    "420": {
+        "id": 420,
+        "order": "410.00000000000000000000",
+        "name": "Jesuitenmission Žumberk",
+        "jesuiten_id": "jesuiten_org__420",
+        "located_in": [
+            {
+                "id": 338,
+                "order": "329.00000000000000000000",
+                "name": "Žumberk",
+                "jesuiten_id": "jesuiten_place__338",
+                "geonames": "https://www.geonames.org/3061318/zumberk.html",
+                "lat": "49.87271",
+                "long": "15.85822",
+                "wikidata": "https://www.wikidata.org/wiki/Q394292",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Zumbergensis",
+        "notes": "",
+        "persons": []
+    },
+    "421": {
+        "id": 421,
+        "order": "411.00000000000000000000",
+        "name": "Jesuitenmission Jimramov",
+        "jesuiten_id": "jesuiten_org__421",
+        "located_in": [
+            {
+                "id": 339,
+                "order": "330.00000000000000000000",
+                "name": "Jimramov",
+                "jesuiten_id": "jesuiten_place__339",
+                "geonames": "https://www.geonames.org/3074170/jimramov.html",
+                "lat": "49.63719",
+                "long": "16.22632",
+                "wikidata": "https://www.wikidata.org/wiki/Q158422",
+                "alt_names": [
+                    {
+                        "id": 249,
+                        "value": "Gimramovia"
+                    }
+                ],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Gimramoviensis",
+        "notes": "",
+        "persons": []
+    },
+    "422": {
+        "id": 422,
+        "order": "412.00000000000000000000",
+        "name": "Jesuitenmission Chlumec u Chabařovic",
+        "jesuiten_id": "jesuiten_org__422",
+        "located_in": [
+            {
+                "id": 340,
+                "order": "331.00000000000000000000",
+                "name": "Chlumec u Chabařovic",
+                "jesuiten_id": "jesuiten_place__340",
+                "geonames": "https://www.geonames.org/3077754/chlumec.html",
+                "lat": "50.69972",
+                "long": "13.93964",
+                "wikidata": "https://www.wikidata.org/wiki/Q387840",
+                "alt_names": [
+                    {
+                        "id": 250,
+                        "value": "Klum"
+                    },
+                    {
+                        "id": 251,
+                        "value": "Culma"
+                    }
+                ],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Culmensis",
+        "notes": "",
+        "persons": []
+    },
+    "423": {
+        "id": 423,
+        "order": "413.00000000000000000000",
+        "name": "Jesuitenmission Neudörffl",
+        "jesuiten_id": "jesuiten_org__423",
+        "located_in": [],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Neudörffl",
+        "notes": "",
+        "persons": []
+    },
+    "424": {
+        "id": 424,
+        "order": "414.00000000000000000000",
+        "name": "Jesuitenmission Rožnov (?)",
+        "jesuiten_id": "jesuiten_org__424",
+        "located_in": [
+            {
+                "id": 341,
+                "order": "332.00000000000000000000",
+                "name": "Rožnov pod Radhoštěm",
+                "jesuiten_id": "jesuiten_place__341",
+                "geonames": "https://www.geonames.org/3066651/roznov-pod-radhostem.html",
+                "lat": "49.45853",
+                "long": "18.14302",
+                "wikidata": "https://www.wikidata.org/wiki/Q1008696",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Rösnicensis",
+        "notes": "",
+        "persons": []
+    },
+    "425": {
+        "id": 425,
+        "order": "415.00000000000000000000",
+        "name": "Jesuitenmission Brașov",
+        "jesuiten_id": "jesuiten_org__425",
+        "located_in": [
+            {
+                "id": 85,
+                "order": "82.00000000000000000000",
+                "name": "Brașov",
+                "jesuiten_id": "jesuiten_place__85",
+                "geonames": "https://www.geonames.org/683844/brasov.html",
+                "lat": "45.64861",
+                "long": "25.60613",
+                "wikidata": "https://www.wikidata.org/wiki/Q82174",
+                "alt_names": [
+                    {
+                        "id": 31,
+                        "value": "Corona"
+                    },
+                    {
+                        "id": 42,
+                        "value": "Kronstadt"
+                    }
+                ],
+                "msdesc": [
+                    {
+                        "id": 6,
+                        "value": "Cod. 12123"
+                    },
+                    {
+                        "id": 60,
+                        "value": "Cod. 12241"
+                    }
+                ]
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Coronensis",
+        "notes": "",
+        "persons": []
+    },
+    "426": {
+        "id": 426,
+        "order": "416.00000000000000000000",
+        "name": "Jesuitenmission Baia Sprie",
+        "jesuiten_id": "jesuiten_org__426",
+        "located_in": [
+            {
+                "id": 139,
+                "order": "136.00000000000000000000",
+                "name": "Baia Sprie",
+                "jesuiten_id": "jesuiten_place__139",
+                "geonames": "https://www.geonames.org/685823/baia-sprie.html",
+                "lat": "47.66189",
+                "long": "23.69215",
+                "wikidata": "https://www.wikidata.org/wiki/Q803706",
+                "alt_names": [
+                    {
+                        "id": 55,
+                        "value": "Felsőbánya"
+                    },
+                    {
+                        "id": 105,
+                        "value": "Oberneustadt"
+                    }
+                ],
+                "msdesc": [
+                    {
+                        "id": 31,
+                        "value": "Cod. 12273"
+                    },
+                    {
+                        "id": 32,
+                        "value": "Cod. 12274"
+                    },
+                    {
+                        "id": 33,
+                        "value": "Cod. 12275"
+                    },
+                    {
+                        "id": 34,
+                        "value": "Cod. 12276"
+                    },
+                    {
+                        "id": 30,
+                        "value": "Cod. 12277"
+                    }
+                ]
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Felsőbánya Fölso-Banijensis",
+        "notes": "",
+        "persons": []
+    },
+    "427": {
+        "id": 427,
+        "order": "417.00000000000000000000",
+        "name": "Jesuitenmission Špania Dolina",
+        "jesuiten_id": "jesuiten_org__427",
+        "located_in": [
+            {
+                "id": 87,
+                "order": "84.00000000000000000000",
+                "name": "Špania Dolina",
+                "jesuiten_id": "jesuiten_place__87",
+                "geonames": "https://www.geonames.org/3057505/spania-dolina.html",
+                "lat": "48.80754",
+                "long": "19.13406",
+                "wikidata": "https://www.wikidata.org/wiki/Q392243",
+                "alt_names": [
+                    {
+                        "id": 28,
+                        "value": "Vallis Dominorum"
+                    },
+                    {
+                        "id": 116,
+                        "value": "Úrvölgy"
+                    },
+                    {
+                        "id": 117,
+                        "value": "Herrengrund"
+                    }
+                ],
+                "msdesc": [
+                    {
+                        "id": 6,
+                        "value": "Cod. 12123"
+                    },
+                    {
+                        "id": 10,
+                        "value": "Cod. 12138"
+                    },
+                    {
+                        "id": 70,
+                        "value": "Cod. 12231"
+                    }
+                ]
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Vallis Dominorum",
         "notes": "",
         "persons": []
     }
