@@ -2517,7 +2517,7 @@
                </place>
                <place xml:id="jesuiten_place__342">
                   <placeName>Provincia Austria</placeName>
-               <noteGrp><note target="cod_12242.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12242</note><note target="cod_12243.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12243</note><note target="cod_12255.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12255</note></noteGrp></place>
+               <noteGrp><note target="cod_12242.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12242</note><note target="cod_12243.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12243</note><note target="cod_12255.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12255</note><note target="cod_12256.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12256</note></noteGrp></place>
                <place xml:id="jesuiten_place__343">
                   <placeName>Kirchschlag</placeName>
                   <location type="coords">
@@ -2664,6 +2664,78 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/3194499/</idno>
                <noteGrp><note target="cod_12243.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12243</note></noteGrp></place>
+               <place xml:id="jesuiten_place__364">
+                  <placeName>Liptov</placeName>
+                  <location type="coords">
+                     <geo>48.00000 21.00000</geo>
+                  </location>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1521564</idno>
+               </place>
+               <place xml:id="jesuiten_place__365">
+                  <placeName>Opočno</placeName>
+                  <location type="coords">
+                     <geo>50.26742 16.11480</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3068915/</idno>
+               </place>
+               <place xml:id="jesuiten_place__366">
+                  <placeName>Vysočina</placeName>
+                  <location type="coords">
+                     <geo>49.41667 15.50000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3339538/</idno>
+               </place>
+               <place xml:id="jesuiten_place__367">
+                  <placeName>Kunštát</placeName>
+                  <location type="coords">
+                     <geo>49.50645 16.51722</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3072486/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1792758</idno>
+               <noteGrp><note target="cod_11962.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11962</note></noteGrp></place>
+               <place xml:id="jesuiten_place__368">
+                  <placeName>Choceň</placeName>
+                  <location type="coords">
+                     <geo>50.00161 16.22303</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3077725/</idno>
+               <noteGrp><note target="cod_11962.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11962</note></noteGrp></place>
+               <place xml:id="jesuiten_place__369">
+                  <placeName>Nové Město nad Metují</placeName>
+                  <location type="coords">
+                     <geo>50.34456 16.15147</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3069466/</idno>
+               </place>
+               <place xml:id="jesuiten_place__370">
+                  <placeName>Černíkovice</placeName>
+                  <location type="coords">
+                     <geo>50.18659 16.20696</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3078041/</idno>
+               </place>
+               <place xml:id="jesuiten_place__371">
+                  <placeName>Příbram</placeName>
+                  <location type="coords">
+                     <geo>49.68988 14.01043</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3067542/</idno>
+               </place>
+               <place xml:id="jesuiten_place__372">
+                  <placeName>Żmigród</placeName>
+                  <location type="coords">
+                     <geo>51.46672 16.90564</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3080058/</idno>
+               </place>
+               <place xml:id="jesuiten_place__373">
+                  <placeName>Jilemnice</placeName>
+                  <location type="coords">
+                     <geo>50.60890 15.50653</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3074187/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q368796</idno>
+               </place>
             </listPlace>
          </div>
       </body>

@@ -3956,5 +3956,85 @@
         "value": "Šarengrad"
       }
     ]
+  },
+  "253": {
+    "id": 253,
+    "order": "253.00000000000000000000",
+    "Name": "Liptovium",
+    "Notes": {
+      "id": 11393,
+      "value": "lat",
+      "color": "dark-gray"
+    },
+    "places": [
+      {
+        "id": 364,
+        "value": "Liptov"
+      }
+    ]
+  },
+  "254": {
+    "id": 254,
+    "order": "254.00000000000000000000",
+    "Name": "Liptau",
+    "Notes": {
+      "id": 11394,
+      "value": "ger",
+      "color": "green"
+    },
+    "places": [
+      {
+        "id": 364,
+        "value": "Liptov"
+      }
+    ]
+  },
+  "255": {
+    "id": 255,
+    "order": "255.00000000000000000000",
+    "Name": "Neustadt",
+    "Notes": {
+      "id": 11394,
+      "value": "ger",
+      "color": "green"
+    },
+    "places": [
+      {
+        "id": 369,
+        "value": "Nové Město nad Metují"
+      }
+    ]
+  },
+  "256": {
+    "id": 256,
+    "order": "256.00000000000000000000",
+    "Name": "Trachenberg",
+    "Notes": {
+      "id": 11394,
+      "value": "ger",
+      "color": "green"
+    },
+    "places": [
+      {
+        "id": 372,
+        "value": "Żmigród"
+      }
+    ]
+  },
+  "257": {
+    "id": 257,
+    "order": "257.00000000000000000000",
+    "Name": "Starkenbach",
+    "Notes": {
+      "id": 11394,
+      "value": "ger",
+      "color": "green"
+    },
+    "places": [
+      {
+        "id": 373,
+        "value": "Jilemnice"
+      }
+    ]
   }
 }

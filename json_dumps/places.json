@@ -9011,6 +9011,10 @@
         "value": "Cod. 12255"
       },
       {
+        "id": 130,
+        "value": "Cod. 12256"
+      },
+      {
         "id": 123,
         "value": "Cod. 12242"
       },
@@ -9275,6 +9279,150 @@
     "long": "19.03556",
     "wikidata": "",
     "alt_names": [],
+    "msdesc": []
+  },
+  "364": {
+    "id": 364,
+    "order": "355.00000000000000000000",
+    "name": "Liptov",
+    "jesuiten_id": "jesuiten_place__364",
+    "geonames": "",
+    "lat": "48.00000",
+    "long": "21.00000",
+    "wikidata": "https://www.wikidata.org/wiki/Q1521564",
+    "alt_names": [
+      {
+        "id": 253,
+        "value": "Liptovium"
+      },
+      {
+        "id": 254,
+        "value": "Liptau"
+      }
+    ],
+    "msdesc": []
+  },
+  "365": {
+    "id": 365,
+    "order": "356.00000000000000000000",
+    "name": "Opočno",
+    "jesuiten_id": "jesuiten_place__365",
+    "geonames": "https://www.geonames.org/3068915/opocno.html",
+    "lat": "50.26742",
+    "long": "16.11480",
+    "wikidata": "",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "366": {
+    "id": 366,
+    "order": "357.00000000000000000000",
+    "name": "Vysočina",
+    "jesuiten_id": "jesuiten_place__366",
+    "geonames": "https://www.geonames.org/3339538/kraj-vysocina.html",
+    "lat": "49.41667",
+    "long": "15.50000",
+    "wikidata": "",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "367": {
+    "id": 367,
+    "order": "358.00000000000000000000",
+    "name": "Kunštát",
+    "jesuiten_id": "jesuiten_place__367",
+    "geonames": "https://www.geonames.org/3072486/kunstat.html",
+    "lat": "49.50645",
+    "long": "16.51722",
+    "wikidata": "https://www.wikidata.org/wiki/Q1792758",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "368": {
+    "id": 368,
+    "order": "359.00000000000000000000",
+    "name": "Choceň",
+    "jesuiten_id": "jesuiten_place__368",
+    "geonames": "https://www.geonames.org/3077725/chocen.html",
+    "lat": "50.00161",
+    "long": "16.22303",
+    "wikidata": "",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "369": {
+    "id": 369,
+    "order": "360.00000000000000000000",
+    "name": "Nové Město nad Metují",
+    "jesuiten_id": "jesuiten_place__369",
+    "geonames": "https://www.geonames.org/3069466/nove-mesto-nad-metuji.html",
+    "lat": "50.34456",
+    "long": "16.15147",
+    "wikidata": "",
+    "alt_names": [
+      {
+        "id": 255,
+        "value": "Neustadt"
+      }
+    ],
+    "msdesc": []
+  },
+  "370": {
+    "id": 370,
+    "order": "361.00000000000000000000",
+    "name": "Černíkovice",
+    "jesuiten_id": "jesuiten_place__370",
+    "geonames": "https://www.geonames.org/3078041/cernikovice.html",
+    "lat": "50.18659",
+    "long": "16.20696",
+    "wikidata": "",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "371": {
+    "id": 371,
+    "order": "362.00000000000000000000",
+    "name": "Příbram",
+    "jesuiten_id": "jesuiten_place__371",
+    "geonames": "https://www.geonames.org/3067542/pribram.html",
+    "lat": "49.68988",
+    "long": "14.01043",
+    "wikidata": "",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "372": {
+    "id": 372,
+    "order": "363.00000000000000000000",
+    "name": "Żmigród",
+    "jesuiten_id": "jesuiten_place__372",
+    "geonames": "https://www.geonames.org/3080058/zmigrod.html",
+    "lat": "51.46672",
+    "long": "16.90564",
+    "wikidata": "",
+    "alt_names": [
+      {
+        "id": 256,
+        "value": "Trachenberg"
+      }
+    ],
+    "msdesc": []
+  },
+  "373": {
+    "id": 373,
+    "order": "364.00000000000000000000",
+    "name": "Jilemnice",
+    "jesuiten_id": "jesuiten_place__373",
+    "geonames": "https://www.geonames.org/3074187/jilemnice.html",
+    "lat": "50.60890",
+    "long": "15.50653",
+    "wikidata": "https://www.wikidata.org/wiki/Q368796",
+    "alt_names": [
+      {
+        "id": 257,
+        "value": "Starkenbach"
+      }
+    ],
     "msdesc": []
   }
 }

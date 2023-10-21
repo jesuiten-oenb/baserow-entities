@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cod_12076.xml" xml:base="https://oenb.ac.at" prev="https://oenb.ac.at/cod_12075.xml" next="https://oenb.ac.at/cod_12077.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cod_12077.xml" xml:base="https://oenb.ac.at" prev="https://oenb.ac.at/cod_12076.xml" next="https://oenb.ac.at/cod_12123.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">Wien, Österreichische nationalbibliothek, Cod. 12076</title>
+                <title type="main">Wien, Österreichische nationalbibliothek, Cod. 12077</title>
                 <title type="sub">Jesuiten Littera annuae</title>
                 <respStmt>
                     <resp>Beschreibung und TEI-encoding</resp>
@@ -19,52 +19,51 @@
                 </availability>
             </publicationStmt>
             <sourceDesc>
-                <msDesc xml:lang="de" xml:id="cod_12076">
+                <msDesc xml:lang="de" xml:id="cod_12077">
                     <msIdentifier>
                         <country>Österreich</country>
                         <settlement>Wien</settlement>
                         <repository>Österreichische Nationalbibliothek</repository>
-                        <idno>Cod. 12076</idno>
+                        <idno>Cod. 12077</idno>
                     </msIdentifier>
                     <head>
-                        <title>Litterae annuae provinciae Austriae Societatis Iesu a. 1679</title>
-                        <origDate notBefore="1680-01-01">1680–Mai 1681</origDate>
+                        <title>Litterae annuae provinciae Austriae Societatis Iesu a. 1680</title>
+                        <origDate notBefore="1681-01-01">ab 1681</origDate>
                         <note type="facs">
-                            <ref target="https://digital.onb.ac.at/rep/access/open/131ACAC3"/>
+                            <ref target="https://digital.onb.ac.at/rep/access/open/131ACA4B"/>
                         </note>
                         <note type="catalogue">
-                            <ref target="http://data.onb.ac.at/rec/AC13948223"/>
+                            <ref target="http://data.onb.ac.at/rec/AC13948258"/>
                         </note>
                     </head>
                     <msContents>                   
                         <summary>
-                                Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist thematisch in 30 Kapitel gegliedert. 
+                                Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist thematisch in 24 Kapitel gegliedert. 
                                 
                         </summary> 
                         <textLang mainLang="lat"/>
                         
                                 <msItem n="1">
-                                    <locus from="1" to="4">1-4</locus>
-                                    <title>Divisio provinciae in personas et domicilia</title>
+                                    <locus from="1" to="5">1-5</locus>
+                                    <title>Personarum numerus in domicilia singula digestus</title>
                                 </msItem>
                                 <msItem n="2">
-                                    <locus from="4" to="5">4-5</locus>
-                                    <title>Defunctorum numerus, tempus, locus et diversitas</title>
+                                    <locus from="5" to="10">5-10</locus>
+                                    <title>Celebrata sacrae festivitates</title>
                                 </msItem>
                                 <msItem n="3">
-                                    <locus from="5" to="20">5-20</locus>
-                                    <title>Encomia morientium in obsequio pestiferorum</title>
+                                    <locus from="10" to="14">10-14</locus>
+                                    <title>Eucharisticae sumptiones et adorationes</title>
                                 </msItem>
                                 <msItem n="4">
-                                    <locus from="20" to="30">20-30</locus>
-                                    <title>Memoria defunctorum peste affectorum</title>
+                                    <locus from="14" to="22">14-22</locus>
+                                    <title>Conscientia in tribunalibus sacris adiuta</title>
                                 </msItem>
                                 <msItem n="5">
-                                    <locus from="30" to="49">30-49</locus>
-                                    <title>Elogia aliorum sine peste mortuorum</title>
+                                    <locus from="" to="">-</locus>
                                 </msItem>
                                 <msItem n="6">
-                                    <locus from="49" to="">49-</locus>
+                                    <locus from="" to="">-</locus>
                                 </msItem>
                                 <msItem n="7">
                                     <locus from="" to="">-</locus>
@@ -118,26 +117,8 @@
                                     <locus from="" to="">-</locus>
                                 </msItem>
                                 <msItem n="24">
-                                    <locus from="" to="">-</locus>
-                                </msItem>
-                                <msItem n="25">
-                                    <locus from="" to="">-</locus>
-                                </msItem>
-                                <msItem n="26">
-                                    <locus from="" to="">-</locus>
-                                </msItem>
-                                <msItem n="27">
-                                    <locus from="" to="">-</locus>
-                                </msItem>
-                                <msItem n="28">
-                                    <locus from="" to="">-</locus>
-                                </msItem>
-                                <msItem n="29">
-                                    <locus from="162" to="165">162-165</locus>
-                                </msItem>
-                                <msItem n="30">
-                                    <locus from="165" to="168">165-168</locus>
-                                    <title>Adiumenta rei nostrae domesticae</title>
+                                    <locus from="115" to="133">115-133</locus>
+                                    <title>Mortuorum nomina et encomia</title>
                                 </msItem>
                           
                         
@@ -148,13 +129,13 @@
                             <supportDesc material="paper">
                                 <support>Papier</support>
                                 <extent>
-                                    <measure type="leavesCount" unit="folio">IV, 84, I* Bl.</measure>
+                                    <measure type="leavesCount" unit="folio">II, 67 Bl.</measure>
                                     <dimensions type="leaf_current" unit="mm">
                                         <height>None</height>
                                         <width>None</width>
                                     </dimensions>
                                 </extent>
-                                <foliation>Zeitgenössische Paginierung 1–168.</foliation>
+                                <foliation>Zeitgenössische Paginierung 1–133.</foliation>
                                 <collation/>
                             </supportDesc>
                         </objectDesc>
