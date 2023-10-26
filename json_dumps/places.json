@@ -6208,6 +6208,10 @@
       {
         "id": 56,
         "value": "Imperium Sinarum"
+      },
+      {
+        "id": 271,
+        "value": "Kina"
       }
     ],
     "msdesc": []
@@ -8220,7 +8224,16 @@
     "lat": "50.62697",
     "long": "15.60937",
     "wikidata": "https://www.wikidata.org/wiki/Q1008595",
-    "alt_names": [],
+    "alt_names": [
+      {
+        "id": 259,
+        "value": "Albipolis"
+      },
+      {
+        "id": 260,
+        "value": "Hohenelbe"
+      }
+    ],
     "msdesc": []
   },
   "291": {
@@ -9475,6 +9488,212 @@
     "long": "15.79067",
     "wikidata": "",
     "alt_names": [],
+    "msdesc": []
+  },
+  "377": {
+    "id": 377,
+    "order": "368.00000000000000000000",
+    "name": "Třebešice",
+    "jesuiten_id": "jesuiten_place__377",
+    "geonames": "https://www.geonames.org/3064111/trebesice.html",
+    "lat": "49.92785",
+    "long": "15.33780",
+    "wikidata": "https://www.wikidata.org/wiki/Q2704174",
+    "alt_names": [
+      {
+        "id": 258,
+        "value": "Trebeschitz"
+      }
+    ],
+    "msdesc": []
+  },
+  "378": {
+    "id": 378,
+    "order": "369.00000000000000000000",
+    "name": "Ledeč nad Sázavou",
+    "jesuiten_id": "jesuiten_place__378",
+    "geonames": "https://www.geonames.org/3072235/ledec-nad-sazavou.html",
+    "lat": "49.69517",
+    "long": "15.27772",
+    "wikidata": "",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "379": {
+    "id": 379,
+    "order": "370.00000000000000000000",
+    "name": "Chrudim",
+    "jesuiten_id": "jesuiten_place__379",
+    "geonames": "https://www.geonames.org/3077539/chrudim.html",
+    "lat": "49.95109",
+    "long": "15.79558",
+    "wikidata": "",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "380": {
+    "id": 380,
+    "order": "371.00000000000000000000",
+    "name": "Kouřim",
+    "jesuiten_id": "jesuiten_place__380",
+    "geonames": "https://www.geonames.org/3073084/kourim.html",
+    "lat": "50.00306",
+    "long": "14.97703",
+    "wikidata": "",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "381": {
+    "id": 381,
+    "order": "372.00000000000000000000",
+    "name": "Slaný",
+    "jesuiten_id": "jesuiten_place__381",
+    "geonames": "https://www.geonames.org/3065903/slany.html",
+    "lat": "50.23046",
+    "long": "14.08693",
+    "wikidata": "",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "382": {
+    "id": 382,
+    "order": "373.00000000000000000000",
+    "name": "Bernartice u Milevska",
+    "jesuiten_id": "jesuiten_place__382",
+    "geonames": "https://www.geonames.org/12122710/bernartice-u-milevska.html",
+    "lat": "49.36877",
+    "long": "14.38093",
+    "wikidata": "",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "383": {
+    "id": 383,
+    "order": "374.00000000000000000000",
+    "name": "Charvatce",
+    "jesuiten_id": "jesuiten_place__383",
+    "geonames": "https://www.geonames.org/3077841/charvatce.html",
+    "lat": "50.36178",
+    "long": "14.14696",
+    "wikidata": "",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "384": {
+    "id": 384,
+    "order": "375.00000000000000000000",
+    "name": "Černouček",
+    "jesuiten_id": "jesuiten_place__384",
+    "geonames": "https://www.geonames.org/3078024/cernoucek.html",
+    "lat": "50.36082",
+    "long": "14.30734",
+    "wikidata": "",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "385": {
+    "id": 385,
+    "order": "376.00000000000000000000",
+    "name": "Chrudimský kraj (Chrudim)",
+    "jesuiten_id": "jesuiten_place__385",
+    "geonames": "",
+    "lat": null,
+    "long": null,
+    "wikidata": "https://www.wikidata.org/wiki/Q15726844",
+    "alt_names": [
+      {
+        "id": 261,
+        "value": "Circulus Chrudimensis"
+      },
+      {
+        "id": 266,
+        "value": "Chrudimer Kreis"
+      }
+    ],
+    "msdesc": []
+  },
+  "386": {
+    "id": 386,
+    "order": "377.00000000000000000000",
+    "name": "Kouřimský kraj (Kouřim)",
+    "jesuiten_id": "jesuiten_place__386",
+    "geonames": "",
+    "lat": null,
+    "long": null,
+    "wikidata": "",
+    "alt_names": [
+      {
+        "id": 262,
+        "value": "Circulus Kaurzimensis"
+      },
+      {
+        "id": 269,
+        "value": "Kaurimer Kreis"
+      }
+    ],
+    "msdesc": []
+  },
+  "387": {
+    "id": 387,
+    "order": "378.00000000000000000000",
+    "name": "Čáslavský kraj (Čáslav)",
+    "jesuiten_id": "jesuiten_place__387",
+    "geonames": "",
+    "lat": null,
+    "long": null,
+    "wikidata": "",
+    "alt_names": [
+      {
+        "id": 263,
+        "value": "Circulus Czaslaviensis"
+      },
+      {
+        "id": 270,
+        "value": "Caslaver Kreis"
+      }
+    ],
+    "msdesc": []
+  },
+  "388": {
+    "id": 388,
+    "order": "379.00000000000000000000",
+    "name": "Litoměřický kraj",
+    "jesuiten_id": "jesuiten_place__388",
+    "geonames": "",
+    "lat": null,
+    "long": null,
+    "wikidata": "https://www.wikidata.org/wiki/Q23929375",
+    "alt_names": [
+      {
+        "id": 264,
+        "value": "Circulus Litomericensis"
+      },
+      {
+        "id": 267,
+        "value": "Leitmeritzer Kreis"
+      }
+    ],
+    "msdesc": []
+  },
+  "389": {
+    "id": 389,
+    "order": "380.00000000000000000000",
+    "name": "Slánský kraj (Rakovnik)",
+    "jesuiten_id": "jesuiten_place__389",
+    "geonames": "",
+    "lat": null,
+    "long": null,
+    "wikidata": "",
+    "alt_names": [
+      {
+        "id": 265,
+        "value": "Circulus Slanensis"
+      },
+      {
+        "id": 268,
+        "value": "Rakonitzer Kreis"
+      }
+    ],
     "msdesc": []
   }
 }

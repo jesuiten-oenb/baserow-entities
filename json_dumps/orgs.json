@@ -626,6 +626,10 @@
                 "value": "Cod. 12031"
             },
             {
+                "id": 93,
+                "value": "Cod. 12061"
+            },
+            {
                 "id": 104,
                 "value": "Cod. 12072"
             },
@@ -19116,7 +19120,16 @@
                 "lat": "50.62697",
                 "long": "15.60937",
                 "wikidata": "https://www.wikidata.org/wiki/Q1008595",
-                "alt_names": [],
+                "alt_names": [
+                    {
+                        "id": 259,
+                        "value": "Albipolis"
+                    },
+                    {
+                        "id": 260,
+                        "value": "Hohenelbe"
+                    }
+                ],
                 "msdesc": []
             }
         ],
@@ -19980,23 +19993,6 @@
         "gnd": "",
         "msdesc": [],
         "alt_name": "Residentia Kostelecensis",
-        "notes": "",
-        "persons": []
-    },
-    "364": {
-        "id": 364,
-        "order": "354.00000000000000000000",
-        "name": "Jesuitenresidenz Bernardi",
-        "jesuiten_id": "jesuiten_org__364",
-        "located_in": [],
-        "gnd": "",
-        "msdesc": [
-            {
-                "id": 93,
-                "value": "Cod. 12061"
-            }
-        ],
-        "alt_name": "Residentia Bernardicensis",
         "notes": "",
         "persons": []
     },
@@ -21389,12 +21385,30 @@
     "417": {
         "id": 417,
         "order": "407.00000000000000000000",
-        "name": "Jesuitenmission Trzebesschiezensis (?)",
+        "name": "Jesuitenmission Třebešice",
         "jesuiten_id": "jesuiten_org__417",
-        "located_in": [],
+        "located_in": [
+            {
+                "id": 377,
+                "order": "368.00000000000000000000",
+                "name": "Třebešice",
+                "jesuiten_id": "jesuiten_place__377",
+                "geonames": "https://www.geonames.org/3064111/trebesice.html",
+                "lat": "49.92785",
+                "long": "15.33780",
+                "wikidata": "https://www.wikidata.org/wiki/Q2704174",
+                "alt_names": [
+                    {
+                        "id": 258,
+                        "value": "Trebeschitz"
+                    }
+                ],
+                "msdesc": []
+            }
+        ],
         "gnd": "",
         "msdesc": [],
-        "alt_name": "",
+        "alt_name": "Missio Trzebesschiezensis / Trzebeschicensis",
         "notes": "",
         "persons": []
     },
@@ -22529,6 +22543,363 @@
             }
         ],
         "alt_name": "Residentia Szakolza",
+        "notes": "",
+        "persons": []
+    },
+    "456": {
+        "id": 456,
+        "order": "446.00000000000000000000",
+        "name": "Jesuitenmission ad Montana",
+        "jesuiten_id": "jesuiten_org__456",
+        "located_in": [
+            {
+                "id": 102,
+                "order": "99.00000000000000000000",
+                "name": "Jičín",
+                "jesuiten_id": "jesuiten_place__102",
+                "geonames": "https://www.geonames.org/3074204/jicin.html",
+                "lat": "50.43723",
+                "long": "15.35162",
+                "wikidata": "https://www.wikidata.org/wiki/Q656603",
+                "alt_names": [
+                    {
+                        "id": 51,
+                        "value": "Gitzinum"
+                    },
+                    {
+                        "id": 52,
+                        "value": "Jitschin"
+                    },
+                    {
+                        "id": 53,
+                        "value": "Gitschin"
+                    }
+                ],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio ad Montana post Gitzinium",
+        "notes": "",
+        "persons": []
+    },
+    "457": {
+        "id": 457,
+        "order": "447.00000000000000000000",
+        "name": "Jesuitenmission Meißen",
+        "jesuiten_id": "jesuiten_org__457",
+        "located_in": [
+            {
+                "id": 277,
+                "order": "269.00000000000000000000",
+                "name": "Meißen",
+                "jesuiten_id": "jesuiten_place__277",
+                "geonames": "",
+                "lat": null,
+                "long": null,
+                "wikidata": "https://www.wikidata.org/wiki/Q8738",
+                "alt_names": [
+                    {
+                        "id": 197,
+                        "value": "Misnia"
+                    }
+                ],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio ad confinia Misniae",
+        "notes": "",
+        "persons": []
+    },
+    "458": {
+        "id": 458,
+        "order": "448.00000000000000000000",
+        "name": "Jesuitenmission Ledeč nad Sázavou (?)",
+        "jesuiten_id": "jesuiten_org__458",
+        "located_in": [
+            {
+                "id": 378,
+                "order": "369.00000000000000000000",
+                "name": "Ledeč nad Sázavou",
+                "jesuiten_id": "jesuiten_place__378",
+                "geonames": "https://www.geonames.org/3072235/ledec-nad-sazavou.html",
+                "lat": "49.69517",
+                "long": "15.27772",
+                "wikidata": "",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio in territorium Ledeczense",
+        "notes": "",
+        "persons": []
+    },
+    "459": {
+        "id": 459,
+        "order": "449.00000000000000000000",
+        "name": "Jesuitenmission Svatá Hora",
+        "jesuiten_id": "jesuiten_org__459",
+        "located_in": [
+            {
+                "id": 97,
+                "order": "94.00000000000000000000",
+                "name": "Svatá Hora",
+                "jesuiten_id": "jesuiten_place__97",
+                "geonames": "https://www.geonames.org/3064614/svata-hora.html",
+                "lat": "49.93913",
+                "long": "13.96162",
+                "wikidata": "https://www.wikidata.org/wiki/Q593540",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio sancti montis",
+        "notes": "",
+        "persons": []
+    },
+    "460": {
+        "id": 460,
+        "order": "450.00000000000000000000",
+        "name": "Jesuitenmission in Chrudimer Kreis (Chrudim), Kaurimer Kreis (Kouřim), Caslaver Kreis (Čáslav)",
+        "jesuiten_id": "jesuiten_org__460",
+        "located_in": [
+            {
+                "id": 385,
+                "order": "376.00000000000000000000",
+                "name": "Chrudimský kraj (Chrudim)",
+                "jesuiten_id": "jesuiten_place__385",
+                "geonames": "",
+                "lat": null,
+                "long": null,
+                "wikidata": "https://www.wikidata.org/wiki/Q15726844",
+                "alt_names": [
+                    {
+                        "id": 261,
+                        "value": "Circulus Chrudimensis"
+                    },
+                    {
+                        "id": 266,
+                        "value": "Chrudimer Kreis"
+                    }
+                ],
+                "msdesc": []
+            },
+            {
+                "id": 386,
+                "order": "377.00000000000000000000",
+                "name": "Kouřimský kraj (Kouřim)",
+                "jesuiten_id": "jesuiten_place__386",
+                "geonames": "",
+                "lat": null,
+                "long": null,
+                "wikidata": "",
+                "alt_names": [
+                    {
+                        "id": 262,
+                        "value": "Circulus Kaurzimensis"
+                    },
+                    {
+                        "id": 269,
+                        "value": "Kaurimer Kreis"
+                    }
+                ],
+                "msdesc": []
+            },
+            {
+                "id": 387,
+                "order": "378.00000000000000000000",
+                "name": "Čáslavský kraj (Čáslav)",
+                "jesuiten_id": "jesuiten_place__387",
+                "geonames": "",
+                "lat": null,
+                "long": null,
+                "wikidata": "",
+                "alt_names": [
+                    {
+                        "id": 263,
+                        "value": "Circulus Czaslaviensis"
+                    },
+                    {
+                        "id": 270,
+                        "value": "Caslaver Kreis"
+                    }
+                ],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio in circulos Kaurzimensem, Czaslaviensem et Chrudimensem",
+        "notes": "",
+        "persons": []
+    },
+    "461": {
+        "id": 461,
+        "order": "451.00000000000000000000",
+        "name": "Jesuitenmission Leitmeritzer Kreis, Rakonitzer Kreis (Rakovník, Slaný)",
+        "jesuiten_id": "jesuiten_org__461",
+        "located_in": [
+            {
+                "id": 388,
+                "order": "379.00000000000000000000",
+                "name": "Litoměřický kraj",
+                "jesuiten_id": "jesuiten_place__388",
+                "geonames": "",
+                "lat": null,
+                "long": null,
+                "wikidata": "https://www.wikidata.org/wiki/Q23929375",
+                "alt_names": [
+                    {
+                        "id": 264,
+                        "value": "Circulus Litomericensis"
+                    },
+                    {
+                        "id": 267,
+                        "value": "Leitmeritzer Kreis"
+                    }
+                ],
+                "msdesc": []
+            },
+            {
+                "id": 389,
+                "order": "380.00000000000000000000",
+                "name": "Slánský kraj (Rakovnik)",
+                "jesuiten_id": "jesuiten_place__389",
+                "geonames": "",
+                "lat": null,
+                "long": null,
+                "wikidata": "",
+                "alt_names": [
+                    {
+                        "id": 265,
+                        "value": "Circulus Slanensis"
+                    },
+                    {
+                        "id": 268,
+                        "value": "Rakonitzer Kreis"
+                    }
+                ],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio in circulos Litomericensem",
+        "notes": "",
+        "persons": []
+    },
+    "462": {
+        "id": 462,
+        "order": "452.00000000000000000000",
+        "name": "Jesuitenmission Vrchlabí",
+        "jesuiten_id": "jesuiten_org__462",
+        "located_in": [
+            {
+                "id": 290,
+                "order": "282.00000000000000000000",
+                "name": "Vrchlabí",
+                "jesuiten_id": "jesuiten_place__290",
+                "geonames": "https://www.geonames.org/3062439/vrchlabi.html",
+                "lat": "50.62697",
+                "long": "15.60937",
+                "wikidata": "https://www.wikidata.org/wiki/Q1008595",
+                "alt_names": [
+                    {
+                        "id": 259,
+                        "value": "Albipolis"
+                    },
+                    {
+                        "id": 260,
+                        "value": "Hohenelbe"
+                    }
+                ],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Albipolensis",
+        "notes": "",
+        "persons": []
+    },
+    "463": {
+        "id": 463,
+        "order": "453.00000000000000000000",
+        "name": "Jesuitenresidenz Bernartice (?)",
+        "jesuiten_id": "jesuiten_org__463",
+        "located_in": [
+            {
+                "id": 382,
+                "order": "373.00000000000000000000",
+                "name": "Bernartice u Milevska",
+                "jesuiten_id": "jesuiten_place__382",
+                "geonames": "https://www.geonames.org/12122710/bernartice-u-milevska.html",
+                "lat": "49.36877",
+                "long": "14.38093",
+                "wikidata": "",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Residentia Bernarticensis / Bernardicensis",
+        "notes": "",
+        "persons": []
+    },
+    "464": {
+        "id": 464,
+        "order": "454.00000000000000000000",
+        "name": "Jesuitenmission Černouček (?), Charvatce (?)",
+        "jesuiten_id": "jesuiten_org__464",
+        "located_in": [
+            {
+                "id": 383,
+                "order": "374.00000000000000000000",
+                "name": "Charvatce",
+                "jesuiten_id": "jesuiten_place__383",
+                "geonames": "https://www.geonames.org/3077841/charvatce.html",
+                "lat": "50.36178",
+                "long": "14.14696",
+                "wikidata": "",
+                "alt_names": [],
+                "msdesc": []
+            },
+            {
+                "id": 384,
+                "order": "375.00000000000000000000",
+                "name": "Černouček",
+                "jesuiten_id": "jesuiten_place__384",
+                "geonames": "https://www.geonames.org/3078024/cernoucek.html",
+                "lat": "50.36082",
+                "long": "14.30734",
+                "wikidata": "",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Czernoussecensis et Charwatecensis",
+        "notes": "",
+        "persons": []
+    },
+    "465": {
+        "id": 465,
+        "order": "455.00000000000000000000",
+        "name": "Jesuitenmission ad Montana Moraviae; Coloniae",
+        "jesuiten_id": "jesuiten_org__465",
+        "located_in": [],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio ad montana Moraviae et confinia Coloniae",
         "notes": "",
         "persons": []
     }
