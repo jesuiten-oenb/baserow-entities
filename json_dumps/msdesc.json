@@ -5408,7 +5408,12 @@
     "title": "Litterae annuae provinciae Austriae Societatis Iesu a. 1682",
     "date": "ab 1683",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_12257",
     "extent": "II, 54, I* Bl.",
@@ -5422,6 +5427,332 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1682"
+  },
+  "139": {
+    "id": 139,
+    "order": "7.88461538461538502531",
+    "signatur": "Cod. 12258",
+    "jesuiten_id": "jesuiten_msdesc__139",
+    "mentioned_orgs": [
+      {
+        "id": 1,
+        "value": "Profeßhaus Wien"
+      },
+      {
+        "id": 2,
+        "value": "Jesuitenkolleg Wien"
+      },
+      {
+        "id": 3,
+        "value": "Jesuitenresidenz S. Bernardi"
+      },
+      {
+        "id": 4,
+        "value": "Probationshaus Wien"
+      },
+      {
+        "id": 5,
+        "value": "Jesuitenkolleg Graz"
+      },
+      {
+        "id": 7,
+        "value": "Jesuitenresidenz Millstatt"
+      },
+      {
+        "id": 8,
+        "value": "Jesuitenkolleg Linz"
+      },
+      {
+        "id": 9,
+        "value": "Jesuitenkolleg Bratislava"
+      },
+      {
+        "id": 10,
+        "value": "Jesuitenkolleg Passau"
+      },
+      {
+        "id": 11,
+        "value": "Jesuitenkolleg Trnava"
+      },
+      {
+        "id": 14,
+        "value": "Jesuitenresidenz Šentjernej"
+      },
+      {
+        "id": 16,
+        "value": "Jesuitenkolleg Klagenfurt"
+      },
+      {
+        "id": 27,
+        "value": "Jesuitenresidenz Traunkirchen"
+      },
+      {
+        "id": 35,
+        "value": "Jesuitenkolleg Krems"
+      },
+      {
+        "id": 36,
+        "value": "Jesuitenkolleg Gorizia"
+      },
+      {
+        "id": 37,
+        "value": "Jesuitenkolleg Judenburg"
+      },
+      {
+        "id": 38,
+        "value": "Jesuitenkolleg Trieste"
+      },
+      {
+        "id": 40,
+        "value": "Jesuitenkolleg Rijeka"
+      },
+      {
+        "id": 47,
+        "value": "Jesuitenresidenz Gyöngyös"
+      },
+      {
+        "id": 52,
+        "value": "Jesuitenkolleg Leoben"
+      },
+      {
+        "id": 53,
+        "value": "Jesuitenkolleg Steyr"
+      },
+      {
+        "id": 54,
+        "value": "Jesuitenresidenz Komarom"
+      },
+      {
+        "id": 64,
+        "value": "Jesuitenresidenz Kláštor pod Znievom"
+      },
+      {
+        "id": 70,
+        "value": "Jesuitenresidenz Sárospatak"
+      },
+      {
+        "id": 71,
+        "value": "Jesuitenresidenz Banská Štiavnica"
+      },
+      {
+        "id": 87,
+        "value": "Jesuitenkolleg Sopron"
+      },
+      {
+        "id": 89,
+        "value": "Jesuitenkolleg Trenčín"
+      },
+      {
+        "id": 91,
+        "value": "Jesuitenkolleg Varaždin"
+      },
+      {
+        "id": 151,
+        "value": "Jesuitenresidenz Satu Mare"
+      },
+      {
+        "id": 202,
+        "value": "Jesuitenresidenz Banská Bystrica"
+      },
+      {
+        "id": 291,
+        "value": "Jesuitenkolleg Wiener Neustadt"
+      },
+      {
+        "id": 454,
+        "value": "Jesuitenresidenz Kőszeg"
+      },
+      {
+        "id": 455,
+        "value": "Jesuitenresidenz Skalica"
+      }
+    ],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13949750",
+    "title": "Litterae annuae provinciae Austriae Societatis Iesu a. 1683",
+    "date": "1684–Mai 1686",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
+    "note_type_facs": "",
+    "xml_id": "cod_12258",
+    "extent": "III, 144, I* Bl.",
+    "height": "305",
+    "width": "200",
+    "foliation": "Zeitgenössische Paginierung 1–235, 235*–289.",
+    "acc_mat": "",
+    "binding": "Rot gestrichenes Pergament über Pappdeckeln, 18. Jhdt.",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit, thematisch in 19 Kapiteln gegliedert.",
+    "not_before": "1684",
+    "not_after": "1686",
+    "# when": "",
+    "date_letter": "1683"
+  },
+  "140": {
+    "id": 140,
+    "order": "7.88571428571428612031",
+    "signatur": "Cod. 12259",
+    "jesuiten_id": "jesuiten_msdesc__140",
+    "mentioned_orgs": [
+      {
+        "id": 1,
+        "value": "Profeßhaus Wien"
+      },
+      {
+        "id": 2,
+        "value": "Jesuitenkolleg Wien"
+      },
+      {
+        "id": 3,
+        "value": "Jesuitenresidenz S. Bernardi"
+      },
+      {
+        "id": 4,
+        "value": "Probationshaus Wien"
+      },
+      {
+        "id": 5,
+        "value": "Jesuitenkolleg Graz"
+      },
+      {
+        "id": 7,
+        "value": "Jesuitenresidenz Millstatt"
+      },
+      {
+        "id": 8,
+        "value": "Jesuitenkolleg Linz"
+      },
+      {
+        "id": 9,
+        "value": "Jesuitenkolleg Bratislava"
+      },
+      {
+        "id": 10,
+        "value": "Jesuitenkolleg Passau"
+      },
+      {
+        "id": 11,
+        "value": "Jesuitenkolleg Trnava"
+      },
+      {
+        "id": 12,
+        "value": "Jesuitenkolleg Győr"
+      },
+      {
+        "id": 14,
+        "value": "Jesuitenresidenz Šentjernej"
+      },
+      {
+        "id": 16,
+        "value": "Jesuitenkolleg Klagenfurt"
+      },
+      {
+        "id": 27,
+        "value": "Jesuitenresidenz Traunkirchen"
+      },
+      {
+        "id": 35,
+        "value": "Jesuitenkolleg Krems"
+      },
+      {
+        "id": 36,
+        "value": "Jesuitenkolleg Gorizia"
+      },
+      {
+        "id": 37,
+        "value": "Jesuitenkolleg Judenburg"
+      },
+      {
+        "id": 38,
+        "value": "Jesuitenkolleg Trieste"
+      },
+      {
+        "id": 40,
+        "value": "Jesuitenkolleg Rijeka"
+      },
+      {
+        "id": 52,
+        "value": "Jesuitenkolleg Leoben"
+      },
+      {
+        "id": 53,
+        "value": "Jesuitenkolleg Steyr"
+      },
+      {
+        "id": 54,
+        "value": "Jesuitenresidenz Komarom"
+      },
+      {
+        "id": 55,
+        "value": "Jesuitenresidenz Žireč"
+      },
+      {
+        "id": 64,
+        "value": "Jesuitenresidenz Kláštor pod Znievom"
+      },
+      {
+        "id": 71,
+        "value": "Jesuitenresidenz Banská Štiavnica"
+      },
+      {
+        "id": 87,
+        "value": "Jesuitenkolleg Sopron"
+      },
+      {
+        "id": 89,
+        "value": "Jesuitenkolleg Trenčín"
+      },
+      {
+        "id": 91,
+        "value": "Jesuitenkolleg Varaždin"
+      },
+      {
+        "id": 151,
+        "value": "Jesuitenresidenz Satu Mare"
+      },
+      {
+        "id": 202,
+        "value": "Jesuitenresidenz Banská Bystrica"
+      },
+      {
+        "id": 291,
+        "value": "Jesuitenkolleg Wiener Neustadt"
+      },
+      {
+        "id": 454,
+        "value": "Jesuitenresidenz Kőszeg"
+      },
+      {
+        "id": 455,
+        "value": "Jesuitenresidenz Skalica"
+      }
+    ],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13949751",
+    "title": "Litterae annuae provinciae Austriae Societatis Iesu a. 1684",
+    "date": "",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
+    "note_type_facs": "",
+    "xml_id": "cod_12259",
+    "extent": "II, 64, I* Bl.",
+    "height": null,
+    "width": null,
+    "foliation": "",
+    "acc_mat": "",
+    "binding": "",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit, thematisch in 16 Kapiteln gegliedert.",
+    "not_before": null,
+    "not_after": null,
+    "# when": "",
+    "date_letter": "1684"
   },
   "133": {
     "id": 133,
@@ -5650,7 +5981,12 @@
     "title": "Litterae annuae provinciae Austriae Societatis Iesu a. 1726",
     "date": "ab 1727",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_12264",
     "extent": "76, II* Bl.",
@@ -5916,7 +6252,12 @@
     "title": "Litterae annuae provinciae Austriae Societatis Iesu a. 1727",
     "date": "1728",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_12265",
     "extent": "104 Bl.",
@@ -6551,6 +6892,203 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1721"
+  },
+  "141": {
+    "id": 141,
+    "order": "8.47619047619047627506",
+    "signatur": "Cod. 12315",
+    "jesuiten_id": "jesuiten_msdesc__141",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948982",
+    "title": "Litterae annuae provinciae Bohemiae Societatis Iesu a. 1730",
+    "date": "ab 1731",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Bohemia"
+      }
+    ],
+    "note_type_facs": "",
+    "xml_id": "cod_12315",
+    "extent": "I, 165, I* Bl.",
+    "height": "270",
+    "width": "185",
+    "foliation": "Moderne Foliierung: 1–149, 149a–164.",
+    "acc_mat": "",
+    "binding": "Halbband, Deckel mit buntem Marmorpapier überzogen, 18. Jhdt.",
+    "summary": "Zusammengesetzte Handschrift aus den Berichten verschiedener Domizilen in Böhmen.",
+    "not_before": "1731",
+    "not_after": null,
+    "# when": "",
+    "date_letter": "1730"
+  },
+  "142": {
+    "id": 142,
+    "order": "8.47826086956521685067",
+    "signatur": "Cod. 12352",
+    "jesuiten_id": "jesuiten_msdesc__142",
+    "mentioned_orgs": [
+      {
+        "id": 41,
+        "value": "Missio Castrensis"
+      },
+      {
+        "id": 92,
+        "value": "Profeßhaus Prag"
+      },
+      {
+        "id": 93,
+        "value": "Jesuitenkolleg Březnice"
+      },
+      {
+        "id": 94,
+        "value": "Jesuitenresidenz Svatá Hora"
+      },
+      {
+        "id": 95,
+        "value": "Jesuitenkolleg Chomutov"
+      },
+      {
+        "id": 96,
+        "value": "Jesuitenkolleg Krumlov"
+      },
+      {
+        "id": 97,
+        "value": "Jesuitenkolleg Cheb"
+      },
+      {
+        "id": 98,
+        "value": "Jesuitenkolleg Jičín"
+      },
+      {
+        "id": 99,
+        "value": "Jesuitenkolleg Kłodzko"
+      },
+      {
+        "id": 101,
+        "value": "Jesuitenkolleg Głogów"
+      },
+      {
+        "id": 102,
+        "value": "Jesuitenkolleg Uherské Hradiště"
+      },
+      {
+        "id": 103,
+        "value": "Jesuitenkolleg Jihlava"
+      },
+      {
+        "id": 104,
+        "value": "Jesuitenkolleg Kutná Hora"
+      },
+      {
+        "id": 105,
+        "value": "Jesuitenresidenz Golčův Jeníkov"
+      },
+      {
+        "id": 106,
+        "value": "Jesuitenkolleg Legnica"
+      },
+      {
+        "id": 107,
+        "value": "Jesuitenresidenz Otyń"
+      },
+      {
+        "id": 108,
+        "value": "Jesuitenkolleg Litoměřice"
+      },
+      {
+        "id": 117,
+        "value": "Jesuitenkolleg Hradec Králové"
+      },
+      {
+        "id": 118,
+        "value": "Jesuitenkolleg Żagań"
+      },
+      {
+        "id": 119,
+        "value": "Jesuitenkolleg Świdnica"
+      },
+      {
+        "id": 120,
+        "value": "Jesuitenkolleg Telč"
+      },
+      {
+        "id": 121,
+        "value": "Jesuitenkolleg Wrocław"
+      },
+      {
+        "id": 122,
+        "value": "Jesuitenkolleg Znoymo"
+      },
+      {
+        "id": 160,
+        "value": "Probationshaus Brno"
+      },
+      {
+        "id": 123,
+        "value": "Jesuitenkolleg Brno"
+      },
+      {
+        "id": 124,
+        "value": "Jesuitenresidenz Tuřany"
+      },
+      {
+        "id": 136,
+        "value": "Jesuitenresidenz Košumberk"
+      },
+      {
+        "id": 137,
+        "value": "Jesuitenresidenz Jelenia Góra"
+      },
+      {
+        "id": 138,
+        "value": "Probationshaus Telč"
+      },
+      {
+        "id": 142,
+        "value": "Jesuitenresidenz Maria Scheinensis"
+      },
+      {
+        "id": 159,
+        "value": "Probationshaus Jičín"
+      },
+      {
+        "id": 197,
+        "value": "Jesuitenkolleg Prague ad S. Ignatium"
+      },
+      {
+        "id": 196,
+        "value": "Jesuitenmission Římov"
+      },
+      {
+        "id": 302,
+        "value": "Jesuitenmission Leipzig"
+      }
+    ],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13949202",
+    "title": "Litterae annuae provinciae Bohemiae Societatis Iesu a. 1744",
+    "date": "ab 1745",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Bohemia"
+      }
+    ],
+    "note_type_facs": "http://data.onb.ac.at/dtl/6590283",
+    "xml_id": "cod_12352",
+    "extent": "I, 63, I* Bl.",
+    "height": "270",
+    "width": "195",
+    "foliation": "Moderne Foliierung: 1–63. Zeitgenössische Nummerierung jedes zweiten Blatts 1–29.",
+    "acc_mat": "",
+    "binding": "Halbband, Deckel mit buntem Marmorpapier überzogen, 18. Jhdt.",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit, thematisch in 21 Kapitel gegliedert. Im Supplementum Berichte aus einzelnen Kollegen und Missionen.",
+    "not_before": "1745",
+    "not_after": null,
+    "# when": "",
+    "date_letter": "1744"
   },
   "44": {
     "id": 44,

@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cod_12295.xml" xml:base="https://oenb.ac.at" prev="https://oenb.ac.at/cod_12294.xml" next="https://oenb.ac.at/cod_12296.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cod_12315.xml" xml:base="https://oenb.ac.at" prev="https://oenb.ac.at/cod_12307.xml" next="https://oenb.ac.at/cod_12352.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">Wien, Österreichische nationalbibliothek, Cod. 12295</title>
+                <title type="main">Wien, Österreichische nationalbibliothek, Cod. 12315</title>
                 <title type="sub">Jesuiten Littera annuae</title>
                 <respStmt>
                     <resp>Beschreibung und TEI-encoding</resp>
@@ -19,22 +19,23 @@
                 </availability>
             </publicationStmt>
             <sourceDesc>
-                <msDesc xml:lang="de" xml:id="cod_12295">
+                <msDesc xml:lang="de" xml:id="cod_12315">
                     <msIdentifier>
                         <country>Österreich</country>
                         <settlement>Wien</settlement>
                         <repository>Österreichische Nationalbibliothek</repository>
-                        <idno>Cod. 12295</idno>
+                        <idno>Cod. 12315</idno>
                     </msIdentifier>
                     <head>
-                        <title>Litterae annuae provinciae Bohemiae Societatis Iesu a. 1709</title>
+                        <title>Litterae annuae provinciae Bohemiae Societatis Iesu a. 1730</title>
+                        <origDate notBefore="1731-01-01">ab 1731</origDate>
                         <note type="catalogue">
-                            <ref target="http://data.onb.ac.at/rec/AC13948657"/>
+                            <ref target="http://data.onb.ac.at/rec/AC13948982"/>
                         </note>
                     </head>
                     <msContents>                   
                         <summary>
-                                Zusammengesetzte Handschrift aus den Berichten für das Jahr 1709 verschiedenen Häusern in Böhmen. Auf ff. 1r-2v allgemeine Anzahl der Mitglieder und eine tabellarische Auflistung der Anzahl der Communicantes, Conversos, Dictiones ad populum, Catecheses, Sodalitates, Studioses und Seminaristas. 
+                                Zusammengesetzte Handschrift aus den Berichten verschiedener Domizilen in Böhmen. 
                                 
                             <listPlace>
                                 <head>Erwähnte Orte:</head>
@@ -46,7 +47,11 @@
                         <textLang mainLang="lat"/>
                         
                                 <msItem n="None">
-                                    <locus from="5r" to="10v">5r-10v</locus>
+                                    <locus from="1r" to="3v">1r-3v</locus>
+                                    <title>Auflistung der Anzahl der Mitglieder; tabellarische Auflistung der verschiedenen Aktivitäten in den Domizilen.</title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="4r" to="7v">4r-7v</locus>
                                     <note>
                                         <listOrg>
                                         <org>
@@ -56,7 +61,37 @@
                                     </note>
                                 </msItem>
                                 <msItem n="None">
-                                    <locus from="11r" to="14v">11r-14v</locus>
+                                    <locus from="7v" to="9v">7v-9v</locus>
+                                    <note>
+                                        <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__41">Missio Castrensis</orgName>
+                                        </org>
+                                    </listOrg>
+                                    </note>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="10r" to="13v">10r-13v</locus>
+                                    <note>
+                                        <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__161">Jesuitenmission Dresden</orgName>
+                                        </org>
+                                    </listOrg>
+                                    </note>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="14r" to="15v">14r-15v</locus>
+                                    <note>
+                                        <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__302">Jesuitenmission Leipzig</orgName>
+                                        </org>
+                                    </listOrg>
+                                    </note>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="16r" to="17v">16r-17v</locus>
                                     <note>
                                         <listOrg>
                                         <org>
@@ -66,7 +101,7 @@
                                     </note>
                                 </msItem>
                                 <msItem n="None">
-                                    <locus from="15r" to="16r">15r-16r</locus>
+                                    <locus from="19r" to="21v">19r-21v</locus>
                                     <note>
                                         <listOrg>
                                         <org>
@@ -76,7 +111,7 @@
                                     </note>
                                 </msItem>
                                 <msItem n="None">
-                                    <locus from="17r" to="20v">17r-20v</locus>
+                                    <locus from="22r" to="27v">22r-27v</locus>
                                     <note>
                                         <listOrg>
                                         <org>
@@ -86,7 +121,7 @@
                                     </note>
                                 </msItem>
                                 <msItem n="None">
-                                    <locus from="21r" to="23v">21r-23v</locus>
+                                    <locus from="28r" to="31v">28r-31v</locus>
                                     <note>
                                         <listOrg>
                                         <org>
@@ -96,7 +131,7 @@
                                     </note>
                                 </msItem>
                                 <msItem n="None">
-                                    <locus from="24r" to="27r">24r-27r</locus>
+                                    <locus from="32r" to="35v">32r-35v</locus>
                                     <note>
                                         <listOrg>
                                         <org>
@@ -106,7 +141,7 @@
                                     </note>
                                 </msItem>
                                 <msItem n="None">
-                                    <locus from="28r" to="31r">28r-31r</locus>
+                                    <locus from="36r" to="39v">36r-39v</locus>
                                     <note>
                                         <listOrg>
                                         <org>
@@ -116,17 +151,7 @@
                                     </note>
                                 </msItem>
                                 <msItem n="None">
-                                    <locus from="32r" to="37v">32r-37v</locus>
-                                    <note>
-                                        <listOrg>
-                                        <org>
-                                            <orgName key="#jesuiten_org__98">Jesuitenkolleg Jičín</orgName>
-                                        </org>
-                                    </listOrg>
-                                    </note>
-                                </msItem>
-                                <msItem n="None">
-                                    <locus from="38r" to="41v">38r-41v</locus>
+                                    <locus from="40r" to="45v">40r-45v</locus>
                                     <note>
                                         <listOrg>
                                         <org>
@@ -136,7 +161,7 @@
                                     </note>
                                 </msItem>
                                 <msItem n="None">
-                                    <locus from="42r" to="45v">42r-45v</locus>
+                                    <locus from="46r" to="49v">46r-49v</locus>
                                     <note>
                                         <listOrg>
                                         <org>
@@ -146,7 +171,7 @@
                                     </note>
                                 </msItem>
                                 <msItem n="None">
-                                    <locus from="46r" to="47v">46r-47v</locus>
+                                    <locus from="50r" to="52r">50r-52r</locus>
                                     <note>
                                         <listOrg>
                                         <org>
@@ -156,7 +181,7 @@
                                     </note>
                                 </msItem>
                                 <msItem n="None">
-                                    <locus from="48r" to="49v">48r-49v</locus>
+                                    <locus from="53r" to="56v">53r-56v</locus>
                                     <note>
                                         <listOrg>
                                         <org>
@@ -166,7 +191,7 @@
                                     </note>
                                 </msItem>
                                 <msItem n="None">
-                                    <locus from="50r" to="51v">50r-51v</locus>
+                                    <locus from="57r" to="60v">57r-60v</locus>
                                     <note>
                                         <listOrg>
                                         <org>
@@ -176,7 +201,27 @@
                                     </note>
                                 </msItem>
                                 <msItem n="None">
-                                    <locus from="52r" to="53v">52r-53v</locus>
+                                    <locus from="61r" to="61v">61r-61v</locus>
+                                    <note>
+                                        <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__442">Jesutienmission Ostroviensis</orgName>
+                                        </org>
+                                    </listOrg>
+                                    </note>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="62r" to="62r">62r-62r</locus>
+                                    <note>
+                                        <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__280">Jesuitenmission Wallachia</orgName>
+                                        </org>
+                                    </listOrg>
+                                    </note>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="63r" to="66r">63r-66r</locus>
                                     <note>
                                         <listOrg>
                                         <org>
@@ -186,7 +231,7 @@
                                     </note>
                                 </msItem>
                                 <msItem n="None">
-                                    <locus from="54r" to="56r">54r-56r</locus>
+                                    <locus from="67r" to="69">67r-69</locus>
                                     <note>
                                         <listOrg>
                                         <org>
@@ -196,7 +241,7 @@
                                     </note>
                                 </msItem>
                                 <msItem n="None">
-                                    <locus from="56v" to="57v">56v-57v</locus>
+                                    <locus from="71r" to="72r">71r-72r</locus>
                                     <note>
                                         <listOrg>
                                         <org>
@@ -206,7 +251,7 @@
                                     </note>
                                 </msItem>
                                 <msItem n="None">
-                                    <locus from="58r" to="60v">58r-60v</locus>
+                                    <locus from="73r" to="74v">73r-74v</locus>
                                     <note>
                                         <listOrg>
                                         <org>
@@ -216,7 +261,7 @@
                                     </note>
                                 </msItem>
                                 <msItem n="None">
-                                    <locus from="60v" to="61v">60v-61v</locus>
+                                    <locus from="75r" to="76v">75r-76v</locus>
                                     <note>
                                         <listOrg>
                                         <org>
@@ -226,7 +271,7 @@
                                     </note>
                                 </msItem>
                                 <msItem n="None">
-                                    <locus from="62r" to="63v">62r-63v</locus>
+                                    <locus from="77r" to="80v">77r-80v</locus>
                                     <note>
                                         <listOrg>
                                         <org>
@@ -236,17 +281,17 @@
                                     </note>
                                 </msItem>
                                 <msItem n="None">
-                                    <locus from="64r" to="69v">64r-69v</locus>
+                                    <locus from="81r" to="82v">81r-82v</locus>
                                     <note>
                                         <listOrg>
                                         <org>
-                                            <orgName key="#jesuiten_org__197">Jesuitenkolleg Prague ad S. Ignatium</orgName>
+                                            <orgName key="#jesuiten_org__466">Jesuitenmission Cínovec</orgName>
                                         </org>
                                     </listOrg>
                                     </note>
                                 </msItem>
                                 <msItem n="None">
-                                    <locus from="70r" to="72v">70r-72v</locus>
+                                    <locus from="83r" to="88v">83r-88v</locus>
                                     <note>
                                         <listOrg>
                                         <org>
@@ -256,7 +301,7 @@
                                     </note>
                                 </msItem>
                                 <msItem n="None">
-                                    <locus from="74r" to="76v">74r-76v</locus>
+                                    <locus from="89r" to="90v">89r-90v</locus>
                                     <note>
                                         <listOrg>
                                         <org>
@@ -266,7 +311,7 @@
                                     </note>
                                 </msItem>
                                 <msItem n="None">
-                                    <locus from="78r" to="82r">78r-82r</locus>
+                                    <locus from="91r" to="95r">91r-95r</locus>
                                     <note>
                                         <listOrg>
                                         <org>
@@ -276,7 +321,27 @@
                                     </note>
                                 </msItem>
                                 <msItem n="None">
-                                    <locus from="83r" to="84v">83r-84v</locus>
+                                    <locus from="95r" to="96r">95r-96r</locus>
+                                    <note>
+                                        <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__294">Jesuitenmission Lichtensteinica Böhmen</orgName>
+                                        </org>
+                                    </listOrg>
+                                    </note>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="96r" to="96r">96r-96r</locus>
+                                    <note>
+                                        <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__467">Jesuitenmission Nový Jičín</orgName>
+                                        </org>
+                                    </listOrg>
+                                    </note>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="97r" to="102r">97r-102r</locus>
                                     <note>
                                         <listOrg>
                                         <org>
@@ -286,27 +351,57 @@
                                     </note>
                                 </msItem>
                                 <msItem n="None">
-                                    <locus from="85r" to="86v">85r-86v</locus>
+                                    <locus from="102r" to="102v">102r-102v</locus>
                                     <note>
                                         <listOrg>
                                         <org>
-                                            <orgName key="#jesuiten_org__141">Jesuitenresidenz und Mission Telč</orgName>
+                                            <orgName key="#jesuiten_org__132">Jesuitenmission Brantice</orgName>
                                         </org>
                                     </listOrg>
                                     </note>
                                 </msItem>
                                 <msItem n="None">
-                                    <locus from="86v" to="87v">86v-87v</locus>
+                                    <locus from="102v" to="103r">102v-103r</locus>
                                     <note>
                                         <listOrg>
                                         <org>
-                                            <orgName key="#jesuiten_org__133">Jesuitenmission Pommersdorf</orgName>
+                                            <orgName key="#jesuiten_org__294">Jesuitenmission Lichtensteinica Böhmen</orgName>
                                         </org>
                                     </listOrg>
                                     </note>
                                 </msItem>
                                 <msItem n="None">
-                                    <locus from="88r" to="89v">88r-89v</locus>
+                                    <locus from="103v" to="104r">103v-104r</locus>
+                                    <note>
+                                        <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__293">Jesuitenmission Jablunkov Pass</orgName>
+                                        </org>
+                                    </listOrg>
+                                    </note>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="104r" to="105r">104r-105r</locus>
+                                    <note>
+                                        <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__401">Jesuitenmission Silesia Superiore,  Cieszyn</orgName>
+                                        </org>
+                                    </listOrg>
+                                    </note>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="107r" to="108v">107r-108v</locus>
+                                    <note>
+                                        <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__140">Jesuitenresidenz Cieszyn</orgName>
+                                        </org>
+                                    </listOrg>
+                                    </note>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="109r" to="112r">109r-112r</locus>
                                     <note>
                                         <listOrg>
                                         <org>
@@ -316,17 +411,7 @@
                                     </note>
                                 </msItem>
                                 <msItem n="None">
-                                    <locus from="90r" to="91v">90r-91v</locus>
-                                    <note>
-                                        <listOrg>
-                                        <org>
-                                            <orgName key="#jesuiten_org__134">Jesuitenresidenz Piekary</orgName>
-                                        </org>
-                                    </listOrg>
-                                    </note>
-                                </msItem>
-                                <msItem n="None">
-                                    <locus from="92r" to="93r">92r-93r</locus>
+                                    <locus from="112v" to="114r">112v-114r</locus>
                                     <note>
                                         <listOrg>
                                         <org>
@@ -336,7 +421,17 @@
                                     </note>
                                 </msItem>
                                 <msItem n="None">
-                                    <locus from="94r" to="97v">94r-97v</locus>
+                                    <locus from="114r" to="114v">114r-114v</locus>
+                                    <note>
+                                        <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__134">Jesuitenresidenz Piekary</orgName>
+                                        </org>
+                                    </listOrg>
+                                    </note>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="115r" to="130v">115r-130v</locus>
                                     <note>
                                         <listOrg>
                                         <org>
@@ -346,7 +441,17 @@
                                     </note>
                                 </msItem>
                                 <msItem n="None">
-                                    <locus from="98r" to="99v">98r-99v</locus>
+                                    <locus from="131r" to="134r">131r-134r</locus>
+                                    <note>
+                                        <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__197">Jesuitenkolleg Prague ad S. Ignatium</orgName>
+                                        </org>
+                                    </listOrg>
+                                    </note>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="135r" to="139v">135r-139v</locus>
                                     <note>
                                         <listOrg>
                                         <org>
@@ -356,7 +461,7 @@
                                     </note>
                                 </msItem>
                                 <msItem n="None">
-                                    <locus from="100r" to="101r">100r-101r</locus>
+                                    <locus from="140r" to="141v">140r-141v</locus>
                                     <note>
                                         <listOrg>
                                         <org>
@@ -366,7 +471,7 @@
                                     </note>
                                 </msItem>
                                 <msItem n="None">
-                                    <locus from="102r" to="103v">102r-103v</locus>
+                                    <locus from="142r" to="143v">142r-143v</locus>
                                     <note>
                                         <listOrg>
                                         <org>
@@ -376,7 +481,7 @@
                                     </note>
                                 </msItem>
                                 <msItem n="None">
-                                    <locus from="104r" to="108v">104r-108v</locus>
+                                    <locus from="144r" to="145r">144r-145r</locus>
                                     <note>
                                         <listOrg>
                                         <org>
@@ -386,7 +491,17 @@
                                     </note>
                                 </msItem>
                                 <msItem n="None">
-                                    <locus from="109r" to="109v">109r-109v</locus>
+                                    <locus from="145r" to="145v">145r-145v</locus>
+                                    <note>
+                                        <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__468">Jesuitenmission Dobromierz</orgName>
+                                        </org>
+                                    </listOrg>
+                                    </note>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="146r" to="147v">146r-147v</locus>
                                     <note>
                                         <listOrg>
                                         <org>
@@ -396,7 +511,7 @@
                                     </note>
                                 </msItem>
                                 <msItem n="None">
-                                    <locus from="110r" to="112v">110r-112v</locus>
+                                    <locus from="148r" to="149v">148r-149v</locus>
                                     <note>
                                         <listOrg>
                                         <org>
@@ -409,18 +524,7 @@
                                     </note>
                                 </msItem>
                                 <msItem n="None">
-                                    <locus from="113r" to="114v">113r-114v</locus>
-                                    <title>Fructus PP. probationis teltzii A. 1709</title>
-                                    <note>
-                                        <listOrg>
-                                        <org>
-                                            <orgName key="#jesuiten_org__138">Probationshaus Telč</orgName>
-                                        </org>
-                                    </listOrg>
-                                    </note>
-                                </msItem>
-                                <msItem n="None">
-                                    <locus from="115r" to="120v">115r-120v</locus>
+                                    <locus from="149ar" to="154r">149ar-154r</locus>
                                     <note>
                                         <listOrg>
                                         <org>
@@ -430,7 +534,7 @@
                                     </note>
                                 </msItem>
                                 <msItem n="None">
-                                    <locus from="121r" to="121v">121r-121v</locus>
+                                    <locus from="154v" to="155v">154v-155v</locus>
                                     <note>
                                         <listOrg>
                                         <org>
@@ -440,7 +544,7 @@
                                     </note>
                                 </msItem>
                                 <msItem n="None">
-                                    <locus from="123r" to="126v">123r-126v</locus>
+                                    <locus from="156r" to="157v">156r-157v</locus>
                                     <note>
                                         <listOrg>
                                         <org>
@@ -450,7 +554,7 @@
                                     </note>
                                 </msItem>
                                 <msItem n="None">
-                                    <locus from="127r" to="129r">127r-129r</locus>
+                                    <locus from="158r" to="162r">158r-162r</locus>
                                     <note>
                                         <listOrg>
                                         <org>
@@ -463,7 +567,7 @@
                                     </note>
                                 </msItem>
                                 <msItem n="None">
-                                    <locus from="129r" to="130v">129r-130v</locus>
+                                    <locus from="162r" to="164r">162r-164r</locus>
                                     <note>
                                         <listOrg>
                                         <org>
@@ -481,19 +585,19 @@
                             <supportDesc material="paper">
                                 <support>Papier</support>
                                 <extent>
-                                    <measure type="leavesCount" unit="folio">II, 130, II*.</measure>
+                                    <measure type="leavesCount" unit="folio">I, 165, I* Bl.</measure>
                                     <dimensions type="leaf_current" unit="mm">
-                                        <height>268</height>
-                                        <width>189</width>
+                                        <height>270</height>
+                                        <width>185</width>
                                     </dimensions>
                                 </extent>
-                                <foliation>Moderne Foliierung.</foliation>
+                                <foliation>Moderne Foliierung: 1–149, 149a–164.</foliation>
                                 <collation/>
                             </supportDesc>
                         </objectDesc>
                         <bindingDesc>
                             <binding>
-                                <p>Pappeinband mit grünlichem Buntpapier kaschiert. Wien, 19. Jhdt.</p>
+                                <p>Halbband, Deckel mit buntem Marmorpapier überzogen, 18. Jhdt.</p>
                             </binding>
                         </bindingDesc>
                         <accMat/>                        
@@ -561,15 +665,6 @@
                      <note type="idno"><idno type="geonames">https://sws.geonames.org/3064316/</idno></note>
                   </location>
                <noteGrp><note target="cod_11962.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11962</note><note target="cod_11963.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11963</note><note target="cod_12001.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12001</note><note target="cod_12278.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12278</note><note target="cod_12280.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12280</note><note target="cod_12281.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12281</note><note target="cod_12282.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12282</note><note target="cod_12283.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12283</note><note target="cod_12284.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12284</note><note target="cod_12285.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12285</note><note target="cod_12286.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12286</note><note target="cod_12287.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12287</note><note target="cod_12288.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12288</note><note target="cod_12289.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12289</note><note target="cod_12290.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12290</note><note target="cod_12291.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12291</note><note target="cod_12292.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12292</note><note target="cod_12293.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12293</note><note target="cod_12294.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12294</note><note target="cod_12295.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12295</note><note target="cod_12296.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12296</note><note target="cod_12297.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12297</note><note target="cod_12298.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12298</note><note target="cod_12299.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12299</note><note target="cod_12300.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12300</note><note target="cod_12301.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12301</note><note target="cod_12302.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12302</note><note target="cod_12303.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12303</note><note target="cod_12304.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12304</note><note target="cod_12305.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12305</note><note target="cod_12306.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12306</note><note target="cod_12307.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12307</note><note target="cod_12315.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12315</note><note target="cod_12352.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12352</note></noteGrp></org>
-               <org xml:id="jesuiten_org__141">
-                  <orgName>Jesuitenresidenz und Mission Telč</orgName>
-                  <orgName type="alt">Residentia et missio Telchinensis</orgName>
-                  <location type="located_in_place">
-                     <placeName key="jesuiten_place__120">Telč</placeName>
-                     <geo>49.18418 15.45275</geo>
-                     <note type="idno"><idno type="geonames">https://sws.geonames.org/3064316/</idno></note>
-                  </location>
-               <noteGrp><note target="cod_12289.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12289</note><note target="cod_12295.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12295</note><note target="cod_12305.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12305</note></noteGrp></org>
                <org xml:id="jesuiten_org__137">
                   <orgName>Jesuitenresidenz Jelenia Góra</orgName>
                   <orgName type="alt">Residentia Hirschbergensis</orgName>
@@ -597,16 +692,25 @@
                      <note type="idno"><idno type="geonames">https://sws.geonames.org/3078610/</idno></note>
                   </location>
                <noteGrp><note target="cod_11961.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11961</note><note target="cod_11962.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11962</note><note target="cod_11963.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11963</note><note target="cod_12001.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12001</note><note target="cod_12278.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12278</note><note target="cod_12281.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12281</note><note target="cod_12282.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12282</note><note target="cod_12283.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12283</note><note target="cod_12284.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12284</note><note target="cod_12285.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12285</note><note target="cod_12286.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12286</note><note target="cod_12288.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12288</note><note target="cod_12289.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12289</note><note target="cod_12290.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12290</note><note target="cod_12291.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12291</note><note target="cod_12292.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12292</note><note target="cod_12293.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12293</note><note target="cod_12294.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12294</note><note target="cod_12295.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12295</note><note target="cod_12296.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12296</note><note target="cod_12297.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12297</note><note target="cod_12298.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12298</note><note target="cod_12299.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12299</note><note target="cod_12300.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12300</note><note target="cod_12301.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12301</note><note target="cod_12302.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12302</note><note target="cod_12303.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12303</note><note target="cod_12304.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12304</note><note target="cod_12305.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12305</note><note target="cod_12306.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12306</note><note target="cod_12307.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12307</note><note target="cod_12315.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12315</note><note target="cod_12352.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12352</note></noteGrp></org>
-               <org xml:id="jesuiten_org__133">
-                  <orgName>Jesuitenmission Pommersdorf</orgName>
-                  <orgName type="alt">Missio Pommersdorffensis</orgName>
+               <org xml:id="jesuiten_org__132">
+                  <orgName>Jesuitenmission Brantice</orgName>
+                  <orgName type="alt">Missio Bransdorffensis</orgName>
                   <location type="located_in_place">
-                     <placeName key="jesuiten_place__263">Pomorzowice</placeName>
-                     <geo>50.28396 17.76120</geo>
-                     <note type="idno"><idno type="geonames">https://sws.geonames.org/3088363/</idno></note>
+                     <placeName key="jesuiten_place__123">Brantice</placeName>
+                     <geo>50.06351 17.62911</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/3078812/</idno></note>
                   </location>
-               <noteGrp><note target="cod_12278.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12278</note><note target="cod_12289.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12289</note><note target="cod_12290.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12290</note><note target="cod_12291.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12291</note><note target="cod_12292.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12292</note><note target="cod_12293.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12293</note><note target="cod_12294.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12294</note><note target="cod_12295.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12295</note><note target="cod_12296.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12296</note><note target="cod_12297.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12297</note><note target="cod_12299.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12299</note><note target="cod_12300.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12300</note><note target="cod_12301.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12301</note><note target="cod_12302.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12302</note><note target="cod_12303.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12303</note><note target="cod_12304.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12304</note><note target="cod_12305.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12305</note><note target="cod_12306.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12306</note><note target="cod_12307.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12307</note></noteGrp></org>
-               <org xml:id="jesuiten_org__135">
+               <noteGrp><note target="cod_12278.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12278</note><note target="cod_12288.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12288</note><note target="cod_12290.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12290</note><note target="cod_12291.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12291</note><note target="cod_12292.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12292</note><note target="cod_12293.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12293</note><note target="cod_12294.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12294</note><note target="cod_12296.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12296</note><note target="cod_12297.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12297</note><note target="cod_12298.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12298</note><note target="cod_12299.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12299</note><note target="cod_12300.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12300</note><note target="cod_12301.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12301</note><note target="cod_12302.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12302</note><note target="cod_12304.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12304</note><note target="cod_12306.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12306</note><note target="cod_12307.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12307</note><note target="cod_12315.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12315</note></noteGrp></org>
+               <org xml:id="jesuiten_org__468">
+                  <orgName>Jesuitenmission Dobromierz</orgName>
+                  <orgName type="alt">Missio Niemptschianae in Hohenfriedenberg</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__392">Dobromierz</placeName>
+                     <geo>50.91142 16.24174</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/3100332/</idno></note>
+                  </location>
+               <noteGrp><note target="cod_12315.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12315</note></noteGrp></org>
+            <org xml:id="jesuiten_org__135">
                   <orgName>Jesuitenmission Tarnowskie Góry</orgName>
                   <orgName type="alt">Missio Tarnomontana</orgName>
                   <location type="located_in_place">
@@ -633,6 +737,15 @@
                      <note type="idno"><idno type="geonames">https://sws.geonames.org/3089125/</idno></note>
                   </location>
                <noteGrp><note target="cod_12001.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12001</note><note target="cod_12286.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12286</note><note target="cod_12287.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12287</note><note target="cod_12288.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12288</note><note target="cod_12289.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12289</note><note target="cod_12290.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12290</note><note target="cod_12291.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12291</note><note target="cod_12292.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12292</note><note target="cod_12293.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12293</note><note target="cod_12294.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12294</note><note target="cod_12295.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12295</note><note target="cod_12296.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12296</note><note target="cod_12297.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12297</note><note target="cod_12298.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12298</note><note target="cod_12299.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12299</note><note target="cod_12300.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12300</note><note target="cod_12301.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12301</note><note target="cod_12302.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12302</note><note target="cod_12303.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12303</note><note target="cod_12304.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12304</note><note target="cod_12305.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12305</note><note target="cod_12306.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12306</note><note target="cod_12307.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12307</note><note target="cod_12315.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12315</note></noteGrp></org>
+               <org xml:id="jesuiten_org__140">
+                  <orgName>Jesuitenresidenz Cieszyn</orgName>
+                  <orgName type="alt">Residentia Teschinensis / Tessinii</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__129">Cieszyn</placeName>
+                     <geo>49.75133 18.63213</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/3101321/</idno></note>
+                  </location>
+               <noteGrp><note target="cod_12001.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12001</note><note target="cod_12286.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12286</note><note target="cod_12287.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12287</note><note target="cod_12288.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12288</note><note target="cod_12292.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12292</note><note target="cod_12293.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12293</note><note target="cod_12294.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12294</note><note target="cod_12296.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12296</note><note target="cod_12298.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12298</note><note target="cod_12299.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12299</note><note target="cod_12300.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12300</note><note target="cod_12301.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12301</note><note target="cod_12302.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12302</note><note target="cod_12303.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12303</note><note target="cod_12304.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12304</note><note target="cod_12306.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12306</note><note target="cod_12307.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12307</note><note target="cod_12315.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12315</note></noteGrp></org>
                <org xml:id="jesuiten_org__94">
                   <orgName>Jesuitenresidenz Svatá Hora</orgName>
                   <orgName type="alt">Residentia in Sancto Monte, Residentia Sacro-montana</orgName>
@@ -652,6 +765,28 @@
                   </location>
                   <note>http://reholnici.hiu.cas.cz/katalog/l.dll?hal~1000099845</note>
                <noteGrp><note target="cod_11960.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11960</note><note target="cod_11961.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11961</note><note target="cod_11962.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11962</note><note target="cod_11963.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11963</note><note target="cod_12001.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12001</note><note target="cod_12280.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12280</note><note target="cod_12281.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12281</note><note target="cod_12282.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12282</note><note target="cod_12283.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12283</note><note target="cod_12284.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12284</note><note target="cod_12285.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12285</note><note target="cod_12286.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12286</note><note target="cod_12287.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12287</note><note target="cod_12288.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12288</note><note target="cod_12289.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12289</note><note target="cod_12290.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12290</note><note target="cod_12291.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12291</note><note target="cod_12292.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12292</note><note target="cod_12293.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12293</note><note target="cod_12294.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12294</note><note target="cod_12295.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12295</note><note target="cod_12296.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12296</note><note target="cod_12297.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12297</note><note target="cod_12298.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12298</note><note target="cod_12299.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12299</note><note target="cod_12300.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12300</note><note target="cod_12301.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12301</note><note target="cod_12302.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12302</note><note target="cod_12303.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12303</note><note target="cod_12304.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12304</note><note target="cod_12305.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12305</note><note target="cod_12306.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12306</note><note target="cod_12307.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12307</note><note target="cod_12315.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12315</note></noteGrp></org>
+               <org xml:id="jesuiten_org__161">
+                  <orgName>Jesuitenmission Dresden</orgName>
+                  <orgName type="alt">Missio Saxa-Dresdensis</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__132">Dresden</placeName>
+                     <geo>51.05089 13.73832</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/2935022/</idno></note>
+                  </location>
+               <noteGrp><note target="cod_12278.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12278</note><note target="cod_12296.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12296</note><note target="cod_12299.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12299</note><note target="cod_12300.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12300</note><note target="cod_12301.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12301</note><note target="cod_12302.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12302</note><note target="cod_12303.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12303</note><note target="cod_12304.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12304</note><note target="cod_12305.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12305</note><note target="cod_12306.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12306</note><note target="cod_12307.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12307</note><note target="cod_12315.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12315</note><note target="cod_12352.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12352</note></noteGrp></org>
+               <org xml:id="jesuiten_org__294">
+                  <orgName>Jesuitenmission Lichtensteinica Böhmen</orgName>
+                  <orgName type="alt">Missio Lichtensteinensis</orgName>
+               <noteGrp><note target="cod_11961.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11961</note><note target="cod_12278.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12278</note><note target="cod_12303.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12303</note><note target="cod_12304.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12304</note><note target="cod_12305.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12305</note><note target="cod_12306.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12306</note><note target="cod_12307.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12307</note><note target="cod_12315.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12315</note></noteGrp></org>
+               <org xml:id="jesuiten_org__466">
+                  <orgName>Jesuitenmission Cínovec</orgName>
+                  <orgName type="alt">Missio Zinwaldensis</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__390">Cínovec</placeName>
+                     <geo>50.73220 13.76898</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/3077398/</idno></note>
+                  </location>
+               <noteGrp><note target="cod_12315.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12315</note></noteGrp></org>
                <org xml:id="jesuiten_org__107">
                   <orgName>Jesuitenresidenz Otyń</orgName>
                   <orgName type="alt">Residentia Wartenbergensis</orgName>
@@ -719,6 +854,24 @@
                   </location>
                   <note>http://reholnici.hiu.cas.cz/katalog/l.dll?hal~1000101632</note>
                <noteGrp><note target="cod_11962.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11962</note><note target="cod_11963.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11963</note><note target="cod_12001.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12001</note><note target="cod_12278.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12278</note><note target="cod_12280.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12280</note><note target="cod_12281.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12281</note><note target="cod_12282.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12282</note><note target="cod_12283.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12283</note><note target="cod_12284.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12284</note><note target="cod_12285.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12285</note><note target="cod_12286.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12286</note><note target="cod_12287.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12287</note><note target="cod_12288.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12288</note><note target="cod_12289.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12289</note><note target="cod_12292.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12292</note><note target="cod_12293.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12293</note><note target="cod_12294.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12294</note><note target="cod_12295.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12295</note><note target="cod_12297.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12297</note><note target="cod_12298.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12298</note><note target="cod_12299.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12299</note><note target="cod_12300.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12300</note><note target="cod_12301.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12301</note><note target="cod_12302.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12302</note><note target="cod_12303.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12303</note><note target="cod_12304.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12304</note><note target="cod_12305.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12305</note><note target="cod_12306.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12306</note><note target="cod_12307.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12307</note><note target="cod_12315.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12315</note><note target="cod_12352.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12352</note></noteGrp></org>
+               <org xml:id="jesuiten_org__467">
+                  <orgName>Jesuitenmission Nový Jičín</orgName>
+                  <orgName type="alt">Missio neo-titschinensis</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__391">Nový Jičín</placeName>
+                     <geo>49.59438 18.01028</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/3069305/</idno></note>
+                  </location>
+               <noteGrp><note target="cod_12315.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12315</note></noteGrp></org>
+               <org xml:id="jesuiten_org__280">
+                  <orgName>Jesuitenmission Wallachia</orgName>
+                  <orgName type="alt">Missio in Valachiam</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__248">Wallachia</placeName>
+                     <geo>44.00000 25.00000</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/662112/</idno></note>
+                  </location>
+               <noteGrp><note target="cod_12013.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12013</note><note target="cod_12285.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12285</note><note target="cod_12315.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12315</note></noteGrp></org>
                <org xml:id="jesuiten_org__108">
                   <orgName>Jesuitenkolleg Litoměřice</orgName>
                   <orgName type="alt">Collegium Litomericense</orgName>
@@ -777,6 +930,30 @@
                   </location>
                   <note>http://reholnici.hiu.cas.cz/katalog/l.dll?hal~1000099846</note>
                <noteGrp><note target="cod_11961.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11961</note><note target="cod_11962.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11962</note><note target="cod_11963.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11963</note><note target="cod_12001.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12001</note><note target="cod_12278.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12278</note><note target="cod_12280.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12280</note><note target="cod_12281.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12281</note><note target="cod_12282.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12282</note><note target="cod_12283.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12283</note><note target="cod_12284.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12284</note><note target="cod_12285.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12285</note><note target="cod_12286.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12286</note><note target="cod_12287.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12287</note><note target="cod_12288.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12288</note><note target="cod_12289.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12289</note><note target="cod_12290.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12290</note><note target="cod_12291.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12291</note><note target="cod_12292.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12292</note><note target="cod_12293.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12293</note><note target="cod_12294.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12294</note><note target="cod_12295.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12295</note><note target="cod_12296.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12296</note><note target="cod_12297.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12297</note><note target="cod_12298.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12298</note><note target="cod_12299.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12299</note><note target="cod_12300.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12300</note><note target="cod_12301.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12301</note><note target="cod_12302.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12302</note><note target="cod_12303.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12303</note><note target="cod_12304.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12304</note><note target="cod_12305.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12305</note><note target="cod_12306.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12306</note><note target="cod_12307.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12307</note><note target="cod_12315.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12315</note></noteGrp></org>
+               <org xml:id="jesuiten_org__293">
+                  <orgName>Jesuitenmission Jablunkov Pass</orgName>
+                  <orgName type="alt">Missio in Silesiae,Ungariaeque Passu ad Jabluncam</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__262">Jablunkov Pass</placeName>
+                     <geo>49.51667 18.75000</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/3074592/</idno></note>
+                  </location>
+                  <note>"In missione hac, quae stationem quidem suam nacta in passu hoc silesiae ac ungariae inter praesidiarios milites, re autem vera magis in emolumentum rudis huius viciniae instituta est et in annum quintum nostrorum  et in annum quintum nostrorum cordi erat missionariorum ... " (Cod. 12299, f. 76r).</note>
+               <noteGrp><note target="cod_12299.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12299</note><note target="cod_12315.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12315</note></noteGrp></org>
+               <org xml:id="jesuiten_org__401">
+                  <orgName>Jesuitenmission Silesia Superiore,  Cieszyn</orgName>
+                  <orgName type="alt">Missionis episcopalis pro superiore Silesia, praesertim ducatu Teschinensi, erecta a serenissimo ac reverendissimo electore Trevirensi eepiscopo Wratislaviensi</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__129">Cieszyn</placeName>
+                     <geo>49.75133 18.63213</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/3101321/</idno></note>
+                  </location>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__270">Silesia</placeName>
+                     <geo>51.00000 18.00000</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/3066138/</idno></note>
+                  </location>
+               <noteGrp><note target="cod_12303.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12303</note><note target="cod_12304.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12304</note><note target="cod_12305.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12305</note><note target="cod_12306.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12306</note><note target="cod_12307.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12307</note><note target="cod_12315.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12315</note></noteGrp></org>
                <org xml:id="jesuiten_org__104">
                   <orgName>Jesuitenkolleg Kutná Hora</orgName>
                   <orgName type="alt">Collegium Kuttenbergense</orgName>
@@ -823,6 +1000,15 @@
                      <note type="idno"><idno type="geonames">https://sws.geonames.org/3078610/</idno></note>
                   </location>
                <noteGrp><note target="cod_11960.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11960</note><note target="cod_11961.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11961</note><note target="cod_11962.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11962</note><note target="cod_11963.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11963</note><note target="cod_12001.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12001</note><note target="cod_12278.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12278</note><note target="cod_12280.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12280</note><note target="cod_12281.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12281</note><note target="cod_12282.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12282</note><note target="cod_12283.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12283</note><note target="cod_12284.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12284</note><note target="cod_12285.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12285</note><note target="cod_12286.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12286</note><note target="cod_12287.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12287</note><note target="cod_12288.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12288</note><note target="cod_12289.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12289</note><note target="cod_12290.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12290</note><note target="cod_12291.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12291</note><note target="cod_12292.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12292</note><note target="cod_12293.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12293</note><note target="cod_12294.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12294</note><note target="cod_12295.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12295</note><note target="cod_12296.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12296</note><note target="cod_12297.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12297</note><note target="cod_12298.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12298</note><note target="cod_12299.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12299</note><note target="cod_12300.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12300</note><note target="cod_12301.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12301</note><note target="cod_12302.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12302</note><note target="cod_12303.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12303</note><note target="cod_12304.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12304</note><note target="cod_12305.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12305</note><note target="cod_12306.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12306</note><note target="cod_12307.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12307</note><note target="cod_12315.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12315</note><note target="cod_12352.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12352</note></noteGrp></org>
+               <org xml:id="jesuiten_org__302">
+                  <orgName>Jesuitenmission Leipzig</orgName>
+                  <orgName type="alt">Missio Lipsiensis / Liepsiensis</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__268">Leipzig</placeName>
+                     <geo>51.33962 12.37129</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/2879139/</idno></note>
+                  </location>
+               <noteGrp><note target="cod_12278.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12278</note><note target="cod_12302.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12302</note><note target="cod_12306.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12306</note><note target="cod_12307.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12307</note><note target="cod_12315.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12315</note><note target="cod_12352.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12352</note></noteGrp></org>
                <org xml:id="jesuiten_org__111">
                   <orgName>Jesuitenkolleg Jindřichův Hradec</orgName>
                   <orgName type="alt">Collegium Novo-Domense</orgName>
@@ -833,15 +1019,6 @@
                   </location>
                   <note>http://reholnici.hiu.cas.cz/katalog/l.dll?hal~1000099828</note>
                <noteGrp><note target="cod_11960.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11960</note><note target="cod_11961.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11961</note><note target="cod_11962.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11962</note><note target="cod_11963.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11963</note><note target="cod_12001.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12001</note><note target="cod_12278.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12278</note><note target="cod_12280.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12280</note><note target="cod_12281.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12281</note><note target="cod_12283.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12283</note><note target="cod_12284.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12284</note><note target="cod_12285.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12285</note><note target="cod_12286.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12286</note><note target="cod_12287.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12287</note><note target="cod_12288.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12288</note><note target="cod_12289.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12289</note><note target="cod_12290.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12290</note><note target="cod_12291.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12291</note><note target="cod_12292.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12292</note><note target="cod_12293.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12293</note><note target="cod_12294.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12294</note><note target="cod_12295.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12295</note><note target="cod_12296.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12296</note><note target="cod_12297.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12297</note><note target="cod_12298.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12298</note><note target="cod_12299.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12299</note><note target="cod_12300.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12300</note><note target="cod_12301.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12301</note><note target="cod_12302.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12302</note><note target="cod_12303.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12303</note><note target="cod_12304.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12304</note><note target="cod_12305.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12305</note><note target="cod_12306.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12306</note><note target="cod_12307.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12307</note><note target="cod_12315.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12315</note></noteGrp></org>
-               <org xml:id="jesuiten_org__98">
-                  <orgName>Jesuitenkolleg Jičín</orgName>
-                  <orgName type="alt">Collegium Gitzinense / Giczinii</orgName>
-                  <location type="located_in_place">
-                     <placeName key="jesuiten_place__102">Jičín</placeName>
-                     <geo>50.43723 15.35162</geo>
-                     <note type="idno"><idno type="geonames">https://sws.geonames.org/3074204/</idno></note>
-                  </location>
-               <noteGrp><note target="cod_11960.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11960</note><note target="cod_11961.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11961</note><note target="cod_11962.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11962</note><note target="cod_11963.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11963</note><note target="cod_12001.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12001</note><note target="cod_12278.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12278</note><note target="cod_12280.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12280</note><note target="cod_12281.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12281</note><note target="cod_12282.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12282</note><note target="cod_12283.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12283</note><note target="cod_12284.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12284</note><note target="cod_12285.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12285</note><note target="cod_12286.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12286</note><note target="cod_12287.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12287</note><note target="cod_12288.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12288</note><note target="cod_12289.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12289</note><note target="cod_12290.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12290</note><note target="cod_12291.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12291</note><note target="cod_12292.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12292</note><note target="cod_12293.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12293</note><note target="cod_12294.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12294</note><note target="cod_12295.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12295</note><note target="cod_12296.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12296</note><note target="cod_12298.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12298</note><note target="cod_12299.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12299</note><note target="cod_12300.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12300</note><note target="cod_12301.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12301</note><note target="cod_12302.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12302</note><note target="cod_12303.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12303</note><note target="cod_12304.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12304</note><note target="cod_12305.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12305</note><note target="cod_12306.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12306</note><note target="cod_12307.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12307</note><note target="cod_12352.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12352</note></noteGrp></org>
                <org xml:id="jesuiten_org__97">
                   <orgName>Jesuitenkolleg Cheb</orgName>
                   <orgName type="alt">Collegium Egrense</orgName>
@@ -889,6 +1066,14 @@
                      <note type="idno"><idno type="geonames">https://sws.geonames.org/3073120/</idno></note>
                   </location>
                <noteGrp><note target="cod_12001.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12001</note><note target="cod_12278.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12278</note><note target="cod_12286.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12286</note><note target="cod_12287.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12287</note><note target="cod_12288.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12288</note><note target="cod_12289.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12289</note><note target="cod_12290.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12290</note><note target="cod_12291.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12291</note><note target="cod_12292.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12292</note><note target="cod_12293.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12293</note><note target="cod_12294.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12294</note><note target="cod_12295.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12295</note><note target="cod_12296.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12296</note><note target="cod_12297.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12297</note><note target="cod_12298.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12298</note><note target="cod_12299.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12299</note><note target="cod_12300.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12300</note><note target="cod_12301.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12301</note><note target="cod_12302.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12302</note><note target="cod_12303.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12303</note><note target="cod_12304.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12304</note><note target="cod_12305.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12305</note><note target="cod_12306.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12306</note><note target="cod_12307.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12307</note><note target="cod_12315.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12315</note><note target="cod_12352.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12352</note></noteGrp></org>
+               <org xml:id="jesuiten_org__442">
+                  <orgName>Jesutienmission Ostroviensis</orgName>
+                  <orgName type="alt">Missio Ostroviensis</orgName>
+               <noteGrp><note target="cod_11962.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11962</note><note target="cod_12315.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12315</note></noteGrp></org>
+               <org xml:id="jesuiten_org__41">
+                  <orgName>Missio Castrensis</orgName>
+                  <orgName type="alt">Missio Castrensis</orgName>
+               <noteGrp><note target="cod_11960.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11960</note><note target="cod_11961.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11961</note><note target="cod_11963.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11963</note><note target="cod_12032.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12032</note><note target="cod_12041.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12041</note><note target="cod_12042.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12042</note><note target="cod_12044.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12044</note><note target="cod_12045.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12045</note><note target="cod_12055.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12055</note><note target="cod_12056.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12056</note><note target="cod_12061.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12061</note><note target="cod_12071.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12071</note><note target="cod_12072.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12072</note><note target="cod_12246.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12246</note><note target="cod_12255.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12255</note><note target="cod_12284.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12284</note><note target="cod_12287.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12287</note><note target="cod_12290.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12290</note><note target="cod_12291.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12291</note><note target="cod_12292.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12292</note><note target="cod_12296.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12296</note><note target="cod_12297.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12297</note><note target="cod_12298.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12298</note><note target="cod_12299.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12299</note><note target="cod_12300.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12300</note><note target="cod_12301.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12301</note><note target="cod_12302.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12302</note><note target="cod_12303.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12303</note><note target="cod_12304.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12304</note><note target="cod_12305.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12305</note><note target="cod_12306.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12306</note><note target="cod_12307.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12307</note><note target="cod_12315.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12315</note><note target="cod_12352.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12352</note></noteGrp></org>
                <org xml:id="jesuiten_org__106">
                   <orgName>Jesuitenkolleg Legnica</orgName>
                   <orgName type="alt">Collegium Lignicense</orgName>

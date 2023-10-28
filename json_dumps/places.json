@@ -7862,6 +7862,14 @@
         "value": "Cod. 12307"
       },
       {
+        "id": 141,
+        "value": "Cod. 12315"
+      },
+      {
+        "id": 142,
+        "value": "Cod. 12352"
+      },
+      {
         "id": 114,
         "value": "Cod. 12280"
       },
@@ -9044,6 +9052,26 @@
         "value": "Cod. 12256"
       },
       {
+        "id": 135,
+        "value": "Cod. 12257"
+      },
+      {
+        "id": 139,
+        "value": "Cod. 12258"
+      },
+      {
+        "id": 140,
+        "value": "Cod. 12259"
+      },
+      {
+        "id": 133,
+        "value": "Cod. 12264"
+      },
+      {
+        "id": 134,
+        "value": "Cod. 12265"
+      },
+      {
         "id": 123,
         "value": "Cod. 12242"
       },
@@ -9692,6 +9720,52 @@
       {
         "id": 268,
         "value": "Rakonitzer Kreis"
+      }
+    ],
+    "msdesc": []
+  },
+  "390": {
+    "id": 390,
+    "order": "381.00000000000000000000",
+    "name": "Cínovec",
+    "jesuiten_id": "jesuiten_place__390",
+    "geonames": "https://www.geonames.org/3077398/cinovec.html",
+    "lat": "50.73220",
+    "long": "13.76898",
+    "wikidata": "https://www.wikidata.org/wiki/Q1150834",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "391": {
+    "id": 391,
+    "order": "382.00000000000000000000",
+    "name": "Nový Jičín",
+    "jesuiten_id": "jesuiten_place__391",
+    "geonames": "https://www.geonames.org/3069305/novy-jicin.html",
+    "lat": "49.59438",
+    "long": "18.01028",
+    "wikidata": "https://www.wikidata.org/wiki/Q3584",
+    "alt_names": [
+      {
+        "id": 272,
+        "value": "Neu Titschein"
+      }
+    ],
+    "msdesc": []
+  },
+  "392": {
+    "id": 392,
+    "order": "383.00000000000000000000",
+    "name": "Dobromierz",
+    "jesuiten_id": "jesuiten_place__392",
+    "geonames": "https://www.geonames.org/3100332/dobromierz.html",
+    "lat": "50.91142",
+    "long": "16.24174",
+    "wikidata": "https://www.wikidata.org/wiki/Q990057",
+    "alt_names": [
+      {
+        "id": 273,
+        "value": "Hohenfriedenberg"
       }
     ],
     "msdesc": []
