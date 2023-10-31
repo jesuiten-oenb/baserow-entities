@@ -3179,6 +3179,10 @@
         "value": "Cod. 12138"
       },
       {
+        "id": 143,
+        "value": "Cod. 12260"
+      },
+      {
         "id": 11,
         "value": "Cod. 12266"
       },
@@ -3333,6 +3337,10 @@
       {
         "id": 10,
         "value": "Cod. 12138"
+      },
+      {
+        "id": 143,
+        "value": "Cod. 12260"
       },
       {
         "id": 11,
@@ -4337,6 +4345,10 @@
         "value": "Cod. 12138"
       },
       {
+        "id": 143,
+        "value": "Cod. 12260"
+      },
+      {
         "id": 31,
         "value": "Cod. 12273"
       },
@@ -4403,6 +4415,10 @@
         "value": "Cod. 12138"
       },
       {
+        "id": 143,
+        "value": "Cod. 12260"
+      },
+      {
         "id": 31,
         "value": "Cod. 12273"
       },
@@ -4463,6 +4479,10 @@
       {
         "id": 10,
         "value": "Cod. 12138"
+      },
+      {
+        "id": 143,
+        "value": "Cod. 12260"
       },
       {
         "id": 31,
@@ -4739,6 +4759,10 @@
         "value": "Cod. 12138"
       },
       {
+        "id": 143,
+        "value": "Cod. 12260"
+      },
+      {
         "id": 31,
         "value": "Cod. 12273"
       },
@@ -4835,6 +4859,10 @@
       {
         "id": 10,
         "value": "Cod. 12138"
+      },
+      {
+        "id": 143,
+        "value": "Cod. 12260"
       },
       {
         "id": 113,
@@ -5101,6 +5129,10 @@
       {
         "id": 43,
         "value": "Cod. 12254"
+      },
+      {
+        "id": 143,
+        "value": "Cod. 12260"
       },
       {
         "id": 31,
@@ -9064,6 +9096,22 @@
         "value": "Cod. 12259"
       },
       {
+        "id": 143,
+        "value": "Cod. 12260"
+      },
+      {
+        "id": 144,
+        "value": "Cod. 12261"
+      },
+      {
+        "id": 145,
+        "value": "Cod. 12262"
+      },
+      {
+        "id": 146,
+        "value": "Cod. 12263"
+      },
+      {
         "id": 133,
         "value": "Cod. 12264"
       },
@@ -9768,6 +9816,18 @@
         "value": "Hohenfriedenberg"
       }
     ],
+    "msdesc": []
+  },
+  "393": {
+    "id": 393,
+    "order": "384.00000000000000000000",
+    "name": "Nyasvizh",
+    "jesuiten_id": "jesuiten_place__393",
+    "geonames": "https://www.geonames.org/624700/nyasvizh.html",
+    "lat": "53.21890",
+    "long": "26.67790",
+    "wikidata": "https://www.wikidata.org/wiki/Q201230",
+    "alt_names": [],
     "msdesc": []
   }
 }
