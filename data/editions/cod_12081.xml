@@ -1,0 +1,147 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cod_12081.xml" xml:base="https://oenb.ac.at" prev="https://oenb.ac.at/cod_12080.xml" next="https://oenb.ac.at/cod_12123.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Wien, Österreichische nationalbibliothek, Cod. 12081</title>
+                <title type="sub">Jesuiten Littera annuae</title>
+                <respStmt>
+                    <resp>Beschreibung und TEI-encoding</resp>
+                    <persName>
+                        <forename>Ivana</forename>
+                        <surname>Dobcheva</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="restricted">
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">This document is published under the Creative Commons licence Attribution 4.0 International (CC BY 4.0).</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:lang="de" xml:id="cod_12081">
+                    <msIdentifier>
+                        <country>Österreich</country>
+                        <settlement>Wien</settlement>
+                        <repository>Österreichische Nationalbibliothek</repository>
+                        <idno>Cod. 12081</idno>
+                    </msIdentifier>
+                    <head>
+                        <title>Litterae annuae provinciae Austriae Societatis Iesu a. 1684</title>
+                        <origDate notBefore="1685-01-01">ab 1685</origDate>
+                        <note type="facs">
+                            <ref target="https://digital.onb.ac.at/rep/access/open/131B101C"/>
+                        </note>
+                        <note type="catalogue">
+                            <ref target="http://data.onb.ac.at/rec/AC13947752"/>
+                        </note>
+                    </head>
+                    <msContents>                   
+                        <summary>
+                                Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist thematisch in Kapitel gegliedert. 
+                                
+                        </summary> 
+                        <textLang mainLang="lat"/>
+                        
+                                <msItem n="1">
+                                    <locus from="1r" to="2r">1r-2r</locus>
+                                    <title>Syllabus personarum huius provinciae</title>
+                                </msItem>
+                                <msItem n="2">
+                                    <locus from="2r" to="3v">2r-3v</locus>
+                                    <title>Administratio sacramentorum</title>
+                                </msItem>
+                                <msItem n="3">
+                                    <locus from="4r" to="5v">4r-5v</locus>
+                                    <title>Divini verbi praedicatio et expositio doctrinae christianae</title>
+                                </msItem>
+                                <msItem n="4">
+                                    <locus from="6r" to="8r">6r-8r</locus>
+                                    <title>Spirituales operae fructuosaque nostrorum conversatio</title>
+                                </msItem>
+                                <msItem n="5">
+                                    <locus from="8r" to="11v">8r-11v</locus>
+                                    <title>Pauperum aegrotorum ac morbundorum cura</title>
+                                </msItem>
+                                <msItem n="6">
+                                    <locus from="12r" to="12v">12r-12v</locus>
+                                    <title>Subsidia carcere detentis reisque supremo supplicio addictis allata</title>
+                                </msItem>
+                                <msItem n="7">
+                                    <locus from="12v" to="18v">12v-18v</locus>
+                                    <title>A variis erroribus ad viam orthodoxae veritatis reducti</title>
+                                </msItem>
+                                <msItem n="8">
+                                    <locus from="19r" to="22v">19r-22v</locus>
+                                    <title>Sacrae expeditiones</title>
+                                </msItem>
+                                <msItem n="9">
+                                    <locus from="23r" to="26v">23r-26v</locus>
+                                    <title>Festivitates sacrae in nostris templis celebratae</title>
+                                </msItem>
+                                <msItem n="10">
+                                    <locus from="27r" to="27v">27r-27v</locus>
+                                    <title>Cultus eucharisticus precesque publicae</title>
+                                </msItem>
+                                <msItem n="11">
+                                    <locus from="28r" to="29v">28r-29v</locus>
+                                    <title>Pietas in Christum patientem</title>
+                                </msItem>
+                                <msItem n="12">
+                                    <locus from="30r" to="35v">30r-35v</locus>
+                                    <title>Cultus dei parae virginis ab eius sodalitatibus potissimum promotus</title>
+                                </msItem>
+                                <msItem n="13">
+                                    <locus from="36r" to="43v">36r-43v</locus>
+                                    <title>Dei, dei parae coelitum ac imprimis S. S. Ignatii et Xaverii suis cultoribus reciprocata beneficia</title>
+                                </msItem>
+                                <msItem n="14">
+                                    <locus from="44r" to="46r">44r-46r</locus>
+                                    <title>Laboris litterarii in scholis profectus</title>
+                                </msItem>
+                                <msItem n="15">
+                                    <locus from="46v" to="47v">46v-47v</locus>
+                                    <title>Prospera et adversa</title>
+                                </msItem>
+                                <msItem n="16">
+                                    <locus from="48r" to="51v">48r-51v</locus>
+                                    <title>Rei tum sacrae tum domesticae accessiones et damna</title>
+                                </msItem>
+                                <msItem n="17">
+                                    <locus from="52r" to="64v">52r-64v</locus>
+                                    <title>Celebris defunctorum memoria</title>
+                                </msItem>
+                          
+                        
+                       
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="codex">
+                            <supportDesc material="paper">
+                                <support>Papier</support>
+                                <extent>
+                                    <measure type="leavesCount" unit="folio">II, 65, I* Bl.</measure>
+                                    <dimensions type="leaf_current" unit="mm">
+                                        <height>None</height>
+                                        <width>None</width>
+                                    </dimensions>
+                                </extent>
+                                <foliation>Zeitgenössische Foliierung 1–65.</foliation>
+                                <collation/>
+                            </supportDesc>
+                        </objectDesc>
+                        <bindingDesc>
+                            <binding>
+                                <p>Pergament über Pappdeckeln, 17. Jhdt.</p>
+                            </binding>
+                        </bindingDesc>
+                        <accMat/>                        
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><p/></body>
+    <back/></text>
+</TEI>
