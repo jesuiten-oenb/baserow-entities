@@ -3346,7 +3346,7 @@
     "foliation": "Moderne Foliierung.",
     "acc_mat": "",
     "binding": "",
-    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist thematisch in Kapitel gegliedert.",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist thematisch in 18 Kapitel gegliedert.",
     "not_before": "1686",
     "not_after": null,
     "# when": "",
@@ -8109,6 +8109,36 @@
     "# when": "",
     "date_letter": "1721"
   },
+  "161": {
+    "id": 161,
+    "order": "8.47499999999999964473",
+    "signatur": "Cod. 12308",
+    "jesuiten_id": "jesuiten_msdesc__161",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948669",
+    "title": "Litterae annuae provinciae Bohemiae Societatis Iesu a. 1722",
+    "date": "ab 1723",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Bohemia"
+      }
+    ],
+    "note_type_facs": "",
+    "xml_id": "cod_12308",
+    "extent": "141 Bl.",
+    "height": "265",
+    "width": "190",
+    "foliation": "Moderne Foliierung.",
+    "acc_mat": "",
+    "binding": "Halbband, Deckel mit buntem Marmorpapier überzogen, 18. Jhdt.",
+    "summary": "Zusammengesetzte Handschrift aus den Berichten für das Jahr 1722 verschiedener Domizilen in Böhmen.",
+    "not_before": "1723",
+    "not_after": null,
+    "# when": "",
+    "date_letter": "1722"
+  },
   "141": {
     "id": 141,
     "order": "8.47619047619047627506",
@@ -8365,6 +8395,988 @@
     "not_after": "1678",
     "# when": null,
     "date_letter": "1648–1678"
+  },
+  "156": {
+    "id": 156,
+    "order": "9.33333333333333392545",
+    "signatur": "Cod. 12267",
+    "jesuiten_id": "jesuiten_msdesc__156",
+    "mentioned_orgs": [
+      {
+        "id": 1,
+        "value": "Profeßhaus Wien"
+      },
+      {
+        "id": 2,
+        "value": "Jesuitenkolleg Wien"
+      },
+      {
+        "id": 4,
+        "value": "Probationshaus Wien"
+      },
+      {
+        "id": 8,
+        "value": "Jesuitenkolleg Linz"
+      },
+      {
+        "id": 9,
+        "value": "Jesuitenkolleg Bratislava"
+      },
+      {
+        "id": 10,
+        "value": "Jesuitenkolleg Passau"
+      },
+      {
+        "id": 11,
+        "value": "Jesuitenkolleg Trnava"
+      },
+      {
+        "id": 12,
+        "value": "Jesuitenkolleg Győr"
+      },
+      {
+        "id": 13,
+        "value": "Jesuitenkolleg Ljubljana"
+      },
+      {
+        "id": 16,
+        "value": "Jesuitenkolleg Klagenfurt"
+      },
+      {
+        "id": 18,
+        "value": "Jesuitenkolleg Zagreb"
+      },
+      {
+        "id": 27,
+        "value": "Jesuitenresidenz Traunkirchen"
+      },
+      {
+        "id": 35,
+        "value": "Jesuitenkolleg Krems"
+      },
+      {
+        "id": 36,
+        "value": "Jesuitenkolleg Gorizia"
+      },
+      {
+        "id": 37,
+        "value": "Jesuitenkolleg Judenburg"
+      },
+      {
+        "id": 38,
+        "value": "Jesuitenkolleg Trieste"
+      },
+      {
+        "id": 40,
+        "value": "Jesuitenkolleg Rijeka"
+      },
+      {
+        "id": 47,
+        "value": "Jesuitenresidenz Gyöngyös"
+      },
+      {
+        "id": 52,
+        "value": "Jesuitenkolleg Leoben"
+      },
+      {
+        "id": 53,
+        "value": "Jesuitenkolleg Steyr"
+      },
+      {
+        "id": 54,
+        "value": "Jesuitenresidenz Komarom"
+      },
+      {
+        "id": 55,
+        "value": "Jesuitenresidenz Žireč"
+      },
+      {
+        "id": 57,
+        "value": "Jesuitenresidenz Alba Julia"
+      },
+      {
+        "id": 64,
+        "value": "Jesuitenresidenz Kláštor pod Znievom"
+      },
+      {
+        "id": 73,
+        "value": "Jesuitenresidenz Esztergom"
+      },
+      {
+        "id": 84,
+        "value": "Jesuitenkolleg Levoča"
+      },
+      {
+        "id": 87,
+        "value": "Jesuitenkolleg Sopron"
+      },
+      {
+        "id": 89,
+        "value": "Jesuitenkolleg Trenčín"
+      },
+      {
+        "id": 270,
+        "value": "Jesuitenresidenz Požega"
+      },
+      {
+        "id": 271,
+        "value": "Jesuitenmission Osijek"
+      },
+      {
+        "id": 272,
+        "value": "Jesuitenmission Leopoldov"
+      },
+      {
+        "id": 273,
+        "value": "Jesuitenmission Petrovaradin"
+      },
+      {
+        "id": 274,
+        "value": "Jesuitenmission Târgu-Mureş"
+      },
+      {
+        "id": 291,
+        "value": "Jesuitenkolleg Wiener Neustadt"
+      }
+    ],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13949759",
+    "title": "Litterae annuae provinciae Austriae Societatis Iesu a. 1711",
+    "date": "ab 1712",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 14,
+        "value": "Kőszeg"
+      },
+      {
+        "id": 17,
+        "value": "Skalica"
+      },
+      {
+        "id": 19,
+        "value": "Banská Bystrica"
+      },
+      {
+        "id": 30,
+        "value": "Varaždin"
+      },
+      {
+        "id": 31,
+        "value": "Pécs"
+      },
+      {
+        "id": 73,
+        "value": "Sibiu"
+      },
+      {
+        "id": 83,
+        "value": "Odorheiu Secuiesc"
+      }
+    ],
+    "note_type_facs": "",
+    "xml_id": "cod_12267",
+    "extent": "99 Bl.",
+    "height": "310",
+    "width": "200",
+    "foliation": "Moderne Foliierung.",
+    "acc_mat": "",
+    "binding": "Brauner Ledereinband über Pappdeckeln mit Streicheisenlinien; Titelschild mit der Jahresangabe „1711“. 18. Jhdt.",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit, thematisch in 10 Kapiteln gegliedert.",
+    "not_before": "1712",
+    "not_after": null,
+    "# when": "",
+    "date_letter": "1711"
+  },
+  "157": {
+    "id": 157,
+    "order": "9.40000000000000035527",
+    "signatur": "Cod. 12268",
+    "jesuiten_id": "jesuiten_msdesc__157",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13949760",
+    "title": "Litterae annuae provinciae Austriae Societatis Iesu a. 1735",
+    "date": "",
+    "persons": [],
+    "mentioned_places": [],
+    "note_type_facs": "",
+    "xml_id": "cod_12268",
+    "extent": "",
+    "height": null,
+    "width": null,
+    "foliation": "",
+    "acc_mat": "",
+    "binding": "",
+    "summary": "",
+    "not_before": null,
+    "not_after": null,
+    "# when": "",
+    "date_letter": "1735"
+  },
+  "158": {
+    "id": 158,
+    "order": "9.42857142857142882519",
+    "signatur": "Cod. 12270",
+    "jesuiten_id": "jesuiten_msdesc__158",
+    "mentioned_orgs": [
+      {
+        "id": 1,
+        "value": "Profeßhaus Wien"
+      },
+      {
+        "id": 2,
+        "value": "Jesuitenkolleg Wien"
+      },
+      {
+        "id": 4,
+        "value": "Probationshaus Wien"
+      },
+      {
+        "id": 5,
+        "value": "Jesuitenkolleg Graz"
+      },
+      {
+        "id": 7,
+        "value": "Jesuitenresidenz Millstatt"
+      },
+      {
+        "id": 8,
+        "value": "Jesuitenkolleg Linz"
+      },
+      {
+        "id": 9,
+        "value": "Jesuitenkolleg Bratislava"
+      },
+      {
+        "id": 10,
+        "value": "Jesuitenkolleg Passau"
+      },
+      {
+        "id": 11,
+        "value": "Jesuitenkolleg Trnava"
+      },
+      {
+        "id": 12,
+        "value": "Jesuitenkolleg Győr"
+      },
+      {
+        "id": 13,
+        "value": "Jesuitenkolleg Ljubljana"
+      },
+      {
+        "id": 16,
+        "value": "Jesuitenkolleg Klagenfurt"
+      },
+      {
+        "id": 18,
+        "value": "Jesuitenkolleg Zagreb"
+      },
+      {
+        "id": 27,
+        "value": "Jesuitenresidenz Traunkirchen"
+      },
+      {
+        "id": 34,
+        "value": "Jesuitenresidenz Pécs"
+      },
+      {
+        "id": 35,
+        "value": "Jesuitenkolleg Krems"
+      },
+      {
+        "id": 36,
+        "value": "Jesuitenkolleg Gorizia"
+      },
+      {
+        "id": 37,
+        "value": "Jesuitenkolleg Judenburg"
+      },
+      {
+        "id": 38,
+        "value": "Jesuitenkolleg Trieste"
+      },
+      {
+        "id": 40,
+        "value": "Jesuitenkolleg Rijeka"
+      },
+      {
+        "id": 44,
+        "value": "Jesuitenresidenz Varaždin"
+      },
+      {
+        "id": 47,
+        "value": "Jesuitenresidenz Gyöngyös"
+      },
+      {
+        "id": 52,
+        "value": "Jesuitenkolleg Leoben"
+      },
+      {
+        "id": 53,
+        "value": "Jesuitenkolleg Steyr"
+      },
+      {
+        "id": 54,
+        "value": "Jesuitenresidenz Komarom"
+      },
+      {
+        "id": 57,
+        "value": "Jesuitenresidenz Alba Julia"
+      },
+      {
+        "id": 60,
+        "value": "Jesuitenmission Székesfehérvár"
+      },
+      {
+        "id": 64,
+        "value": "Jesuitenresidenz Kláštor pod Znievom"
+      },
+      {
+        "id": 66,
+        "value": "Jesuitenresidenz Rožňava"
+      },
+      {
+        "id": 67,
+        "value": "Jesuitenresidenz Sibiu"
+      },
+      {
+        "id": 68,
+        "value": "Jesuitenresidenz Prešov"
+      },
+      {
+        "id": 69,
+        "value": "Jesuitenresidenz Baia Mare"
+      },
+      {
+        "id": 70,
+        "value": "Jesuitenresidenz Sárospatak"
+      },
+      {
+        "id": 72,
+        "value": "Jesuitenresidenz Žilina"
+      },
+      {
+        "id": 73,
+        "value": "Jesuitenresidenz Esztergom"
+      },
+      {
+        "id": 76,
+        "value": "Jesuitenresidenz Odorheiu Secuiesc"
+      },
+      {
+        "id": 78,
+        "value": "Jesuitenkolleg Buda"
+      },
+      {
+        "id": 79,
+        "value": "Jesuitenkolleg Košice"
+      },
+      {
+        "id": 80,
+        "value": "Jesuitenkolleg Cluj"
+      },
+      {
+        "id": 81,
+        "value": "Jesuitenkolleg Banská Bystrica"
+      },
+      {
+        "id": 84,
+        "value": "Jesuitenkolleg Levoča"
+      },
+      {
+        "id": 87,
+        "value": "Jesuitenkolleg Sopron"
+      },
+      {
+        "id": 88,
+        "value": "Jesuitenkolleg Skalica"
+      },
+      {
+        "id": 89,
+        "value": "Jesuitenkolleg Trenčín"
+      },
+      {
+        "id": 151,
+        "value": "Jesuitenresidenz Satu Mare"
+      },
+      {
+        "id": 191,
+        "value": "Jesuitenmission Timişoara"
+      },
+      {
+        "id": 270,
+        "value": "Jesuitenresidenz Požega"
+      },
+      {
+        "id": 271,
+        "value": "Jesuitenmission Osijek"
+      },
+      {
+        "id": 272,
+        "value": "Jesuitenmission Leopoldov"
+      },
+      {
+        "id": 273,
+        "value": "Jesuitenmission Petrovaradin"
+      },
+      {
+        "id": 274,
+        "value": "Jesuitenmission Târgu-Mureş"
+      },
+      {
+        "id": 291,
+        "value": "Jesuitenkolleg Wiener Neustadt"
+      },
+      {
+        "id": 425,
+        "value": "Jesuitenmission Brașov"
+      },
+      {
+        "id": 427,
+        "value": "Jesuitenmission Špania Dolina"
+      },
+      {
+        "id": 453,
+        "value": "Jesuitenmission Belgrad"
+      }
+    ],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13947262",
+    "title": "Litterae annuae provinciae Austriae Societatis Iesu a. 1731",
+    "date": "ab 1732",
+    "persons": [],
+    "mentioned_places": [],
+    "note_type_facs": "",
+    "xml_id": "cod_12270",
+    "extent": "119 Bl.",
+    "height": "322",
+    "width": "206",
+    "foliation": "Zeitgenössische Paginierung 1–237.",
+    "acc_mat": "",
+    "binding": "Kartoneinband, 18. Jhdt.",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit, thematisch in 14 Kapiteln gegliedert.",
+    "not_before": "1732",
+    "not_after": null,
+    "# when": "",
+    "date_letter": "1731"
+  },
+  "159": {
+    "id": 159,
+    "order": "9.44444444444444464182",
+    "signatur": "Cod. 12271",
+    "jesuiten_id": "jesuiten_msdesc__159",
+    "mentioned_orgs": [
+      {
+        "id": 1,
+        "value": "Profeßhaus Wien"
+      },
+      {
+        "id": 2,
+        "value": "Jesuitenkolleg Wien"
+      },
+      {
+        "id": 4,
+        "value": "Probationshaus Wien"
+      },
+      {
+        "id": 5,
+        "value": "Jesuitenkolleg Graz"
+      },
+      {
+        "id": 7,
+        "value": "Jesuitenresidenz Millstatt"
+      },
+      {
+        "id": 8,
+        "value": "Jesuitenkolleg Linz"
+      },
+      {
+        "id": 9,
+        "value": "Jesuitenkolleg Bratislava"
+      },
+      {
+        "id": 10,
+        "value": "Jesuitenkolleg Passau"
+      },
+      {
+        "id": 11,
+        "value": "Jesuitenkolleg Trnava"
+      },
+      {
+        "id": 12,
+        "value": "Jesuitenkolleg Győr"
+      },
+      {
+        "id": 13,
+        "value": "Jesuitenkolleg Ljubljana"
+      },
+      {
+        "id": 16,
+        "value": "Jesuitenkolleg Klagenfurt"
+      },
+      {
+        "id": 18,
+        "value": "Jesuitenkolleg Zagreb"
+      },
+      {
+        "id": 27,
+        "value": "Jesuitenresidenz Traunkirchen"
+      },
+      {
+        "id": 35,
+        "value": "Jesuitenkolleg Krems"
+      },
+      {
+        "id": 36,
+        "value": "Jesuitenkolleg Gorizia"
+      },
+      {
+        "id": 37,
+        "value": "Jesuitenkolleg Judenburg"
+      },
+      {
+        "id": 38,
+        "value": "Jesuitenkolleg Trieste"
+      },
+      {
+        "id": 40,
+        "value": "Jesuitenkolleg Rijeka"
+      },
+      {
+        "id": 44,
+        "value": "Jesuitenresidenz Varaždin"
+      },
+      {
+        "id": 47,
+        "value": "Jesuitenresidenz Gyöngyös"
+      },
+      {
+        "id": 52,
+        "value": "Jesuitenkolleg Leoben"
+      },
+      {
+        "id": 53,
+        "value": "Jesuitenkolleg Steyr"
+      },
+      {
+        "id": 54,
+        "value": "Jesuitenresidenz Komarom"
+      },
+      {
+        "id": 55,
+        "value": "Jesuitenresidenz Žireč"
+      },
+      {
+        "id": 57,
+        "value": "Jesuitenresidenz Alba Julia"
+      },
+      {
+        "id": 58,
+        "value": "Jesuitenresidenz Eger"
+      },
+      {
+        "id": 60,
+        "value": "Jesuitenmission Székesfehérvár"
+      },
+      {
+        "id": 62,
+        "value": "Jesuitenresidenz Spiš"
+      },
+      {
+        "id": 64,
+        "value": "Jesuitenresidenz Kláštor pod Znievom"
+      },
+      {
+        "id": 66,
+        "value": "Jesuitenresidenz Rožňava"
+      },
+      {
+        "id": 67,
+        "value": "Jesuitenresidenz Sibiu"
+      },
+      {
+        "id": 68,
+        "value": "Jesuitenresidenz Prešov"
+      },
+      {
+        "id": 69,
+        "value": "Jesuitenresidenz Baia Mare"
+      },
+      {
+        "id": 70,
+        "value": "Jesuitenresidenz Sárospatak"
+      },
+      {
+        "id": 71,
+        "value": "Jesuitenresidenz Banská Štiavnica"
+      },
+      {
+        "id": 72,
+        "value": "Jesuitenresidenz Žilina"
+      },
+      {
+        "id": 73,
+        "value": "Jesuitenresidenz Esztergom"
+      },
+      {
+        "id": 76,
+        "value": "Jesuitenresidenz Odorheiu Secuiesc"
+      },
+      {
+        "id": 78,
+        "value": "Jesuitenkolleg Buda"
+      },
+      {
+        "id": 79,
+        "value": "Jesuitenkolleg Košice"
+      },
+      {
+        "id": 80,
+        "value": "Jesuitenkolleg Cluj"
+      },
+      {
+        "id": 81,
+        "value": "Jesuitenkolleg Banská Bystrica"
+      },
+      {
+        "id": 82,
+        "value": "Jesuitenkolleg Kőszeg"
+      },
+      {
+        "id": 84,
+        "value": "Jesuitenkolleg Levoča"
+      },
+      {
+        "id": 86,
+        "value": "Jesuitenkolleg Pecs"
+      },
+      {
+        "id": 87,
+        "value": "Jesuitenkolleg Sopron"
+      },
+      {
+        "id": 88,
+        "value": "Jesuitenkolleg Skalica"
+      },
+      {
+        "id": 89,
+        "value": "Jesuitenkolleg Trenčín"
+      },
+      {
+        "id": 91,
+        "value": "Jesuitenkolleg Varaždin"
+      },
+      {
+        "id": 151,
+        "value": "Jesuitenresidenz Satu Mare"
+      },
+      {
+        "id": 191,
+        "value": "Jesuitenmission Timişoara"
+      },
+      {
+        "id": 270,
+        "value": "Jesuitenresidenz Požega"
+      },
+      {
+        "id": 271,
+        "value": "Jesuitenmission Osijek"
+      },
+      {
+        "id": 272,
+        "value": "Jesuitenmission Leopoldov"
+      },
+      {
+        "id": 273,
+        "value": "Jesuitenmission Petrovaradin"
+      },
+      {
+        "id": 274,
+        "value": "Jesuitenmission Târgu-Mureş"
+      },
+      {
+        "id": 291,
+        "value": "Jesuitenkolleg Wiener Neustadt"
+      },
+      {
+        "id": 292,
+        "value": "Jesuitenkolleg Uzhhorod"
+      },
+      {
+        "id": 425,
+        "value": "Jesuitenmission Brașov"
+      },
+      {
+        "id": 427,
+        "value": "Jesuitenmission Špania Dolina"
+      },
+      {
+        "id": 453,
+        "value": "Jesuitenmission Belgrad"
+      }
+    ],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13947263",
+    "title": "Litterae annuae provinciae Austriae Societatis Iesu a. 1747",
+    "date": "ab 1748",
+    "persons": [],
+    "mentioned_places": [],
+    "note_type_facs": "",
+    "xml_id": "cod_12271",
+    "extent": "I, 174, I* Bl.",
+    "height": "304",
+    "width": "200",
+    "foliation": "Zeitgenössische Paginierung 1–348.",
+    "acc_mat": "",
+    "binding": "Kartoneinband, 18. Jhdt.",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit, thematisch in 18 Kapiteln gegliedert.",
+    "not_before": "1748",
+    "not_after": null,
+    "# when": "",
+    "date_letter": "1747"
+  },
+  "160": {
+    "id": 160,
+    "order": "9.45454545454545502992",
+    "signatur": "Cod. 12272",
+    "jesuiten_id": "jesuiten_msdesc__160",
+    "mentioned_orgs": [
+      {
+        "id": 1,
+        "value": "Profeßhaus Wien"
+      },
+      {
+        "id": 2,
+        "value": "Jesuitenkolleg Wien"
+      },
+      {
+        "id": 4,
+        "value": "Probationshaus Wien"
+      },
+      {
+        "id": 5,
+        "value": "Jesuitenkolleg Graz"
+      },
+      {
+        "id": 7,
+        "value": "Jesuitenresidenz Millstatt"
+      },
+      {
+        "id": 8,
+        "value": "Jesuitenkolleg Linz"
+      },
+      {
+        "id": 9,
+        "value": "Jesuitenkolleg Bratislava"
+      },
+      {
+        "id": 10,
+        "value": "Jesuitenkolleg Passau"
+      },
+      {
+        "id": 11,
+        "value": "Jesuitenkolleg Trnava"
+      },
+      {
+        "id": 12,
+        "value": "Jesuitenkolleg Győr"
+      },
+      {
+        "id": 13,
+        "value": "Jesuitenkolleg Ljubljana"
+      },
+      {
+        "id": 16,
+        "value": "Jesuitenkolleg Klagenfurt"
+      },
+      {
+        "id": 18,
+        "value": "Jesuitenkolleg Zagreb"
+      },
+      {
+        "id": 27,
+        "value": "Jesuitenresidenz Traunkirchen"
+      },
+      {
+        "id": 34,
+        "value": "Jesuitenresidenz Pécs"
+      },
+      {
+        "id": 35,
+        "value": "Jesuitenkolleg Krems"
+      },
+      {
+        "id": 36,
+        "value": "Jesuitenkolleg Gorizia"
+      },
+      {
+        "id": 37,
+        "value": "Jesuitenkolleg Judenburg"
+      },
+      {
+        "id": 38,
+        "value": "Jesuitenkolleg Trieste"
+      },
+      {
+        "id": 40,
+        "value": "Jesuitenkolleg Rijeka"
+      },
+      {
+        "id": 44,
+        "value": "Jesuitenresidenz Varaždin"
+      },
+      {
+        "id": 47,
+        "value": "Jesuitenresidenz Gyöngyös"
+      },
+      {
+        "id": 52,
+        "value": "Jesuitenkolleg Leoben"
+      },
+      {
+        "id": 53,
+        "value": "Jesuitenkolleg Steyr"
+      },
+      {
+        "id": 54,
+        "value": "Jesuitenresidenz Komarom"
+      },
+      {
+        "id": 57,
+        "value": "Jesuitenresidenz Alba Julia"
+      },
+      {
+        "id": 60,
+        "value": "Jesuitenmission Székesfehérvár"
+      },
+      {
+        "id": 64,
+        "value": "Jesuitenresidenz Kláštor pod Znievom"
+      },
+      {
+        "id": 66,
+        "value": "Jesuitenresidenz Rožňava"
+      },
+      {
+        "id": 67,
+        "value": "Jesuitenresidenz Sibiu"
+      },
+      {
+        "id": 68,
+        "value": "Jesuitenresidenz Prešov"
+      },
+      {
+        "id": 69,
+        "value": "Jesuitenresidenz Baia Mare"
+      },
+      {
+        "id": 70,
+        "value": "Jesuitenresidenz Sárospatak"
+      },
+      {
+        "id": 72,
+        "value": "Jesuitenresidenz Žilina"
+      },
+      {
+        "id": 73,
+        "value": "Jesuitenresidenz Esztergom"
+      },
+      {
+        "id": 76,
+        "value": "Jesuitenresidenz Odorheiu Secuiesc"
+      },
+      {
+        "id": 78,
+        "value": "Jesuitenkolleg Buda"
+      },
+      {
+        "id": 79,
+        "value": "Jesuitenkolleg Košice"
+      },
+      {
+        "id": 80,
+        "value": "Jesuitenkolleg Cluj"
+      },
+      {
+        "id": 81,
+        "value": "Jesuitenkolleg Banská Bystrica"
+      },
+      {
+        "id": 84,
+        "value": "Jesuitenkolleg Levoča"
+      },
+      {
+        "id": 87,
+        "value": "Jesuitenkolleg Sopron"
+      },
+      {
+        "id": 88,
+        "value": "Jesuitenkolleg Skalica"
+      },
+      {
+        "id": 89,
+        "value": "Jesuitenkolleg Trenčín"
+      },
+      {
+        "id": 151,
+        "value": "Jesuitenresidenz Satu Mare"
+      },
+      {
+        "id": 191,
+        "value": "Jesuitenmission Timişoara"
+      },
+      {
+        "id": 270,
+        "value": "Jesuitenresidenz Požega"
+      },
+      {
+        "id": 271,
+        "value": "Jesuitenmission Osijek"
+      },
+      {
+        "id": 272,
+        "value": "Jesuitenmission Leopoldov"
+      },
+      {
+        "id": 273,
+        "value": "Jesuitenmission Petrovaradin"
+      },
+      {
+        "id": 274,
+        "value": "Jesuitenmission Târgu-Mureş"
+      },
+      {
+        "id": 291,
+        "value": "Jesuitenkolleg Wiener Neustadt"
+      },
+      {
+        "id": 425,
+        "value": "Jesuitenmission Brașov"
+      },
+      {
+        "id": 427,
+        "value": "Jesuitenmission Špania Dolina"
+      },
+      {
+        "id": 453,
+        "value": "Jesuitenmission Belgrad"
+      }
+    ],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13947264",
+    "title": "Litterae annuae provinciae Austriae Societatis Iesu a. 1733",
+    "date": "ab 1734",
+    "persons": [],
+    "mentioned_places": [],
+    "note_type_facs": "",
+    "xml_id": "cod_12272",
+    "extent": "",
+    "height": "330",
+    "width": "220",
+    "foliation": "Zeitgenössische Zählung jedes zweiten Blattes: 1–62. Moderne Foliierung.",
+    "acc_mat": "",
+    "binding": "Kartoneinband, 18. Jhdt.",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit, thematisch in 13 Kapiteln gegliedert.",
+    "not_before": "1734",
+    "not_after": null,
+    "# when": "",
+    "date_letter": "1733"
   },
   "31": {
     "id": 31,
@@ -10850,7 +11862,7 @@
     "extent": "II, 60, II* Bl.",
     "height": "330",
     "width": "210",
-    "foliation": "Zeitgenössische Paginierung der dritten kodikologischen Teil (ff. 38r-60v): 1-44. Moderne Foliierung.",
+    "foliation": "Zeitgenössische Paginierung der dritten kodikologischen Teil (ff. 38r-60v): 1–44. Moderne Foliierung.",
     "acc_mat": "",
     "binding": "Kartoneinband, 18. Jhdt.",
     "summary": "Die Handschrift wurde von mindestens drei Händen geschrieben, von denen jede für eine kodikologische Einheit verantwortlich war. Der Bericht ist thematisch in Kapitel unterteilt. U. a.: (12r-14v) Kap. 6 Quo fructu obita sint missiones; (38r-42v) Quae fuerit sors Oeconomia; (42v-59v) Defunctorum eulogia. Von diesem Jahresbericht sind insgesamt 5 Exemplare vorhanden: Cod. 12273-12277.",

@@ -38,7 +38,7 @@
                     </head>
                     <msContents>                   
                         <summary>
-                                Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist thematisch in Kapitel gegliedert. 
+                                Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist thematisch in 18 Kapitel gegliedert. 
                                 
                         </summary> 
                         <textLang mainLang="lat"/>
@@ -46,6 +46,74 @@
                                 <msItem n="1">
                                     <locus from="1r" to="4v">1r-4v</locus>
                                     <title>Census personarum provinciae</title>
+                                </msItem>
+                                <msItem n="2">
+                                    <locus from="5r" to="6v">5r-6v</locus>
+                                    <title>Sacramentorum administratio</title>
+                                </msItem>
+                                <msItem n="3">
+                                    <locus from="7r" to="8v">7r-8v</locus>
+                                    <title>Verbi divini praedicatio</title>
+                                </msItem>
+                                <msItem n="4">
+                                    <locus from="9r" to="10r">9r-10r</locus>
+                                    <title>Catecheticae doctrinae explanatio</title>
+                                </msItem>
+                                <msItem n="5">
+                                    <locus from="10v" to="17r">10v-17r</locus>
+                                    <title>Felix operantium pieque conversantium industria</title>
+                                </msItem>
+                                <msItem n="6">
+                                    <locus from="17v" to="22r">17v-22r</locus>
+                                    <title>Charitas in egenos, aegros, ac moribundos</title>
+                                </msItem>
+                                <msItem n="7">
+                                    <locus from="22v" to="23v">22v-23v</locus>
+                                    <title>Reorun et carcere detentorum cura</title>
+                                </msItem>
+                                <msItem n="8">
+                                    <locus from="24r" to="30r">24r-30r</locus>
+                                    <title>Ab errorum variorum deviis in viam orthodoxae varitatis nostrorum industria reducti</title>
+                                </msItem>
+                                <msItem n="9">
+                                    <locus from="30v" to="35v">30v-35v</locus>
+                                    <title>Sacrae expeditiones</title>
+                                </msItem>
+                                <msItem n="10">
+                                    <locus from="36r" to="41v">36r-41v</locus>
+                                    <title>Labores scholastici</title>
+                                </msItem>
+                                <msItem n="11">
+                                    <locus from="42r" to="44v">42r-44v</locus>
+                                    <title>Festorum solemnia</title>
+                                </msItem>
+                                <msItem n="12">
+                                    <locus from="44v" to="48v">44v-48v</locus>
+                                    <title>Cultus eucharisticus, solemnes preces, ac processiones</title>
+                                </msItem>
+                                <msItem n="13">
+                                    <locus from="49r" to="51r">49r-51r</locus>
+                                    <title>Pietas erga Christum Patientem</title>
+                                </msItem>
+                                <msItem n="14">
+                                    <locus from="51v" to="60v">51v-60v</locus>
+                                    <title>Magnae dei parentis veneratio et reciproci suos in clientes favores</title>
+                                </msItem>
+                                <msItem n="15">
+                                    <locus from="61r" to="66v">61r-66v</locus>
+                                    <title>Cultus et invocatio sanctorum ac praecipue nostrorum P. P. Ignatii et Xaverii, ab iisque impetrata de caelo gratia</title>
+                                </msItem>
+                                <msItem n="16">
+                                    <locus from="66v" to="67v">66v-67v</locus>
+                                    <title>Favores externorum</title>
+                                </msItem>
+                                <msItem n="17">
+                                    <locus from="67v" to="72v">67v-72v</locus>
+                                    <title>Rerum temporalia compendia et dispendia</title>
+                                </msItem>
+                                <msItem n="18">
+                                    <locus from="73r" to="93v">73r-93v</locus>
+                                    <title>Elogialis defunctorum commendatio</title>
                                 </msItem>
                           
                         
