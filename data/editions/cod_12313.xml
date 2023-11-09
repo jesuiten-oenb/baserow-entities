@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cod_12313.xml" xml:base="https://oenb.ac.at" prev="https://oenb.ac.at/cod_12312.xml" next="https://oenb.ac.at/cod_12314.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Wien, Österreichische nationalbibliothek, Cod. 12313</title>
+                <title type="sub">Jesuiten Littera annuae</title>
+                <respStmt>
+                    <resp>Beschreibung und TEI-encoding</resp>
+                    <persName>
+                        <forename>Ivana</forename>
+                        <surname>Dobcheva</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="restricted">
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">This document is published under the Creative Commons licence Attribution 4.0 International (CC BY 4.0).</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:lang="de" xml:id="cod_12313">
+                    <msIdentifier>
+                        <country>Österreich</country>
+                        <settlement>Wien</settlement>
+                        <repository>Österreichische Nationalbibliothek</repository>
+                        <idno>Cod. 12313</idno>
+                    </msIdentifier>
+                    <head>
+                        <title>Litterae annuae provinciae Bohemiae Societatis Iesu a. 1728</title>
+                        <note type="catalogue">
+                            <ref target="http://data.onb.ac.at/rec/AC13948980"/>
+                        </note>
+                    </head>
+                    <msContents>                   
+                        <summary>
+                                Zusammengesetzte Handschrift aus den Berichten für das Jahr 1728 verschiedener Domizilen in Böhmen. 
+                                
+                            <listPlace>
+                                <head>Erwähnte Orte:</head>
+                                <place>
+                                    <placeName key="#jesuiten_place__272">Bohemia</placeName>
+                                </place>
+                            </listPlace>                           
+                        </summary> 
+                        <textLang mainLang="lat"/>
+                        
+                       
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="codex">
+                            <supportDesc material="paper">
+                                <support>Papier</support>
+                                <extent>
+                                    <measure type="leavesCount" unit="folio"/>
+                                    <dimensions type="leaf_current" unit="mm">
+                                        <height>None</height>
+                                        <width>None</width>
+                                    </dimensions>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                            </supportDesc>
+                        </objectDesc>
+                        <bindingDesc>
+                            <binding>
+                                <p/>
+                            </binding>
+                        </bindingDesc>
+                        <accMat/>                        
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><p/></body>
+    <back><listPlace><place xml:id="jesuiten_place__272">
+                  <placeName>Bohemia</placeName>
+                  <location type="coords">
+                     <geo>50.00000 14.50000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3078198/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q39193</idno>
+               <noteGrp><note target="cod_11961.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11961</note><note target="cod_12280.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12280</note><note target="cod_12281.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12281</note><note target="cod_12282.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12282</note><note target="cod_12283.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12283</note><note target="cod_12284.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12284</note><note target="cod_12285.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12285</note><note target="cod_12286.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12286</note><note target="cod_12287.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12287</note><note target="cod_12288.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12288</note><note target="cod_12289.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12289</note><note target="cod_12290.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12290</note><note target="cod_12291.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12291</note><note target="cod_12292.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12292</note><note target="cod_12293.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12293</note><note target="cod_12294.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12294</note><note target="cod_12295.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12295</note><note target="cod_12296.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12296</note><note target="cod_12297.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12297</note><note target="cod_12298.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12298</note><note target="cod_12299.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12299</note><note target="cod_12300.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12300</note><note target="cod_12301.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12301</note><note target="cod_12302.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12302</note><note target="cod_12303.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12303</note><note target="cod_12304.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12304</note><note target="cod_12305.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12305</note><note target="cod_12306.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12306</note><note target="cod_12307.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12307</note><note target="cod_12308.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12308</note><note target="cod_12309.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12309</note><note target="cod_12310.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12310</note><note target="cod_12311.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12311</note><note target="cod_12312.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12312</note><note target="cod_12313.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12313</note><note target="cod_12314.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12314</note><note target="cod_12315.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12315</note><note target="cod_12352.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12352</note></noteGrp></place>
+               </listPlace></back></text>
+</TEI>

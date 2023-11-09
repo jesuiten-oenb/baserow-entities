@@ -15000,7 +15000,7 @@
                 "value": "Cod. 12278"
             }
         ],
-        "alt_name": "Residentia Maria Scheinensis",
+        "alt_name": "Residentia Maria Scheinensis / Residentia Grupna / Residentia Grupnensis",
         "notes": "",
         "persons": []
     },
@@ -20645,36 +20645,6 @@
         "notes": "",
         "persons": []
     },
-    "290": {
-        "id": 290,
-        "order": "280.00000000000000000000",
-        "name": "Jesuitenresidenz Krupka (?)",
-        "jesuiten_id": "jesuiten_org__290",
-        "located_in": [
-            {
-                "id": 258,
-                "order": "250.00000000000000000000",
-                "name": "Krupka",
-                "jesuiten_id": "jesuiten_place__258",
-                "geonames": "https://www.geonames.org/3072598/krupka.html",
-                "lat": "50.68449",
-                "long": "13.85815",
-                "wikidata": "https://www.wikidata.org/wiki/Q593629",
-                "alt_names": [
-                    {
-                        "id": 186,
-                        "value": "Graupen"
-                    }
-                ],
-                "msdesc": []
-            }
-        ],
-        "gnd": "",
-        "msdesc": [],
-        "alt_name": "Residentia Grupnensis",
-        "notes": "",
-        "persons": []
-    },
     "291": {
         "id": 291,
         "order": "281.00000000000000000000",
@@ -21421,6 +21391,30 @@
                     {
                         "id": 161,
                         "value": "Cod. 12308"
+                    },
+                    {
+                        "id": 162,
+                        "value": "Cod. 12309"
+                    },
+                    {
+                        "id": 163,
+                        "value": "Cod. 12310"
+                    },
+                    {
+                        "id": 164,
+                        "value": "Cod. 12311"
+                    },
+                    {
+                        "id": 165,
+                        "value": "Cod. 12312"
+                    },
+                    {
+                        "id": 166,
+                        "value": "Cod. 12313"
+                    },
+                    {
+                        "id": 167,
+                        "value": "Cod. 12314"
                     },
                     {
                         "id": 141,
@@ -26989,6 +26983,99 @@
         "msdesc": [],
         "alt_name": "Missio Dietrichsteinica",
         "notes": "Beginn April 1722 \"in Boskowitz Dominio celsissimi Valteri Xaverii Principis ad Dietrichstein\" (Cod. 12308, f. 139r).",
+        "persons": []
+    },
+    "472": {
+        "id": 472,
+        "order": "462.00000000000000000000",
+        "name": "Jesuitenseminar S. Wenceslaus",
+        "jesuiten_id": "jesuiten_org__472",
+        "located_in": [
+            {
+                "id": 93,
+                "order": "90.00000000000000000000",
+                "name": "Prague",
+                "jesuiten_id": "jesuiten_place__93",
+                "geonames": "https://www.geonames.org/3067696/prague.html",
+                "lat": "50.08804",
+                "long": "14.42076",
+                "wikidata": "https://www.wikidata.org/wiki/Q1085",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Seminarium S. Wenceslai",
+        "notes": "",
+        "persons": []
+    },
+    "473": {
+        "id": 473,
+        "order": "463.00000000000000000000",
+        "name": "Probationshaus Chomutov",
+        "jesuiten_id": "jesuiten_org__473",
+        "located_in": [
+            {
+                "id": 98,
+                "order": "95.00000000000000000000",
+                "name": "Chomutov",
+                "jesuiten_id": "jesuiten_place__98",
+                "geonames": "https://www.geonames.org/3077685/chomutov.html",
+                "lat": "50.46048",
+                "long": "13.41779",
+                "wikidata": "https://www.wikidata.org/wiki/Q146356",
+                "alt_names": [
+                    {
+                        "id": 36,
+                        "value": "Commotovium"
+                    },
+                    {
+                        "id": 58,
+                        "value": "Komotau"
+                    }
+                ],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Domus terziae probationis Commotovii",
+        "notes": "",
+        "persons": []
+    },
+    "474": {
+        "id": 474,
+        "order": "464.00000000000000000000",
+        "name": "Jesuitenmission Świebodzice",
+        "jesuiten_id": "jesuiten_org__474",
+        "located_in": [
+            {
+                "id": 394,
+                "order": "385.00000000000000000000",
+                "name": "Świebodzice",
+                "jesuiten_id": "jesuiten_place__394",
+                "geonames": "https://www.geonames.org/3084084/swiebodzice.html",
+                "lat": "50.85974",
+                "long": "16.31966",
+                "wikidata": "https://www.wikidata.org/wiki/Q387449",
+                "alt_names": [
+                    {
+                        "id": 274,
+                        "value": "Fridberg"
+                    },
+                    {
+                        "id": 275,
+                        "value": "Freiburg"
+                    }
+                ],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Nimptschianae, Fridbergae Silesiorum",
+        "notes": "",
         "persons": []
     }
 }

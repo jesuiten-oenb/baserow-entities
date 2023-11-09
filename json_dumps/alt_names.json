@@ -4292,5 +4292,37 @@
         "value": "Dobromierz"
       }
     ]
+  },
+  "274": {
+    "id": 274,
+    "order": "274.00000000000000000000",
+    "Name": "Fridberg",
+    "Notes": {
+      "id": 11393,
+      "value": "lat",
+      "color": "dark-gray"
+    },
+    "places": [
+      {
+        "id": 394,
+        "value": "Świebodzice"
+      }
+    ]
+  },
+  "275": {
+    "id": 275,
+    "order": "275.00000000000000000000",
+    "Name": "Freiburg",
+    "Notes": {
+      "id": 11394,
+      "value": "ger",
+      "color": "green"
+    },
+    "places": [
+      {
+        "id": 394,
+        "value": "Świebodzice"
+      }
+    ]
   }
 }
