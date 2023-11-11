@@ -21421,6 +21421,14 @@
                         "value": "Cod. 12315"
                     },
                     {
+                        "id": 168,
+                        "value": "Cod. 12316"
+                    },
+                    {
+                        "id": 169,
+                        "value": "Cod. 12317"
+                    },
+                    {
                         "id": 142,
                         "value": "Cod. 12352"
                     },
@@ -26659,7 +26667,7 @@
     "466": {
         "id": 466,
         "order": "456.00000000000000000000",
-        "name": "Jesuitenmission Cínovec",
+        "name": "Jesuitenmission Zinnwald / Cínovec",
         "jesuiten_id": "jesuiten_org__466",
         "located_in": [
             {
@@ -26671,6 +26679,18 @@
                 "lat": "50.73220",
                 "long": "13.76898",
                 "wikidata": "https://www.wikidata.org/wiki/Q1150834",
+                "alt_names": [],
+                "msdesc": []
+            },
+            {
+                "id": 396,
+                "order": "387.00000000000000000000",
+                "name": "Zinnwald",
+                "jesuiten_id": "jesuiten_place__396",
+                "geonames": "https://www.geonames.org/2804108/zinnwald.html",
+                "lat": "50.73579",
+                "long": "13.76323",
+                "wikidata": "",
                 "alt_names": [],
                 "msdesc": []
             }
@@ -27074,7 +27094,78 @@
         ],
         "gnd": "",
         "msdesc": [],
-        "alt_name": "Missio Nimptschianae, Fridbergae Silesiorum",
+        "alt_name": "Missio Fridbergae Silesiorum / Missio Fridbergensis",
+        "notes": "",
+        "persons": []
+    },
+    "475": {
+        "id": 475,
+        "order": "465.00000000000000000000",
+        "name": "Jesuitenmission Sweden",
+        "jesuiten_id": "jesuiten_org__475",
+        "located_in": [
+            {
+                "id": 395,
+                "order": "386.00000000000000000000",
+                "name": "Sweden",
+                "jesuiten_id": "jesuiten_place__395",
+                "geonames": "https://www.geonames.org/2661886/kingdom-of-sweden.html",
+                "lat": "62.00000",
+                "long": "15.00000",
+                "wikidata": "",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Suedica",
+        "notes": "",
+        "persons": []
+    },
+    "476": {
+        "id": 476,
+        "order": "466.00000000000000000000",
+        "name": "Jesuitenmission Valašské Meziříčí, Vsetín",
+        "jesuiten_id": "jesuiten_org__476",
+        "located_in": [
+            {
+                "id": 311,
+                "order": "302.00000000000000000000",
+                "name": "Vsetín",
+                "jesuiten_id": "jesuiten_place__311",
+                "geonames": "https://www.geonames.org/3062339/vsetin.html",
+                "lat": "49.33871",
+                "long": "17.99619",
+                "wikidata": "https://www.wikidata.org/wiki/Q513417",
+                "alt_names": [],
+                "msdesc": []
+            },
+            {
+                "id": 397,
+                "order": "388.00000000000000000000",
+                "name": "Valašské Meziříčí",
+                "jesuiten_id": "jesuiten_place__397",
+                "geonames": "https://www.geonames.org/3063447/valasske-mezirici.html",
+                "lat": "49.47181",
+                "long": "17.97113",
+                "wikidata": "https://www.wikidata.org/wiki/Q375651",
+                "alt_names": [
+                    {
+                        "id": 276,
+                        "value": "Wallachicum Mezricium"
+                    },
+                    {
+                        "id": 277,
+                        "value": "Wallachisch Meseritsch"
+                    }
+                ],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Wallachicae Mezricii et Vsetinii",
         "notes": "",
         "persons": []
     }

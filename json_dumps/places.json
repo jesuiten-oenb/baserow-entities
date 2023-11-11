@@ -7942,6 +7942,14 @@
         "value": "Cod. 12315"
       },
       {
+        "id": 168,
+        "value": "Cod. 12316"
+      },
+      {
+        "id": 169,
+        "value": "Cod. 12317"
+      },
+      {
         "id": 142,
         "value": "Cod. 12352"
       },
@@ -9120,6 +9128,22 @@
     "alt_names": [],
     "msdesc": [
       {
+        "id": 36,
+        "value": "Cod. 12247"
+      },
+      {
+        "id": 38,
+        "value": "Cod. 12249"
+      },
+      {
+        "id": 41,
+        "value": "Cod. 12252"
+      },
+      {
+        "id": 42,
+        "value": "Cod. 12253"
+      },
+      {
         "id": 122,
         "value": "Cod. 12255"
       },
@@ -9164,12 +9188,64 @@
         "value": "Cod. 12265"
       },
       {
+        "id": 157,
+        "value": "Cod. 12268"
+      },
+      {
         "id": 123,
         "value": "Cod. 12242"
       },
       {
         "id": 124,
         "value": "Cod. 12243"
+      },
+      {
+        "id": 69,
+        "value": "Cod. 12244"
+      },
+      {
+        "id": 129,
+        "value": "Cod. 12245"
+      },
+      {
+        "id": 35,
+        "value": "Cod. 12246"
+      },
+      {
+        "id": 37,
+        "value": "Cod. 12248"
+      },
+      {
+        "id": 39,
+        "value": "Cod. 12250"
+      },
+      {
+        "id": 40,
+        "value": "Cod. 12251"
+      },
+      {
+        "id": 148,
+        "value": "Cod. 12235"
+      },
+      {
+        "id": 149,
+        "value": "Cod. 12236"
+      },
+      {
+        "id": 150,
+        "value": "Cod. 12237"
+      },
+      {
+        "id": 151,
+        "value": "Cod. 12238"
+      },
+      {
+        "id": 152,
+        "value": "Cod. 12239"
+      },
+      {
+        "id": 153,
+        "value": "Cod. 12240"
       }
     ]
   },
@@ -9891,6 +9967,51 @@
       {
         "id": 275,
         "value": "Freiburg"
+      }
+    ],
+    "msdesc": []
+  },
+  "395": {
+    "id": 395,
+    "order": "386.00000000000000000000",
+    "name": "Sweden",
+    "jesuiten_id": "jesuiten_place__395",
+    "geonames": "https://www.geonames.org/2661886/kingdom-of-sweden.html",
+    "lat": "62.00000",
+    "long": "15.00000",
+    "wikidata": "",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "396": {
+    "id": 396,
+    "order": "387.00000000000000000000",
+    "name": "Zinnwald",
+    "jesuiten_id": "jesuiten_place__396",
+    "geonames": "https://www.geonames.org/2804108/zinnwald.html",
+    "lat": "50.73579",
+    "long": "13.76323",
+    "wikidata": "",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "397": {
+    "id": 397,
+    "order": "388.00000000000000000000",
+    "name": "Valašské Meziříčí",
+    "jesuiten_id": "jesuiten_place__397",
+    "geonames": "https://www.geonames.org/3063447/valasske-mezirici.html",
+    "lat": "49.47181",
+    "long": "17.97113",
+    "wikidata": "https://www.wikidata.org/wiki/Q375651",
+    "alt_names": [
+      {
+        "id": 276,
+        "value": "Wallachicum Mezricium"
+      },
+      {
+        "id": 277,
+        "value": "Wallachisch Meseritsch"
       }
     ],
     "msdesc": []
