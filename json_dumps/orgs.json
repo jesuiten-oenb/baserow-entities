@@ -24978,12 +24978,30 @@
     "418": {
         "id": 418,
         "order": "408.00000000000000000000",
-        "name": "Jesuitenmission Tecznensis",
+        "name": "Jesuitenmission Terezín (?)",
         "jesuiten_id": "jesuiten_org__418",
-        "located_in": [],
+        "located_in": [
+            {
+                "id": 399,
+                "order": "390.00000000000000000000",
+                "name": "Terezín",
+                "jesuiten_id": "jesuiten_place__399",
+                "geonames": "https://www.geonames.org/3064268/terezin.html",
+                "lat": "50.51100",
+                "long": "14.15055",
+                "wikidata": "https://www.wikidata.org/wiki/Q523489",
+                "alt_names": [
+                    {
+                        "id": 278,
+                        "value": "Theresienstadt"
+                    }
+                ],
+                "msdesc": []
+            }
+        ],
         "gnd": "",
         "msdesc": [],
-        "alt_name": "Missio Tecznensis",
+        "alt_name": "Missio Tecznensis / Missio Terschnensis",
         "notes": "",
         "persons": []
     },
@@ -27166,6 +27184,121 @@
         "gnd": "",
         "msdesc": [],
         "alt_name": "Missio Wallachicae Mezricii et Vsetinii",
+        "notes": "",
+        "persons": []
+    },
+    "477": {
+        "id": 477,
+        "order": "467.00000000000000000000",
+        "name": "Jesuitenmission Duba (?)",
+        "jesuiten_id": "jesuiten_org__477",
+        "located_in": [
+            {
+                "id": 398,
+                "order": "389.00000000000000000000",
+                "name": "Dubá",
+                "jesuiten_id": "jesuiten_place__398",
+                "geonames": "https://www.geonames.org/3076363/duba.html",
+                "lat": "50.54034",
+                "long": "14.54023",
+                "wikidata": "https://www.wikidata.org/wiki/Q1263301",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Dubensis (et Oschitzensis)",
+        "notes": "",
+        "persons": []
+    },
+    "478": {
+        "id": 478,
+        "order": "468.00000000000000000000",
+        "name": "Jesuitenmission Siedem ... (?)",
+        "jesuiten_id": "jesuiten_org__478",
+        "located_in": [],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Sibenhubensis (?)",
+        "notes": "",
+        "persons": []
+    },
+    "479": {
+        "id": 479,
+        "order": "469.00000000000000000000",
+        "name": "Jesuitenmission Sultzensis",
+        "jesuiten_id": "jesuiten_org__479",
+        "located_in": [],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Sultzensis",
+        "notes": "",
+        "persons": []
+    },
+    "480": {
+        "id": 480,
+        "order": "470.00000000000000000000",
+        "name": "Jesuitenmission Riesengebirge",
+        "jesuiten_id": "jesuiten_org__480",
+        "located_in": [],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio ad montana Gigantaea",
+        "notes": "",
+        "persons": []
+    },
+    "481": {
+        "id": 481,
+        "order": "471.00000000000000000000",
+        "name": "Jesuitenmission Ratagensis (?)",
+        "jesuiten_id": "jesuiten_org__481",
+        "located_in": [],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Ratagensis",
+        "notes": "",
+        "persons": []
+    },
+    "482": {
+        "id": 482,
+        "order": "472.00000000000000000000",
+        "name": "Jesuitenmission Festung Špilberk",
+        "jesuiten_id": "jesuiten_org__482",
+        "located_in": [
+            {
+                "id": 400,
+                "order": "391.00000000000000000000",
+                "name": "Festung Špilberk",
+                "jesuiten_id": "jesuiten_place__400",
+                "geonames": "https://www.geonames.org/3065525/spilberk.html",
+                "lat": "49.19441",
+                "long": "16.59889",
+                "wikidata": "https://www.wikidata.org/wiki/Q118256",
+                "alt_names": [
+                    {
+                        "id": 279,
+                        "value": "Spielberg"
+                    }
+                ],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio in castro Spilberg",
+        "notes": "",
+        "persons": []
+    },
+    "483": {
+        "id": 483,
+        "order": "473.00000000000000000000",
+        "name": "Jesuitenmission Rösnicensis (?)",
+        "jesuiten_id": "jesuiten_org__483",
+        "located_in": [],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Rösnicensis",
         "notes": "",
         "persons": []
     }

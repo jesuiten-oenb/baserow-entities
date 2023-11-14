@@ -4356,5 +4356,37 @@
         "value": "Valašské Meziříčí"
       }
     ]
+  },
+  "278": {
+    "id": 278,
+    "order": "278.00000000000000000000",
+    "Name": "Theresienstadt",
+    "Notes": {
+      "id": 11394,
+      "value": "ger",
+      "color": "green"
+    },
+    "places": [
+      {
+        "id": 399,
+        "value": "Terezín"
+      }
+    ]
+  },
+  "279": {
+    "id": 279,
+    "order": "279.00000000000000000000",
+    "Name": "Spielberg",
+    "Notes": {
+      "id": 11394,
+      "value": "ger",
+      "color": "green"
+    },
+    "places": [
+      {
+        "id": 400,
+        "value": "Festung Špilberk"
+      }
+    ]
   }
 }

@@ -8742,7 +8742,16 @@
         "value": "Regnum Poloniae"
       }
     ],
-    "msdesc": []
+    "msdesc": [
+      {
+        "id": 170,
+        "value": "Cod. 11982"
+      },
+      {
+        "id": 171,
+        "value": "Cod. 11983"
+      }
+    ]
   },
   "318": {
     "id": 318,
@@ -10012,6 +10021,52 @@
       {
         "id": 277,
         "value": "Wallachisch Meseritsch"
+      }
+    ],
+    "msdesc": []
+  },
+  "398": {
+    "id": 398,
+    "order": "389.00000000000000000000",
+    "name": "Dubá",
+    "jesuiten_id": "jesuiten_place__398",
+    "geonames": "https://www.geonames.org/3076363/duba.html",
+    "lat": "50.54034",
+    "long": "14.54023",
+    "wikidata": "https://www.wikidata.org/wiki/Q1263301",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "399": {
+    "id": 399,
+    "order": "390.00000000000000000000",
+    "name": "Terezín",
+    "jesuiten_id": "jesuiten_place__399",
+    "geonames": "https://www.geonames.org/3064268/terezin.html",
+    "lat": "50.51100",
+    "long": "14.15055",
+    "wikidata": "https://www.wikidata.org/wiki/Q523489",
+    "alt_names": [
+      {
+        "id": 278,
+        "value": "Theresienstadt"
+      }
+    ],
+    "msdesc": []
+  },
+  "400": {
+    "id": 400,
+    "order": "391.00000000000000000000",
+    "name": "Festung Špilberk",
+    "jesuiten_id": "jesuiten_place__400",
+    "geonames": "https://www.geonames.org/3065525/spilberk.html",
+    "lat": "49.19441",
+    "long": "16.59889",
+    "wikidata": "https://www.wikidata.org/wiki/Q118256",
+    "alt_names": [
+      {
+        "id": 279,
+        "value": "Spielberg"
       }
     ],
     "msdesc": []
