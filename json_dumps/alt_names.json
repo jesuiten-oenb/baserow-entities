@@ -4366,12 +4366,7 @@
       "value": "ger",
       "color": "green"
     },
-    "places": [
-      {
-        "id": 399,
-        "value": "Terezín"
-      }
-    ]
+    "places": []
   },
   "279": {
     "id": 279,
@@ -4386,6 +4381,22 @@
       {
         "id": 400,
         "value": "Festung Špilberk"
+      }
+    ]
+  },
+  "280": {
+    "id": 280,
+    "order": "280.00000000000000000000",
+    "Name": "Tetschen",
+    "Notes": {
+      "id": 11394,
+      "value": "ger",
+      "color": "green"
+    },
+    "places": [
+      {
+        "id": 404,
+        "value": "Děčín"
       }
     ]
   }

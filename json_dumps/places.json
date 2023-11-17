@@ -7950,6 +7950,10 @@
         "value": "Cod. 12317"
       },
       {
+        "id": 176,
+        "value": "Cod. 12318"
+      },
+      {
         "id": 142,
         "value": "Cod. 12352"
       },
@@ -10037,23 +10041,6 @@
     "alt_names": [],
     "msdesc": []
   },
-  "399": {
-    "id": 399,
-    "order": "390.00000000000000000000",
-    "name": "Terezín",
-    "jesuiten_id": "jesuiten_place__399",
-    "geonames": "https://www.geonames.org/3064268/terezin.html",
-    "lat": "50.51100",
-    "long": "14.15055",
-    "wikidata": "https://www.wikidata.org/wiki/Q523489",
-    "alt_names": [
-      {
-        "id": 278,
-        "value": "Theresienstadt"
-      }
-    ],
-    "msdesc": []
-  },
   "400": {
     "id": 400,
     "order": "391.00000000000000000000",
@@ -10067,6 +10054,59 @@
       {
         "id": 279,
         "value": "Spielberg"
+      }
+    ],
+    "msdesc": []
+  },
+  "401": {
+    "id": 401,
+    "order": "392.00000000000000000000",
+    "name": "Komorní Hrádek",
+    "jesuiten_id": "jesuiten_place__401",
+    "geonames": "https://www.geonames.org/3073324/komorni-hradek.html",
+    "lat": "49.86770",
+    "long": "14.79647",
+    "wikidata": "https://www.wikidata.org/wiki/Q12029923",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "402": {
+    "id": 402,
+    "order": "393.00000000000000000000",
+    "name": "Rataje nad Sázavou",
+    "jesuiten_id": "jesuiten_place__402",
+    "geonames": "https://www.geonames.org/3066999/rataje-nad-sazavou.html",
+    "lat": "49.84185",
+    "long": "14.95672",
+    "wikidata": "https://www.wikidata.org/wiki/Q2132370",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "403": {
+    "id": 403,
+    "order": "394.00000000000000000000",
+    "name": "Libáň",
+    "jesuiten_id": "jesuiten_place__403",
+    "geonames": "https://www.geonames.org/3071990/liban.html",
+    "lat": "50.37542",
+    "long": "15.21684",
+    "wikidata": "https://www.wikidata.org/wiki/Q388235",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "404": {
+    "id": 404,
+    "order": "395.00000000000000000000",
+    "name": "Děčín",
+    "jesuiten_id": "jesuiten_place__404",
+    "geonames": "https://www.geonames.org/3077244/decin.html",
+    "lat": "50.78215",
+    "long": "14.21478",
+    "wikidata": "https://www.wikidata.org/wiki/Q146307",
+    "alt_names": [
+      {
+        "id": 280,
+        "value": "Tetschen"
       }
     ],
     "msdesc": []

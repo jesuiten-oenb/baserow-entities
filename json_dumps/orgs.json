@@ -21429,6 +21429,10 @@
                         "value": "Cod. 12317"
                     },
                     {
+                        "id": 176,
+                        "value": "Cod. 12318"
+                    },
+                    {
                         "id": 142,
                         "value": "Cod. 12352"
                     },
@@ -24978,22 +24982,22 @@
     "418": {
         "id": 418,
         "order": "408.00000000000000000000",
-        "name": "Jesuitenmission Terezín (?)",
+        "name": "Jesuitenmission Děčín",
         "jesuiten_id": "jesuiten_org__418",
         "located_in": [
             {
-                "id": 399,
-                "order": "390.00000000000000000000",
-                "name": "Terezín",
-                "jesuiten_id": "jesuiten_place__399",
-                "geonames": "https://www.geonames.org/3064268/terezin.html",
-                "lat": "50.51100",
-                "long": "14.15055",
-                "wikidata": "https://www.wikidata.org/wiki/Q523489",
+                "id": 404,
+                "order": "395.00000000000000000000",
+                "name": "Děčín",
+                "jesuiten_id": "jesuiten_place__404",
+                "geonames": "https://www.geonames.org/3077244/decin.html",
+                "lat": "50.78215",
+                "long": "14.21478",
+                "wikidata": "https://www.wikidata.org/wiki/Q146307",
                 "alt_names": [
                     {
-                        "id": 278,
-                        "value": "Theresienstadt"
+                        "id": 280,
+                        "value": "Tetschen"
                     }
                 ],
                 "msdesc": []
@@ -27251,9 +27255,22 @@
     "481": {
         "id": 481,
         "order": "471.00000000000000000000",
-        "name": "Jesuitenmission Ratagensis (?)",
+        "name": "Jesuitenmission Rataje nad Sázavou (?)",
         "jesuiten_id": "jesuiten_org__481",
-        "located_in": [],
+        "located_in": [
+            {
+                "id": 402,
+                "order": "393.00000000000000000000",
+                "name": "Rataje nad Sázavou",
+                "jesuiten_id": "jesuiten_place__402",
+                "geonames": "https://www.geonames.org/3066999/rataje-nad-sazavou.html",
+                "lat": "49.84185",
+                "long": "14.95672",
+                "wikidata": "https://www.wikidata.org/wiki/Q2132370",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
         "gnd": "",
         "msdesc": [],
         "alt_name": "Missio Ratagensis",
@@ -27299,6 +27316,93 @@
         "gnd": "",
         "msdesc": [],
         "alt_name": "Missio Rösnicensis",
+        "notes": "",
+        "persons": []
+    },
+    "484": {
+        "id": 484,
+        "order": "474.00000000000000000000",
+        "name": "Jesuitenmission Komorní Hrádek",
+        "jesuiten_id": "jesuiten_org__484",
+        "located_in": [
+            {
+                "id": 401,
+                "order": "392.00000000000000000000",
+                "name": "Komorní Hrádek",
+                "jesuiten_id": "jesuiten_place__401",
+                "geonames": "https://www.geonames.org/3073324/komorni-hradek.html",
+                "lat": "49.86770",
+                "long": "14.79647",
+                "wikidata": "https://www.wikidata.org/wiki/Q12029923",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio in Komorny Hradek",
+        "notes": "",
+        "persons": []
+    },
+    "485": {
+        "id": 485,
+        "order": "475.00000000000000000000",
+        "name": "Jesuitenmission Domacensis (?)",
+        "jesuiten_id": "jesuiten_org__485",
+        "located_in": [],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Domacensis",
+        "notes": "",
+        "persons": []
+    },
+    "486": {
+        "id": 486,
+        "order": "476.00000000000000000000",
+        "name": "Jesuitenresidenz Chlumec nad Cidlinou",
+        "jesuiten_id": "jesuiten_org__486",
+        "located_in": [
+            {
+                "id": 186,
+                "order": "183.00000000000000000000",
+                "name": "Chlumec nad Cidlinou",
+                "jesuiten_id": "jesuiten_place__186",
+                "geonames": "https://www.geonames.org/3077751/chlumec-nad-cidlinou.html",
+                "lat": "50.15440",
+                "long": "15.46026",
+                "wikidata": "https://www.wikidata.org/wiki/Q1013858",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Residentia in Chlumek",
+        "notes": "",
+        "persons": []
+    },
+    "487": {
+        "id": 487,
+        "order": "477.00000000000000000000",
+        "name": "Jesuitenmission Libáň",
+        "jesuiten_id": "jesuiten_org__487",
+        "located_in": [
+            {
+                "id": 403,
+                "order": "394.00000000000000000000",
+                "name": "Libáň",
+                "jesuiten_id": "jesuiten_place__403",
+                "geonames": "https://www.geonames.org/3071990/liban.html",
+                "lat": "50.37542",
+                "long": "15.21684",
+                "wikidata": "https://www.wikidata.org/wiki/Q388235",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Libanicensis",
         "notes": "",
         "persons": []
     }
