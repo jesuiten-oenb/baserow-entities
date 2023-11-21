@@ -2352,7 +2352,7 @@
                <place xml:id="jesuiten_place__317">
                   <placeName>Kingdom of Poland</placeName>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q8890160</idno>
-               <noteGrp><note target="cod_11982.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11982</note><note target="cod_11983.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11983</note><note target="cod_12005.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12005</note><note target="cod_12006.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12006</note></noteGrp></place>
+               <noteGrp><note target="cod_11982.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11982</note><note target="cod_11983.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11983</note><note target="cod_11989.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11989</note><note target="cod_12005.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12005</note><note target="cod_12006.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12006</note></noteGrp></place>
                <place xml:id="jesuiten_place__318">
                   <placeName>Volhynia</placeName>
                   <location type="coords">
@@ -2972,6 +2972,14 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/3195506/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q1010</idno>
+               </place>
+               <place xml:id="jesuiten_place__406">
+                  <placeName>Rożniątów</placeName>
+                  <location type="coords">
+                     <geo>49.97838 22.51528</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/760215/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q742689</idno>
                </place>
             </listPlace>
          </div>

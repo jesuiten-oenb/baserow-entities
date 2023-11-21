@@ -13065,6 +13065,31 @@
     "# when": "",
     "date_letter": "1680–1684"
   },
+  "189": {
+    "id": 189,
+    "order": "31.64705882352941301860",
+    "signatur": "Cod. 11974",
+    "jesuiten_id": "jesuiten_msdesc__189",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13959727",
+    "title": "Litterae annuae provinciae Bohemiae Societatis Iesu a. 1727, 1728, 1729, 1730.",
+    "date": "ab 1728",
+    "persons": [],
+    "mentioned_places": [],
+    "note_type_facs": "",
+    "xml_id": "cod_11974",
+    "extent": "II, 658, II* Bl.",
+    "height": "270",
+    "width": "188",
+    "foliation": "Halbband mit braunem Leder mit Streicheisenlinien; Holzdeckel mit buntem Marmorpapier überklebt, 18. Jhdt.",
+    "acc_mat": "",
+    "binding": "",
+    "summary": "Zusammengesetzte Handschrift mit chronologisch geordneten Berichten für die Jahre 1727–1730. Jeder Bericht ist nach Domizilen unterteilt und mit Überschriften versehen.",
+    "not_before": "1728",
+    "not_after": null,
+    "# when": "",
+    "date_letter": "1727–1730"
+  },
   "76": {
     "id": 76,
     "order": "31.66666666666666785090",
@@ -13262,6 +13287,41 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1575–1729"
+  },
+  "190": {
+    "id": 190,
+    "order": "31.73333333333333428072",
+    "signatur": "Cod. 11989",
+    "jesuiten_id": "jesuiten_msdesc__190",
+    "mentioned_orgs": [
+      {
+        "id": 492,
+        "value": "Jesuitenmission Rożniątów"
+      }
+    ],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13960955",
+    "title": "Historia missionis Rozniatowiensis Societatis Iesu a. 1699-1769",
+    "date": "1699-1773",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 317,
+        "value": "Kingdom of Poland"
+      }
+    ],
+    "note_type_facs": "",
+    "xml_id": "cod_11989",
+    "extent": "83 Bl.",
+    "height": "310",
+    "width": "185",
+    "foliation": "Moderne Foliierung: 1-42, 42*-57, 57*-",
+    "acc_mat": "",
+    "binding": "Ledereinband mit Blindprägung, 17. Jhdt.",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit. Sie ist chronologisch geordnet und enthält die Berichte der Jesuitenmission in Rożniątów für die Jahre 1699 bis 1769. Hineingebunden sind zwei Briefe (fols. 57-57*, 59-60) sowie ein Druck (fols. 52-53).",
+    "not_before": "1699",
+    "not_after": "1773",
+    "# when": "",
+    "date_letter": "1699-1769"
   },
   "77": {
     "id": 77,

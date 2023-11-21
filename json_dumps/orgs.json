@@ -28240,5 +28240,47 @@
         "alt_name": "Residentia Marburgi",
         "notes": "",
         "persons": []
+    },
+    "491": {
+        "id": 491,
+        "order": "480.00000000000000000000",
+        "name": "Jesuitenmission Nimpschiana (?)",
+        "jesuiten_id": "jesuiten_org__491",
+        "located_in": [],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Nimpschiana",
+        "notes": "",
+        "persons": []
+    },
+    "492": {
+        "id": 492,
+        "order": "481.00000000000000000000",
+        "name": "Jesuitenmission Rożniątów",
+        "jesuiten_id": "jesuiten_org__492",
+        "located_in": [
+            {
+                "id": 406,
+                "order": "397.00000000000000000000",
+                "name": "Rożniątów",
+                "jesuiten_id": "jesuiten_place__406",
+                "geonames": "https://www.geonames.org/760215/rozniatow.html",
+                "lat": "49.97838",
+                "long": "22.51528",
+                "wikidata": "https://www.wikidata.org/wiki/Q742689",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [
+            {
+                "id": 190,
+                "value": "Cod. 11989"
+            }
+        ],
+        "alt_name": "Missio Rozniatowiensis",
+        "notes": "",
+        "persons": []
     }
 }
