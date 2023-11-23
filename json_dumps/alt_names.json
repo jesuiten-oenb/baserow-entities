@@ -4415,5 +4415,53 @@
         "value": "Maribor"
       }
     ]
+  },
+  "282": {
+    "id": 282,
+    "order": "282.00000000000000000000",
+    "Name": "Modlana",
+    "Notes": {
+      "id": 11393,
+      "value": "lat",
+      "color": "dark-gray"
+    },
+    "places": [
+      {
+        "id": 407,
+        "value": "Modlany"
+      }
+    ]
+  },
+  "283": {
+    "id": 283,
+    "order": "283.00000000000000000000",
+    "Name": "Kinsberga",
+    "Notes": {
+      "id": 11393,
+      "value": "lat",
+      "color": "dark-gray"
+    },
+    "places": [
+      {
+        "id": 408,
+        "value": "Starý Hrozňatov"
+      }
+    ]
+  },
+  "284": {
+    "id": 284,
+    "order": "284.00000000000000000000",
+    "Name": "Alt-Kinsberg",
+    "Notes": {
+      "id": 11394,
+      "value": "ger",
+      "color": "green"
+    },
+    "places": [
+      {
+        "id": 408,
+        "value": "Starý Hrozňatov"
+      }
+    ]
   }
 }

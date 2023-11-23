@@ -7958,6 +7958,22 @@
         "value": "Cod. 12319"
       },
       {
+        "id": 192,
+        "value": "Cod. 12320"
+      },
+      {
+        "id": 193,
+        "value": "Cod. 12321"
+      },
+      {
+        "id": 194,
+        "value": "Cod. 12339"
+      },
+      {
+        "id": 191,
+        "value": "Cod. 12340"
+      },
+      {
         "id": 142,
         "value": "Cod. 12352"
       },
@@ -10145,6 +10161,66 @@
     "lat": "49.97838",
     "long": "22.51528",
     "wikidata": "https://www.wikidata.org/wiki/Q742689",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "407": {
+    "id": 407,
+    "order": "398.00000000000000000000",
+    "name": "Modlany",
+    "jesuiten_id": "jesuiten_place__407",
+    "geonames": "https://www.geonames.org/3070432/modlany.html",
+    "lat": "50.65050",
+    "long": "13.89534",
+    "wikidata": "https://www.wikidata.org/wiki/Q1942200",
+    "alt_names": [
+      {
+        "id": 282,
+        "value": "Modlana"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 191,
+        "value": "Cod. 12340"
+      }
+    ]
+  },
+  "408": {
+    "id": 408,
+    "order": "399.00000000000000000000",
+    "name": "Starý Hrozňatov",
+    "jesuiten_id": "jesuiten_place__408",
+    "geonames": "https://www.geonames.org/3065264/stary-hroznatov.html",
+    "lat": "50.02318",
+    "long": "12.39086",
+    "wikidata": "",
+    "alt_names": [
+      {
+        "id": 283,
+        "value": "Kinsberga"
+      },
+      {
+        "id": 284,
+        "value": "Alt-Kinsberg"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 191,
+        "value": "Cod. 12340"
+      }
+    ]
+  },
+  "409": {
+    "id": 409,
+    "order": "400.00000000000000000000",
+    "name": "Bučovice",
+    "jesuiten_id": "jesuiten_place__409",
+    "geonames": "https://www.geonames.org/3078503/bucovice.html",
+    "lat": "49.14896",
+    "long": "17.00191",
+    "wikidata": "",
     "alt_names": [],
     "msdesc": []
   }
