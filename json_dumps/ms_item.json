@@ -473,8 +473,8 @@
     "order_number": "20",
     "title": "Cultus sanctorum Ignatii et Xaverii curatus et promotus",
     "locus_from": "111",
-    "locus_to": "",
-    "locus_text": "111-",
+    "locus_to": "132",
+    "locus_text": "111-132",
     "places": [],
     "orgs": [],
     "year": null
@@ -107127,12 +107127,7 @@
     "locus_to": "90v",
     "locus_text": "89r-90v",
     "places": [],
-    "orgs": [
-      {
-        "id": 440,
-        "value": "Jesuitenresidenz Příbram"
-      }
-    ],
+    "orgs": [],
     "year": "1652"
   },
   "3791": {
@@ -120733,8 +120728,8 @@
     "places": [],
     "orgs": [
       {
-        "id": 440,
-        "value": "Jesuitenresidenz Příbram"
+        "id": 94,
+        "value": "Jesuitenresidenz Svatá Hora"
       }
     ],
     "year": "1674"
@@ -164779,6 +164774,3445 @@
       {
         "id": 294,
         "value": "Jesuitenmission Lichtensteinica Böhmen"
+      }
+    ],
+    "year": null
+  },
+  "5870": {
+    "id": 5870,
+    "order": "5810.00000000000000000000",
+    "name": [
+      {
+        "id": 195,
+        "value": "cod_12322__5870"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 195,
+        "value": "Cod. 12322"
+      }
+    ],
+    "order_number": null,
+    "title": "Auflistung der Anzahl der Mitglieder; tabellarische Auflistung der verschiedenen Aktivitäten in den Domizilen.",
+    "locus_from": "3r",
+    "locus_to": "5v",
+    "locus_text": "3r-5v",
+    "places": [],
+    "orgs": [],
+    "year": null
+  },
+  "5871": {
+    "id": 5871,
+    "order": "5811.00000000000000000000",
+    "name": [
+      {
+        "id": 195,
+        "value": "cod_12322__5871"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 195,
+        "value": "Cod. 12322"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "6r",
+    "locus_to": "10v",
+    "locus_text": "6r-10v",
+    "places": [],
+    "orgs": [
+      {
+        "id": 92,
+        "value": "Profeßhaus Prag"
+      }
+    ],
+    "year": null
+  },
+  "5872": {
+    "id": 5872,
+    "order": "5812.00000000000000000000",
+    "name": [
+      {
+        "id": 195,
+        "value": "cod_12322__5872"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 195,
+        "value": "Cod. 12322"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "11r",
+    "locus_to": "15r",
+    "locus_text": "11r-15r",
+    "places": [],
+    "orgs": [
+      {
+        "id": 41,
+        "value": "Missio Castrensis"
+      }
+    ],
+    "year": null
+  },
+  "5873": {
+    "id": 5873,
+    "order": "5813.00000000000000000000",
+    "name": [
+      {
+        "id": 195,
+        "value": "cod_12322__5873"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 195,
+        "value": "Cod. 12322"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "16r",
+    "locus_to": "21r",
+    "locus_text": "16r-21r",
+    "places": [],
+    "orgs": [
+      {
+        "id": 300,
+        "value": "Jesuitenmission Poenitentia Bohemia Bohemica"
+      }
+    ],
+    "year": null
+  },
+  "5874": {
+    "id": 5874,
+    "order": "5814.00000000000000000000",
+    "name": [
+      {
+        "id": 195,
+        "value": "cod_12322__5874"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 195,
+        "value": "Cod. 12322"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "22r",
+    "locus_to": "24v",
+    "locus_text": "22r-24v",
+    "places": [],
+    "orgs": [
+      {
+        "id": 323,
+        "value": "Jesuitenmissionen Silesia"
+      }
+    ],
+    "year": null
+  },
+  "5875": {
+    "id": 5875,
+    "order": "5815.00000000000000000000",
+    "name": [
+      {
+        "id": 195,
+        "value": "cod_12322__5875"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 195,
+        "value": "Cod. 12322"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "25r",
+    "locus_to": "34r",
+    "locus_text": "25r-34r",
+    "places": [],
+    "orgs": [
+      {
+        "id": 161,
+        "value": "Jesuitenmission Dresden"
+      }
+    ],
+    "year": null
+  },
+  "5876": {
+    "id": 5876,
+    "order": "5816.00000000000000000000",
+    "name": [
+      {
+        "id": 195,
+        "value": "cod_12322__5876"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 195,
+        "value": "Cod. 12322"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "35r",
+    "locus_to": "36v",
+    "locus_text": "35r-36v",
+    "places": [],
+    "orgs": [
+      {
+        "id": 302,
+        "value": "Jesuitenmission Leipzig"
+      }
+    ],
+    "year": null
+  },
+  "5877": {
+    "id": 5877,
+    "order": "5817.00000000000000000000",
+    "name": [
+      {
+        "id": 195,
+        "value": "cod_12322__5877"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 195,
+        "value": "Cod. 12322"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "37r",
+    "locus_to": "38r",
+    "locus_text": "37r-38r",
+    "places": [],
+    "orgs": [
+      {
+        "id": 93,
+        "value": "Jesuitenkolleg Březnice"
+      }
+    ],
+    "year": null
+  },
+  "5878": {
+    "id": 5878,
+    "order": "5818.00000000000000000000",
+    "name": [
+      {
+        "id": 195,
+        "value": "cod_12322__5878"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 195,
+        "value": "Cod. 12322"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "39r",
+    "locus_to": "42v",
+    "locus_text": "39r-42v",
+    "places": [],
+    "orgs": [
+      {
+        "id": 94,
+        "value": "Jesuitenresidenz Svatá Hora"
+      }
+    ],
+    "year": null
+  },
+  "5879": {
+    "id": 5879,
+    "order": "5819.00000000000000000000",
+    "name": [
+      {
+        "id": 195,
+        "value": "cod_12322__5879"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 195,
+        "value": "Cod. 12322"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "43r",
+    "locus_to": "48v",
+    "locus_text": "43r-48v",
+    "places": [],
+    "orgs": [
+      {
+        "id": 95,
+        "value": "Jesuitenkolleg Chomutov"
+      }
+    ],
+    "year": null
+  },
+  "5880": {
+    "id": 5880,
+    "order": "5820.00000000000000000000",
+    "name": [
+      {
+        "id": 195,
+        "value": "cod_12322__5880"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 195,
+        "value": "Cod. 12322"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "49r",
+    "locus_to": "52r",
+    "locus_text": "49r-52r",
+    "places": [],
+    "orgs": [
+      {
+        "id": 142,
+        "value": "Jesuitenresidenz Maria Scheinensis"
+      }
+    ],
+    "year": null
+  },
+  "5881": {
+    "id": 5881,
+    "order": "5821.00000000000000000000",
+    "name": [
+      {
+        "id": 195,
+        "value": "cod_12322__5881"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 195,
+        "value": "Cod. 12322"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "53r",
+    "locus_to": "56r",
+    "locus_text": "53r-56r",
+    "places": [],
+    "orgs": [
+      {
+        "id": 96,
+        "value": "Jesuitenkolleg Krumlov"
+      }
+    ],
+    "year": null
+  },
+  "5882": {
+    "id": 5882,
+    "order": "5822.00000000000000000000",
+    "name": [
+      {
+        "id": 195,
+        "value": "cod_12322__5882"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 195,
+        "value": "Cod. 12322"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "55*r",
+    "locus_to": "58r",
+    "locus_text": "55*r-58r",
+    "places": [],
+    "orgs": [
+      {
+        "id": 97,
+        "value": "Jesuitenkolleg Cheb"
+      }
+    ],
+    "year": null
+  },
+  "5883": {
+    "id": 5883,
+    "order": "5823.00000000000000000000",
+    "name": [
+      {
+        "id": 195,
+        "value": "cod_12322__5883"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 195,
+        "value": "Cod. 12322"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "59r",
+    "locus_to": "64r",
+    "locus_text": "59r-64r",
+    "places": [],
+    "orgs": [
+      {
+        "id": 98,
+        "value": "Jesuitenkolleg Jičín"
+      },
+      {
+        "id": 159,
+        "value": "Probationshaus Jičín"
+      }
+    ],
+    "year": null
+  },
+  "5884": {
+    "id": 5884,
+    "order": "5824.00000000000000000000",
+    "name": [
+      {
+        "id": 195,
+        "value": "cod_12322__5884"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 195,
+        "value": "Cod. 12322"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "65r",
+    "locus_to": "72v",
+    "locus_text": "65r-72v",
+    "places": [],
+    "orgs": [
+      {
+        "id": 99,
+        "value": "Jesuitenkolleg Kłodzko"
+      }
+    ],
+    "year": null
+  },
+  "5885": {
+    "id": 5885,
+    "order": "5825.00000000000000000000",
+    "name": [
+      {
+        "id": 195,
+        "value": "cod_12322__5885"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 195,
+        "value": "Cod. 12322"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "73r",
+    "locus_to": "77v",
+    "locus_text": "73r-77v",
+    "places": [],
+    "orgs": [
+      {
+        "id": 100,
+        "value": "Jesuitenkolleg Klatovy"
+      }
+    ],
+    "year": null
+  },
+  "5886": {
+    "id": 5886,
+    "order": "5826.00000000000000000000",
+    "name": [
+      {
+        "id": 195,
+        "value": "cod_12322__5886"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 195,
+        "value": "Cod. 12322"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "78r",
+    "locus_to": "81r",
+    "locus_text": "78r-81r",
+    "places": [],
+    "orgs": [
+      {
+        "id": 101,
+        "value": "Jesuitenkolleg Głogów"
+      }
+    ],
+    "year": null
+  },
+  "5887": {
+    "id": 5887,
+    "order": "5827.00000000000000000000",
+    "name": [
+      {
+        "id": 195,
+        "value": "cod_12322__5887"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 195,
+        "value": "Cod. 12322"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "82r",
+    "locus_to": "85v",
+    "locus_text": "82r-85v",
+    "places": [],
+    "orgs": [
+      {
+        "id": 102,
+        "value": "Jesuitenkolleg Uherské Hradiště"
+      }
+    ],
+    "year": null
+  },
+  "5888": {
+    "id": 5888,
+    "order": "5828.00000000000000000000",
+    "name": [
+      {
+        "id": 195,
+        "value": "cod_12322__5888"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 195,
+        "value": "Cod. 12322"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "86r",
+    "locus_to": "89v",
+    "locus_text": "86r-89v",
+    "places": [],
+    "orgs": [
+      {
+        "id": 103,
+        "value": "Jesuitenkolleg Jihlava"
+      }
+    ],
+    "year": null
+  },
+  "5889": {
+    "id": 5889,
+    "order": "5829.00000000000000000000",
+    "name": [
+      {
+        "id": 195,
+        "value": "cod_12322__5889"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 195,
+        "value": "Cod. 12322"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "90r",
+    "locus_to": "95v",
+    "locus_text": "90r-95v",
+    "places": [],
+    "orgs": [
+      {
+        "id": 104,
+        "value": "Jesuitenkolleg Kutná Hora"
+      }
+    ],
+    "year": null
+  },
+  "5890": {
+    "id": 5890,
+    "order": "5830.00000000000000000000",
+    "name": [
+      {
+        "id": 195,
+        "value": "cod_12322__5890"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 195,
+        "value": "Cod. 12322"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "96r",
+    "locus_to": "97v",
+    "locus_text": "96r-97v",
+    "places": [],
+    "orgs": [
+      {
+        "id": 105,
+        "value": "Jesuitenresidenz Golčův Jeníkov"
+      }
+    ],
+    "year": null
+  },
+  "5891": {
+    "id": 5891,
+    "order": "5831.00000000000000000000",
+    "name": [
+      {
+        "id": 195,
+        "value": "cod_12322__5891"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 195,
+        "value": "Cod. 12322"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "98r",
+    "locus_to": "99v",
+    "locus_text": "98r-99v",
+    "places": [],
+    "orgs": [
+      {
+        "id": 106,
+        "value": "Jesuitenkolleg Legnica"
+      }
+    ],
+    "year": null
+  },
+  "5892": {
+    "id": 5892,
+    "order": "5832.00000000000000000000",
+    "name": [
+      {
+        "id": 195,
+        "value": "cod_12322__5892"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 195,
+        "value": "Cod. 12322"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "100r",
+    "locus_to": "101r",
+    "locus_text": "100r-101r",
+    "places": [],
+    "orgs": [
+      {
+        "id": 107,
+        "value": "Jesuitenresidenz Otyń"
+      }
+    ],
+    "year": null
+  },
+  "5893": {
+    "id": 5893,
+    "order": "5833.00000000000000000000",
+    "name": [
+      {
+        "id": 195,
+        "value": "cod_12322__5893"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 195,
+        "value": "Cod. 12322"
+      }
+    ],
+    "order_number": null,
+    "title": "Epitome fructum missionis Schwenkfeldicae in ducatibus Schwidnicensi, jauroviensi, et Lignicensi ab 1719 usque ad 1738",
+    "locus_from": "102r",
+    "locus_to": "103v",
+    "locus_text": "102r-103v",
+    "places": [
+      {
+        "id": 95,
+        "value": "Świdnica"
+      },
+      {
+        "id": 110,
+        "value": "Legnica"
+      },
+      {
+        "id": 285,
+        "value": "Jawor"
+      }
+    ],
+    "orgs": [],
+    "year": null
+  },
+  "5894": {
+    "id": 5894,
+    "order": "5834.00000000000000000000",
+    "name": [
+      {
+        "id": 195,
+        "value": "cod_12322__5894"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 195,
+        "value": "Cod. 12322"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "104r",
+    "locus_to": "105r",
+    "locus_text": "104r-105r",
+    "places": [],
+    "orgs": [
+      {
+        "id": 108,
+        "value": "Jesuitenkolleg Litoměřice"
+      }
+    ],
+    "year": null
+  },
+  "5895": {
+    "id": 5895,
+    "order": "5835.00000000000000000000",
+    "name": [
+      {
+        "id": 195,
+        "value": "cod_12322__5895"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 195,
+        "value": "Cod. 12322"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "106r",
+    "locus_to": "110v",
+    "locus_text": "106r-110v",
+    "places": [],
+    "orgs": [
+      {
+        "id": 110,
+        "value": "Jesuitenkolleg Nysa"
+      }
+    ],
+    "year": null
+  },
+  "5896": {
+    "id": 5896,
+    "order": "5836.00000000000000000000",
+    "name": [
+      {
+        "id": 195,
+        "value": "cod_12322__5896"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 195,
+        "value": "Cod. 12322"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "111r",
+    "locus_to": "114v",
+    "locus_text": "111r-114v",
+    "places": [],
+    "orgs": [
+      {
+        "id": 111,
+        "value": "Jesuitenkolleg Jindřichův Hradec"
+      }
+    ],
+    "year": null
+  },
+  "5897": {
+    "id": 5897,
+    "order": "5837.00000000000000000000",
+    "name": [
+      {
+        "id": 195,
+        "value": "cod_12322__5897"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 195,
+        "value": "Cod. 12322"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "115r",
+    "locus_to": "119v",
+    "locus_text": "115r-119v",
+    "places": [],
+    "orgs": [
+      {
+        "id": 112,
+        "value": "Jesuitenkolleg Olomouc"
+      }
+    ],
+    "year": null
+  },
+  "5898": {
+    "id": 5898,
+    "order": "5838.00000000000000000000",
+    "name": [
+      {
+        "id": 195,
+        "value": "cod_12322__5898"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 195,
+        "value": "Cod. 12322"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "119v",
+    "locus_to": "120r",
+    "locus_text": "119v-120r",
+    "places": [],
+    "orgs": [
+      {
+        "id": 467,
+        "value": "Jesuitenmission Nový Jičín"
+      }
+    ],
+    "year": null
+  },
+  "5899": {
+    "id": 5899,
+    "order": "5839.00000000000000000000",
+    "name": [
+      {
+        "id": 195,
+        "value": "cod_12322__5899"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 195,
+        "value": "Cod. 12322"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "121r",
+    "locus_to": "126r",
+    "locus_text": "121r-126r",
+    "places": [],
+    "orgs": [
+      {
+        "id": 113,
+        "value": "Jesuitenkolleg Opava"
+      }
+    ],
+    "year": null
+  },
+  "5900": {
+    "id": 5900,
+    "order": "5840.00000000000000000000",
+    "name": [
+      {
+        "id": 195,
+        "value": "cod_12322__5900"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 195,
+        "value": "Cod. 12322"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "126r",
+    "locus_to": "129v",
+    "locus_text": "126r-129v",
+    "places": [],
+    "orgs": [
+      {
+        "id": 140,
+        "value": "Jesuitenresidenz Cieszyn"
+      }
+    ],
+    "year": null
+  },
+  "5901": {
+    "id": 5901,
+    "order": "5841.00000000000000000000",
+    "name": [
+      {
+        "id": 195,
+        "value": "cod_12322__5901"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 195,
+        "value": "Cod. 12322"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "129v",
+    "locus_to": "130r",
+    "locus_text": "129v-130r",
+    "places": [
+      {
+        "id": 330,
+        "value": "Krnov"
+      }
+    ],
+    "orgs": [
+      {
+        "id": 294,
+        "value": "Jesuitenmission Lichtensteinica Böhmen"
+      }
+    ],
+    "year": null
+  },
+  "5902": {
+    "id": 5902,
+    "order": "5842.00000000000000000000",
+    "name": [
+      {
+        "id": 195,
+        "value": "cod_12322__5902"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 195,
+        "value": "Cod. 12322"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "130r",
+    "locus_to": "131r",
+    "locus_text": "130r-131r",
+    "places": [],
+    "orgs": [
+      {
+        "id": 133,
+        "value": "Jesuitenmission Pommersdorf"
+      }
+    ],
+    "year": null
+  },
+  "5903": {
+    "id": 5903,
+    "order": "5843.00000000000000000000",
+    "name": [
+      {
+        "id": 195,
+        "value": "cod_12322__5903"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 195,
+        "value": "Cod. 12322"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "131r",
+    "locus_to": "131v",
+    "locus_text": "131r-131v",
+    "places": [],
+    "orgs": [
+      {
+        "id": 132,
+        "value": "Jesuitenmission Brantice"
+      }
+    ],
+    "year": null
+  },
+  "5904": {
+    "id": 5904,
+    "order": "5844.00000000000000000000",
+    "name": [
+      {
+        "id": 195,
+        "value": "cod_12322__5904"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 195,
+        "value": "Cod. 12322"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "131v",
+    "locus_to": "132r",
+    "locus_text": "131v-132r",
+    "places": [],
+    "orgs": [
+      {
+        "id": 401,
+        "value": "Jesuitenmission Silesia Superiore,  Cieszyn"
+      }
+    ],
+    "year": null
+  },
+  "5905": {
+    "id": 5905,
+    "order": "5845.00000000000000000000",
+    "name": [
+      {
+        "id": 195,
+        "value": "cod_12322__5905"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 195,
+        "value": "Cod. 12322"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "132r",
+    "locus_to": "132v",
+    "locus_text": "132r-132v",
+    "places": [],
+    "orgs": [
+      {
+        "id": 293,
+        "value": "Jesuitenmission Jablunkov Pass"
+      }
+    ],
+    "year": null
+  },
+  "5906": {
+    "id": 5906,
+    "order": "5846.00000000000000000000",
+    "name": [
+      {
+        "id": 195,
+        "value": "cod_12322__5906"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 195,
+        "value": "Cod. 12322"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "133r",
+    "locus_to": "134v",
+    "locus_text": "133r-134v",
+    "places": [],
+    "orgs": [
+      {
+        "id": 115,
+        "value": "Jesuitenkolleg Opole"
+      }
+    ],
+    "year": null
+  },
+  "5907": {
+    "id": 5907,
+    "order": "5847.00000000000000000000",
+    "name": [
+      {
+        "id": 195,
+        "value": "cod_12322__5907"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 195,
+        "value": "Cod. 12322"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "135r",
+    "locus_to": "135r",
+    "locus_text": "135r-135r",
+    "places": [],
+    "orgs": [
+      {
+        "id": 134,
+        "value": "Jesuitenresidenz Piekary"
+      }
+    ],
+    "year": null
+  },
+  "5908": {
+    "id": 5908,
+    "order": "5848.00000000000000000000",
+    "name": [
+      {
+        "id": 195,
+        "value": "cod_12322__5908"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 195,
+        "value": "Cod. 12322"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "135r",
+    "locus_to": "135v",
+    "locus_text": "135r-135v",
+    "places": [],
+    "orgs": [
+      {
+        "id": 135,
+        "value": "Jesuitenmission Tarnowskie Góry"
+      }
+    ],
+    "year": null
+  },
+  "5909": {
+    "id": 5909,
+    "order": "5849.00000000000000000000",
+    "name": [
+      {
+        "id": 195,
+        "value": "cod_12322__5909"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 195,
+        "value": "Cod. 12322"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "137r",
+    "locus_to": "152v",
+    "locus_text": "137r-152v",
+    "places": [],
+    "orgs": [
+      {
+        "id": 116,
+        "value": "Jesuitenkolleg Prague ad S. Clementem"
+      }
+    ],
+    "year": null
+  },
+  "5910": {
+    "id": 5910,
+    "order": "5850.00000000000000000000",
+    "name": [
+      {
+        "id": 195,
+        "value": "cod_12322__5910"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 195,
+        "value": "Cod. 12322"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "153r",
+    "locus_to": "153v",
+    "locus_text": "153r-153v",
+    "places": [],
+    "orgs": [
+      {
+        "id": 494,
+        "value": "Jesuitenmission Beraunensis"
+      }
+    ],
+    "year": null
+  },
+  "5911": {
+    "id": 5911,
+    "order": "5851.00000000000000000000",
+    "name": [
+      {
+        "id": 195,
+        "value": "cod_12322__5911"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 195,
+        "value": "Cod. 12322"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "154r",
+    "locus_to": "159r",
+    "locus_text": "154r-159r",
+    "places": [],
+    "orgs": [
+      {
+        "id": 197,
+        "value": "Jesuitenkolleg Prague ad S. Ignatium"
+      }
+    ],
+    "year": null
+  },
+  "5912": {
+    "id": 5912,
+    "order": "5852.00000000000000000000",
+    "name": [
+      {
+        "id": 195,
+        "value": "cod_12322__5912"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 195,
+        "value": "Cod. 12322"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "160r",
+    "locus_to": "162v",
+    "locus_text": "160r-162v",
+    "places": [],
+    "orgs": [
+      {
+        "id": 117,
+        "value": "Jesuitenkolleg Hradec Králové"
+      }
+    ],
+    "year": null
+  },
+  "5913": {
+    "id": 5913,
+    "order": "5853.00000000000000000000",
+    "name": [
+      {
+        "id": 195,
+        "value": "cod_12322__5913"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 195,
+        "value": "Cod. 12322"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "163r",
+    "locus_to": "166r",
+    "locus_text": "163r-166r",
+    "places": [],
+    "orgs": [
+      {
+        "id": 136,
+        "value": "Jesuitenresidenz Košumberk"
+      }
+    ],
+    "year": null
+  },
+  "5914": {
+    "id": 5914,
+    "order": "5854.00000000000000000000",
+    "name": [
+      {
+        "id": 195,
+        "value": "cod_12322__5914"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 195,
+        "value": "Cod. 12322"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "167r",
+    "locus_to": "168v",
+    "locus_text": "167r-168v",
+    "places": [],
+    "orgs": [
+      {
+        "id": 118,
+        "value": "Jesuitenkolleg Żagań"
+      }
+    ],
+    "year": null
+  },
+  "5915": {
+    "id": 5915,
+    "order": "5855.00000000000000000000",
+    "name": [
+      {
+        "id": 195,
+        "value": "cod_12322__5915"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 195,
+        "value": "Cod. 12322"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "169r",
+    "locus_to": "171r",
+    "locus_text": "169r-171r",
+    "places": [],
+    "orgs": [
+      {
+        "id": 119,
+        "value": "Jesuitenkolleg Świdnica"
+      }
+    ],
+    "year": null
+  },
+  "5916": {
+    "id": 5916,
+    "order": "5856.00000000000000000000",
+    "name": [
+      {
+        "id": 195,
+        "value": "cod_12322__5916"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 195,
+        "value": "Cod. 12322"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "171r",
+    "locus_to": "172r",
+    "locus_text": "171r-172r",
+    "places": [],
+    "orgs": [
+      {
+        "id": 137,
+        "value": "Jesuitenresidenz Jelenia Góra"
+      }
+    ],
+    "year": null
+  },
+  "5917": {
+    "id": 5917,
+    "order": "5857.00000000000000000000",
+    "name": [
+      {
+        "id": 195,
+        "value": "cod_12322__5917"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 195,
+        "value": "Cod. 12322"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "173r",
+    "locus_to": "175v",
+    "locus_text": "173r-175v",
+    "places": [],
+    "orgs": [
+      {
+        "id": 120,
+        "value": "Jesuitenkolleg Telč"
+      },
+      {
+        "id": 138,
+        "value": "Probationshaus Telč"
+      }
+    ],
+    "year": null
+  },
+  "5918": {
+    "id": 5918,
+    "order": "5858.00000000000000000000",
+    "name": [
+      {
+        "id": 195,
+        "value": "cod_12322__5918"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 195,
+        "value": "Cod. 12322"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "176r",
+    "locus_to": "176v",
+    "locus_text": "176r-176v",
+    "places": [],
+    "orgs": [
+      {
+        "id": 495,
+        "value": "Jesuitenmission Policensis (?)"
+      }
+    ],
+    "year": null
+  },
+  "5919": {
+    "id": 5919,
+    "order": "5859.00000000000000000000",
+    "name": [
+      {
+        "id": 195,
+        "value": "cod_12322__5919"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 195,
+        "value": "Cod. 12322"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "177r",
+    "locus_to": "178v",
+    "locus_text": "177r-178v",
+    "places": [],
+    "orgs": [
+      {
+        "id": 138,
+        "value": "Probationshaus Telč"
+      }
+    ],
+    "year": null
+  },
+  "5920": {
+    "id": 5920,
+    "order": "5860.00000000000000000000",
+    "name": [
+      {
+        "id": 195,
+        "value": "cod_12322__5920"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 195,
+        "value": "Cod. 12322"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "179r",
+    "locus_to": "183r",
+    "locus_text": "179r-183r",
+    "places": [],
+    "orgs": [
+      {
+        "id": 121,
+        "value": "Jesuitenkolleg Wrocław"
+      }
+    ],
+    "year": null
+  },
+  "5921": {
+    "id": 5921,
+    "order": "5861.00000000000000000000",
+    "name": [
+      {
+        "id": 195,
+        "value": "cod_12322__5921"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 195,
+        "value": "Cod. 12322"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "183r",
+    "locus_to": "184v",
+    "locus_text": "183r-184v",
+    "places": [],
+    "orgs": [
+      {
+        "id": 139,
+        "value": "Jesuitenmission Brzeg"
+      }
+    ],
+    "year": null
+  },
+  "5922": {
+    "id": 5922,
+    "order": "5862.00000000000000000000",
+    "name": [
+      {
+        "id": 195,
+        "value": "cod_12322__5922"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 195,
+        "value": "Cod. 12322"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "185r",
+    "locus_to": "186r",
+    "locus_text": "185r-186r",
+    "places": [],
+    "orgs": [
+      {
+        "id": 122,
+        "value": "Jesuitenkolleg Znoymo"
+      }
+    ],
+    "year": null
+  },
+  "5923": {
+    "id": 5923,
+    "order": "5863.00000000000000000000",
+    "name": [
+      {
+        "id": 195,
+        "value": "cod_12322__5923"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 195,
+        "value": "Cod. 12322"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "187r",
+    "locus_to": "193v",
+    "locus_text": "187r-193v",
+    "places": [],
+    "orgs": [
+      {
+        "id": 160,
+        "value": "Probationshaus Brno"
+      },
+      {
+        "id": 123,
+        "value": "Jesuitenkolleg Brno"
+      }
+    ],
+    "year": null
+  },
+  "5924": {
+    "id": 5924,
+    "order": "5864.00000000000000000000",
+    "name": [
+      {
+        "id": 195,
+        "value": "cod_12322__5924"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 195,
+        "value": "Cod. 12322"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "193v",
+    "locus_to": "195r",
+    "locus_text": "193v-195r",
+    "places": [],
+    "orgs": [
+      {
+        "id": 124,
+        "value": "Jesuitenresidenz Tuřany"
+      }
+    ],
+    "year": null
+  },
+  "5925": {
+    "id": 5925,
+    "order": "5865.00000000000000000000",
+    "name": [
+      {
+        "id": 195,
+        "value": "cod_12322__5925"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 195,
+        "value": "Cod. 12322"
+      }
+    ],
+    "order_number": null,
+    "title": "in dominiis Moravo-Crumloviensi, Steinicensi et Buczovitzensi",
+    "locus_from": "195r",
+    "locus_to": "195v",
+    "locus_text": "195r-195v",
+    "places": [
+      {
+        "id": 211,
+        "value": "Moravský Krumlov"
+      }
+    ],
+    "orgs": [
+      {
+        "id": 294,
+        "value": "Jesuitenmission Lichtensteinica Böhmen"
+      }
+    ],
+    "year": null
+  },
+  "5926": {
+    "id": 5926,
+    "order": "5866.00000000000000000000",
+    "name": [
+      {
+        "id": 196,
+        "value": "cod_12323__5926"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 196,
+        "value": "Cod. 12323"
+      }
+    ],
+    "order_number": null,
+    "title": "Auflistung der Anzahl der Mitglieder; tabellarische Auflistung der verschiedenen Aktivitäten in den Domizilen.",
+    "locus_from": "1r",
+    "locus_to": "4v",
+    "locus_text": "1r-4v",
+    "places": [],
+    "orgs": [],
+    "year": null
+  },
+  "5927": {
+    "id": 5927,
+    "order": "5867.00000000000000000000",
+    "name": [
+      {
+        "id": 196,
+        "value": "cod_12323__5927"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 196,
+        "value": "Cod. 12323"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "7r",
+    "locus_to": "9v",
+    "locus_text": "7r-9v",
+    "places": [],
+    "orgs": [
+      {
+        "id": 92,
+        "value": "Profeßhaus Prag"
+      }
+    ],
+    "year": null
+  },
+  "5928": {
+    "id": 5928,
+    "order": "5868.00000000000000000000",
+    "name": [
+      {
+        "id": 196,
+        "value": "cod_12323__5928"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 196,
+        "value": "Cod. 12323"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "9v",
+    "locus_to": "10v",
+    "locus_text": "9v-10v",
+    "places": [],
+    "orgs": [
+      {
+        "id": 41,
+        "value": "Missio Castrensis"
+      }
+    ],
+    "year": null
+  },
+  "5929": {
+    "id": 5929,
+    "order": "5869.00000000000000000000",
+    "name": [
+      {
+        "id": 196,
+        "value": "cod_12323__5929"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 196,
+        "value": "Cod. 12323"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "11r",
+    "locus_to": "15v",
+    "locus_text": "11r-15v",
+    "places": [],
+    "orgs": [
+      {
+        "id": 300,
+        "value": "Jesuitenmission Poenitentia Bohemia Bohemica"
+      }
+    ],
+    "year": null
+  },
+  "5930": {
+    "id": 5930,
+    "order": "5870.00000000000000000000",
+    "name": [
+      {
+        "id": 196,
+        "value": "cod_12323__5930"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 196,
+        "value": "Cod. 12323"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "16r",
+    "locus_to": "19v",
+    "locus_text": "16r-19v",
+    "places": [],
+    "orgs": [
+      {
+        "id": 323,
+        "value": "Jesuitenmissionen Silesia"
+      }
+    ],
+    "year": null
+  },
+  "5931": {
+    "id": 5931,
+    "order": "5871.00000000000000000000",
+    "name": [
+      {
+        "id": 196,
+        "value": "cod_12323__5931"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 196,
+        "value": "Cod. 12323"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "20r",
+    "locus_to": "29r",
+    "locus_text": "20r-29r",
+    "places": [],
+    "orgs": [
+      {
+        "id": 161,
+        "value": "Jesuitenmission Dresden"
+      }
+    ],
+    "year": null
+  },
+  "5932": {
+    "id": 5932,
+    "order": "5872.00000000000000000000",
+    "name": [
+      {
+        "id": 196,
+        "value": "cod_12323__5932"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 196,
+        "value": "Cod. 12323"
+      }
+    ],
+    "order_number": null,
+    "title": "in nova civitate ad Dresdano",
+    "locus_from": "30r",
+    "locus_to": "31v",
+    "locus_text": "30r-31v",
+    "places": [
+      {
+        "id": 410,
+        "value": "Neustadt, Dresden"
+      }
+    ],
+    "orgs": [
+      {
+        "id": 161,
+        "value": "Jesuitenmission Dresden"
+      }
+    ],
+    "year": null
+  },
+  "5933": {
+    "id": 5933,
+    "order": "5873.00000000000000000000",
+    "name": [
+      {
+        "id": 196,
+        "value": "cod_12323__5933"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 196,
+        "value": "Cod. 12323"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "32r",
+    "locus_to": "33v",
+    "locus_text": "32r-33v",
+    "places": [],
+    "orgs": [
+      {
+        "id": 302,
+        "value": "Jesuitenmission Leipzig"
+      }
+    ],
+    "year": null
+  },
+  "5934": {
+    "id": 5934,
+    "order": "5874.00000000000000000000",
+    "name": [
+      {
+        "id": 196,
+        "value": "cod_12323__5934"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 196,
+        "value": "Cod. 12323"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "34r",
+    "locus_to": "36v",
+    "locus_text": "34r-36v",
+    "places": [],
+    "orgs": [
+      {
+        "id": 93,
+        "value": "Jesuitenkolleg Březnice"
+      }
+    ],
+    "year": null
+  },
+  "5935": {
+    "id": 5935,
+    "order": "5875.00000000000000000000",
+    "name": [
+      {
+        "id": 196,
+        "value": "cod_12323__5935"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 196,
+        "value": "Cod. 12323"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "37r",
+    "locus_to": "42r",
+    "locus_text": "37r-42r",
+    "places": [],
+    "orgs": [
+      {
+        "id": 94,
+        "value": "Jesuitenresidenz Svatá Hora"
+      }
+    ],
+    "year": null
+  },
+  "5936": {
+    "id": 5936,
+    "order": "5876.00000000000000000000",
+    "name": [
+      {
+        "id": 196,
+        "value": "cod_12323__5936"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 196,
+        "value": "Cod. 12323"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "43r",
+    "locus_to": "47r",
+    "locus_text": "43r-47r",
+    "places": [],
+    "orgs": [
+      {
+        "id": 95,
+        "value": "Jesuitenkolleg Chomutov"
+      }
+    ],
+    "year": null
+  },
+  "5937": {
+    "id": 5937,
+    "order": "5877.00000000000000000000",
+    "name": [
+      {
+        "id": 196,
+        "value": "cod_12323__5937"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 196,
+        "value": "Cod. 12323"
+      }
+    ],
+    "order_number": null,
+    "title": "Missio per districtum Zattecensem",
+    "locus_from": "47r",
+    "locus_to": "48r",
+    "locus_text": "47r-48r",
+    "places": [
+      {
+        "id": 411,
+        "value": "Žatec"
+      }
+    ],
+    "orgs": [],
+    "year": null
+  },
+  "5938": {
+    "id": 5938,
+    "order": "5878.00000000000000000000",
+    "name": [
+      {
+        "id": 196,
+        "value": "cod_12323__5938"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 196,
+        "value": "Cod. 12323"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "49r",
+    "locus_to": "54r",
+    "locus_text": "49r-54r",
+    "places": [],
+    "orgs": [
+      {
+        "id": 142,
+        "value": "Jesuitenresidenz Maria Scheinensis"
+      }
+    ],
+    "year": null
+  },
+  "5939": {
+    "id": 5939,
+    "order": "5879.00000000000000000000",
+    "name": [
+      {
+        "id": 196,
+        "value": "cod_12323__5939"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 196,
+        "value": "Cod. 12323"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "55r",
+    "locus_to": "61r",
+    "locus_text": "55r-61r",
+    "places": [],
+    "orgs": [
+      {
+        "id": 96,
+        "value": "Jesuitenkolleg Krumlov"
+      }
+    ],
+    "year": null
+  },
+  "5940": {
+    "id": 5940,
+    "order": "5880.00000000000000000000",
+    "name": [
+      {
+        "id": 196,
+        "value": "cod_12323__5940"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 196,
+        "value": "Cod. 12323"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "62r",
+    "locus_to": "68r",
+    "locus_text": "62r-68r",
+    "places": [],
+    "orgs": [
+      {
+        "id": 98,
+        "value": "Jesuitenkolleg Jičín"
+      },
+      {
+        "id": 159,
+        "value": "Probationshaus Jičín"
+      }
+    ],
+    "year": null
+  },
+  "5941": {
+    "id": 5941,
+    "order": "5881.00000000000000000000",
+    "name": [
+      {
+        "id": 196,
+        "value": "cod_12323__5941"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 196,
+        "value": "Cod. 12323"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "69r",
+    "locus_to": "74v",
+    "locus_text": "69r-74v",
+    "places": [],
+    "orgs": [
+      {
+        "id": 99,
+        "value": "Jesuitenkolleg Kłodzko"
+      }
+    ],
+    "year": null
+  },
+  "5942": {
+    "id": 5942,
+    "order": "5882.00000000000000000000",
+    "name": [
+      {
+        "id": 196,
+        "value": "cod_12323__5942"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 196,
+        "value": "Cod. 12323"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "75r",
+    "locus_to": "77v",
+    "locus_text": "75r-77v",
+    "places": [],
+    "orgs": [
+      {
+        "id": 100,
+        "value": "Jesuitenkolleg Klatovy"
+      }
+    ],
+    "year": null
+  },
+  "5943": {
+    "id": 5943,
+    "order": "5883.00000000000000000000",
+    "name": [
+      {
+        "id": 196,
+        "value": "cod_12323__5943"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 196,
+        "value": "Cod. 12323"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "78r",
+    "locus_to": "82r",
+    "locus_text": "78r-82r",
+    "places": [],
+    "orgs": [
+      {
+        "id": 101,
+        "value": "Jesuitenkolleg Głogów"
+      }
+    ],
+    "year": null
+  },
+  "5944": {
+    "id": 5944,
+    "order": "5884.00000000000000000000",
+    "name": [
+      {
+        "id": 196,
+        "value": "cod_12323__5944"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 196,
+        "value": "Cod. 12323"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "83r",
+    "locus_to": "86r",
+    "locus_text": "83r-86r",
+    "places": [
+      {
+        "id": 311,
+        "value": "Vsetín"
+      },
+      {
+        "id": 412,
+        "value": "Starý Hrozenkov"
+      }
+    ],
+    "orgs": [
+      {
+        "id": 102,
+        "value": "Jesuitenkolleg Uherské Hradiště"
+      }
+    ],
+    "year": null
+  },
+  "5945": {
+    "id": 5945,
+    "order": "5885.00000000000000000000",
+    "name": [
+      {
+        "id": 196,
+        "value": "cod_12323__5945"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 196,
+        "value": "Cod. 12323"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "87r",
+    "locus_to": "91r",
+    "locus_text": "87r-91r",
+    "places": [],
+    "orgs": [
+      {
+        "id": 103,
+        "value": "Jesuitenkolleg Jihlava"
+      }
+    ],
+    "year": null
+  },
+  "5946": {
+    "id": 5946,
+    "order": "5886.00000000000000000000",
+    "name": [
+      {
+        "id": 196,
+        "value": "cod_12323__5946"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 196,
+        "value": "Cod. 12323"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "92r",
+    "locus_to": "99v",
+    "locus_text": "92r-99v",
+    "places": [],
+    "orgs": [
+      {
+        "id": 104,
+        "value": "Jesuitenkolleg Kutná Hora"
+      }
+    ],
+    "year": null
+  },
+  "5947": {
+    "id": 5947,
+    "order": "5887.00000000000000000000",
+    "name": [
+      {
+        "id": 196,
+        "value": "cod_12323__5947"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 196,
+        "value": "Cod. 12323"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "100r",
+    "locus_to": "101v",
+    "locus_text": "100r-101v",
+    "places": [],
+    "orgs": [
+      {
+        "id": 106,
+        "value": "Jesuitenkolleg Legnica"
+      }
+    ],
+    "year": null
+  },
+  "5948": {
+    "id": 5948,
+    "order": "5888.00000000000000000000",
+    "name": [
+      {
+        "id": 196,
+        "value": "cod_12323__5948"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 196,
+        "value": "Cod. 12323"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "102r",
+    "locus_to": "102v",
+    "locus_text": "102r-102v",
+    "places": [],
+    "orgs": [
+      {
+        "id": 107,
+        "value": "Jesuitenresidenz Otyń"
+      }
+    ],
+    "year": null
+  },
+  "5949": {
+    "id": 5949,
+    "order": "5889.00000000000000000000",
+    "name": [
+      {
+        "id": 196,
+        "value": "cod_12323__5949"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 196,
+        "value": "Cod. 12323"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "103r",
+    "locus_to": "104v",
+    "locus_text": "103r-104v",
+    "places": [],
+    "orgs": [
+      {
+        "id": 108,
+        "value": "Jesuitenkolleg Litoměřice"
+      }
+    ],
+    "year": null
+  },
+  "5950": {
+    "id": 5950,
+    "order": "5890.00000000000000000000",
+    "name": [
+      {
+        "id": 196,
+        "value": "cod_12323__5950"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 196,
+        "value": "Cod. 12323"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "105r",
+    "locus_to": "108v",
+    "locus_text": "105r-108v",
+    "places": [],
+    "orgs": [
+      {
+        "id": 110,
+        "value": "Jesuitenkolleg Nysa"
+      }
+    ],
+    "year": null
+  },
+  "5951": {
+    "id": 5951,
+    "order": "5891.00000000000000000000",
+    "name": [
+      {
+        "id": 196,
+        "value": "cod_12323__5951"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 196,
+        "value": "Cod. 12323"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "109r",
+    "locus_to": "110v",
+    "locus_text": "109r-110v",
+    "places": [],
+    "orgs": [
+      {
+        "id": 111,
+        "value": "Jesuitenkolleg Jindřichův Hradec"
+      }
+    ],
+    "year": null
+  },
+  "5952": {
+    "id": 5952,
+    "order": "5892.00000000000000000000",
+    "name": [
+      {
+        "id": 196,
+        "value": "cod_12323__5952"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 196,
+        "value": "Cod. 12323"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "111r",
+    "locus_to": "115r",
+    "locus_text": "111r-115r",
+    "places": [],
+    "orgs": [
+      {
+        "id": 112,
+        "value": "Jesuitenkolleg Olomouc"
+      }
+    ],
+    "year": null
+  },
+  "5953": {
+    "id": 5953,
+    "order": "5893.00000000000000000000",
+    "name": [
+      {
+        "id": 196,
+        "value": "cod_12323__5953"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 196,
+        "value": "Cod. 12323"
+      }
+    ],
+    "order_number": null,
+    "title": "in montanis Hohestadiensis et Eisensbergensis",
+    "locus_from": "115r",
+    "locus_to": "115v",
+    "locus_text": "115r-115v",
+    "places": [],
+    "orgs": [
+      {
+        "id": 294,
+        "value": "Jesuitenmission Lichtensteinica Böhmen"
+      }
+    ],
+    "year": null
+  },
+  "5954": {
+    "id": 5954,
+    "order": "5894.00000000000000000000",
+    "name": [
+      {
+        "id": 196,
+        "value": "cod_12323__5954"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 196,
+        "value": "Cod. 12323"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "116r",
+    "locus_to": "118r",
+    "locus_text": "116r-118r",
+    "places": [],
+    "orgs": [
+      {
+        "id": 113,
+        "value": "Jesuitenkolleg Opava"
+      }
+    ],
+    "year": null
+  },
+  "5955": {
+    "id": 5955,
+    "order": "5895.00000000000000000000",
+    "name": [
+      {
+        "id": 196,
+        "value": "cod_12323__5955"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 196,
+        "value": "Cod. 12323"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "118r",
+    "locus_to": "119v",
+    "locus_text": "118r-119v",
+    "places": [],
+    "orgs": [
+      {
+        "id": 140,
+        "value": "Jesuitenresidenz Cieszyn"
+      }
+    ],
+    "year": null
+  },
+  "5956": {
+    "id": 5956,
+    "order": "5896.00000000000000000000",
+    "name": [
+      {
+        "id": 196,
+        "value": "cod_12323__5956"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 196,
+        "value": "Cod. 12323"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "120r",
+    "locus_to": "120v",
+    "locus_text": "120r-120v",
+    "places": [
+      {
+        "id": 330,
+        "value": "Krnov"
+      }
+    ],
+    "orgs": [
+      {
+        "id": 294,
+        "value": "Jesuitenmission Lichtensteinica Böhmen"
+      }
+    ],
+    "year": null
+  },
+  "5957": {
+    "id": 5957,
+    "order": "5897.00000000000000000000",
+    "name": [
+      {
+        "id": 196,
+        "value": "cod_12323__5957"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 196,
+        "value": "Cod. 12323"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "120v",
+    "locus_to": "121r",
+    "locus_text": "120v-121r",
+    "places": [],
+    "orgs": [
+      {
+        "id": 133,
+        "value": "Jesuitenmission Pommersdorf"
+      }
+    ],
+    "year": null
+  },
+  "5958": {
+    "id": 5958,
+    "order": "5898.00000000000000000000",
+    "name": [
+      {
+        "id": 196,
+        "value": "cod_12323__5958"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 196,
+        "value": "Cod. 12323"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "121r",
+    "locus_to": "121r",
+    "locus_text": "121r-121r",
+    "places": [],
+    "orgs": [
+      {
+        "id": 132,
+        "value": "Jesuitenmission Brantice"
+      }
+    ],
+    "year": null
+  },
+  "5959": {
+    "id": 5959,
+    "order": "5899.00000000000000000000",
+    "name": [
+      {
+        "id": 196,
+        "value": "cod_12323__5959"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 196,
+        "value": "Cod. 12323"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "121r",
+    "locus_to": "121v",
+    "locus_text": "121r-121v",
+    "places": [],
+    "orgs": [
+      {
+        "id": 293,
+        "value": "Jesuitenmission Jablunkov Pass"
+      }
+    ],
+    "year": null
+  },
+  "5960": {
+    "id": 5960,
+    "order": "5900.00000000000000000000",
+    "name": [
+      {
+        "id": 196,
+        "value": "cod_12323__5960"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 196,
+        "value": "Cod. 12323"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "123r",
+    "locus_to": "125v",
+    "locus_text": "123r-125v",
+    "places": [],
+    "orgs": [
+      {
+        "id": 115,
+        "value": "Jesuitenkolleg Opole"
+      }
+    ],
+    "year": null
+  },
+  "5961": {
+    "id": 5961,
+    "order": "5901.00000000000000000000",
+    "name": [
+      {
+        "id": 196,
+        "value": "cod_12323__5961"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 196,
+        "value": "Cod. 12323"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "126r",
+    "locus_to": "126v",
+    "locus_text": "126r-126v",
+    "places": [],
+    "orgs": [
+      {
+        "id": 134,
+        "value": "Jesuitenresidenz Piekary"
+      }
+    ],
+    "year": null
+  },
+  "5962": {
+    "id": 5962,
+    "order": "5902.00000000000000000000",
+    "name": [
+      {
+        "id": 196,
+        "value": "cod_12323__5962"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 196,
+        "value": "Cod. 12323"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "127r",
+    "locus_to": "127v",
+    "locus_text": "127r-127v",
+    "places": [],
+    "orgs": [
+      {
+        "id": 135,
+        "value": "Jesuitenmission Tarnowskie Góry"
+      }
+    ],
+    "year": null
+  },
+  "5963": {
+    "id": 5963,
+    "order": "5903.00000000000000000000",
+    "name": [
+      {
+        "id": 196,
+        "value": "cod_12323__5963"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 196,
+        "value": "Cod. 12323"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "129r",
+    "locus_to": "149v",
+    "locus_text": "129r-149v",
+    "places": [],
+    "orgs": [
+      {
+        "id": 116,
+        "value": "Jesuitenkolleg Prague ad S. Clementem"
+      }
+    ],
+    "year": null
+  },
+  "5964": {
+    "id": 5964,
+    "order": "5904.00000000000000000000",
+    "name": [
+      {
+        "id": 196,
+        "value": "cod_12323__5964"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 196,
+        "value": "Cod. 12323"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "149v",
+    "locus_to": "150v",
+    "locus_text": "149v-150v",
+    "places": [],
+    "orgs": [
+      {
+        "id": 494,
+        "value": "Jesuitenmission Beraunensis"
+      }
+    ],
+    "year": null
+  },
+  "5965": {
+    "id": 5965,
+    "order": "5905.00000000000000000000",
+    "name": [
+      {
+        "id": 196,
+        "value": "cod_12323__5965"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 196,
+        "value": "Cod. 12323"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "151r",
+    "locus_to": "155v",
+    "locus_text": "151r-155v",
+    "places": [],
+    "orgs": [
+      {
+        "id": 197,
+        "value": "Jesuitenkolleg Prague ad S. Ignatium"
+      }
+    ],
+    "year": null
+  },
+  "5966": {
+    "id": 5966,
+    "order": "5906.00000000000000000000",
+    "name": [
+      {
+        "id": 196,
+        "value": "cod_12323__5966"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 196,
+        "value": "Cod. 12323"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "156r",
+    "locus_to": "159v",
+    "locus_text": "156r-159v",
+    "places": [],
+    "orgs": [
+      {
+        "id": 117,
+        "value": "Jesuitenkolleg Hradec Králové"
+      }
+    ],
+    "year": null
+  },
+  "5967": {
+    "id": 5967,
+    "order": "5907.00000000000000000000",
+    "name": [
+      {
+        "id": 196,
+        "value": "cod_12323__5967"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 196,
+        "value": "Cod. 12323"
+      }
+    ],
+    "order_number": null,
+    "title": "Missio episcopalis per diocesim Regina.Hradicensem",
+    "locus_from": "160r",
+    "locus_to": "160v",
+    "locus_text": "160r-160v",
+    "places": [],
+    "orgs": [
+      {
+        "id": 117,
+        "value": "Jesuitenkolleg Hradec Králové"
+      }
+    ],
+    "year": null
+  },
+  "5968": {
+    "id": 5968,
+    "order": "5908.00000000000000000000",
+    "name": [
+      {
+        "id": 196,
+        "value": "cod_12323__5968"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 196,
+        "value": "Cod. 12323"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "161r",
+    "locus_to": "164r",
+    "locus_text": "161r-164r",
+    "places": [],
+    "orgs": [
+      {
+        "id": 136,
+        "value": "Jesuitenresidenz Košumberk"
+      }
+    ],
+    "year": null
+  },
+  "5969": {
+    "id": 5969,
+    "order": "5909.00000000000000000000",
+    "name": [
+      {
+        "id": 196,
+        "value": "cod_12323__5969"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 196,
+        "value": "Cod. 12323"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "165r",
+    "locus_to": "166v",
+    "locus_text": "165r-166v",
+    "places": [],
+    "orgs": [
+      {
+        "id": 118,
+        "value": "Jesuitenkolleg Żagań"
+      }
+    ],
+    "year": null
+  },
+  "5970": {
+    "id": 5970,
+    "order": "5910.00000000000000000000",
+    "name": [
+      {
+        "id": 196,
+        "value": "cod_12323__5970"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 196,
+        "value": "Cod. 12323"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "167r",
+    "locus_to": "169v",
+    "locus_text": "167r-169v",
+    "places": [],
+    "orgs": [
+      {
+        "id": 119,
+        "value": "Jesuitenkolleg Świdnica"
+      }
+    ],
+    "year": null
+  },
+  "5971": {
+    "id": 5971,
+    "order": "5911.00000000000000000000",
+    "name": [
+      {
+        "id": 196,
+        "value": "cod_12323__5971"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 196,
+        "value": "Cod. 12323"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "170r",
+    "locus_to": "170v",
+    "locus_text": "170r-170v",
+    "places": [],
+    "orgs": [
+      {
+        "id": 137,
+        "value": "Jesuitenresidenz Jelenia Góra"
+      }
+    ],
+    "year": null
+  },
+  "5972": {
+    "id": 5972,
+    "order": "5912.00000000000000000000",
+    "name": [
+      {
+        "id": 196,
+        "value": "cod_12323__5972"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 196,
+        "value": "Cod. 12323"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "171r",
+    "locus_to": "174r",
+    "locus_text": "171r-174r",
+    "places": [],
+    "orgs": [
+      {
+        "id": 120,
+        "value": "Jesuitenkolleg Telč"
+      },
+      {
+        "id": 138,
+        "value": "Probationshaus Telč"
+      }
+    ],
+    "year": null
+  },
+  "5973": {
+    "id": 5973,
+    "order": "5913.00000000000000000000",
+    "name": [
+      {
+        "id": 196,
+        "value": "cod_12323__5973"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 196,
+        "value": "Cod. 12323"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "174r",
+    "locus_to": "174v",
+    "locus_text": "174r-174v",
+    "places": [],
+    "orgs": [
+      {
+        "id": 495,
+        "value": "Jesuitenmission Policensis (?)"
+      }
+    ],
+    "year": null
+  },
+  "5974": {
+    "id": 5974,
+    "order": "5914.00000000000000000000",
+    "name": [
+      {
+        "id": 196,
+        "value": "cod_12323__5974"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 196,
+        "value": "Cod. 12323"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "175r",
+    "locus_to": "176v",
+    "locus_text": "175r-176v",
+    "places": [],
+    "orgs": [
+      {
+        "id": 138,
+        "value": "Probationshaus Telč"
+      }
+    ],
+    "year": null
+  },
+  "5975": {
+    "id": 5975,
+    "order": "5915.00000000000000000000",
+    "name": [
+      {
+        "id": 196,
+        "value": "cod_12323__5975"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 196,
+        "value": "Cod. 12323"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "177r",
+    "locus_to": "185v",
+    "locus_text": "177r-185v",
+    "places": [],
+    "orgs": [
+      {
+        "id": 121,
+        "value": "Jesuitenkolleg Wrocław"
+      }
+    ],
+    "year": null
+  },
+  "5976": {
+    "id": 5976,
+    "order": "5916.00000000000000000000",
+    "name": [
+      {
+        "id": 196,
+        "value": "cod_12323__5976"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 196,
+        "value": "Cod. 12323"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "185v",
+    "locus_to": "188r",
+    "locus_text": "185v-188r",
+    "places": [],
+    "orgs": [
+      {
+        "id": 139,
+        "value": "Jesuitenmission Brzeg"
+      }
+    ],
+    "year": null
+  },
+  "5977": {
+    "id": 5977,
+    "order": "5917.00000000000000000000",
+    "name": [
+      {
+        "id": 196,
+        "value": "cod_12323__5977"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 196,
+        "value": "Cod. 12323"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "189r",
+    "locus_to": "194r",
+    "locus_text": "189r-194r",
+    "places": [],
+    "orgs": [
+      {
+        "id": 122,
+        "value": "Jesuitenkolleg Znoymo"
+      }
+    ],
+    "year": null
+  },
+  "5978": {
+    "id": 5978,
+    "order": "5918.00000000000000000000",
+    "name": [
+      {
+        "id": 196,
+        "value": "cod_12323__5978"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 196,
+        "value": "Cod. 12323"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "195r",
+    "locus_to": "202r",
+    "locus_text": "195r-202r",
+    "places": [],
+    "orgs": [
+      {
+        "id": 160,
+        "value": "Probationshaus Brno"
+      },
+      {
+        "id": 123,
+        "value": "Jesuitenkolleg Brno"
+      }
+    ],
+    "year": null
+  },
+  "5979": {
+    "id": 5979,
+    "order": "5919.00000000000000000000",
+    "name": [
+      {
+        "id": 196,
+        "value": "cod_12323__5979"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 196,
+        "value": "Cod. 12323"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "202r",
+    "locus_to": "203r",
+    "locus_text": "202r-203r",
+    "places": [],
+    "orgs": [
+      {
+        "id": 124,
+        "value": "Jesuitenresidenz Tuřany"
+      }
+    ],
+    "year": null
+  },
+  "5980": {
+    "id": 5980,
+    "order": "5920.00000000000000000000",
+    "name": [
+      {
+        "id": 196,
+        "value": "cod_12323__5980"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 196,
+        "value": "Cod. 12323"
+      }
+    ],
+    "order_number": null,
+    "title": "in dominiis Moravo-Crumloviensi, Steinicensi et Buczovicensi",
+    "locus_from": "203r",
+    "locus_to": "203v",
+    "locus_text": "203r-203v",
+    "places": [
+      {
+        "id": 211,
+        "value": "Moravský Krumlov"
+      }
+    ],
+    "orgs": [
+      {
+        "id": 294,
+        "value": "Jesuitenmission Lichtensteinica Böhmen"
+      }
+    ],
+    "year": null
+  },
+  "5981": {
+    "id": 5981,
+    "order": "5921.00000000000000000000",
+    "name": [
+      {
+        "id": 197,
+        "value": "cod_12325__5981"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 197,
+        "value": "Cod. 12325"
+      }
+    ],
+    "order_number": null,
+    "title": "Littera annua thematisch gegliedert in 21 Kapiteln",
+    "locus_from": "1r",
+    "locus_to": "75v",
+    "locus_text": "1r-75v",
+    "places": [],
+    "orgs": [],
+    "year": null
+  },
+  "5982": {
+    "id": 5982,
+    "order": "5922.00000000000000000000",
+    "name": [
+      {
+        "id": 197,
+        "value": "cod_12325__5982"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 197,
+        "value": "Cod. 12325"
+      }
+    ],
+    "order_number": null,
+    "title": "Ingressus ad supplementum annalium anni 1741",
+    "locus_from": "76r",
+    "locus_to": "76r",
+    "locus_text": "76r-76r",
+    "places": [],
+    "orgs": [],
+    "year": null
+  },
+  "5983": {
+    "id": 5983,
+    "order": "5923.00000000000000000000",
+    "name": [
+      {
+        "id": 197,
+        "value": "cod_12325__5983"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 197,
+        "value": "Cod. 12325"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "77r",
+    "locus_to": "80v",
+    "locus_text": "77r-80v",
+    "places": [],
+    "orgs": [
+      {
+        "id": 300,
+        "value": "Jesuitenmission Poenitentia Bohemia Bohemica"
+      }
+    ],
+    "year": null
+  },
+  "5984": {
+    "id": 5984,
+    "order": "5924.00000000000000000000",
+    "name": [
+      {
+        "id": 197,
+        "value": "cod_12325__5984"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 197,
+        "value": "Cod. 12325"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "81r",
+    "locus_to": "87v",
+    "locus_text": "81r-87v",
+    "places": [],
+    "orgs": [
+      {
+        "id": 116,
+        "value": "Jesuitenkolleg Prague ad S. Clementem"
+      }
+    ],
+    "year": null
+  },
+  "5985": {
+    "id": 5985,
+    "order": "5925.00000000000000000000",
+    "name": [
+      {
+        "id": 197,
+        "value": "cod_12325__5985"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 197,
+        "value": "Cod. 12325"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "89r",
+    "locus_to": "89v",
+    "locus_text": "89r-89v",
+    "places": [],
+    "orgs": [
+      {
+        "id": 142,
+        "value": "Jesuitenresidenz Maria Scheinensis"
+      }
+    ],
+    "year": null
+  },
+  "5986": {
+    "id": 5986,
+    "order": "5926.00000000000000000000",
+    "name": [
+      {
+        "id": 197,
+        "value": "cod_12325__5986"
+      }
+    ],
+    "msdesc": [
+      {
+        "id": 197,
+        "value": "Cod. 12325"
+      }
+    ],
+    "order_number": null,
+    "title": "",
+    "locus_from": "90r",
+    "locus_to": "90v",
+    "locus_text": "90r-90v",
+    "places": [],
+    "orgs": [
+      {
+        "id": 299,
+        "value": "Jesuitenmission Poenitentia in Bohemia-Germanica"
       }
     ],
     "year": null

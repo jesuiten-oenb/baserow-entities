@@ -7966,6 +7966,22 @@
         "value": "Cod. 12321"
       },
       {
+        "id": 195,
+        "value": "Cod. 12322"
+      },
+      {
+        "id": 196,
+        "value": "Cod. 12323"
+      },
+      {
+        "id": 197,
+        "value": "Cod. 12325"
+      },
+      {
+        "id": 198,
+        "value": "Cod. 12331"
+      },
+      {
         "id": 194,
         "value": "Cod. 12339"
       },
@@ -10220,6 +10236,52 @@
     "geonames": "https://www.geonames.org/3078503/bucovice.html",
     "lat": "49.14896",
     "long": "17.00191",
+    "wikidata": "",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "410": {
+    "id": 410,
+    "order": "401.00000000000000000000",
+    "name": "Neustadt, Dresden",
+    "jesuiten_id": "jesuiten_place__410",
+    "geonames": "https://www.geonames.org/12500814/neustadt.html",
+    "lat": "51.07553",
+    "long": "13.76259",
+    "wikidata": "https://www.wikidata.org/wiki/Q383245",
+    "alt_names": [
+      {
+        "id": 285,
+        "value": "Nova civitas ad Dresdano"
+      }
+    ],
+    "msdesc": []
+  },
+  "411": {
+    "id": 411,
+    "order": "402.00000000000000000000",
+    "name": "Žatec",
+    "jesuiten_id": "jesuiten_place__411",
+    "geonames": "https://www.geonames.org/11925475/zatec.html",
+    "lat": "49.20608",
+    "long": "15.50435",
+    "wikidata": "https://www.wikidata.org/wiki/Q393426",
+    "alt_names": [
+      {
+        "id": 286,
+        "value": "Saaz"
+      }
+    ],
+    "msdesc": []
+  },
+  "412": {
+    "id": 412,
+    "order": "403.00000000000000000000",
+    "name": "Starý Hrozenkov",
+    "jesuiten_id": "jesuiten_place__412",
+    "geonames": "https://www.geonames.org/3065265/stary-hrozenkov.html",
+    "lat": "48.96587",
+    "long": "17.86301",
     "wikidata": "",
     "alt_names": [],
     "msdesc": []
