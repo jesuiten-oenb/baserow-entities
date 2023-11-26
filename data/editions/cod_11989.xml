@@ -107,11 +107,7 @@
     </teiHeader>
     <text>
         <body><p/></body>
-    <back><listPlace><place xml:id="jesuiten_place__317">
-                  <placeName>Kingdom of Poland</placeName>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q8890160</idno>
-               <noteGrp><note target="cod_11982.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11982</note><note target="cod_11983.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11983</note><note target="cod_11989.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11989</note><note target="cod_12005.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12005</note><note target="cod_12006.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12006</note></noteGrp></place>
-               </listPlace><listOrg><org xml:id="jesuiten_org__492">
+    <back><listOrg><org xml:id="jesuiten_org__492">
                   <orgName>Jesuitenmission Rożniątów</orgName>
                   <orgName type="alt">Missio Rozniatowiensis</orgName>
                   <location type="located_in_place">
@@ -120,5 +116,9 @@
                      <note type="idno"><idno type="geonames">https://sws.geonames.org/760215/</idno></note>
                   </location>
                <noteGrp><note target="cod_11989.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11989</note></noteGrp></org>
-               </listOrg></back></text>
+               </listOrg><listPlace><place xml:id="jesuiten_place__317">
+                  <placeName>Kingdom of Poland</placeName>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q8890160</idno>
+               <noteGrp><note target="cod_11982.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11982</note><note target="cod_11983.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11983</note><note target="cod_11989.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11989</note><note target="cod_12005.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12005</note><note target="cod_12006.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12006</note></noteGrp></place>
+               </listPlace></back></text>
 </TEI>
