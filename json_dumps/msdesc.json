@@ -13972,7 +13972,12 @@
     "title": "Litterae annuae Societatis Iesu provinciae Austriae unitae a. 1621-1622, deinde provinciae Bohemiae ab Austriaca seiunctae a. 1623-1635",
     "date": "1622-1635",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Bohemia"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_11960",
     "extent": "IV, 563, II* Bl.",
@@ -13997,7 +14002,12 @@
     "title": "Litterae annuae provinciae Bohemiae Societatis Iesu a. 1636–1650.",
     "date": "ab 1637",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Bohemia"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_11961",
     "extent": "IV, 575 Bl.",
@@ -14022,7 +14032,12 @@
     "title": "Litterae annuae provinciae Bohemiae Societatis Iesu a. 1651, 1652, 1655-1658. Catalogus personarum et officiorum a. 1652-1657, 1659.",
     "date": "ab 1652",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Bohemia"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_11962",
     "extent": "IV, 718, III* Bl.",
@@ -14047,7 +14062,12 @@
     "title": "Litterae annuae provinciae Bohemiae Societatis Iesu a. 1670, 1671, 1672, 1673, 1674.",
     "date": "ab 1671",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Bohemia"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_11963",
     "extent": "V, 854, IV* Bl.",
@@ -14072,7 +14092,12 @@
     "title": "Litterae annuae provinciae Bohemiae Societatis Iesu a. 1680, 1681, 1682, 1683, 1684.",
     "date": "ab 1681",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Bohemia"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_11964",
     "extent": "VI, 646 Bl.",
@@ -14097,7 +14122,12 @@
     "title": "Litterae annuae provinciae Bohemiae Societatis Iesu a. 1727, 1728, 1729, 1730.",
     "date": "ab 1728",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Bohemia"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_11974",
     "extent": "II, 658, II* Bl.",
@@ -14122,7 +14152,12 @@
     "title": "Litterae annuae provinciae Bohemiae Societatis Iesu a. 1731, 1732, 1733, 1734.",
     "date": "ab 1732",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Bohemia"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_11975",
     "extent": "I, 662 Bl.",
@@ -14136,6 +14171,36 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1731–1734"
+  },
+  "201": {
+    "id": 201,
+    "order": "31.65217391304347671621",
+    "signatur": "Cod. 11976",
+    "jesuiten_id": "jesuiten_msdesc__201",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13961503",
+    "title": "Litterae annuae provinciae Bohemiae Societatis Iesu a. 1735, 1736, 1737, 1738.",
+    "date": "ab 1736",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Bohemia"
+      }
+    ],
+    "note_type_facs": "",
+    "xml_id": "cod_11976",
+    "extent": "I, 730 Bl.",
+    "height": "262",
+    "width": "195",
+    "foliation": "Moderne Foliierung.",
+    "acc_mat": "",
+    "binding": "Braunes Leder mit Streicheisenlinien über Holzdeckeln, 18. Jhdt.",
+    "summary": "Zusammengesetzte Handschrift mit chronologisch geordneten Berichten für die Jahre 1735–1738. Jeder Bericht ist nach Domizilen unterteilt und mit Überschriften versehen.",
+    "not_before": "1736",
+    "not_after": null,
+    "# when": "",
+    "date_letter": "1735–1738"
   },
   "76": {
     "id": 76,
@@ -14334,6 +14399,36 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1575–1729"
+  },
+  "202": {
+    "id": 202,
+    "order": "31.73076923076922994937",
+    "signatur": "Cod. 11988",
+    "jesuiten_id": "jesuiten_msdesc__202",
+    "mentioned_orgs": [
+      {
+        "id": 166,
+        "value": "Jesuitenkolleg Lviv"
+      }
+    ],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948305",
+    "title": "Historia collegii Leopoliensis Societatis Iesu a. 1584-1773",
+    "date": "16.-18. Jhdt.",
+    "persons": [],
+    "mentioned_places": [],
+    "note_type_facs": "https://data.onb.ac.at/rep/131AC69E",
+    "xml_id": "cod_11988",
+    "extent": "I, 480, I* Bl.",
+    "height": "305",
+    "width": "196",
+    "foliation": "Zeitgenössische Paginierung 1-639. Moderne Foliierung.",
+    "acc_mat": "",
+    "binding": "Braunes Leder mit Streicheisenlinien und Blindprägung über Pappdeckeln, 18. Jhdt. Titelschild am Vorderdeckel.",
+    "summary": "Der erste Teil, der die Annalen für die Jahre 1584–1664 enthält, wurde von einer Hand (laut fol. 1r war der Schreiber Matthias Wielewicz) im Jahr 1665 geschrieben. Danach wurden die Annalen Jahr für Jahr kontinuierlich fortgeführt.\nFoll. 169r und 171r sind hinzugefügte Blätter, wohl ehemalige Briefe, die über die Erscheinung eines Kometen (Halley) berichten. Auf fol. 169r ist ein farbliche Aufzeichnung vom Komet, der laut dem Text am 10. Februar 1682 in Ungarn sichtbar war. Auf fol. 171r ist eine Sternkarte, die die relative Position des Kometen in Bezug auf die Sternbilder Arcturus, Ursa maior, Coma Berenices und Vindemiatrix (ε Vir) zeigt. Diese Karte stammt wohl aus Krakau.\nFoll. 425-439 leer.\nFoll. 440r-442r \"Summa levata -",
+    "not_before": null,
+    "not_after": null,
+    "# when": "",
+    "date_letter": "1584–1773"
   },
   "190": {
     "id": 190,
@@ -14615,7 +14710,12 @@
     "title": "Responsa generalium provinciae Bohemiae Societatis Iesu per procuratores, qui tertio quoque anno Romam mittuntur a. 1568-1669",
     "date": "17.–18. Jhdt.",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Bohemia"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_11954",
     "extent": null,

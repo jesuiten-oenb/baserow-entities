@@ -17130,7 +17130,12 @@
             }
         ],
         "gnd": "",
-        "msdesc": [],
+        "msdesc": [
+            {
+                "id": 202,
+                "value": "Cod. 11988"
+            }
+        ],
         "alt_name": "Collegium Leopoliense",
         "notes": "LEOPOLIS, Lwów, germ. Leinberg, urbs capitalis Galiciae, sedes trium cathol. archiepporum, scilicet ritus lat., graec. et armeni. Collegium Leopoliense, inchoatum a. 1585, ad ecclesiam SS. Petri et Pauli, prov. Minor. Polon., cum theologia pro Nostris, nec non cum gymnasio, philosophia et theologia pro externis; habuit etiam praerogativas academiae seu universitatis, quibus tamen, opponentibus se adversariis, vix utebatur. A collegio dependebat convictus nobilium 1749-1773 in separatis aedibus collocatus. Nostro saeculo post excitatam provinciam Galicianam, ad antiquum Societatis templum SS. Petri et Pauli a. 1821 condita est missio, postea conversa in residentiam, quae etiam nunc existit. Patres huius domus excurrebant in pagum Signiówka, ubi a. 1850 cura P. Michaelis Harder exstructum est sacellum pro incolis Germanis. Alia residentia Leopoli existebat penes templum S. Nicolai 1838-1848 cum cura parochiae et cum convictu nobilium, in quo docebat invenis scholasticus loan. Franzelin, idem postea Cardinalis. In monasterio Leopoliensi PP. Basilianorum inde ab a. 1886 habitant nostri Patres, occupati reformatione istius ordinis. Leopoli residebant Praepositi prov. Galic. 1844, 1867.\nCatalogus provinciae Galicianae Societatis Jesu, Krakow 1899, S. 38-39.",
         "persons": []
@@ -22928,6 +22933,42 @@
                     {
                         "id": 27,
                         "value": "Cod. 12296"
+                    },
+                    {
+                        "id": 61,
+                        "value": "Cod. 11960"
+                    },
+                    {
+                        "id": 90,
+                        "value": "Cod. 11961"
+                    },
+                    {
+                        "id": 131,
+                        "value": "Cod. 11962"
+                    },
+                    {
+                        "id": 138,
+                        "value": "Cod. 11963"
+                    },
+                    {
+                        "id": 172,
+                        "value": "Cod. 11964"
+                    },
+                    {
+                        "id": 189,
+                        "value": "Cod. 11974"
+                    },
+                    {
+                        "id": 199,
+                        "value": "Cod. 11975"
+                    },
+                    {
+                        "id": 201,
+                        "value": "Cod. 11976"
+                    },
+                    {
+                        "id": 46,
+                        "value": "Cod. 11954"
                     },
                     {
                         "id": 52,
@@ -29093,6 +29134,18 @@
             }
         ],
         "alt_name": "Missio Policensis / Missio Pulicensis",
+        "notes": "",
+        "persons": []
+    },
+    "496": {
+        "id": 496,
+        "order": "485.00000000000000000000",
+        "name": "Jesuitenmission Schwenkfeldica",
+        "jesuiten_id": "jesuiten_org__496",
+        "located_in": [],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Schwenkfeldica in ducatibus Schwidnicensi, Jaurociensi et Lignicensi",
         "notes": "",
         "persons": []
     }
