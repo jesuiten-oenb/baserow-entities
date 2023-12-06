@@ -1,8 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cod_12094.xml" xml:base="https://oenb.ac.at" prev="https://oenb.ac.at/cod_12093.xml" next="https://oenb.ac.at/cod_12098.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cod_12101.xml" xml:base="https://oenb.ac.at" prev="https://oenb.ac.at/cod_12100.xml" next="https://oenb.ac.at/cod_12102.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">Wien, Österreichische nationalbibliothek, Cod. 12094</title>
+                <title type="main">Wien, Österreichische nationalbibliothek, Cod. 12101</title>
                 <title type="sub">Jesuiten Littera annuae</title>
                 <respStmt>
                     <resp>Beschreibung und TEI-encoding</resp>
@@ -19,26 +19,26 @@
                 </availability>
             </publicationStmt>
             <sourceDesc>
-                <msDesc xml:lang="de" xml:id="cod_12094">
+                <msDesc xml:lang="de" xml:id="cod_12101">
                     <msIdentifier>
                         <country>Österreich</country>
                         <settlement>Wien</settlement>
                         <repository>Österreichische Nationalbibliothek</repository>
-                        <idno>Cod. 12094</idno>
+                        <idno>Cod. 12101</idno>
                     </msIdentifier>
                     <head>
-                        <title>Litterae annuae provinciae Austriae Societatis Iesu a. 1698</title>
-                        <origDate notBefore="1699-01-01">1699–1701</origDate>
+                        <title>Litterae annuae provinciae Austriae Societatis Iesu a. 1706</title>
+                        <origDate notBefore="1707-01-01">1707–1710</origDate>
                         <note type="facs">
-                            <ref target="http://data.onb.ac.at/dtl/9129388"/>
+                            <ref target="https://digital.onb.ac.at/rep/access/open/131CF9A5"/>
                         </note>
                         <note type="catalogue">
-                            <ref target="http://data.onb.ac.at/rec/AC13947454"/>
+                            <ref target="http://data.onb.ac.at/rec/AC13946925"/>
                         </note>
                     </head>
                     <msContents>                   
                         <summary>
-                                Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist thematisch in 20 Kapitel gegliedert. 
+                                Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist thematisch in 21 Kapitel gegliedert. 
                                 
                         </summary> 
                         <textLang mainLang="lat"/>
@@ -50,10 +50,10 @@
                             <supportDesc material="paper">
                                 <support>Papier</support>
                                 <extent>
-                                    <measure type="leavesCount" unit="folio">I, 68, I* Bl.</measure>
+                                    <measure type="leavesCount" unit="folio">I, 41 Bl.</measure>
                                     <dimensions type="leaf_current" unit="mm">
-                                        <height>306</height>
-                                        <width>200</width>
+                                        <height>None</height>
+                                        <width>None</width>
                                     </dimensions>
                                 </extent>
                                 <foliation>Moderne Foliierung.</foliation>
@@ -62,7 +62,7 @@
                         </objectDesc>
                         <bindingDesc>
                             <binding>
-                                <p>Pergamenteinband, Anfang 18. Jhdt.</p>
+                                <p/>
                             </binding>
                         </bindingDesc>
                         <accMat/>                        
