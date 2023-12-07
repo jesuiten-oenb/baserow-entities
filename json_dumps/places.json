@@ -8086,6 +8086,10 @@
         "value": "Cod. 11964"
       },
       {
+        "id": 208,
+        "value": "Cod. 11965"
+      },
+      {
         "id": 189,
         "value": "Cod. 11974"
       },
@@ -10324,6 +10328,69 @@
     "long": "17.86301",
     "wikidata": "",
     "alt_names": [],
+    "msdesc": []
+  },
+  "413": {
+    "id": 413,
+    "order": "404.00000000000000000000",
+    "name": "Broumov",
+    "jesuiten_id": "jesuiten_place__413",
+    "geonames": "https://www.geonames.org/3078577/broumov.html",
+    "lat": "50.58566",
+    "long": "16.33181",
+    "wikidata": "https://www.wikidata.org/wiki/Q990988",
+    "alt_names": [
+      {
+        "id": 287,
+        "value": "Braunau"
+      }
+    ],
+    "msdesc": []
+  },
+  "414": {
+    "id": 414,
+    "order": "405.00000000000000000000",
+    "name": "Osek",
+    "jesuiten_id": "jesuiten_place__414",
+    "geonames": "https://www.geonames.org/3068857/osek.html",
+    "lat": "50.62115",
+    "long": "13.69274",
+    "wikidata": "https://www.wikidata.org/wiki/Q546673",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "415": {
+    "id": 415,
+    "order": "406.00000000000000000000",
+    "name": "Sudice",
+    "jesuiten_id": "jesuiten_place__415",
+    "geonames": "https://www.geonames.org/3064717/sudice.html",
+    "lat": "50.03154",
+    "long": "18.06840",
+    "wikidata": "https://www.wikidata.org/wiki/Q1699424",
+    "alt_names": [
+      {
+        "id": 288,
+        "value": "Zauditz"
+      }
+    ],
+    "msdesc": []
+  },
+  "416": {
+    "id": 416,
+    "order": "407.00000000000000000000",
+    "name": "Žďárské vrchy",
+    "jesuiten_id": "jesuiten_place__416",
+    "geonames": "https://www.geonames.org/3061690/zgarske-vrchy.html",
+    "lat": "49.61667",
+    "long": "16.05000",
+    "wikidata": "https://www.wikidata.org/wiki/Q394529",
+    "alt_names": [
+      {
+        "id": 289,
+        "value": "Saarer Berge"
+      }
+    ],
     "msdesc": []
   }
 }

@@ -22963,6 +22963,10 @@
                         "value": "Cod. 11964"
                     },
                     {
+                        "id": 208,
+                        "value": "Cod. 11965"
+                    },
+                    {
                         "id": 189,
                         "value": "Cod. 11974"
                     },
@@ -28813,7 +28817,7 @@
         ],
         "gnd": "",
         "msdesc": [],
-        "alt_name": "Missio Ratagensis",
+        "alt_name": "Missio Ratayensis",
         "notes": "",
         "persons": []
     },
@@ -29433,6 +29437,133 @@
         "msdesc": [],
         "alt_name": "Leobiense seminarium S. Josephi",
         "notes": "",
+        "persons": []
+    },
+    "500": {
+        "id": 500,
+        "order": "489.00000000000000000000",
+        "name": "Jesuitenmission Teznensis (?)",
+        "jesuiten_id": "jesuiten_org__500",
+        "located_in": [],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Teznensis",
+        "notes": "",
+        "persons": []
+    },
+    "501": {
+        "id": 501,
+        "order": "490.00000000000000000000",
+        "name": "Jesuitenmission Broumov",
+        "jesuiten_id": "jesuiten_org__501",
+        "located_in": [
+            {
+                "id": 413,
+                "order": "404.00000000000000000000",
+                "name": "Broumov",
+                "jesuiten_id": "jesuiten_place__413",
+                "geonames": "https://www.geonames.org/3078577/broumov.html",
+                "lat": "50.58566",
+                "long": "16.33181",
+                "wikidata": "https://www.wikidata.org/wiki/Q990988",
+                "alt_names": [
+                    {
+                        "id": 287,
+                        "value": "Braunau"
+                    }
+                ],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Branensis / Brannensis",
+        "notes": "Parochia Brannensis inter montana Bohemiae Silesiam versus",
+        "persons": []
+    },
+    "502": {
+        "id": 502,
+        "order": "491.00000000000000000000",
+        "name": "Jesuitenmission Osek",
+        "jesuiten_id": "jesuiten_org__502",
+        "located_in": [
+            {
+                "id": 414,
+                "order": "405.00000000000000000000",
+                "name": "Osek",
+                "jesuiten_id": "jesuiten_place__414",
+                "geonames": "https://www.geonames.org/3068857/osek.html",
+                "lat": "50.62115",
+                "long": "13.69274",
+                "wikidata": "https://www.wikidata.org/wiki/Q546673",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Wossecensis",
+        "notes": "",
+        "persons": []
+    },
+    "503": {
+        "id": 503,
+        "order": "492.00000000000000000000",
+        "name": "Jesuitenmission Sudice",
+        "jesuiten_id": "jesuiten_org__503",
+        "located_in": [
+            {
+                "id": 415,
+                "order": "406.00000000000000000000",
+                "name": "Sudice",
+                "jesuiten_id": "jesuiten_place__415",
+                "geonames": "https://www.geonames.org/3064717/sudice.html",
+                "lat": "50.03154",
+                "long": "18.06840",
+                "wikidata": "https://www.wikidata.org/wiki/Q1699424",
+                "alt_names": [
+                    {
+                        "id": 288,
+                        "value": "Zauditz"
+                    }
+                ],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Zaudicensis",
+        "notes": "",
+        "persons": []
+    },
+    "504": {
+        "id": 504,
+        "order": "493.00000000000000000000",
+        "name": "Jesuitenmission Žďárské vrchy (Saarer Bergland)",
+        "jesuiten_id": "jesuiten_org__504",
+        "located_in": [
+            {
+                "id": 416,
+                "order": "407.00000000000000000000",
+                "name": "Žďárské vrchy",
+                "jesuiten_id": "jesuiten_place__416",
+                "geonames": "https://www.geonames.org/3061690/zgarske-vrchy.html",
+                "lat": "49.61667",
+                "long": "16.05000",
+                "wikidata": "https://www.wikidata.org/wiki/Q394529",
+                "alt_names": [
+                    {
+                        "id": 289,
+                        "value": "Saarer Berge"
+                    }
+                ],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio montana in confinibus Moraviae ac Bohemiae",
+        "notes": "inchoata 1688 in montibus Moraviae Bohemiae conterminis ad ipsos fontes fluminis Schwartzavae.",
         "persons": []
     }
 }
