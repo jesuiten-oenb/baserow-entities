@@ -34,6 +34,7 @@
                         {% if when %}
                         <origDate when="{{ when }}">{{ date }}</origDate>
                         {% endif %}
+                        <date type="letter">{{ date_letter }} </date>
                         {% if note_type_facs %}
                         <note type="facs">
                             <ref target="{{ note_type_facs }}" />
