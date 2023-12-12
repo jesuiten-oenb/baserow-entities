@@ -9646,7 +9646,7 @@
       },
       {
         "id": 401,
-        "value": "Jesuitenmission Silesia Superiore,  Cieszyn"
+        "value": "Jesuitenmission Silesia Superiore, Cieszyn"
       },
       {
         "id": 435,
@@ -10076,7 +10076,7 @@
       },
       {
         "id": 401,
-        "value": "Jesuitenmission Silesia Superiore,  Cieszyn"
+        "value": "Jesuitenmission Silesia Superiore, Cieszyn"
       },
       {
         "id": 435,
@@ -10307,7 +10307,7 @@
       },
       {
         "id": 401,
-        "value": "Jesuitenmission Silesia Superiore,  Cieszyn"
+        "value": "Jesuitenmission Silesia Superiore, Cieszyn"
       },
       {
         "id": 435,
@@ -14710,6 +14710,66 @@
     "# when": "",
     "date_letter": "1685–1689"
   },
+  "210": {
+    "id": 210,
+    "order": "31.64556962025316622089",
+    "signatur": "Cod. 11972",
+    "jesuiten_id": "jesuiten_msdesc__210",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13960202",
+    "title": "Litterae annuae provinciae Bohemiae Societatis Iesu a. 1719, 1720, 1721, 1722.",
+    "date": "ab 1720",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Bohemia"
+      }
+    ],
+    "note_type_facs": "",
+    "xml_id": "cod_11972",
+    "extent": "II, 568, V* Bl.",
+    "height": "263",
+    "width": "190",
+    "foliation": "Moderne Foliierung.",
+    "acc_mat": "",
+    "binding": "Brauner Ledereinband mit Blindprägung über Holzdeckeln, 17. Jhdt.",
+    "summary": "Zusammengesetzte Handschrift mit chronologisch geordneten Berichten für die Jahre 1719–1722. Jeder Bericht ist nach Domizilen unterteilt und mit Überschriften versehen.",
+    "not_before": "1720",
+    "not_after": null,
+    "# when": "",
+    "date_letter": "1719, 1720, 1721, 1722"
+  },
+  "209": {
+    "id": 209,
+    "order": "31.64583333333333214910",
+    "signatur": "Cod. 11973",
+    "jesuiten_id": "jesuiten_msdesc__209",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13957876",
+    "title": "Litterae annuae provinciae Bohemiae Societatis Iesu a. 1723, 1724, 1725, 1726.",
+    "date": "ab 1724",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Bohemia"
+      }
+    ],
+    "note_type_facs": "",
+    "xml_id": "cod_11973",
+    "extent": "II, 608, II* Bl.",
+    "height": "270",
+    "width": "193",
+    "foliation": "Moderne Foliierung.",
+    "acc_mat": "",
+    "binding": "Halbband mit braunem Leder mit Streicheisenlinien; Holzdeckel mit buntem Marmorpapier überklebt, 18. Jhdt.",
+    "summary": "Zusammengesetzte Handschrift mit chronologisch geordneten Berichten für die Jahre 1723–1726. Jeder Bericht ist nach Domizilen unterteilt und mit Überschriften versehen.",
+    "not_before": "1724",
+    "not_after": null,
+    "# when": "",
+    "date_letter": "1723, 1724, 1725, 1726"
+  },
   "189": {
     "id": 189,
     "order": "31.64705882352941301860",
@@ -14738,7 +14798,7 @@
     "not_before": "1728",
     "not_after": null,
     "# when": "",
-    "date_letter": "1727–1730"
+    "date_letter": "1727, 1728, 1729, 1730"
   },
   "199": {
     "id": 199,
@@ -14768,7 +14828,7 @@
     "not_before": "1732",
     "not_after": null,
     "# when": "",
-    "date_letter": "1731–1734"
+    "date_letter": "1731, 1732, 1733, 1734"
   },
   "201": {
     "id": 201,
@@ -14798,7 +14858,7 @@
     "not_before": "1736",
     "not_after": null,
     "# when": "",
-    "date_letter": "1735–1738"
+    "date_letter": "1735, 1736, 1737, 1738"
   },
   "76": {
     "id": 76,

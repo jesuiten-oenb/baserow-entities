@@ -14620,7 +14620,7 @@
                 "value": "Cod. 12352"
             }
         ],
-        "alt_name": "Collegium Glogoviense",
+        "alt_name": "Collegium Glogoviense / Collegium Glogoviae majoris",
         "notes": "http://reholnici.hiu.cas.cz/katalog/l.dll?hal~1000099847",
         "persons": []
     },
@@ -14821,7 +14821,7 @@
                 "value": "Cod. 12278"
             }
         ],
-        "alt_name": "Residentia Jenikoviensis",
+        "alt_name": "Residentia Genikoviensis / Residentia Jenikoviensis / Residentia Genikoviae",
         "notes": "http://reholnici.hiu.cas.cz/katalog/l.dll?hal~1000101632",
         "persons": []
     },
@@ -22710,7 +22710,7 @@
         ],
         "gnd": "",
         "msdesc": [],
-        "alt_name": "Missio in Silesiae,Ungariaeque Passu ad Jabluncam",
+        "alt_name": "Missio in Silesiae,Ungariaeque Passu ad Jabluncam / Missio castrensis in Hungaria  Silesiaque passu ad Jabluncam",
         "notes": "\"In missione hac, quae stationem quidem suam nacta in passu hoc silesiae ac ungariae inter praesidiarios milites, re autem vera magis in emolumentum rudis huius viciniae instituta est et in annum quintum nostrorum  et in annum quintum nostrorum cordi erat missionariorum ... \" (Cod. 12299, f. 76r).",
         "persons": []
     },
@@ -23072,7 +23072,7 @@
                 "value": "Cod. 12278"
             }
         ],
-        "alt_name": "Missio Lipsiensis / Liepsiensis",
+        "alt_name": "Missio Lipsiensis / Liepsiensis / Missio Lipsiae",
         "notes": "",
         "persons": []
     },
@@ -23378,6 +23378,14 @@
                     {
                         "id": 208,
                         "value": "Cod. 11965"
+                    },
+                    {
+                        "id": 210,
+                        "value": "Cod. 11972"
+                    },
+                    {
+                        "id": 209,
+                        "value": "Cod. 11973"
                     },
                     {
                         "id": 189,
@@ -26425,7 +26433,7 @@
     "401": {
         "id": 401,
         "order": "391.00000000000000000000",
-        "name": "Jesuitenmission Silesia Superiore,  Cieszyn",
+        "name": "Jesuitenmission Silesia Superiore, Cieszyn",
         "jesuiten_id": "jesuiten_org__401",
         "located_in": [
             {
@@ -26481,8 +26489,8 @@
                 "value": "Cod. 12340"
             }
         ],
-        "alt_name": "Missionis episcopalis pro superiore Silesia, praesertim ducatu Teschinensi, erecta a serenissimo ac reverendissimo electore Trevirensi eepiscopo Wratislaviensi",
-        "notes": "",
+        "alt_name": "Missionis episcopalis pro superiore Silesia, praesertim ducatu Teschinensi",
+        "notes": "Erecta a serenissimo ac reverendissimo electore Trevirensi eepiscopo Wratislaviensi.",
         "persons": []
     },
     "402": {
@@ -30023,6 +30031,31 @@
             }
         ],
         "alt_name": "Missio Szigeti",
+        "notes": "",
+        "persons": []
+    },
+    "506": {
+        "id": 506,
+        "order": "495.00000000000000000000",
+        "name": "Jesuitenmission Branice",
+        "jesuiten_id": "jesuiten_org__506",
+        "located_in": [
+            {
+                "id": 419,
+                "order": "410.00000000000000000000",
+                "name": "Branice",
+                "jesuiten_id": "jesuiten_place__419",
+                "geonames": "https://www.geonames.org/3102679/branice.html",
+                "lat": "50.05108",
+                "long": "17.79399",
+                "wikidata": "",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Branicensis",
         "notes": "",
         "persons": []
     }
