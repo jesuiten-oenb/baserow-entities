@@ -15020,7 +15020,7 @@
                 "value": "Cod. 12278"
             }
         ],
-        "alt_name": "Collegium Novo-Domense",
+        "alt_name": "Collegium Novo-Domense / Collegium Novae-Domi",
         "notes": "http://reholnici.hiu.cas.cz/katalog/l.dll?hal~1000099828",
         "persons": []
     },
@@ -23155,7 +23155,7 @@
             {
                 "id": 272,
                 "order": "264.00000000000000000000",
-                "name": "Bohemia",
+                "name": "Provincia Bohemia",
                 "jesuiten_id": "jesuiten_place__272",
                 "geonames": "https://www.geonames.org/3078198/cechy.html",
                 "lat": "50.00000",
@@ -23378,6 +23378,18 @@
                     {
                         "id": 208,
                         "value": "Cod. 11965"
+                    },
+                    {
+                        "id": 213,
+                        "value": "Cod. 11969"
+                    },
+                    {
+                        "id": 212,
+                        "value": "Cod. 11970"
+                    },
+                    {
+                        "id": 211,
+                        "value": "Cod. 11971"
                     },
                     {
                         "id": 210,
@@ -30056,6 +30068,31 @@
         "gnd": "",
         "msdesc": [],
         "alt_name": "Missio Branicensis",
+        "notes": "",
+        "persons": []
+    },
+    "507": {
+        "id": 507,
+        "order": "496.00000000000000000000",
+        "name": "Jesuitenresidenz Brzeg",
+        "jesuiten_id": "jesuiten_org__507",
+        "located_in": [
+            {
+                "id": 128,
+                "order": "125.00000000000000000000",
+                "name": "Brzeg",
+                "jesuiten_id": "jesuiten_place__128",
+                "geonames": "https://www.geonames.org/3102459/brzeg.html",
+                "lat": "50.86079",
+                "long": "17.46740",
+                "wikidata": "https://www.wikidata.org/wiki/Q214640",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Residentia Brigensis",
         "notes": "",
         "persons": []
     }
