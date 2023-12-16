@@ -14586,7 +14586,7 @@
                 "value": "Cod. 12278"
             }
         ],
-        "alt_name": "Collegium Glattoviense",
+        "alt_name": "Collegium Glattoviense / Collegium Klattoviense",
         "notes": "http://reholnici.hiu.cas.cz/katalog/l.dll?hal~1000099836",
         "persons": []
     },
@@ -16019,7 +16019,7 @@
                 "value": "Cod. 12278"
             }
         ],
-        "alt_name": "Missio Pommersdorffensis",
+        "alt_name": "Missio Pommersdorffensis / Missio Pummersdorfensis / Missio Pomersvicensis",
         "notes": "",
         "persons": []
     },
@@ -23380,6 +23380,14 @@
                         "value": "Cod. 11965"
                     },
                     {
+                        "id": 215,
+                        "value": "Cod. 11967"
+                    },
+                    {
+                        "id": 214,
+                        "value": "Cod. 11968"
+                    },
+                    {
                         "id": 213,
                         "value": "Cod. 11969"
                     },
@@ -30094,6 +30102,85 @@
         "msdesc": [],
         "alt_name": "Residentia Brigensis",
         "notes": "",
+        "persons": []
+    },
+    "508": {
+        "id": 508,
+        "order": "497.00000000000000000000",
+        "name": "Jesuitenmission Walachico-Montana",
+        "jesuiten_id": "jesuiten_org__508",
+        "located_in": [],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Walachico-Montana",
+        "notes": "",
+        "persons": []
+    },
+    "509": {
+        "id": 509,
+        "order": "498.00000000000000000000",
+        "name": "Jesuitenmission Moravia Ungaria",
+        "jesuiten_id": "jesuiten_org__509",
+        "located_in": [
+            {
+                "id": 271,
+                "order": "263.00000000000000000000",
+                "name": "Moravia",
+                "jesuiten_id": "jesuiten_place__271",
+                "geonames": "https://www.geonames.org/3070359/moravia.html",
+                "lat": "49.50000",
+                "long": "17.00000",
+                "wikidata": "https://www.wikidata.org/wiki/Q43266",
+                "alt_names": [],
+                "msdesc": []
+            },
+            {
+                "id": 304,
+                "order": "295.00000000000000000000",
+                "name": "Hungary Kingdom",
+                "jesuiten_id": "jesuiten_place__304",
+                "geonames": "",
+                "lat": null,
+                "long": null,
+                "wikidata": "https://www.wikidata.org/wiki/Q171150",
+                "alt_names": [
+                    {
+                        "id": 221,
+                        "value": "Ungaria"
+                    }
+                ],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio ad confinia Moraviae et Ungariae",
+        "notes": "",
+        "persons": []
+    },
+    "510": {
+        "id": 510,
+        "order": "499.00000000000000000000",
+        "name": "Jesuitenmission Osek ?",
+        "jesuiten_id": "jesuiten_org__510",
+        "located_in": [
+            {
+                "id": 420,
+                "order": "411.00000000000000000000",
+                "name": "Osek",
+                "jesuiten_id": "jesuiten_place__420",
+                "geonames": "https://www.geonames.org/3068861/osek.html",
+                "lat": "49.77594",
+                "long": "13.59060",
+                "wikidata": "",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Wosecensis",
+        "notes": "Plsnae, urbe a nobis duas tantum leucas dissita ...",
         "persons": []
     }
 }

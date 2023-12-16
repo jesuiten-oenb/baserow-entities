@@ -8090,6 +8090,14 @@
         "value": "Cod. 11965"
       },
       {
+        "id": 215,
+        "value": "Cod. 11967"
+      },
+      {
+        "id": 214,
+        "value": "Cod. 11968"
+      },
+      {
         "id": 213,
         "value": "Cod. 11969"
       },
@@ -10454,6 +10462,47 @@
     "geonames": "https://www.geonames.org/3102679/branice.html",
     "lat": "50.05108",
     "long": "17.79399",
+    "wikidata": "",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "420": {
+    "id": 420,
+    "order": "411.00000000000000000000",
+    "name": "Osek",
+    "jesuiten_id": "jesuiten_place__420",
+    "geonames": "https://www.geonames.org/3068861/osek.html",
+    "lat": "49.77594",
+    "long": "13.59060",
+    "wikidata": "",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "421": {
+    "id": 421,
+    "order": "412.00000000000000000000",
+    "name": "Góry Bystrzyckie",
+    "jesuiten_id": "jesuiten_place__421",
+    "geonames": "https://www.geonames.org/3101967/gory-bystrzyckie.html",
+    "lat": "50.26667",
+    "long": "16.55000",
+    "wikidata": "",
+    "alt_names": [
+      {
+        "id": 291,
+        "value": "Habelschwerdter Gebirge"
+      }
+    ],
+    "msdesc": []
+  },
+  "422": {
+    "id": 422,
+    "order": "413.00000000000000000000",
+    "name": "Náchod",
+    "jesuiten_id": "jesuiten_place__422",
+    "geonames": "https://www.geonames.org/3070122/nachod.html",
+    "lat": "50.41670",
+    "long": "16.16289",
     "wikidata": "",
     "alt_names": [],
     "msdesc": []
