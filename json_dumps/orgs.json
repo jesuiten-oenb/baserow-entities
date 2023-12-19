@@ -15488,7 +15488,12 @@
                         "value": "Bruna"
                     }
                 ],
-                "msdesc": []
+                "msdesc": [
+                    {
+                        "id": 217,
+                        "value": "Cod. 11957"
+                    }
+                ]
             }
         ],
         "gnd": "",
@@ -15504,6 +15509,14 @@
             {
                 "id": 85,
                 "value": "Cod. 12278"
+            },
+            {
+                "id": 217,
+                "value": "Cod. 11957"
+            },
+            {
+                "id": 218,
+                "value": "Cod. 11958"
             }
         ],
         "alt_name": "Domus probationis Brunae",
@@ -15531,7 +15544,12 @@
                         "value": "Bruna"
                     }
                 ],
-                "msdesc": []
+                "msdesc": [
+                    {
+                        "id": 217,
+                        "value": "Cod. 11957"
+                    }
+                ]
             }
         ],
         "gnd": "",
@@ -15613,6 +15631,10 @@
             {
                 "id": 85,
                 "value": "Cod. 12278"
+            },
+            {
+                "id": 218,
+                "value": "Cod. 11958"
             }
         ],
         "alt_name": "Residentia Turzani (Turzanensis) / Collegium Turzanum ?",
@@ -23380,6 +23402,10 @@
                         "value": "Cod. 11965"
                     },
                     {
+                        "id": 216,
+                        "value": "Cod. 11966"
+                    },
+                    {
                         "id": 215,
                         "value": "Cod. 11967"
                     },
@@ -25668,9 +25694,22 @@
     "375": {
         "id": 375,
         "order": "365.00000000000000000000",
-        "name": "Jesuitenmission Nachodiensis",
+        "name": "Jesuitenmission Náchod",
         "jesuiten_id": "jesuiten_org__375",
-        "located_in": [],
+        "located_in": [
+            {
+                "id": 422,
+                "order": "413.00000000000000000000",
+                "name": "Náchod",
+                "jesuiten_id": "jesuiten_place__422",
+                "geonames": "https://www.geonames.org/3070122/nachod.html",
+                "lat": "50.41670",
+                "long": "16.16289",
+                "wikidata": "",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
         "gnd": "",
         "msdesc": [],
         "alt_name": "Missio Nachodiensis",
@@ -30181,6 +30220,43 @@
         "msdesc": [],
         "alt_name": "Missio Wosecensis",
         "notes": "Plsnae, urbe a nobis duas tantum leucas dissita ...",
+        "persons": []
+    },
+    "511": {
+        "id": 511,
+        "order": "500.00000000000000000000",
+        "name": "Jesuitenmission Montana ad fines Bohemiae",
+        "jesuiten_id": "jesuiten_org__511",
+        "located_in": [
+            {
+                "id": 367,
+                "order": "358.00000000000000000000",
+                "name": "Kunštát",
+                "jesuiten_id": "jesuiten_place__367",
+                "geonames": "https://www.geonames.org/3072486/kunstat.html",
+                "lat": "49.50645",
+                "long": "16.51722",
+                "wikidata": "https://www.wikidata.org/wiki/Q1792758",
+                "alt_names": [],
+                "msdesc": []
+            },
+            {
+                "id": 423,
+                "order": "414.00000000000000000000",
+                "name": "Bystřice nad Pernštejnem",
+                "jesuiten_id": "jesuiten_place__423",
+                "geonames": "https://www.geonames.org/3078288/bystrice-nad-pernstejnem.html",
+                "lat": "49.52295",
+                "long": "16.26147",
+                "wikidata": "",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Montana ad fines Bohemiae",
+        "notes": "per dominia Neo-stadiense, kunstadiense, Bistricense, Gimraviense",
         "persons": []
     }
 }

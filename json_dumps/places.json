@@ -5468,7 +5468,12 @@
         "value": "Bruna"
       }
     ],
-    "msdesc": []
+    "msdesc": [
+      {
+        "id": 217,
+        "value": "Cod. 11957"
+      }
+    ]
   },
   "95": {
     "id": 95,
@@ -8090,6 +8095,10 @@
         "value": "Cod. 11965"
       },
       {
+        "id": 216,
+        "value": "Cod. 11966"
+      },
+      {
         "id": 215,
         "value": "Cod. 11967"
       },
@@ -10503,6 +10512,30 @@
     "geonames": "https://www.geonames.org/3070122/nachod.html",
     "lat": "50.41670",
     "long": "16.16289",
+    "wikidata": "",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "423": {
+    "id": 423,
+    "order": "414.00000000000000000000",
+    "name": "Bystřice nad Pernštejnem",
+    "jesuiten_id": "jesuiten_place__423",
+    "geonames": "https://www.geonames.org/3078288/bystrice-nad-pernstejnem.html",
+    "lat": "49.52295",
+    "long": "16.26147",
+    "wikidata": "",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "424": {
+    "id": 424,
+    "order": "415.00000000000000000000",
+    "name": "Vanovice",
+    "jesuiten_id": "jesuiten_place__424",
+    "geonames": "https://www.geonames.org/3063395/vanovice.html",
+    "lat": "49.56728",
+    "long": "16.66621",
     "wikidata": "",
     "alt_names": [],
     "msdesc": []
