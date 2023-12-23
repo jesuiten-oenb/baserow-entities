@@ -14852,6 +14852,10 @@
             {
                 "id": 85,
                 "value": "Cod. 12278"
+            },
+            {
+                "id": 224,
+                "value": "Cod. 11996"
             }
         ],
         "alt_name": "Collegium Hradistiense",
@@ -15370,6 +15374,10 @@
             {
                 "id": 85,
                 "value": "Cod. 12278"
+            },
+            {
+                "id": 223,
+                "value": "Cod. 11997"
             },
             {
                 "id": 94,
@@ -23662,6 +23670,22 @@
                         "value": "Cod. 11976"
                     },
                     {
+                        "id": 225,
+                        "value": "Cod. 11999"
+                    },
+                    {
+                        "id": 77,
+                        "value": "Cod. 12000"
+                    },
+                    {
+                        "id": 78,
+                        "value": "Cod. 12001"
+                    },
+                    {
+                        "id": 79,
+                        "value": "Cod. 12002"
+                    },
+                    {
                         "id": 46,
                         "value": "Cod. 11954"
                     },
@@ -30516,6 +30540,91 @@
         "gnd": "",
         "msdesc": [],
         "alt_name": "Missio Sendöröviensis",
+        "notes": "",
+        "persons": []
+    },
+    "514": {
+        "id": 514,
+        "order": "503.00000000000000000000",
+        "name": "Jesuitenresidenz Prag",
+        "jesuiten_id": "jesuiten_org__514",
+        "located_in": [
+            {
+                "id": 93,
+                "order": "90.00000000000000000000",
+                "name": "Prague",
+                "jesuiten_id": "jesuiten_place__93",
+                "geonames": "https://www.geonames.org/3067696/prague.html",
+                "lat": "50.08804",
+                "long": "14.42076",
+                "wikidata": "https://www.wikidata.org/wiki/Q1085",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Residentia Neopragensis",
+        "notes": "",
+        "persons": []
+    },
+    "515": {
+        "id": 515,
+        "order": "504.00000000000000000000",
+        "name": "Jesuitenmission Moscow",
+        "jesuiten_id": "jesuiten_org__515",
+        "located_in": [
+            {
+                "id": 425,
+                "order": "416.00000000000000000000",
+                "name": "Moscow",
+                "jesuiten_id": "jesuiten_place__425",
+                "geonames": "https://www.geonames.org/524901/moscow.html",
+                "lat": "55.75222",
+                "long": "37.61556",
+                "wikidata": "",
+                "alt_names": [
+                    {
+                        "id": 292,
+                        "value": "Moskau"
+                    }
+                ],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Moscovitica",
+        "notes": "",
+        "persons": []
+    },
+    "516": {
+        "id": 516,
+        "order": "505.00000000000000000000",
+        "name": "Jesuitenmission Saxonica",
+        "jesuiten_id": "jesuiten_org__516",
+        "located_in": [
+            {
+                "id": 426,
+                "order": "417.00000000000000000000",
+                "name": "Saxony",
+                "jesuiten_id": "jesuiten_place__426",
+                "geonames": "https://www.geonames.org/2842566/saxony.html",
+                "lat": "51.00000",
+                "long": "13.25000",
+                "wikidata": "",
+                "alt_names": [
+                    {
+                        "id": 293,
+                        "value": "Sachsen"
+                    }
+                ],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Saxonica",
         "notes": "",
         "persons": []
     }

@@ -8139,6 +8139,22 @@
         "value": "Cod. 11976"
       },
       {
+        "id": 225,
+        "value": "Cod. 11999"
+      },
+      {
+        "id": 77,
+        "value": "Cod. 12000"
+      },
+      {
+        "id": 78,
+        "value": "Cod. 12001"
+      },
+      {
+        "id": 79,
+        "value": "Cod. 12002"
+      },
+      {
         "id": 46,
         "value": "Cod. 11954"
       },
@@ -10546,6 +10562,40 @@
     "long": "16.66621",
     "wikidata": "",
     "alt_names": [],
+    "msdesc": []
+  },
+  "425": {
+    "id": 425,
+    "order": "416.00000000000000000000",
+    "name": "Moscow",
+    "jesuiten_id": "jesuiten_place__425",
+    "geonames": "https://www.geonames.org/524901/moscow.html",
+    "lat": "55.75222",
+    "long": "37.61556",
+    "wikidata": "",
+    "alt_names": [
+      {
+        "id": 292,
+        "value": "Moskau"
+      }
+    ],
+    "msdesc": []
+  },
+  "426": {
+    "id": 426,
+    "order": "417.00000000000000000000",
+    "name": "Saxony",
+    "jesuiten_id": "jesuiten_place__426",
+    "geonames": "https://www.geonames.org/2842566/saxony.html",
+    "lat": "51.00000",
+    "long": "13.25000",
+    "wikidata": "",
+    "alt_names": [
+      {
+        "id": 293,
+        "value": "Sachsen"
+      }
+    ],
     "msdesc": []
   }
 }
