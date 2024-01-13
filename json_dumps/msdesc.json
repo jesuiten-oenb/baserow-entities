@@ -53,7 +53,7 @@
     "foliation": "Moderne Foliierung. Zeitgenössische Paginierung: 1-305.",
     "acc_mat": "",
     "binding": "Ledereinband über Holzdeckeln mit Blindprägung, 18. Jh.",
-    "summary": "Abschriften von Briefen der Generäle des Jesuitenordens sowie der Provinziale in Böhmen und der Rektore der böhmischen Kollege von 1646-1754. U. a. von Vincenzo Caraffa (GND 128446838), Francesco Piccolomini (GND 124886000), Goschwin Nickel (GND 116994681), Giovanni Paolo Oliva (GND 100237266), Charles de Noyelle (GND 1147230064), Thyrsus González de Santalla (GND 121631451), Jakob Willi (GND 120167379), Georg Hiller (GND 128949767), Ferdinand Waldhauser (GND 12177323X), Johann Miller (GND 123787939), Jakob Stessl (GND 1069958301), Michelangelo Tamburini (GND 120251752), Franciscus Fragstein, Julius Zwicker (1726 Rektor des Prager Kollegs), Johannes Seidel (GND 140264086), Norbertus Streer (Rektor Prager Kollegs), Franciscus Wentzl (GND 1048654621), Johannes Roller (Rektor des Kollegs in Kłodzko), Leopold Grim (GND 102502498), Franciscus Xaverius Heissler, Franciscus Retz (GND 102103861X), Balthasar Lindner, Ignazio Visconti (GND 1029075530), Franciscus Wissinger (GND 130627925).",
+    "summary": "Litterae particularium. Abschriften von Briefen der Generäle des Jesuitenordens sowie der Provinziale in Böhmen und der Rektore der böhmischen Kollege von 1646-1754. U. a. von Vincenzo Caraffa (GND 128446838), Francesco Piccolomini (GND 124886000), Goschwin Nickel (GND 116994681), Giovanni Paolo Oliva (GND 100237266), Charles de Noyelle (GND 1147230064), Thyrsus González de Santalla (GND 121631451), Jakob Willi (GND 120167379), Georg Hiller (GND 128949767), Ferdinand Waldhauser (GND 12177323X), Johann Miller (GND 123787939), Jakob Stessl (GND 1069958301), Michelangelo Tamburini (GND 120251752), Franciscus Fragstein, Julius Zwicker (1726 Rektor des Prager Kollegs), Johannes Seidel (GND 140264086), Norbertus Streer (Rektor Prager Kollegs), Franciscus Wentzl (GND 1048654621), Johannes Roller (Rektor des Kollegs in Kłodzko), Leopold Grim (GND 102502498), Franciscus Xaverius Heissler, Franciscus Retz (GND 102103861X), Balthasar Lindner, Ignazio Visconti (GND 1029075530), Franciscus Wissinger (GND 130627925).",
     "not_before": "1646",
     "not_after": null,
     "# when": "",
@@ -11148,6 +11148,1333 @@
     "# when": "",
     "date_letter": "1747"
   },
+  "236": {
+    "id": 236,
+    "order": "8.47792642140468188927",
+    "signatur": "Cod. 12332",
+    "jesuiten_id": "jesuiten_msdesc__236",
+    "mentioned_orgs": [
+      {
+        "id": 41,
+        "value": "Missio Castrensis"
+      },
+      {
+        "id": 92,
+        "value": "Profeßhaus Prag"
+      },
+      {
+        "id": 93,
+        "value": "Jesuitenkolleg Březnice"
+      },
+      {
+        "id": 94,
+        "value": "Jesuitenresidenz Svatá Hora"
+      },
+      {
+        "id": 95,
+        "value": "Jesuitenkolleg Chomutov"
+      },
+      {
+        "id": 96,
+        "value": "Jesuitenkolleg Krumlov"
+      },
+      {
+        "id": 97,
+        "value": "Jesuitenkolleg Cheb"
+      },
+      {
+        "id": 98,
+        "value": "Jesuitenkolleg Jičín"
+      },
+      {
+        "id": 99,
+        "value": "Jesuitenkolleg Kłodzko"
+      },
+      {
+        "id": 100,
+        "value": "Jesuitenkolleg Klatovy"
+      },
+      {
+        "id": 101,
+        "value": "Jesuitenkolleg Głogów"
+      },
+      {
+        "id": 102,
+        "value": "Jesuitenkolleg Uherské Hradiště"
+      },
+      {
+        "id": 103,
+        "value": "Jesuitenkolleg Jihlava"
+      },
+      {
+        "id": 104,
+        "value": "Jesuitenkolleg Kutná Hora"
+      },
+      {
+        "id": 105,
+        "value": "Jesuitenresidenz Golčův Jeníkov"
+      },
+      {
+        "id": 106,
+        "value": "Jesuitenkolleg Legnica"
+      },
+      {
+        "id": 107,
+        "value": "Jesuitenresidenz Otyń"
+      },
+      {
+        "id": 108,
+        "value": "Jesuitenkolleg Litoměřice"
+      },
+      {
+        "id": 110,
+        "value": "Jesuitenkolleg Nysa"
+      },
+      {
+        "id": 111,
+        "value": "Jesuitenkolleg Jindřichův Hradec"
+      },
+      {
+        "id": 112,
+        "value": "Jesuitenkolleg Olomouc"
+      },
+      {
+        "id": 113,
+        "value": "Jesuitenkolleg Opava"
+      },
+      {
+        "id": 115,
+        "value": "Jesuitenkolleg Opole"
+      },
+      {
+        "id": 116,
+        "value": "Jesuitenkolleg Prague ad S. Clementem"
+      },
+      {
+        "id": 117,
+        "value": "Jesuitenkolleg Hradec Králové"
+      },
+      {
+        "id": 118,
+        "value": "Jesuitenkolleg Żagań"
+      },
+      {
+        "id": 119,
+        "value": "Jesuitenkolleg Świdnica"
+      },
+      {
+        "id": 120,
+        "value": "Jesuitenkolleg Telč"
+      },
+      {
+        "id": 121,
+        "value": "Jesuitenkolleg Wrocław"
+      },
+      {
+        "id": 122,
+        "value": "Jesuitenkolleg Znoymo"
+      },
+      {
+        "id": 123,
+        "value": "Jesuitenkolleg Brno"
+      },
+      {
+        "id": 124,
+        "value": "Jesuitenresidenz Tuřany"
+      },
+      {
+        "id": 133,
+        "value": "Jesuitenmission Pommersdorf"
+      },
+      {
+        "id": 132,
+        "value": "Jesuitenmission Brantice"
+      },
+      {
+        "id": 134,
+        "value": "Jesuitenresidenz Piekary"
+      },
+      {
+        "id": 136,
+        "value": "Jesuitenresidenz Košumberk"
+      },
+      {
+        "id": 137,
+        "value": "Jesuitenresidenz Jelenia Góra"
+      },
+      {
+        "id": 138,
+        "value": "Probationshaus Telč"
+      },
+      {
+        "id": 139,
+        "value": "Jesuitenmission Brzeg"
+      },
+      {
+        "id": 140,
+        "value": "Jesuitenresidenz Cieszyn"
+      },
+      {
+        "id": 142,
+        "value": "Jesuitenresidenz Maria Scheinensis"
+      },
+      {
+        "id": 159,
+        "value": "Probationshaus Jičín"
+      },
+      {
+        "id": 161,
+        "value": "Jesuitenmission Dresden"
+      },
+      {
+        "id": 197,
+        "value": "Jesuitenkolleg Prague ad S. Ignatium"
+      },
+      {
+        "id": 196,
+        "value": "Jesuitenmission Římov"
+      },
+      {
+        "id": 284,
+        "value": "Jesuitenresidenz Liběšice"
+      },
+      {
+        "id": 286,
+        "value": "Jesuitenresidenz Tuchmeritz"
+      },
+      {
+        "id": 289,
+        "value": "Jesuitenresidenz Tarnowskie Góry"
+      },
+      {
+        "id": 296,
+        "value": "Jesuitenresidenz Opařany"
+      },
+      {
+        "id": 297,
+        "value": "Jesuitenresidenz Brandýs nad Labem-Stará Boleslav"
+      },
+      {
+        "id": 299,
+        "value": "Jesuitenmission Poenitentia in Bohemia-Germanica"
+      },
+      {
+        "id": 302,
+        "value": "Jesuitenmission Leipzig"
+      },
+      {
+        "id": 303,
+        "value": "Jesuitenmission Hubertusburg"
+      },
+      {
+        "id": 435,
+        "value": "Jesuitenmission Czeikowicium  (?)"
+      },
+      {
+        "id": 495,
+        "value": "Jesuitenmission Policensis (?)"
+      },
+      {
+        "id": 517,
+        "value": "Jesuitenmission Modlany"
+      },
+      {
+        "id": 518,
+        "value": "Jesuitenmission Kynšperk nad Ohří"
+      }
+    ],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948476",
+    "title": "Litterae annuae provinciae Bohemiae Societatis Iesu a. 1748",
+    "date": "ab 1749",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Provincia Bohemia"
+      }
+    ],
+    "note_type_facs": "",
+    "xml_id": "cod_12332",
+    "extent": "I, 50 Bl.",
+    "height": "270",
+    "width": "194",
+    "foliation": "Moderne Foliierung.",
+    "acc_mat": "",
+    "binding": "Halbband, Deckel mit buntem Marmorpapier überzogen, 18. Jhdt.",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit, thematisch in 21 Kapitel gegliedert.",
+    "not_before": "1749",
+    "not_after": null,
+    "# when": "",
+    "date_letter": "1748"
+  },
+  "237": {
+    "id": 237,
+    "order": "8.47792651666192043081",
+    "signatur": "Cod. 12333",
+    "jesuiten_id": "jesuiten_msdesc__237",
+    "mentioned_orgs": [
+      {
+        "id": 41,
+        "value": "Missio Castrensis"
+      },
+      {
+        "id": 92,
+        "value": "Profeßhaus Prag"
+      },
+      {
+        "id": 93,
+        "value": "Jesuitenkolleg Březnice"
+      },
+      {
+        "id": 94,
+        "value": "Jesuitenresidenz Svatá Hora"
+      },
+      {
+        "id": 95,
+        "value": "Jesuitenkolleg Chomutov"
+      },
+      {
+        "id": 96,
+        "value": "Jesuitenkolleg Krumlov"
+      },
+      {
+        "id": 97,
+        "value": "Jesuitenkolleg Cheb"
+      },
+      {
+        "id": 98,
+        "value": "Jesuitenkolleg Jičín"
+      },
+      {
+        "id": 99,
+        "value": "Jesuitenkolleg Kłodzko"
+      },
+      {
+        "id": 100,
+        "value": "Jesuitenkolleg Klatovy"
+      },
+      {
+        "id": 101,
+        "value": "Jesuitenkolleg Głogów"
+      },
+      {
+        "id": 102,
+        "value": "Jesuitenkolleg Uherské Hradiště"
+      },
+      {
+        "id": 103,
+        "value": "Jesuitenkolleg Jihlava"
+      },
+      {
+        "id": 104,
+        "value": "Jesuitenkolleg Kutná Hora"
+      },
+      {
+        "id": 105,
+        "value": "Jesuitenresidenz Golčův Jeníkov"
+      },
+      {
+        "id": 106,
+        "value": "Jesuitenkolleg Legnica"
+      },
+      {
+        "id": 107,
+        "value": "Jesuitenresidenz Otyń"
+      },
+      {
+        "id": 108,
+        "value": "Jesuitenkolleg Litoměřice"
+      },
+      {
+        "id": 110,
+        "value": "Jesuitenkolleg Nysa"
+      },
+      {
+        "id": 111,
+        "value": "Jesuitenkolleg Jindřichův Hradec"
+      },
+      {
+        "id": 112,
+        "value": "Jesuitenkolleg Olomouc"
+      },
+      {
+        "id": 113,
+        "value": "Jesuitenkolleg Opava"
+      },
+      {
+        "id": 115,
+        "value": "Jesuitenkolleg Opole"
+      },
+      {
+        "id": 116,
+        "value": "Jesuitenkolleg Prague ad S. Clementem"
+      },
+      {
+        "id": 117,
+        "value": "Jesuitenkolleg Hradec Králové"
+      },
+      {
+        "id": 118,
+        "value": "Jesuitenkolleg Żagań"
+      },
+      {
+        "id": 119,
+        "value": "Jesuitenkolleg Świdnica"
+      },
+      {
+        "id": 120,
+        "value": "Jesuitenkolleg Telč"
+      },
+      {
+        "id": 121,
+        "value": "Jesuitenkolleg Wrocław"
+      },
+      {
+        "id": 122,
+        "value": "Jesuitenkolleg Znoymo"
+      },
+      {
+        "id": 123,
+        "value": "Jesuitenkolleg Brno"
+      },
+      {
+        "id": 124,
+        "value": "Jesuitenresidenz Tuřany"
+      },
+      {
+        "id": 133,
+        "value": "Jesuitenmission Pommersdorf"
+      },
+      {
+        "id": 132,
+        "value": "Jesuitenmission Brantice"
+      },
+      {
+        "id": 134,
+        "value": "Jesuitenresidenz Piekary"
+      },
+      {
+        "id": 136,
+        "value": "Jesuitenresidenz Košumberk"
+      },
+      {
+        "id": 137,
+        "value": "Jesuitenresidenz Jelenia Góra"
+      },
+      {
+        "id": 138,
+        "value": "Probationshaus Telč"
+      },
+      {
+        "id": 139,
+        "value": "Jesuitenmission Brzeg"
+      },
+      {
+        "id": 140,
+        "value": "Jesuitenresidenz Cieszyn"
+      },
+      {
+        "id": 142,
+        "value": "Jesuitenresidenz Maria Scheinensis"
+      },
+      {
+        "id": 159,
+        "value": "Probationshaus Jičín"
+      },
+      {
+        "id": 161,
+        "value": "Jesuitenmission Dresden"
+      },
+      {
+        "id": 197,
+        "value": "Jesuitenkolleg Prague ad S. Ignatium"
+      },
+      {
+        "id": 196,
+        "value": "Jesuitenmission Římov"
+      },
+      {
+        "id": 284,
+        "value": "Jesuitenresidenz Liběšice"
+      },
+      {
+        "id": 286,
+        "value": "Jesuitenresidenz Tuchmeritz"
+      },
+      {
+        "id": 289,
+        "value": "Jesuitenresidenz Tarnowskie Góry"
+      },
+      {
+        "id": 296,
+        "value": "Jesuitenresidenz Opařany"
+      },
+      {
+        "id": 297,
+        "value": "Jesuitenresidenz Brandýs nad Labem-Stará Boleslav"
+      },
+      {
+        "id": 299,
+        "value": "Jesuitenmission Poenitentia in Bohemia-Germanica"
+      },
+      {
+        "id": 302,
+        "value": "Jesuitenmission Leipzig"
+      },
+      {
+        "id": 303,
+        "value": "Jesuitenmission Hubertusburg"
+      },
+      {
+        "id": 435,
+        "value": "Jesuitenmission Czeikowicium  (?)"
+      },
+      {
+        "id": 495,
+        "value": "Jesuitenmission Policensis (?)"
+      },
+      {
+        "id": 517,
+        "value": "Jesuitenmission Modlany"
+      },
+      {
+        "id": 518,
+        "value": "Jesuitenmission Kynšperk nad Ohří"
+      }
+    ],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948477",
+    "title": "Litterae annuae provinciae Bohemiae Societatis Iesu a. 1749",
+    "date": "ab 1750",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Provincia Bohemia"
+      }
+    ],
+    "note_type_facs": "",
+    "xml_id": "cod_12333",
+    "extent": "I, 67 Bl.",
+    "height": "265",
+    "width": "187",
+    "foliation": "Moderne Foliierung.",
+    "acc_mat": "",
+    "binding": "Halbband, Deckel mit buntem Marmorpapier überzogen, 18. Jhdt.",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit, thematisch in 21 Kapitel gegliedert.",
+    "not_before": "1750",
+    "not_after": null,
+    "# when": "",
+    "date_letter": "1749"
+  },
+  "238": {
+    "id": 238,
+    "order": "8.47792658730158699143",
+    "signatur": "Cod. 12334",
+    "jesuiten_id": "jesuiten_msdesc__238",
+    "mentioned_orgs": [
+      {
+        "id": 41,
+        "value": "Missio Castrensis"
+      },
+      {
+        "id": 92,
+        "value": "Profeßhaus Prag"
+      },
+      {
+        "id": 93,
+        "value": "Jesuitenkolleg Březnice"
+      },
+      {
+        "id": 94,
+        "value": "Jesuitenresidenz Svatá Hora"
+      },
+      {
+        "id": 95,
+        "value": "Jesuitenkolleg Chomutov"
+      },
+      {
+        "id": 96,
+        "value": "Jesuitenkolleg Krumlov"
+      },
+      {
+        "id": 97,
+        "value": "Jesuitenkolleg Cheb"
+      },
+      {
+        "id": 98,
+        "value": "Jesuitenkolleg Jičín"
+      },
+      {
+        "id": 99,
+        "value": "Jesuitenkolleg Kłodzko"
+      },
+      {
+        "id": 100,
+        "value": "Jesuitenkolleg Klatovy"
+      },
+      {
+        "id": 101,
+        "value": "Jesuitenkolleg Głogów"
+      },
+      {
+        "id": 102,
+        "value": "Jesuitenkolleg Uherské Hradiště"
+      },
+      {
+        "id": 103,
+        "value": "Jesuitenkolleg Jihlava"
+      },
+      {
+        "id": 104,
+        "value": "Jesuitenkolleg Kutná Hora"
+      },
+      {
+        "id": 105,
+        "value": "Jesuitenresidenz Golčův Jeníkov"
+      },
+      {
+        "id": 106,
+        "value": "Jesuitenkolleg Legnica"
+      },
+      {
+        "id": 107,
+        "value": "Jesuitenresidenz Otyń"
+      },
+      {
+        "id": 108,
+        "value": "Jesuitenkolleg Litoměřice"
+      },
+      {
+        "id": 110,
+        "value": "Jesuitenkolleg Nysa"
+      },
+      {
+        "id": 111,
+        "value": "Jesuitenkolleg Jindřichův Hradec"
+      },
+      {
+        "id": 112,
+        "value": "Jesuitenkolleg Olomouc"
+      },
+      {
+        "id": 113,
+        "value": "Jesuitenkolleg Opava"
+      },
+      {
+        "id": 115,
+        "value": "Jesuitenkolleg Opole"
+      },
+      {
+        "id": 116,
+        "value": "Jesuitenkolleg Prague ad S. Clementem"
+      },
+      {
+        "id": 117,
+        "value": "Jesuitenkolleg Hradec Králové"
+      },
+      {
+        "id": 118,
+        "value": "Jesuitenkolleg Żagań"
+      },
+      {
+        "id": 119,
+        "value": "Jesuitenkolleg Świdnica"
+      },
+      {
+        "id": 120,
+        "value": "Jesuitenkolleg Telč"
+      },
+      {
+        "id": 121,
+        "value": "Jesuitenkolleg Wrocław"
+      },
+      {
+        "id": 122,
+        "value": "Jesuitenkolleg Znoymo"
+      },
+      {
+        "id": 123,
+        "value": "Jesuitenkolleg Brno"
+      },
+      {
+        "id": 124,
+        "value": "Jesuitenresidenz Tuřany"
+      },
+      {
+        "id": 134,
+        "value": "Jesuitenresidenz Piekary"
+      },
+      {
+        "id": 136,
+        "value": "Jesuitenresidenz Košumberk"
+      },
+      {
+        "id": 137,
+        "value": "Jesuitenresidenz Jelenia Góra"
+      },
+      {
+        "id": 138,
+        "value": "Probationshaus Telč"
+      },
+      {
+        "id": 139,
+        "value": "Jesuitenmission Brzeg"
+      },
+      {
+        "id": 140,
+        "value": "Jesuitenresidenz Cieszyn"
+      },
+      {
+        "id": 142,
+        "value": "Jesuitenresidenz Maria Scheinensis"
+      },
+      {
+        "id": 159,
+        "value": "Probationshaus Jičín"
+      },
+      {
+        "id": 161,
+        "value": "Jesuitenmission Dresden"
+      },
+      {
+        "id": 197,
+        "value": "Jesuitenkolleg Prague ad S. Ignatium"
+      },
+      {
+        "id": 196,
+        "value": "Jesuitenmission Římov"
+      },
+      {
+        "id": 284,
+        "value": "Jesuitenresidenz Liběšice"
+      },
+      {
+        "id": 286,
+        "value": "Jesuitenresidenz Tuchmeritz"
+      },
+      {
+        "id": 289,
+        "value": "Jesuitenresidenz Tarnowskie Góry"
+      },
+      {
+        "id": 296,
+        "value": "Jesuitenresidenz Opařany"
+      },
+      {
+        "id": 297,
+        "value": "Jesuitenresidenz Brandýs nad Labem-Stará Boleslav"
+      },
+      {
+        "id": 299,
+        "value": "Jesuitenmission Poenitentia in Bohemia-Germanica"
+      },
+      {
+        "id": 302,
+        "value": "Jesuitenmission Leipzig"
+      },
+      {
+        "id": 303,
+        "value": "Jesuitenmission Hubertusburg"
+      },
+      {
+        "id": 351,
+        "value": "Jesuitenmission Vsetín"
+      },
+      {
+        "id": 435,
+        "value": "Jesuitenmission Czeikowicium  (?)"
+      },
+      {
+        "id": 442,
+        "value": "Jesutienmission Ostroviensis"
+      },
+      {
+        "id": 495,
+        "value": "Jesuitenmission Policensis (?)"
+      },
+      {
+        "id": 517,
+        "value": "Jesuitenmission Modlany"
+      },
+      {
+        "id": 518,
+        "value": "Jesuitenmission Kynšperk nad Ohří"
+      }
+    ],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948478",
+    "title": "Litterae annuae provinciae Bohemiae Societatis Iesu a. 1750",
+    "date": "ab 1751",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Provincia Bohemia"
+      }
+    ],
+    "note_type_facs": "",
+    "xml_id": "cod_12334",
+    "extent": "52 Bl.",
+    "height": "268",
+    "width": "198",
+    "foliation": "Moderne Foliierung.",
+    "acc_mat": "",
+    "binding": "Halbband, Deckel mit buntem Marmorpapier überzogen, 18. Jhdt.",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit, thematisch in 21 Kapitel gegliedert.",
+    "not_before": "1751",
+    "not_after": null,
+    "# when": "",
+    "date_letter": "1750"
+  },
+  "239": {
+    "id": 239,
+    "order": "8.47792664177465482567",
+    "signatur": "Cod. 12335",
+    "jesuiten_id": "jesuiten_msdesc__239",
+    "mentioned_orgs": [
+      {
+        "id": 92,
+        "value": "Profeßhaus Prag"
+      },
+      {
+        "id": 93,
+        "value": "Jesuitenkolleg Březnice"
+      },
+      {
+        "id": 94,
+        "value": "Jesuitenresidenz Svatá Hora"
+      },
+      {
+        "id": 95,
+        "value": "Jesuitenkolleg Chomutov"
+      },
+      {
+        "id": 96,
+        "value": "Jesuitenkolleg Krumlov"
+      },
+      {
+        "id": 97,
+        "value": "Jesuitenkolleg Cheb"
+      },
+      {
+        "id": 98,
+        "value": "Jesuitenkolleg Jičín"
+      },
+      {
+        "id": 99,
+        "value": "Jesuitenkolleg Kłodzko"
+      },
+      {
+        "id": 100,
+        "value": "Jesuitenkolleg Klatovy"
+      },
+      {
+        "id": 101,
+        "value": "Jesuitenkolleg Głogów"
+      },
+      {
+        "id": 102,
+        "value": "Jesuitenkolleg Uherské Hradiště"
+      },
+      {
+        "id": 103,
+        "value": "Jesuitenkolleg Jihlava"
+      },
+      {
+        "id": 104,
+        "value": "Jesuitenkolleg Kutná Hora"
+      },
+      {
+        "id": 105,
+        "value": "Jesuitenresidenz Golčův Jeníkov"
+      },
+      {
+        "id": 106,
+        "value": "Jesuitenkolleg Legnica"
+      },
+      {
+        "id": 107,
+        "value": "Jesuitenresidenz Otyń"
+      },
+      {
+        "id": 108,
+        "value": "Jesuitenkolleg Litoměřice"
+      },
+      {
+        "id": 110,
+        "value": "Jesuitenkolleg Nysa"
+      },
+      {
+        "id": 111,
+        "value": "Jesuitenkolleg Jindřichův Hradec"
+      },
+      {
+        "id": 112,
+        "value": "Jesuitenkolleg Olomouc"
+      },
+      {
+        "id": 113,
+        "value": "Jesuitenkolleg Opava"
+      },
+      {
+        "id": 115,
+        "value": "Jesuitenkolleg Opole"
+      },
+      {
+        "id": 116,
+        "value": "Jesuitenkolleg Prague ad S. Clementem"
+      },
+      {
+        "id": 117,
+        "value": "Jesuitenkolleg Hradec Králové"
+      },
+      {
+        "id": 118,
+        "value": "Jesuitenkolleg Żagań"
+      },
+      {
+        "id": 119,
+        "value": "Jesuitenkolleg Świdnica"
+      },
+      {
+        "id": 120,
+        "value": "Jesuitenkolleg Telč"
+      },
+      {
+        "id": 121,
+        "value": "Jesuitenkolleg Wrocław"
+      },
+      {
+        "id": 122,
+        "value": "Jesuitenkolleg Znoymo"
+      },
+      {
+        "id": 123,
+        "value": "Jesuitenkolleg Brno"
+      },
+      {
+        "id": 124,
+        "value": "Jesuitenresidenz Tuřany"
+      },
+      {
+        "id": 132,
+        "value": "Jesuitenmission Brantice"
+      },
+      {
+        "id": 134,
+        "value": "Jesuitenresidenz Piekary"
+      },
+      {
+        "id": 136,
+        "value": "Jesuitenresidenz Košumberk"
+      },
+      {
+        "id": 137,
+        "value": "Jesuitenresidenz Jelenia Góra"
+      },
+      {
+        "id": 138,
+        "value": "Probationshaus Telč"
+      },
+      {
+        "id": 139,
+        "value": "Jesuitenmission Brzeg"
+      },
+      {
+        "id": 140,
+        "value": "Jesuitenresidenz Cieszyn"
+      },
+      {
+        "id": 142,
+        "value": "Jesuitenresidenz Maria Scheinensis"
+      },
+      {
+        "id": 159,
+        "value": "Probationshaus Jičín"
+      },
+      {
+        "id": 161,
+        "value": "Jesuitenmission Dresden"
+      },
+      {
+        "id": 197,
+        "value": "Jesuitenkolleg Prague ad S. Ignatium"
+      },
+      {
+        "id": 196,
+        "value": "Jesuitenmission Římov"
+      },
+      {
+        "id": 284,
+        "value": "Jesuitenresidenz Liběšice"
+      },
+      {
+        "id": 286,
+        "value": "Jesuitenresidenz Tuchmeritz"
+      },
+      {
+        "id": 289,
+        "value": "Jesuitenresidenz Tarnowskie Góry"
+      },
+      {
+        "id": 296,
+        "value": "Jesuitenresidenz Opařany"
+      },
+      {
+        "id": 297,
+        "value": "Jesuitenresidenz Brandýs nad Labem-Stará Boleslav"
+      },
+      {
+        "id": 298,
+        "value": "Jesuitenresidenz Strašnice"
+      },
+      {
+        "id": 300,
+        "value": "Jesuitenmission Poenitentia Bohemia Bohemica"
+      },
+      {
+        "id": 301,
+        "value": "Jesuitenmission Poenitentia Moravia"
+      },
+      {
+        "id": 302,
+        "value": "Jesuitenmission Leipzig"
+      },
+      {
+        "id": 303,
+        "value": "Jesuitenmission Hubertusburg"
+      },
+      {
+        "id": 351,
+        "value": "Jesuitenmission Vsetín"
+      },
+      {
+        "id": 435,
+        "value": "Jesuitenmission Czeikowicium  (?)"
+      },
+      {
+        "id": 442,
+        "value": "Jesutienmission Ostroviensis"
+      },
+      {
+        "id": 495,
+        "value": "Jesuitenmission Policensis (?)"
+      },
+      {
+        "id": 517,
+        "value": "Jesuitenmission Modlany"
+      },
+      {
+        "id": 518,
+        "value": "Jesuitenmission Kynšperk nad Ohří"
+      },
+      {
+        "id": 519,
+        "value": "Jesuitenmission Harpersdorf"
+      },
+      {
+        "id": 520,
+        "value": "Jesuitenmission De poenitentia per Austriam Inferiorem"
+      }
+    ],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948479",
+    "title": "Litterae annuae provinciae Bohemiae Societatis Iesu a. 1753",
+    "date": "ab 1754",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Provincia Bohemia"
+      }
+    ],
+    "note_type_facs": "",
+    "xml_id": "cod_12335",
+    "extent": "I, 111, II* Bl.",
+    "height": "270",
+    "width": "196",
+    "foliation": "Moderne Foliierung.",
+    "acc_mat": "",
+    "binding": "Halbband, Deckel mit buntem Marmorpapier überzogen, 18. Jhdt.",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit, thematisch in 21 Kapitel gegliedert.",
+    "not_before": "1754",
+    "not_after": null,
+    "# when": "",
+    "date_letter": "1753"
+  },
+  "240": {
+    "id": 240,
+    "order": "8.47792668506109592386",
+    "signatur": "Cod. 12336",
+    "jesuiten_id": "jesuiten_msdesc__240",
+    "mentioned_orgs": [
+      {
+        "id": 92,
+        "value": "Profeßhaus Prag"
+      },
+      {
+        "id": 93,
+        "value": "Jesuitenkolleg Březnice"
+      },
+      {
+        "id": 94,
+        "value": "Jesuitenresidenz Svatá Hora"
+      },
+      {
+        "id": 95,
+        "value": "Jesuitenkolleg Chomutov"
+      },
+      {
+        "id": 96,
+        "value": "Jesuitenkolleg Krumlov"
+      },
+      {
+        "id": 97,
+        "value": "Jesuitenkolleg Cheb"
+      },
+      {
+        "id": 98,
+        "value": "Jesuitenkolleg Jičín"
+      },
+      {
+        "id": 99,
+        "value": "Jesuitenkolleg Kłodzko"
+      },
+      {
+        "id": 100,
+        "value": "Jesuitenkolleg Klatovy"
+      },
+      {
+        "id": 101,
+        "value": "Jesuitenkolleg Głogów"
+      },
+      {
+        "id": 102,
+        "value": "Jesuitenkolleg Uherské Hradiště"
+      },
+      {
+        "id": 103,
+        "value": "Jesuitenkolleg Jihlava"
+      },
+      {
+        "id": 104,
+        "value": "Jesuitenkolleg Kutná Hora"
+      },
+      {
+        "id": 105,
+        "value": "Jesuitenresidenz Golčův Jeníkov"
+      },
+      {
+        "id": 106,
+        "value": "Jesuitenkolleg Legnica"
+      },
+      {
+        "id": 107,
+        "value": "Jesuitenresidenz Otyń"
+      },
+      {
+        "id": 108,
+        "value": "Jesuitenkolleg Litoměřice"
+      },
+      {
+        "id": 110,
+        "value": "Jesuitenkolleg Nysa"
+      },
+      {
+        "id": 111,
+        "value": "Jesuitenkolleg Jindřichův Hradec"
+      },
+      {
+        "id": 112,
+        "value": "Jesuitenkolleg Olomouc"
+      },
+      {
+        "id": 113,
+        "value": "Jesuitenkolleg Opava"
+      },
+      {
+        "id": 115,
+        "value": "Jesuitenkolleg Opole"
+      },
+      {
+        "id": 116,
+        "value": "Jesuitenkolleg Prague ad S. Clementem"
+      },
+      {
+        "id": 117,
+        "value": "Jesuitenkolleg Hradec Králové"
+      },
+      {
+        "id": 118,
+        "value": "Jesuitenkolleg Żagań"
+      },
+      {
+        "id": 119,
+        "value": "Jesuitenkolleg Świdnica"
+      },
+      {
+        "id": 120,
+        "value": "Jesuitenkolleg Telč"
+      },
+      {
+        "id": 121,
+        "value": "Jesuitenkolleg Wrocław"
+      },
+      {
+        "id": 122,
+        "value": "Jesuitenkolleg Znoymo"
+      },
+      {
+        "id": 123,
+        "value": "Jesuitenkolleg Brno"
+      },
+      {
+        "id": 124,
+        "value": "Jesuitenresidenz Tuřany"
+      },
+      {
+        "id": 132,
+        "value": "Jesuitenmission Brantice"
+      },
+      {
+        "id": 134,
+        "value": "Jesuitenresidenz Piekary"
+      },
+      {
+        "id": 136,
+        "value": "Jesuitenresidenz Košumberk"
+      },
+      {
+        "id": 137,
+        "value": "Jesuitenresidenz Jelenia Góra"
+      },
+      {
+        "id": 138,
+        "value": "Probationshaus Telč"
+      },
+      {
+        "id": 139,
+        "value": "Jesuitenmission Brzeg"
+      },
+      {
+        "id": 140,
+        "value": "Jesuitenresidenz Cieszyn"
+      },
+      {
+        "id": 142,
+        "value": "Jesuitenresidenz Maria Scheinensis"
+      },
+      {
+        "id": 159,
+        "value": "Probationshaus Jičín"
+      },
+      {
+        "id": 161,
+        "value": "Jesuitenmission Dresden"
+      },
+      {
+        "id": 197,
+        "value": "Jesuitenkolleg Prague ad S. Ignatium"
+      },
+      {
+        "id": 196,
+        "value": "Jesuitenmission Římov"
+      },
+      {
+        "id": 284,
+        "value": "Jesuitenresidenz Liběšice"
+      },
+      {
+        "id": 286,
+        "value": "Jesuitenresidenz Tuchmeritz"
+      },
+      {
+        "id": 289,
+        "value": "Jesuitenresidenz Tarnowskie Góry"
+      },
+      {
+        "id": 296,
+        "value": "Jesuitenresidenz Opařany"
+      },
+      {
+        "id": 297,
+        "value": "Jesuitenresidenz Brandýs nad Labem-Stará Boleslav"
+      },
+      {
+        "id": 298,
+        "value": "Jesuitenresidenz Strašnice"
+      },
+      {
+        "id": 299,
+        "value": "Jesuitenmission Poenitentia in Bohemia-Germanica"
+      },
+      {
+        "id": 300,
+        "value": "Jesuitenmission Poenitentia Bohemia Bohemica"
+      },
+      {
+        "id": 301,
+        "value": "Jesuitenmission Poenitentia Moravia"
+      },
+      {
+        "id": 302,
+        "value": "Jesuitenmission Leipzig"
+      },
+      {
+        "id": 303,
+        "value": "Jesuitenmission Hubertusburg"
+      },
+      {
+        "id": 351,
+        "value": "Jesuitenmission Vsetín"
+      },
+      {
+        "id": 435,
+        "value": "Jesuitenmission Czeikowicium  (?)"
+      },
+      {
+        "id": 495,
+        "value": "Jesuitenmission Policensis (?)"
+      },
+      {
+        "id": 517,
+        "value": "Jesuitenmission Modlany"
+      },
+      {
+        "id": 518,
+        "value": "Jesuitenmission Kynšperk nad Ohří"
+      },
+      {
+        "id": 519,
+        "value": "Jesuitenmission Harpersdorf"
+      },
+      {
+        "id": 520,
+        "value": "Jesuitenmission De poenitentia per Austriam Inferiorem"
+      }
+    ],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948480",
+    "title": "Litterae annuae provinciae Bohemiae Societatis Iesu a. 1754",
+    "date": "1755-Dez. 1756",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Provincia Bohemia"
+      }
+    ],
+    "note_type_facs": "",
+    "xml_id": "cod_12336",
+    "extent": "125, I* Bl.",
+    "height": null,
+    "width": null,
+    "foliation": "",
+    "acc_mat": "",
+    "binding": "",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit, thematisch in 21 Kapitel gegliedert.",
+    "not_before": "1755",
+    "not_after": "1756",
+    "# when": "",
+    "date_letter": "1754"
+  },
   "194": {
     "id": 194,
     "order": "8.47792706333973100641",
@@ -20523,5 +21850,90 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1718"
+  },
+  "241": {
+    "id": 241,
+    "order": "40.00000000000000000000",
+    "signatur": "Cod. 14002",
+    "jesuiten_id": "jesuiten_msdesc__241",
+    "mentioned_orgs": [
+      {
+        "id": 87,
+        "value": "Jesuitenkolleg Sopron"
+      }
+    ],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948118",
+    "title": "Historia collegii Soproniensis Societatis Iesu a. 1636-1694.",
+    "date": "ab 1639",
+    "persons": [],
+    "mentioned_places": [],
+    "note_type_facs": "",
+    "xml_id": "cod_14002",
+    "extent": "II, 230 Bl.",
+    "height": "300",
+    "width": "190",
+    "foliation": "Zeitgenössische Paginierung.",
+    "acc_mat": "",
+    "binding": "Braunes Papier über Pappdeckeln, Schnitt rot. 18. Jhdt.",
+    "summary": "Das Werk ist der Geschichte des Jesuitenkollegs in Sopron gewidmet. Es ist nach Jahren gegliedert. Die Kapitel über die ersten drei Jahre (1636-1638) auf den Seiten 1-109 wurden wahrscheinlich von einer Hand geschrieben. Danach wurde die Geschichte vermutlich von verschiedenen Schreibern fortlaufend ergänzt, wobei die Einträge deutlich kürzer werden. Neben den Berichten finden sich auch Mitgliederlisten (catalogus personarum) sowie gelegentlich Abschriften verschiedener Briefe (u.a. litterae pontificae) und anderer Dokumente (Responsa congregationis generalis). Auf S. 447 Brief von Georgius Draskovits episcopus Jaurinensis von 5. Sept. 1641.\nDer zweite und dritte Band sind unter Signatur Cod. 14003 und Cod. 14004 aufbewahrt.",
+    "not_before": "1639",
+    "not_after": null,
+    "# when": "",
+    "date_letter": ""
+  },
+  "242": {
+    "id": 242,
+    "order": "41.00000000000000000000",
+    "signatur": "Cod. 14003",
+    "jesuiten_id": "jesuiten_msdesc__242",
+    "mentioned_orgs": [
+      {
+        "id": 87,
+        "value": "Jesuitenkolleg Sopron"
+      }
+    ],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13954948",
+    "title": "Historia collegii Soproniensis Societatis Iesu a. 1695-1757.",
+    "date": "ab 1695",
+    "persons": [],
+    "mentioned_places": [],
+    "note_type_facs": "",
+    "xml_id": "cod_14003",
+    "extent": "II, 229 Bl.",
+    "height": "300",
+    "width": "200",
+    "foliation": "Moderne Foliierung.",
+    "acc_mat": "",
+    "binding": "Braunes Papier über Pappdeckeln, Schnitt rot. 18. Jhdt.",
+    "summary": "Das Werk ist der Geschichte des Jesuitenkollegs in Sopron gewidmet. Cod. 14003 ist der zweite Band, wo die Berichte für die Jahre 1695–1757 laufend ergänzt worden sind.\nDer erste und dritte Band sind unter Signatur Cod. 14002 und Cod. 14004 aufbewahrt.",
+    "not_before": "1695",
+    "not_after": null,
+    "# when": "",
+    "date_letter": ""
+  },
+  "243": {
+    "id": 243,
+    "order": "42.00000000000000000000",
+    "signatur": "",
+    "jesuiten_id": "jesuiten_msdesc__243",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "",
+    "title": "",
+    "date": "",
+    "persons": [],
+    "mentioned_places": [],
+    "note_type_facs": "",
+    "xml_id": "",
+    "extent": "",
+    "height": null,
+    "width": null,
+    "foliation": "",
+    "acc_mat": "",
+    "binding": "",
+    "summary": "",
+    "not_before": null,
+    "not_after": null,
+    "# when": "",
+    "date_letter": ""
   }
 }
