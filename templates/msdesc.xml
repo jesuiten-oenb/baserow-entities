@@ -76,7 +76,7 @@
                                 <msItem n="{{ x.order_number }}">
                                     <locus from="{{ x.locus_from }}" to="{{ x.locus_to }}">{{ x.locus_text }}</locus>
                                     {% if x.title %}
-                                    <title>{{ x.title }}</title>
+                                    <title>{{ x.title }} </title>
                                     {% endif %}
                                     {% if x.places %}
                                     <note>
@@ -101,7 +101,7 @@
                                     </note>
                                     {% endif %}
                                     {% if x.year %}
-                                    <note><date>{{ x.year }}</date></note>
+                                    <note> (a.<date>{{ x.year }}</date>)</note>
                                     {% endif %}
                                 </msItem>
                                 {% endfor %}                          
