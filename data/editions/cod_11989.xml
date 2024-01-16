@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cod_11989.xml" xml:base="https://oenb.ac.at" prev="https://oenb.ac.at/cod_11988.xml" next="https://oenb.ac.at/cod_11995.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Wien, Österreichische nationalbibliothek, Cod. 11989</title>
+                <title type="sub">Jesuiten Littera annuae</title>
+                <respStmt>
+                    <resp>Beschreibung und TEI-encoding</resp>
+                    <persName>
+                        <forename>Ivana</forename>
+                        <surname>Dobcheva</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="restricted">
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">This document is published under the Creative Commons licence Attribution 4.0 International (CC BY 4.0).</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:lang="de" xml:id="cod_11989">
+                    <msIdentifier>
+                        <country>Österreich</country>
+                        <settlement>Wien</settlement>
+                        <repository>Österreichische Nationalbibliothek</repository>
+                        <idno>Cod. 11989</idno>
+                    </msIdentifier>
+                    <head>
+                        <title>Historia missionis Rozniatowiensis Societatis Iesu a. 1699-1769</title>
+                        <origDate notBefore="1699-01-01">1699-1773</origDate>
+                        <date type="letter">1699-1769 </date>
+                        <note type="catalogue">
+                            <ref target="http://data.onb.ac.at/rec/AC13960955"/>
+                        </note>
+                    </head>
+                    <msContents>                   
+                        <summary>
+                                Die Handschrift besteht aus einer kodikologischen Einheit. Sie ist chronologisch geordnet und enthält die Berichte der Jesuitenmission in Rożniątów für die Jahre 1699 bis 1769. Hineingebunden sind zwei Briefe (fols. 57-57*, 59-60) sowie ein Druck (fols. 52-53). 
+                                
+                                <listOrg>
+                                    <head>Erwähnte Körperschaften:</head>
+                                    <org>
+                                        <orgName key="#jesuiten_org__492">Jesuitenmission Rożniątów</orgName>
+                                    </org>
+                                </listOrg>                           
+                            <listPlace>
+                                <head>Erwähnte Orte:</head>
+                                <place>
+                                    <placeName key="#jesuiten_place__317">Kingdom of Poland</placeName>
+                                </place>
+                            </listPlace>                           
+                        </summary> 
+                        <textLang mainLang="lat"/>
+                        
+                                <msItem n="None">
+                                    <locus from="2r" to="58r">2r-58r</locus>
+                                    <title>Historia missionis Rozniatowiensis ab a. 1699 usque ad a. 1769 </title>
+                                    <note>
+                                        <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__492">Jesuitenmission Rożniątów</orgName>
+                                        </org>
+                                    </listOrg>
+                                    </note>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="57r" to="57*v">57r-57*v</locus>
+                                    <title>Epistula ad rectorem et priorem Rozniatowiensem data a M. Myslecki in Martynowie 23.04.1771 </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="59r" to="60v">59r-60v</locus>
+                                    <title>Epistula archiepiscopi Leopolinensis presbyteris missionem Rozniatowiensem curantibus 14.01.1738. </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="52r" to="53v">52r-53v</locus>
+                                    <title>Druck über eine wundersame Heilung durch die Fürsprache des hl. Aloysius in Rom am 3. Dezember 1765. </title>
+                                </msItem>
+                          
+                        
+                       
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="codex">
+                            <supportDesc material="paper">
+                                <support>Papier</support>
+                                <extent>
+                                    <measure type="leavesCount" unit="folio">83 Bl.</measure>
+                                    <dimensions type="leaf_current" unit="mm">
+                                        <height>310</height>
+                                        <width>185</width>
+                                    </dimensions>
+                                </extent>
+                                <foliation>Moderne Foliierung: 1-42, 42*-57, 57*-</foliation>
+                                <collation/>
+                            </supportDesc>
+                        </objectDesc>
+                        <bindingDesc>
+                            <binding>
+                                <p>Ledereinband mit Blindprägung, 17. Jhdt.</p>
+                            </binding>
+                        </bindingDesc>
+                        <accMat/>                        
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><p/></body>
+    <back><listPlace><place xml:id="jesuiten_place__317">
+                  <placeName>Kingdom of Poland</placeName>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q8890160</idno>
+               <noteGrp><note target="cod_11982.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11982</note><note target="cod_11983.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11983</note><note target="cod_11989.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11989</note><note target="cod_12005.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12005</note><note target="cod_12006.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12006</note></noteGrp></place>
+               </listPlace><listOrg><org xml:id="jesuiten_org__492">
+                  <orgName>Jesuitenmission Rożniątów</orgName>
+                  <orgName type="alt">Missio Rozniatowiensis</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__406">Rożniątów</placeName>
+                     <geo>49.97838 22.51528</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/760215/</idno></note>
+                  </location>
+               <noteGrp><note target="cod_11989.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11989</note></noteGrp></org>
+               </listOrg></back></text>
+</TEI>

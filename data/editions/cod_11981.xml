@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cod_11981.xml" xml:base="https://oenb.ac.at" prev="https://oenb.ac.at/cod_11978.xml" next="https://oenb.ac.at/cod_11982.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Wien, Österreichische nationalbibliothek, Cod. 11981</title>
+                <title type="sub">Jesuiten Littera annuae</title>
+                <respStmt>
+                    <resp>Beschreibung und TEI-encoding</resp>
+                    <persName>
+                        <forename>Ivana</forename>
+                        <surname>Dobcheva</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="restricted">
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">This document is published under the Creative Commons licence Attribution 4.0 International (CC BY 4.0).</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:lang="de" xml:id="cod_11981">
+                    <msIdentifier>
+                        <country>Österreich</country>
+                        <settlement>Wien</settlement>
+                        <repository>Österreichische Nationalbibliothek</repository>
+                        <idno>Cod. 11981</idno>
+                    </msIdentifier>
+                    <head>
+                        <title>Syntagma iuris universi Societatis Iesu</title>
+                        <origDate notBefore="1652-01-01">ab 1652</origDate>
+                        <date type="letter"> </date>
+                        <note type="catalogue">
+                            <ref target="http://data.onb.ac.at/rec/AC13948298"/>
+                        </note>
+                    </head>
+                    <msContents>                   
+                        <summary>
+                                Nach der Überschrift auf f. IIIr wurde das Werk von P. Valentino Mangioni (1573-1660) verfasst. Als Einleitung dient ein Brief Mangionis an P. Goswin Nickel, General der SJ zwischen 1652 und 1664, gefolgt von einer kurzen Erläuterung (methodus operis) und einer Inhaltsangabe (partitio). Das eigentliche Werk ist in zehn Teile mit mehreren Kapiteln und Abschnitten gegliedert. Am Ende steht ein Sachregister. 
+                                
+                        </summary> 
+                        <textLang mainLang="lat"/>
+                        
+                                <msItem n="None">
+                                    <locus from="5r" to="18v">5r-18v</locus>
+                                    <title>I. De iure societatis in universum </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="19r" to="25v">19r-25v</locus>
+                                    <title>II. De iure novitiorum </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="26r" to="33v">26r-33v</locus>
+                                    <title>III. De iure scholarlium et emittentium vota simplicia post novitiatum </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="33v" to="42r">33v-42r</locus>
+                                    <title>IV. De iure professorum quatuor votorum </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="42v" to="44v">42v-44v</locus>
+                                    <title>V. De iure coadiutorum formatorum et professorum trium votorum </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="45r" to="53r">45r-53r</locus>
+                                    <title>VI. De iure personarum habentium in societate iurisdictionem </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="53v" to="59v">53v-59v</locus>
+                                    <title>VII. De iure personatum habentium in societate officiorum sine iurisdictione </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="60r" to="80r">60r-80r</locus>
+                                    <title>VIII. De iure personarum fictarum ubi de congregationibus et earum iure </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="80r" to="96r">80r-96r</locus>
+                                    <title>IX. De iure et mediis quibus utitur societas ad suum finem consequendum </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="96r" to="99r">96r-99r</locus>
+                                    <title>X. De iure et modo, quomodo conservari et augeri totum corpus societatis in suo bono statu semper possit </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="100r" to="111v">100r-111v</locus>
+                                    <title>Index </title>
+                                </msItem>
+                          
+                        
+                       
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="codex">
+                            <supportDesc material="paper">
+                                <support>Papier</support>
+                                <extent>
+                                    <measure type="leavesCount" unit="folio">III, 121 Bl.</measure>
+                                    <dimensions type="leaf_current" unit="mm">
+                                        <height>294</height>
+                                        <width>198</width>
+                                    </dimensions>
+                                </extent>
+                                <foliation>Moderne Foliierung.</foliation>
+                                <collation/>
+                            </supportDesc>
+                        </objectDesc>
+                        <bindingDesc>
+                            <binding>
+                                <p>Pergament über Papdeckeln.</p>
+                            </binding>
+                        </bindingDesc>
+                        <accMat/>                        
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><p/></body>
+    <back/></text>
+</TEI>

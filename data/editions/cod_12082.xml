@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cod_12082.xml" xml:base="https://oenb.ac.at" prev="https://oenb.ac.at/cod_12081.xml" next="https://oenb.ac.at/cod_12084.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Wien, Österreichische nationalbibliothek, Cod. 12082</title>
+                <title type="sub">Jesuiten Littera annuae</title>
+                <respStmt>
+                    <resp>Beschreibung und TEI-encoding</resp>
+                    <persName>
+                        <forename>Ivana</forename>
+                        <surname>Dobcheva</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="restricted">
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">This document is published under the Creative Commons licence Attribution 4.0 International (CC BY 4.0).</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:lang="de" xml:id="cod_12082">
+                    <msIdentifier>
+                        <country>Österreich</country>
+                        <settlement>Wien</settlement>
+                        <repository>Österreichische Nationalbibliothek</repository>
+                        <idno>Cod. 12082</idno>
+                    </msIdentifier>
+                    <head>
+                        <title>Litterae annuae provinciae Austriae Societatis Iesu a. 1685</title>
+                        <origDate notBefore="1686-01-01">ab 1686</origDate>
+                        <date type="letter">1685 </date>
+                        <note type="facs">
+                            <ref target="https://digital.onb.ac.at/rep/access/open/131B102B"/>
+                        </note>
+                        <note type="catalogue">
+                            <ref target="http://data.onb.ac.at/rec/AC13947753"/>
+                        </note>
+                    </head>
+                    <msContents>                   
+                        <summary>
+                                Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist thematisch in 18 Kapitel gegliedert. 
+                                
+                        </summary> 
+                        <textLang mainLang="lat"/>
+                        
+                                <msItem n="1">
+                                    <locus from="1r" to="4v">1r-4v</locus>
+                                    <title>Census personarum provinciae </title>
+                                </msItem>
+                                <msItem n="2">
+                                    <locus from="5r" to="6v">5r-6v</locus>
+                                    <title>Sacramentorum administratio </title>
+                                </msItem>
+                                <msItem n="3">
+                                    <locus from="7r" to="8v">7r-8v</locus>
+                                    <title>Verbi divini praedicatio </title>
+                                </msItem>
+                                <msItem n="4">
+                                    <locus from="9r" to="10r">9r-10r</locus>
+                                    <title>Catecheticae doctrinae explanatio </title>
+                                </msItem>
+                                <msItem n="5">
+                                    <locus from="10v" to="17r">10v-17r</locus>
+                                    <title>Felix operantium pieque conversantium industria </title>
+                                </msItem>
+                                <msItem n="6">
+                                    <locus from="17v" to="22r">17v-22r</locus>
+                                    <title>Charitas in egenos, aegros, ac moribundos </title>
+                                </msItem>
+                                <msItem n="7">
+                                    <locus from="22v" to="23v">22v-23v</locus>
+                                    <title>Reorun et carcere detentorum cura </title>
+                                </msItem>
+                                <msItem n="8">
+                                    <locus from="24r" to="30r">24r-30r</locus>
+                                    <title>Ab errorum variorum deviis in viam orthodoxae varitatis nostrorum industria reducti </title>
+                                </msItem>
+                                <msItem n="9">
+                                    <locus from="30v" to="35v">30v-35v</locus>
+                                    <title>Sacrae expeditiones </title>
+                                </msItem>
+                                <msItem n="10">
+                                    <locus from="36r" to="41v">36r-41v</locus>
+                                    <title>Labores scholastici </title>
+                                </msItem>
+                                <msItem n="11">
+                                    <locus from="42r" to="44v">42r-44v</locus>
+                                    <title>Festorum solemnia </title>
+                                </msItem>
+                                <msItem n="12">
+                                    <locus from="44v" to="48v">44v-48v</locus>
+                                    <title>Cultus eucharisticus, solemnes preces, ac processiones </title>
+                                </msItem>
+                                <msItem n="13">
+                                    <locus from="49r" to="51r">49r-51r</locus>
+                                    <title>Pietas erga Christum Patientem </title>
+                                </msItem>
+                                <msItem n="14">
+                                    <locus from="51v" to="60v">51v-60v</locus>
+                                    <title>Magnae dei parentis veneratio et reciproci suos in clientes favores </title>
+                                </msItem>
+                                <msItem n="15">
+                                    <locus from="61r" to="66v">61r-66v</locus>
+                                    <title>Cultus et invocatio sanctorum ac praecipue nostrorum P. P. Ignatii et Xaverii, ab iisque impetrata de caelo gratia </title>
+                                </msItem>
+                                <msItem n="16">
+                                    <locus from="66v" to="67v">66v-67v</locus>
+                                    <title>Favores externorum </title>
+                                </msItem>
+                                <msItem n="17">
+                                    <locus from="67v" to="72v">67v-72v</locus>
+                                    <title>Rerum temporalia compendia et dispendia </title>
+                                </msItem>
+                                <msItem n="18">
+                                    <locus from="73r" to="93v">73r-93v</locus>
+                                    <title>Elogialis defunctorum commendatio </title>
+                                </msItem>
+                          
+                        
+                       
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="codex">
+                            <supportDesc material="paper">
+                                <support>Papier</support>
+                                <extent>
+                                    <measure type="leavesCount" unit="folio">96 Bl.</measure>
+                                    <dimensions type="leaf_current" unit="mm">
+                                        <height>304</height>
+                                        <width>190</width>
+                                    </dimensions>
+                                </extent>
+                                <foliation>Moderne Foliierung.</foliation>
+                                <collation/>
+                            </supportDesc>
+                        </objectDesc>
+                        <bindingDesc>
+                            <binding>
+                                <p>Grün gefärbtes Pergament über Pappdeckeln, 18. Jhdt.</p>
+                            </binding>
+                        </bindingDesc>
+                        <accMat/>                        
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><p/></body>
+    <back/></text>
+</TEI>

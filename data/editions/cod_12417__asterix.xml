@@ -1,4 +1,5 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cod_12417__asterix.xml" xml:base="https://oenb.ac.at" prev="https://oenb.ac.at/cod_12409.xml" next="https://oenb.ac.at/listorg.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cod_12417__asterix.xml" xml:base="https://oenb.ac.at" prev="https://oenb.ac.at/cod_12409.xml" next="https://oenb.ac.at/cod_14002.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -27,8 +28,9 @@
                         <idno>Cod. 12417*</idno>
                     </msIdentifier>
                     <head>
-                        <title/>
+                        <title>Historia collegii Crosnensis Societatis Iesu a. 1721 ad M. A. Tamburinum generalem etc.</title>
                         <origDate notBefore="1721-01-01">ab 1721</origDate>
+                        <date type="letter">1721 </date>
                         <note type="catalogue">
                             <ref target="http://data.onb.ac.at/rec/AC13949858"/>
                         </note>

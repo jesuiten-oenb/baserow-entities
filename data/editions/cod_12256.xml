@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cod_12256.xml" xml:base="https://oenb.ac.at" prev="https://oenb.ac.at/cod_12255.xml" next="https://oenb.ac.at/cod_12257.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Wien, Österreichische nationalbibliothek, Cod. 12256</title>
+                <title type="sub">Jesuiten Littera annuae</title>
+                <respStmt>
+                    <resp>Beschreibung und TEI-encoding</resp>
+                    <persName>
+                        <forename>Ivana</forename>
+                        <surname>Dobcheva</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="restricted">
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">This document is published under the Creative Commons licence Attribution 4.0 International (CC BY 4.0).</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:lang="de" xml:id="cod_12256">
+                    <msIdentifier>
+                        <country>Österreich</country>
+                        <settlement>Wien</settlement>
+                        <repository>Österreichische Nationalbibliothek</repository>
+                        <idno>Cod. 12256</idno>
+                    </msIdentifier>
+                    <head>
+                        <title>Litterae annuae provinciae Austriae Societatis Iesu a. 1665</title>
+                        <origDate notBefore="1666-01-01">ab 1666</origDate>
+                        <date type="letter">1665 </date>
+                        <note type="catalogue">
+                            <ref target="http://data.onb.ac.at/rec/AC13949748"/>
+                        </note>
+                    </head>
+                    <msContents>                   
+                        <summary>
+                                Die Handschrift besteht aus einer kodikologischen Einheit, thematisch in 18 nicht nummerierten Kapiteln gegliedert. 
+                                
+                            <listPlace>
+                                <head>Erwähnte Orte:</head>
+                                <place>
+                                    <placeName key="#jesuiten_place__342">Provincia Austria</placeName>
+                                </place>
+                            </listPlace>                           
+                        </summary> 
+                        <textLang mainLang="lat"/>
+                        
+                                <msItem n="None">
+                                    <locus from="1r" to="1v">1r-1v</locus>
+                                    <title>Personarum numerus et distributio </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="1v" to="8v">1v-8v</locus>
+                                    <title>Vita functorum elogia </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="8v" to="10r">8v-10r</locus>
+                                    <title>Sacramentorum, confessionis et communionis frequens usus </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="10r" to="11r">10r-11r</locus>
+                                    <title>Concio sacra </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="11r" to="11v">11r-11v</locus>
+                                    <title>Catechesis </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="11v" to="13v">11v-13v</locus>
+                                    <title>Scholae </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="13v" to="14v">13v-14v</locus>
+                                    <title>Sodalitates scholarium </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="14v" to="15v">14v-15v</locus>
+                                    <title>Sodalitates externorum non shcolarium </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="15v" to="15v">15v-15v</locus>
+                                    <title>Exercitia sancti patris </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="15v" to="16v">15v-16v</locus>
+                                    <title>Conversatio cum proximo et eius primus fructus erga </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="16v" to="17v">16v-17v</locus>
+                                    <title>Conversationis alter fructus, carcerum et mortis reorum cura </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="18r" to="21r">18r-21r</locus>
+                                    <title>Conversationis tertius cum proximo fructus ab erroribus variis abducti et ad catholicam fidem profitendam inducti </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="21r" to="22v">21r-22v</locus>
+                                    <title>Morum correctio </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="22v" to="24v">22v-24v</locus>
+                                    <title>Pietas et caelitum cultus promotus </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="24v" to="29r">24v-29r</locus>
+                                    <title>Caelitum beneficia </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="29r" to="33r">29r-33r</locus>
+                                    <title>Missiones privata et statrum particularia </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="33r" to="36v">33r-36v</locus>
+                                    <title>Res temporalis templorum et domiciliorum, eiusque per varios beneficos incrementum </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="37r" to="37r">37r-37r</locus>
+                                    <title>Erga beneficos gratitudo </title>
+                                </msItem>
+                          
+                        
+                       
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="codex">
+                            <supportDesc material="paper">
+                                <support>Papier</support>
+                                <extent>
+                                    <measure type="leavesCount" unit="folio">II, 38, I* Bl.</measure>
+                                    <dimensions type="leaf_current" unit="mm">
+                                        <height>280</height>
+                                        <width>200</width>
+                                    </dimensions>
+                                </extent>
+                                <foliation>Moderne Foliierung.</foliation>
+                                <collation/>
+                            </supportDesc>
+                        </objectDesc>
+                        <bindingDesc>
+                            <binding>
+                                <p>Pappeinband mit buntem Papier kaschiert. Wien, 19. Jhdt.</p>
+                            </binding>
+                        </bindingDesc>
+                        <accMat/>                        
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><p/></body>
+    <back><listPlace><place xml:id="jesuiten_place__342">
+                  <placeName>Provincia Austria</placeName>
+               <noteGrp><note target="cod_11960.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11960</note><note target="cod_12030.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12030</note><note target="cod_12205.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12205</note><note target="cod_12220.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12220</note><note target="cod_12235.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12235</note><note target="cod_12236.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12236</note><note target="cod_12237.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12237</note><note target="cod_12238.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12238</note><note target="cod_12239.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12239</note><note target="cod_12240.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12240</note><note target="cod_12242.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12242</note><note target="cod_12243.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12243</note><note target="cod_12244.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12244</note><note target="cod_12245.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12245</note><note target="cod_12246.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12246</note><note target="cod_12247.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12247</note><note target="cod_12248.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12248</note><note target="cod_12249.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12249</note><note target="cod_12250.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12250</note><note target="cod_12251.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12251</note><note target="cod_12252.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12252</note><note target="cod_12253.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12253</note><note target="cod_12255.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12255</note><note target="cod_12256.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12256</note><note target="cod_12257.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12257</note><note target="cod_12258.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12258</note><note target="cod_12259.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12259</note><note target="cod_12260.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12260</note><note target="cod_12261.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12261</note><note target="cod_12262.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12262</note><note target="cod_12263.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12263</note><note target="cod_12264.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12264</note><note target="cod_12265.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12265</note><note target="cod_12268.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12268</note></noteGrp></place>
+               </listPlace></back></text>
+</TEI>

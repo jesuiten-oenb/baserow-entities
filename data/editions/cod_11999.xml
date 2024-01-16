@@ -1,0 +1,222 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cod_11999.xml" xml:base="https://oenb.ac.at" prev="https://oenb.ac.at/cod_11997.xml" next="https://oenb.ac.at/cod_12000.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Wien, Österreichische nationalbibliothek, Cod. 11999</title>
+                <title type="sub">Jesuiten Littera annuae</title>
+                <respStmt>
+                    <resp>Beschreibung und TEI-encoding</resp>
+                    <persName>
+                        <forename>Ivana</forename>
+                        <surname>Dobcheva</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="restricted">
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">This document is published under the Creative Commons licence Attribution 4.0 International (CC BY 4.0).</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:lang="de" xml:id="cod_11999">
+                    <msIdentifier>
+                        <country>Österreich</country>
+                        <settlement>Wien</settlement>
+                        <repository>Österreichische Nationalbibliothek</repository>
+                        <idno>Cod. 11999</idno>
+                    </msIdentifier>
+                    <head>
+                        <title>Historiae provinciae Bohemiae Societatis Iesu liber VI de missionibus Patrum a. 1556-1723 obitis</title>
+                        <origDate notBefore="1701-01-01">18. Jhdt.</origDate>
+                        <date type="letter">1556-1723 </date>
+                        <note type="catalogue">
+                            <ref target="http://data.onb.ac.at/rec/AC13948094"/>
+                        </note>
+                    </head>
+                    <msContents>                   
+                        <summary>
+                                Die „Historia provinciae Bohemiae societatis Jesu" wurde von P. Johannis Miller verfasst. P. Johannes Miller (auch Johann Müller, lateinisch Joanne Miller oder Joannes Miller) war Rektor des Glatzer Jesuitenkollegs von 1688 bis 1691. Die Historia umfasst den Zeitraum von 1556 bis 1723 und sollte als Festschrift zur Hundertjahrfeier der Provinz erscheinen, konnte aber wegen des Todes des Verfassers nicht gedruckt werden. Die ÖNB besitzt Kopien der meisten Bücher.
+Cod. 11999 enthält das 6. Buch (Liber VI) über die Jesuitenmissionen innerhalb und außerhalb der Provinz Böhmen von 1556 bis 1723. Das Buch ist in 11 Kapiteln gegliedert. 
+                                
+                            <listPlace>
+                                <head>Erwähnte Orte:</head>
+                                <place>
+                                    <placeName key="#jesuiten_place__272">Provincia Bohemia</placeName>
+                                </place>
+                            </listPlace>                           
+                        </summary> 
+                        <textLang mainLang="lat"/>
+                        
+                                <msItem n="1">
+                                    <locus from="1r" to="10r">1r-10r</locus>
+                                    <title>Missiones temporaneae quas Patres Societatis Jesu obiverunt in Bohemia, Silesia et Moravia ab anno 1556 usque ad annum 1618 </title>
+                                </msItem>
+                                <msItem n="2">
+                                    <locus from="10r" to="27v">10r-27v</locus>
+                                    <title>Missiones patrum Soecietatis Jesu ab anno 1621 usque ad annum 1631 </title>
+                                </msItem>
+                                <msItem n="3">
+                                    <locus from="27v" to="29v">27v-29v</locus>
+                                    <title>Quomodo veritatis hostis fortunatissimum reformationis et catholica religionis in Bohemia, Silesia et Moravia plantatae cursum sufflaminaverit </title>
+                                </msItem>
+                                <msItem n="4">
+                                    <locus from="29v" to="34v">29v-34v</locus>
+                                    <title>Missiones patrum Societatis Jesu tempore belli Suedici ab anno 1632 usque ad annum 1650 </title>
+                                </msItem>
+                                <msItem n="5">
+                                    <locus from="34v" to="48r">34v-48r</locus>
+                                    <title>Missiones in altera universali religionis reformatione a patribus Societatis Jesu obita ab a. 1660 (sic! für 1650) usque ad annum 1662 </title>
+                                </msItem>
+                                <msItem n="6">
+                                    <locus from="48r" to="69r">48r-69r</locus>
+                                    <title>Missiones patrum Societatis Jesu ab anno 1662 ad annum usque 1723 in Bohemia </title>
+                                    <note>
+                                    <listPlace>
+                                        <place>
+                                            <placeName key="#jesuiten_place__272">Provincia Bohemia</placeName>
+                                        </place>
+                                    </listPlace>
+                                    </note>
+                                </msItem>
+                                <msItem n="7">
+                                    <locus from="69r" to="80r">69r-80r</locus>
+                                    <title>Missiones patrum societatis Jesu ab anno 1662 usque ad annum 1723 in Moravia </title>
+                                    <note>
+                                    <listPlace>
+                                        <place>
+                                            <placeName key="#jesuiten_place__271">Moravia</placeName>
+                                        </place>
+                                    </listPlace>
+                                    </note>
+                                </msItem>
+                                <msItem n="8">
+                                    <locus from="80r" to="96v">80r-96v</locus>
+                                    <title>Missiones patrum Societatis Jesu ab anno 1662 ad annum usque 1723 in Silesia </title>
+                                    <note>
+                                    <listPlace>
+                                        <place>
+                                            <placeName key="#jesuiten_place__270">Silesia</placeName>
+                                        </place>
+                                    </listPlace>
+                                    </note>
+                                </msItem>
+                                <msItem n="9">
+                                    <locus from="96v" to="104v">96v-104v</locus>
+                                    <title>Missio Saxonica </title>
+                                    <note>
+                                        <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__516">Jesuitenmission Saxonica</orgName>
+                                        </org>
+                                    </listOrg>
+                                    </note>
+                                </msItem>
+                                <msItem n="10">
+                                    <locus from="104v" to="113v">104v-113v</locus>
+                                    <title>Missio Moscovitica </title>
+                                    <note>
+                                        <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__515">Jesuitenmission Moscow</orgName>
+                                        </org>
+                                    </listOrg>
+                                    </note>
+                                </msItem>
+                                <msItem n="11">
+                                    <locus from="113v" to="117r">113v-117r</locus>
+                                    <title>Missio Suecica </title>
+                                    <note>
+                                        <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__475">Jesuitenmission Sweden</orgName>
+                                        </org>
+                                    </listOrg>
+                                    </note>
+                                </msItem>
+                          
+                        
+                       
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="codex">
+                            <supportDesc material="paper">
+                                <support>Papier</support>
+                                <extent>
+                                    <measure type="leavesCount" unit="folio">II, 117, II* Bl.</measure>
+                                    <dimensions type="leaf_current" unit="mm">
+                                        <height>331</height>
+                                        <width>208</width>
+                                    </dimensions>
+                                </extent>
+                                <foliation>Moderne Foliierung.</foliation>
+                                <collation/>
+                            </supportDesc>
+                        </objectDesc>
+                        <bindingDesc>
+                            <binding>
+                                <p>Halbband, Deckel mit Marmorpapier bedeckt. 18. Jhdt.</p>
+                            </binding>
+                        </bindingDesc>
+                        <accMat/>                        
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><p/></body>
+    <back><listOrg><org xml:id="jesuiten_org__516">
+                  <orgName>Jesuitenmission Saxonica</orgName>
+                  <orgName type="alt">Missio Saxonica</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__426">Saxony</placeName>
+                     <geo>51.00000 13.25000</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/2842566/</idno></note>
+                  </location>
+               <noteGrp><note target="cod_11999.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11999</note></noteGrp></org>
+               <org xml:id="jesuiten_org__475">
+                  <orgName>Jesuitenmission Sweden</orgName>
+                  <orgName type="alt">Missio Suedica</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__395">Sweden</placeName>
+                     <geo>62.00000 15.00000</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/2661886/</idno></note>
+                  </location>
+               <noteGrp><note target="cod_11974.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11974</note><note target="cod_11999.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11999</note><note target="cod_12314.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12314</note></noteGrp></org>
+               <org xml:id="jesuiten_org__515">
+                  <orgName>Jesuitenmission Moscow</orgName>
+                  <orgName type="alt">Missio Moscovitica</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__425">Moscow</placeName>
+                     <geo>55.75222 37.61556</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/524901/</idno></note>
+                  </location>
+               <noteGrp><note target="cod_11999.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11999</note></noteGrp></org>
+               </listOrg><listPlace><place xml:id="jesuiten_place__272">
+                  <placeName>Provincia Bohemia</placeName>
+                  <location type="coords">
+                     <geo>50.00000 14.50000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3078198/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q39193</idno>
+               <noteGrp><note target="cod_11954.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11954</note><note target="cod_11960.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11960</note><note target="cod_11961.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11961</note><note target="cod_11962.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11962</note><note target="cod_11963.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11963</note><note target="cod_11964.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11964</note><note target="cod_11965.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11965</note><note target="cod_11966.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11966</note><note target="cod_11967.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11967</note><note target="cod_11968.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11968</note><note target="cod_11969.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11969</note><note target="cod_11970.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11970</note><note target="cod_11971.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11971</note><note target="cod_11972.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11972</note><note target="cod_11973.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11973</note><note target="cod_11974.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11974</note><note target="cod_11975.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11975</note><note target="cod_11976.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11976</note><note target="cod_11997.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11997</note><note target="cod_11999.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11999</note><note target="cod_12000.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12000</note><note target="cod_12001.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12001</note><note target="cod_12002.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12002</note><note target="cod_12029.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12029</note><note target="cod_12280.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12280</note><note target="cod_12281.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12281</note><note target="cod_12282.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12282</note><note target="cod_12283.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12283</note><note target="cod_12284.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12284</note><note target="cod_12285.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12285</note><note target="cod_12286.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12286</note><note target="cod_12287.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12287</note><note target="cod_12288.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12288</note><note target="cod_12289.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12289</note><note target="cod_12290.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12290</note><note target="cod_12291.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12291</note><note target="cod_12292.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12292</note><note target="cod_12293.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12293</note><note target="cod_12294.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12294</note><note target="cod_12295.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12295</note><note target="cod_12296.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12296</note><note target="cod_12297.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12297</note><note target="cod_12298.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12298</note><note target="cod_12299.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12299</note><note target="cod_12300.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12300</note><note target="cod_12301.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12301</note><note target="cod_12302.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12302</note><note target="cod_12303.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12303</note><note target="cod_12304.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12304</note><note target="cod_12305.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12305</note><note target="cod_12306.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12306</note><note target="cod_12307.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12307</note><note target="cod_12308.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12308</note><note target="cod_12309.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12309</note><note target="cod_12310.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12310</note><note target="cod_12311.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12311</note><note target="cod_12312.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12312</note><note target="cod_12313.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12313</note><note target="cod_12314.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12314</note><note target="cod_12315.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12315</note><note target="cod_12316.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12316</note><note target="cod_12317.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12317</note><note target="cod_12318.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12318</note><note target="cod_12319.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12319</note><note target="cod_12320.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12320</note><note target="cod_12321.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12321</note><note target="cod_12322.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12322</note><note target="cod_12323.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12323</note><note target="cod_12324.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12324</note><note target="cod_12325.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12325</note><note target="cod_12326.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12326</note><note target="cod_12327.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12327</note><note target="cod_12328.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12328</note><note target="cod_12329.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12329</note><note target="cod_12330.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12330</note><note target="cod_12331.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12331</note><note target="cod_12332.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12332</note><note target="cod_12333.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12333</note><note target="cod_12334.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12334</note><note target="cod_12335.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12335</note><note target="cod_12336.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12336</note><note target="cod_12337.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12337</note><note target="cod_12338.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12338</note><note target="cod_12339.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12339</note><note target="cod_12340.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12340</note><note target="cod_12341.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12341</note><note target="cod_12342.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12342</note><note target="cod_12343.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12343</note><note target="cod_12344.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12344</note><note target="cod_12345.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12345</note><note target="cod_12351.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12351</note><note target="cod_12352.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12352</note><note target="cod_12353.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12353</note><note target="cod_12354.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12354</note><note target="cod_12355.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12355</note><note target="cod_12356.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12356</note><note target="cod_12369.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12369</note></noteGrp></place>
+               <place xml:id="jesuiten_place__271">
+                  <placeName>Moravia</placeName>
+                  <location type="coords">
+                     <geo>49.50000 17.00000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3070359/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q43266</idno>
+               <noteGrp><note target="cod_11999.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11999</note><note target="cod_12311.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12311</note></noteGrp></place>
+               <place xml:id="jesuiten_place__270">
+                  <placeName>Silesia</placeName>
+                  <location type="coords">
+                     <geo>51.00000 18.00000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3066138/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q81720</idno>
+               <noteGrp><note target="cod_11976.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11976</note><note target="cod_11999.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11999</note><note target="cod_12006.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12006</note><note target="cod_12304.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12304</note><note target="cod_12305.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12305</note><note target="cod_12306.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12306</note><note target="cod_12307.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12307</note></noteGrp></place>
+               </listPlace></back></text>
+</TEI>

@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cod_12075.xml" xml:base="https://oenb.ac.at" prev="https://oenb.ac.at/cod_12074.xml" next="https://oenb.ac.at/cod_12076.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Wien, Österreichische nationalbibliothek, Cod. 12075</title>
+                <title type="sub">Jesuiten Littera annuae</title>
+                <respStmt>
+                    <resp>Beschreibung und TEI-encoding</resp>
+                    <persName>
+                        <forename>Ivana</forename>
+                        <surname>Dobcheva</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="restricted">
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">This document is published under the Creative Commons licence Attribution 4.0 International (CC BY 4.0).</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:lang="de" xml:id="cod_12075">
+                    <msIdentifier>
+                        <country>Österreich</country>
+                        <settlement>Wien</settlement>
+                        <repository>Österreichische Nationalbibliothek</repository>
+                        <idno>Cod. 12075</idno>
+                    </msIdentifier>
+                    <head>
+                        <title>Litterae annuae provinciae Austriae Societatis Iesu a. 1678</title>
+                        <origDate notBefore="1679-01-01">1679–Nov. 1680</origDate>
+                        <date type="letter">1678 </date>
+                        <note type="facs">
+                            <ref target="https://digital.onb.ac.at/rep/access/open/131ACA3D"/>
+                        </note>
+                        <note type="catalogue">
+                            <ref target="http://data.onb.ac.at/rec/AC13948222"/>
+                        </note>
+                    </head>
+                    <msContents>                   
+                        <summary>
+                                Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist thematisch in 23 Kapitel gegliedert. 
+                                
+                        </summary> 
+                        <textLang mainLang="lat"/>
+                        
+                                <msItem n="1">
+                                    <locus from="1" to="4">1-4</locus>
+                                    <title>Personae ac domicilia provinciae </title>
+                                </msItem>
+                                <msItem n="2">
+                                    <locus from="4" to="9">4-9</locus>
+                                    <title>Numinis ac coelitum in templis nostris honor </title>
+                                </msItem>
+                                <msItem n="3">
+                                    <locus from="9" to="11">9-11</locus>
+                                    <title>Eucharistica in ecclesiis nostris convivia </title>
+                                </msItem>
+                                <msItem n="4">
+                                    <locus from="11" to="18">11-18</locus>
+                                    <title>Sacramentalis poenitentiae in tribunalibus nostris efficacia </title>
+                                </msItem>
+                                <msItem n="5">
+                                    <locus from="19" to="30">19-30</locus>
+                                    <title>Fidei catholica per conversionem infidelium augmentum </title>
+                                </msItem>
+                                <msItem n="6">
+                                    <locus from="31" to="32">31-32</locus>
+                                    <title>Catholicorum ritum promota religio </title>
+                                </msItem>
+                                <msItem n="7">
+                                    <locus from="33" to="38">33-38</locus>
+                                    <title>Cultus et beneficia dei pa </title>
+                                </msItem>
+                                <msItem n="8">
+                                    <locus from="38" to="42">38-42</locus>
+                                    <title>S. Ignatii mirifica potentia </title>
+                                </msItem>
+                                <msItem n="9">
+                                    <locus from="42" to="47">42-47</locus>
+                                    <title>S. Francisci Xaverii vis Thaumaturga </title>
+                                </msItem>
+                                <msItem n="10">
+                                    <locus from="47" to="53">47-53</locus>
+                                    <title>Concionis et catechesis nostrae virtus </title>
+                                </msItem>
+                                <msItem n="11">
+                                    <locus from="53" to="58">53-58</locus>
+                                    <title>Missionum industria </title>
+                                </msItem>
+                                <msItem n="12">
+                                    <locus from="58" to="60">58-60</locus>
+                                    <title>Congregationis agoniae fervor </title>
+                                </msItem>
+                                <msItem n="13">
+                                    <locus from="61" to="69">61-69</locus>
+                                    <title>Sodalitatum Marianarum fructus </title>
+                                </msItem>
+                                <msItem n="14">
+                                    <locus from="69" to="71">69-71</locus>
+                                    <title>Initia religionum tirocinia et P.P.N. exercitia </title>
+                                </msItem>
+                                <msItem n="15">
+                                    <locus from="71" to="78">71-78</locus>
+                                    <title>Scholarum munia et dramata </title>
+                                </msItem>
+                                <msItem n="16">
+                                    <locus from="70" to="86">70-86</locus>
+                                    <title>Conservatorum nostrorum opera </title>
+                                </msItem>
+                                <msItem n="17">
+                                    <locus from="87" to="93">87-93</locus>
+                                    <title>Cura aegrotorum </title>
+                                </msItem>
+                                <msItem n="18">
+                                    <locus from="93" to="94">93-94</locus>
+                                    <title>Charitas in captivos et reos </title>
+                                </msItem>
+                                <msItem n="19">
+                                    <locus from="95" to="102">95-102</locus>
+                                    <title>Odia contra nos et damna </title>
+                                </msItem>
+                                <msItem n="20">
+                                    <locus from="102" to="107">102-107</locus>
+                                    <title>Exhibitae nobis benevolentiae </title>
+                                </msItem>
+                                <msItem n="21">
+                                    <locus from="107" to="109">107-109</locus>
+                                    <title>Temporales ecclesiarum utilitates </title>
+                                </msItem>
+                                <msItem n="22">
+                                    <locus from="109" to="112">109-112</locus>
+                                    <title>Oeconomica domiciliorum incrementa </title>
+                                </msItem>
+                                <msItem n="23">
+                                    <locus from="113" to="134">113-134</locus>
+                                    <title>Elogia mortuorum </title>
+                                </msItem>
+                          
+                        
+                       
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="codex">
+                            <supportDesc material="paper">
+                                <support>Papier</support>
+                                <extent>
+                                    <measure type="leavesCount" unit="folio">III, 67, II* Bl.</measure>
+                                    <dimensions type="leaf_current" unit="mm">
+                                        <height>307</height>
+                                        <width>192</width>
+                                    </dimensions>
+                                </extent>
+                                <foliation>Zeitgenössische Paginierung 1–134.</foliation>
+                                <collation/>
+                            </supportDesc>
+                        </objectDesc>
+                        <bindingDesc>
+                            <binding>
+                                <p>Pergament über Pappdeckeln, 17. Jhdt.</p>
+                            </binding>
+                        </bindingDesc>
+                        <accMat/>                        
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><p/></body>
+    <back/></text>
+</TEI>

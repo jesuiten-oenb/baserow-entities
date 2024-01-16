@@ -1,0 +1,161 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cod_12073.xml" xml:base="https://oenb.ac.at" prev="https://oenb.ac.at/cod_12072.xml" next="https://oenb.ac.at/cod_12074.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Wien, Österreichische nationalbibliothek, Cod. 12073</title>
+                <title type="sub">Jesuiten Littera annuae</title>
+                <respStmt>
+                    <resp>Beschreibung und TEI-encoding</resp>
+                    <persName>
+                        <forename>Ivana</forename>
+                        <surname>Dobcheva</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="restricted">
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">This document is published under the Creative Commons licence Attribution 4.0 International (CC BY 4.0).</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:lang="de" xml:id="cod_12073">
+                    <msIdentifier>
+                        <country>Österreich</country>
+                        <settlement>Wien</settlement>
+                        <repository>Österreichische Nationalbibliothek</repository>
+                        <idno>Cod. 12073</idno>
+                    </msIdentifier>
+                    <head>
+                        <title>Litterae annuae provinciae Austriae Societatis Iesu a. 1676</title>
+                        <origDate notBefore="1677-01-01">1676–1679</origDate>
+                        <date type="letter">1676 </date>
+                        <note type="facs">
+                            <ref target="https://digital.onb.ac.at/rep/access/open/131ACA3B"/>
+                        </note>
+                        <note type="catalogue">
+                            <ref target="http://data.onb.ac.at/rec/AC13948220"/>
+                        </note>
+                    </head>
+                    <msContents>                   
+                        <summary>
+                                Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist thematisch in 20 Kapitel gegliedert. 
+                                
+                        </summary> 
+                        <textLang mainLang="lat"/>
+                        
+                                <msItem n="1">
+                                    <locus from="1" to="4">1-4</locus>
+                                    <title>Personarum summa ac per provinciam distributio </title>
+                                </msItem>
+                                <msItem n="2">
+                                    <locus from="5" to="8">5-8</locus>
+                                    <title>Honor deo in templis exhibitus </title>
+                                </msItem>
+                                <msItem n="3">
+                                    <locus from="8" to="14">8-14</locus>
+                                    <title>Timor domini per conciones et catecheses excitatus </title>
+                                </msItem>
+                                <msItem n="4">
+                                    <locus from="14" to="27">14-27</locus>
+                                    <title>Amor filii dei in eucharistia et exomologesi procuratus </title>
+                                </msItem>
+                                <msItem n="5">
+                                    <locus from="27" to="34">27-34</locus>
+                                    <title>Memoria passionis Christi congregatione agoniae, aliisque devotionibus promota </title>
+                                </msItem>
+                                <msItem n="6">
+                                    <locus from="34" to="50">34-50</locus>
+                                    <title>Augmentum fidei divina per infidelium conversionem quaesitum </title>
+                                </msItem>
+                                <msItem n="7">
+                                    <locus from="50" to="55">50-55</locus>
+                                    <title>Religio in sacras ecclesiae res et caeremonias </title>
+                                </msItem>
+                                <msItem n="8">
+                                    <locus from="55" to="61">55-61</locus>
+                                    <title>Devotio erga beatissimam virginem </title>
+                                </msItem>
+                                <msItem n="9">
+                                    <locus from="61" to="69">61-69</locus>
+                                    <title>Cultus S. Ignatii et eius exercitiorum spiritualium </title>
+                                </msItem>
+                                <msItem n="10">
+                                    <locus from="69" to="75">69-75</locus>
+                                    <title>Pietas in sanctum Xaverium </title>
+                                </msItem>
+                                <msItem n="11">
+                                    <locus from="75" to="76">75-76</locus>
+                                    <title>Veneratio aliorum caelitum </title>
+                                </msItem>
+                                <msItem n="13">
+                                    <locus from="87" to="92">87-92</locus>
+                                    <title>Zelus in missionibus exercitus </title>
+                                </msItem>
+                                <msItem n="14">
+                                    <locus from="92" to="97">92-97</locus>
+                                    <title>Cura aegrorum afflictorum et captivorum </title>
+                                </msItem>
+                                <msItem n="15">
+                                    <locus from="97" to="104">97-104</locus>
+                                    <title>Fructus sodalitatum beatissimae virginis </title>
+                                </msItem>
+                                <msItem n="12">
+                                    <locus from="77" to="87">77-87</locus>
+                                    <title>Salus proximi per conversationem effecta </title>
+                                </msItem>
+                                <msItem n="16">
+                                    <locus from="104" to="109">104-109</locus>
+                                    <title>Scholarum exercitia et inde facti religiosi </title>
+                                </msItem>
+                                <msItem n="17">
+                                    <locus from="109" to="111">109-111</locus>
+                                    <title>Adversa a malevolis </title>
+                                </msItem>
+                                <msItem n="18">
+                                    <locus from="111" to="117">111-117</locus>
+                                    <title>Favores a benevolis </title>
+                                </msItem>
+                                <msItem n="19">
+                                    <locus from="117" to="128">117-128</locus>
+                                    <title>Temporales ecclesiarum et domiciliorum utilitates </title>
+                                </msItem>
+                                <msItem n="20">
+                                    <locus from="128" to="154">128-154</locus>
+                                    <title>Defunctorum elogia </title>
+                                </msItem>
+                          
+                        
+                       
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="codex">
+                            <supportDesc material="paper">
+                                <support>Papier</support>
+                                <extent>
+                                    <measure type="leavesCount" unit="folio">III, 77, I* Bl.</measure>
+                                    <dimensions type="leaf_current" unit="mm">
+                                        <height>300</height>
+                                        <width>197</width>
+                                    </dimensions>
+                                </extent>
+                                <foliation>Zeitgenössische Paginierung 1–154.</foliation>
+                                <collation/>
+                            </supportDesc>
+                        </objectDesc>
+                        <bindingDesc>
+                            <binding>
+                                <p>Pergament über Pappdeckeln, 17. Jhdt.</p>
+                            </binding>
+                        </bindingDesc>
+                        <accMat/>                        
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><p/></body>
+    <back/></text>
+</TEI>
