@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">Wien, Österreichische nationalbibliothek, {{ signatur }}</title>
+                <title type="main">Wien, Österreichische Nationalbibliothek, {{ signatur }}</title>
                 <title type="sub">{{ project_title }}</title>
                 <respStmt>
                     <resp>Beschreibung und TEI-encoding</resp>
