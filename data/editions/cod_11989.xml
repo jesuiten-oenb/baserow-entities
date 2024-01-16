@@ -56,7 +56,7 @@
                         
                                 <msItem n="None">
                                     <locus from="2r" to="58r">2r-58r</locus>
-                                    <title>Historia missionis Rozniatowiensis ab a. 1699 usque ad a. 1769</title>
+                                    <title>Historia missionis Rozniatowiensis ab a. 1699 usque ad a. 1769 </title>
                                     <note>
                                         <listOrg>
                                         <org>
@@ -67,15 +67,15 @@
                                 </msItem>
                                 <msItem n="None">
                                     <locus from="57r" to="57*v">57r-57*v</locus>
-                                    <title>Epistula ad rectorem et priorem Rozniatowiensem data a M. Myslecki in Martynowie 23.04.1771</title>
+                                    <title>Epistula ad rectorem et priorem Rozniatowiensem data a M. Myslecki in Martynowie 23.04.1771 </title>
                                 </msItem>
                                 <msItem n="None">
                                     <locus from="59r" to="60v">59r-60v</locus>
-                                    <title>Epistula archiepiscopi Leopolinensis presbyteris missionem Rozniatowiensem curantibus 14.01.1738.</title>
+                                    <title>Epistula archiepiscopi Leopolinensis presbyteris missionem Rozniatowiensem curantibus 14.01.1738. </title>
                                 </msItem>
                                 <msItem n="None">
                                     <locus from="52r" to="53v">52r-53v</locus>
-                                    <title>Druck über eine wundersame Heilung durch die Fürsprache des hl. Aloysius in Rom am 3. Dezember 1765.</title>
+                                    <title>Druck über eine wundersame Heilung durch die Fürsprache des hl. Aloysius in Rom am 3. Dezember 1765. </title>
                                 </msItem>
                           
                         
@@ -109,11 +109,7 @@
     </teiHeader>
     <text>
         <body><p/></body>
-    <back><listPlace><place xml:id="jesuiten_place__317">
-                  <placeName>Kingdom of Poland</placeName>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q8890160</idno>
-               <noteGrp><note target="cod_11982.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11982</note><note target="cod_11983.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11983</note><note target="cod_11989.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11989</note><note target="cod_12005.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12005</note><note target="cod_12006.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12006</note></noteGrp></place>
-               </listPlace><listOrg><org xml:id="jesuiten_org__492">
+    <back><listOrg><org xml:id="jesuiten_org__492">
                   <orgName>Jesuitenmission Rożniątów</orgName>
                   <orgName type="alt">Missio Rozniatowiensis</orgName>
                   <location type="located_in_place">
@@ -122,5 +118,9 @@
                      <note type="idno"><idno type="geonames">https://sws.geonames.org/760215/</idno></note>
                   </location>
                <noteGrp><note target="cod_11989.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11989</note></noteGrp></org>
-               </listOrg></back></text>
+               </listOrg><listPlace><place xml:id="jesuiten_place__317">
+                  <placeName>Kingdom of Poland</placeName>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q8890160</idno>
+               <noteGrp><note target="cod_11982.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11982</note><note target="cod_11983.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11983</note><note target="cod_11989.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 11989</note><note target="cod_12005.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12005</note><note target="cod_12006.xml" type="mentions">Wien, Österreichische nationalbibliothek, Cod. 12006</note></noteGrp></place>
+               </listPlace></back></text>
 </TEI>

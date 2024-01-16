@@ -9957,7 +9957,7 @@
         "value": "Jesuitenmission Czeikowicium  (?)"
       }
     ],
-    "note_type_catalogue": "",
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948470",
     "title": "Litterae annuae provinciae Bohemiae Societatis Iesu a. 1742",
     "date": "ab 1743",
     "persons": [],
@@ -12464,16 +12464,235 @@
     "note_type_facs": "",
     "xml_id": "cod_12336",
     "extent": "125, I* Bl.",
-    "height": null,
-    "width": null,
-    "foliation": "",
+    "height": "280",
+    "width": "200",
+    "foliation": "Moderne Foliierung.",
     "acc_mat": "",
-    "binding": "",
+    "binding": "Halbband, Deckel mit buntem Marmorpapier überzogen, 18. Jhdt.",
     "summary": "Die Handschrift besteht aus einer kodikologischen Einheit, thematisch in 21 Kapitel gegliedert.",
     "not_before": "1755",
     "not_after": "1756",
     "# when": "",
     "date_letter": "1754"
+  },
+  "245": {
+    "id": 245,
+    "order": "8.47792672028596960843",
+    "signatur": "Cod. 12338",
+    "jesuiten_id": "jesuiten_msdesc__245",
+    "mentioned_orgs": [
+      {
+        "id": 41,
+        "value": "Missio Castrensis"
+      },
+      {
+        "id": 92,
+        "value": "Profeßhaus Prag"
+      },
+      {
+        "id": 93,
+        "value": "Jesuitenkolleg Březnice"
+      },
+      {
+        "id": 94,
+        "value": "Jesuitenresidenz Svatá Hora"
+      },
+      {
+        "id": 95,
+        "value": "Jesuitenkolleg Chomutov"
+      },
+      {
+        "id": 96,
+        "value": "Jesuitenkolleg Krumlov"
+      },
+      {
+        "id": 97,
+        "value": "Jesuitenkolleg Cheb"
+      },
+      {
+        "id": 98,
+        "value": "Jesuitenkolleg Jičín"
+      },
+      {
+        "id": 100,
+        "value": "Jesuitenkolleg Klatovy"
+      },
+      {
+        "id": 102,
+        "value": "Jesuitenkolleg Uherské Hradiště"
+      },
+      {
+        "id": 103,
+        "value": "Jesuitenkolleg Jihlava"
+      },
+      {
+        "id": 104,
+        "value": "Jesuitenkolleg Kutná Hora"
+      },
+      {
+        "id": 105,
+        "value": "Jesuitenresidenz Golčův Jeníkov"
+      },
+      {
+        "id": 108,
+        "value": "Jesuitenkolleg Litoměřice"
+      },
+      {
+        "id": 111,
+        "value": "Jesuitenkolleg Jindřichův Hradec"
+      },
+      {
+        "id": 112,
+        "value": "Jesuitenkolleg Olomouc"
+      },
+      {
+        "id": 113,
+        "value": "Jesuitenkolleg Opava"
+      },
+      {
+        "id": 116,
+        "value": "Jesuitenkolleg Prague ad S. Clementem"
+      },
+      {
+        "id": 117,
+        "value": "Jesuitenkolleg Hradec Králové"
+      },
+      {
+        "id": 120,
+        "value": "Jesuitenkolleg Telč"
+      },
+      {
+        "id": 122,
+        "value": "Jesuitenkolleg Znoymo"
+      },
+      {
+        "id": 123,
+        "value": "Jesuitenkolleg Brno"
+      },
+      {
+        "id": 124,
+        "value": "Jesuitenresidenz Tuřany"
+      },
+      {
+        "id": 136,
+        "value": "Jesuitenresidenz Košumberk"
+      },
+      {
+        "id": 138,
+        "value": "Probationshaus Telč"
+      },
+      {
+        "id": 140,
+        "value": "Jesuitenresidenz Cieszyn"
+      },
+      {
+        "id": 142,
+        "value": "Jesuitenresidenz Maria Scheinensis"
+      },
+      {
+        "id": 159,
+        "value": "Probationshaus Jičín"
+      },
+      {
+        "id": 161,
+        "value": "Jesuitenmission Dresden"
+      },
+      {
+        "id": 197,
+        "value": "Jesuitenkolleg Prague ad S. Ignatium"
+      },
+      {
+        "id": 196,
+        "value": "Jesuitenmission Římov"
+      },
+      {
+        "id": 284,
+        "value": "Jesuitenresidenz Liběšice"
+      },
+      {
+        "id": 286,
+        "value": "Jesuitenresidenz Tuchmeritz"
+      },
+      {
+        "id": 294,
+        "value": "Jesuitenmission Lichtensteinica Böhmen"
+      },
+      {
+        "id": 296,
+        "value": "Jesuitenresidenz Opařany"
+      },
+      {
+        "id": 297,
+        "value": "Jesuitenresidenz Brandýs nad Labem-Stará Boleslav"
+      },
+      {
+        "id": 299,
+        "value": "Jesuitenmission Poenitentia in Bohemia-Germanica"
+      },
+      {
+        "id": 300,
+        "value": "Jesuitenmission Poenitentia Bohemia Bohemica"
+      },
+      {
+        "id": 301,
+        "value": "Jesuitenmission Poenitentia Moravia"
+      },
+      {
+        "id": 302,
+        "value": "Jesuitenmission Leipzig"
+      },
+      {
+        "id": 401,
+        "value": "Jesuitenmission Silesia Superiore, Cieszyn"
+      },
+      {
+        "id": 435,
+        "value": "Jesuitenmission Czeikowicium  (?)"
+      },
+      {
+        "id": 442,
+        "value": "Jesutienmission Ostroviensis"
+      },
+      {
+        "id": 467,
+        "value": "Jesuitenmission Nový Jičín"
+      },
+      {
+        "id": 517,
+        "value": "Jesuitenmission Modlany"
+      },
+      {
+        "id": 518,
+        "value": "Jesuitenmission Kynšperk nad Ohří"
+      },
+      {
+        "id": 524,
+        "value": "Jesuitenmission Starý Hrozenkov (?)"
+      }
+    ],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13947964",
+    "title": "Litterae annuae provinciae Bohemiae Societatis Iesu a. 1756",
+    "date": "ab 1757",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Provincia Bohemia"
+      }
+    ],
+    "note_type_facs": "",
+    "xml_id": "cod_12338",
+    "extent": "142, I* Bl.",
+    "height": "270",
+    "width": "198",
+    "foliation": "Moderne Foliierung.",
+    "acc_mat": "",
+    "binding": "Halbband, Deckel mit buntem Marmorpapier überzogen, 18. Jhdt.",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit, thematisch in 21 Kapitel gegliedert.",
+    "not_before": "1757",
+    "not_after": null,
+    "# when": "",
+    "date_letter": "1756"
   },
   "194": {
     "id": 194,
@@ -12921,6 +13140,1460 @@
     "# when": "",
     "date_letter": "1757"
   },
+  "246": {
+    "id": 246,
+    "order": "8.47798742138364858079",
+    "signatur": "Cod. 12341",
+    "jesuiten_id": "jesuiten_msdesc__246",
+    "mentioned_orgs": [
+      {
+        "id": 41,
+        "value": "Missio Castrensis"
+      },
+      {
+        "id": 92,
+        "value": "Profeßhaus Prag"
+      },
+      {
+        "id": 93,
+        "value": "Jesuitenkolleg Březnice"
+      },
+      {
+        "id": 94,
+        "value": "Jesuitenresidenz Svatá Hora"
+      },
+      {
+        "id": 95,
+        "value": "Jesuitenkolleg Chomutov"
+      },
+      {
+        "id": 96,
+        "value": "Jesuitenkolleg Krumlov"
+      },
+      {
+        "id": 97,
+        "value": "Jesuitenkolleg Cheb"
+      },
+      {
+        "id": 98,
+        "value": "Jesuitenkolleg Jičín"
+      },
+      {
+        "id": 100,
+        "value": "Jesuitenkolleg Klatovy"
+      },
+      {
+        "id": 102,
+        "value": "Jesuitenkolleg Uherské Hradiště"
+      },
+      {
+        "id": 103,
+        "value": "Jesuitenkolleg Jihlava"
+      },
+      {
+        "id": 104,
+        "value": "Jesuitenkolleg Kutná Hora"
+      },
+      {
+        "id": 105,
+        "value": "Jesuitenresidenz Golčův Jeníkov"
+      },
+      {
+        "id": 108,
+        "value": "Jesuitenkolleg Litoměřice"
+      },
+      {
+        "id": 111,
+        "value": "Jesuitenkolleg Jindřichův Hradec"
+      },
+      {
+        "id": 112,
+        "value": "Jesuitenkolleg Olomouc"
+      },
+      {
+        "id": 113,
+        "value": "Jesuitenkolleg Opava"
+      },
+      {
+        "id": 116,
+        "value": "Jesuitenkolleg Prague ad S. Clementem"
+      },
+      {
+        "id": 117,
+        "value": "Jesuitenkolleg Hradec Králové"
+      },
+      {
+        "id": 120,
+        "value": "Jesuitenkolleg Telč"
+      },
+      {
+        "id": 122,
+        "value": "Jesuitenkolleg Znoymo"
+      },
+      {
+        "id": 123,
+        "value": "Jesuitenkolleg Brno"
+      },
+      {
+        "id": 124,
+        "value": "Jesuitenresidenz Tuřany"
+      },
+      {
+        "id": 133,
+        "value": "Jesuitenmission Pommersdorf"
+      },
+      {
+        "id": 132,
+        "value": "Jesuitenmission Brantice"
+      },
+      {
+        "id": 136,
+        "value": "Jesuitenresidenz Košumberk"
+      },
+      {
+        "id": 138,
+        "value": "Probationshaus Telč"
+      },
+      {
+        "id": 140,
+        "value": "Jesuitenresidenz Cieszyn"
+      },
+      {
+        "id": 142,
+        "value": "Jesuitenresidenz Maria Scheinensis"
+      },
+      {
+        "id": 159,
+        "value": "Probationshaus Jičín"
+      },
+      {
+        "id": 161,
+        "value": "Jesuitenmission Dresden"
+      },
+      {
+        "id": 197,
+        "value": "Jesuitenkolleg Prague ad S. Ignatium"
+      },
+      {
+        "id": 284,
+        "value": "Jesuitenresidenz Liběšice"
+      },
+      {
+        "id": 286,
+        "value": "Jesuitenresidenz Tuchmeritz"
+      },
+      {
+        "id": 294,
+        "value": "Jesuitenmission Lichtensteinica Böhmen"
+      },
+      {
+        "id": 295,
+        "value": "Jesuitenmission in Jáchymov"
+      },
+      {
+        "id": 296,
+        "value": "Jesuitenresidenz Opařany"
+      },
+      {
+        "id": 297,
+        "value": "Jesuitenresidenz Brandýs nad Labem-Stará Boleslav"
+      },
+      {
+        "id": 299,
+        "value": "Jesuitenmission Poenitentia in Bohemia-Germanica"
+      },
+      {
+        "id": 300,
+        "value": "Jesuitenmission Poenitentia Bohemia Bohemica"
+      },
+      {
+        "id": 301,
+        "value": "Jesuitenmission Poenitentia Moravia"
+      },
+      {
+        "id": 302,
+        "value": "Jesuitenmission Leipzig"
+      },
+      {
+        "id": 303,
+        "value": "Jesuitenmission Hubertusburg"
+      },
+      {
+        "id": 316,
+        "value": "Jesuitenmission Mladá Boleslav"
+      },
+      {
+        "id": 351,
+        "value": "Jesuitenmission Vsetín"
+      },
+      {
+        "id": 401,
+        "value": "Jesuitenmission Silesia Superiore, Cieszyn"
+      },
+      {
+        "id": 435,
+        "value": "Jesuitenmission Czeikowicium  (?)"
+      },
+      {
+        "id": 467,
+        "value": "Jesuitenmission Nový Jičín"
+      },
+      {
+        "id": 494,
+        "value": "Jesuitenmission Beraunensis"
+      },
+      {
+        "id": 517,
+        "value": "Jesuitenmission Modlany"
+      },
+      {
+        "id": 520,
+        "value": "Jesuitenmission De poenitentia per Austriam Inferiorem"
+      },
+      {
+        "id": 521,
+        "value": "Jesuitenmission Hermersdorf"
+      },
+      {
+        "id": 522,
+        "value": "Jesuitenmission Rakonitzer Kreis (Rakovník)"
+      }
+    ],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13947967",
+    "title": "Litterae annuae provinciae Bohemiae Societatis Iesu a. 1758",
+    "date": "1759–Mai 1761",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Provincia Bohemia"
+      }
+    ],
+    "note_type_facs": "",
+    "xml_id": "cod_12341",
+    "extent": "91, I* Bl.",
+    "height": "320",
+    "width": "205",
+    "foliation": "Zeitgenössische Paginierung großenteils weggeschnitten. Moderne Foliierung.",
+    "acc_mat": "",
+    "binding": "Halbband, Deckel mit buntem Marmorpapier überzogen, 18. Jhdt.",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit, thematisch in 21 Kapitel gegliedert.",
+    "not_before": "1759",
+    "not_after": "1761",
+    "# when": "",
+    "date_letter": "1758"
+  },
+  "247": {
+    "id": 247,
+    "order": "8.47802197802197810006",
+    "signatur": "Cod. 12342",
+    "jesuiten_id": "jesuiten_msdesc__247",
+    "mentioned_orgs": [
+      {
+        "id": 41,
+        "value": "Missio Castrensis"
+      },
+      {
+        "id": 92,
+        "value": "Profeßhaus Prag"
+      },
+      {
+        "id": 93,
+        "value": "Jesuitenkolleg Březnice"
+      },
+      {
+        "id": 94,
+        "value": "Jesuitenresidenz Svatá Hora"
+      },
+      {
+        "id": 95,
+        "value": "Jesuitenkolleg Chomutov"
+      },
+      {
+        "id": 96,
+        "value": "Jesuitenkolleg Krumlov"
+      },
+      {
+        "id": 97,
+        "value": "Jesuitenkolleg Cheb"
+      },
+      {
+        "id": 98,
+        "value": "Jesuitenkolleg Jičín"
+      },
+      {
+        "id": 100,
+        "value": "Jesuitenkolleg Klatovy"
+      },
+      {
+        "id": 102,
+        "value": "Jesuitenkolleg Uherské Hradiště"
+      },
+      {
+        "id": 103,
+        "value": "Jesuitenkolleg Jihlava"
+      },
+      {
+        "id": 104,
+        "value": "Jesuitenkolleg Kutná Hora"
+      },
+      {
+        "id": 105,
+        "value": "Jesuitenresidenz Golčův Jeníkov"
+      },
+      {
+        "id": 108,
+        "value": "Jesuitenkolleg Litoměřice"
+      },
+      {
+        "id": 111,
+        "value": "Jesuitenkolleg Jindřichův Hradec"
+      },
+      {
+        "id": 112,
+        "value": "Jesuitenkolleg Olomouc"
+      },
+      {
+        "id": 113,
+        "value": "Jesuitenkolleg Opava"
+      },
+      {
+        "id": 116,
+        "value": "Jesuitenkolleg Prague ad S. Clementem"
+      },
+      {
+        "id": 117,
+        "value": "Jesuitenkolleg Hradec Králové"
+      },
+      {
+        "id": 120,
+        "value": "Jesuitenkolleg Telč"
+      },
+      {
+        "id": 122,
+        "value": "Jesuitenkolleg Znoymo"
+      },
+      {
+        "id": 123,
+        "value": "Jesuitenkolleg Brno"
+      },
+      {
+        "id": 124,
+        "value": "Jesuitenresidenz Tuřany"
+      },
+      {
+        "id": 133,
+        "value": "Jesuitenmission Pommersdorf"
+      },
+      {
+        "id": 132,
+        "value": "Jesuitenmission Brantice"
+      },
+      {
+        "id": 136,
+        "value": "Jesuitenresidenz Košumberk"
+      },
+      {
+        "id": 138,
+        "value": "Probationshaus Telč"
+      },
+      {
+        "id": 140,
+        "value": "Jesuitenresidenz Cieszyn"
+      },
+      {
+        "id": 142,
+        "value": "Jesuitenresidenz Maria Scheinensis"
+      },
+      {
+        "id": 159,
+        "value": "Probationshaus Jičín"
+      },
+      {
+        "id": 161,
+        "value": "Jesuitenmission Dresden"
+      },
+      {
+        "id": 197,
+        "value": "Jesuitenkolleg Prague ad S. Ignatium"
+      },
+      {
+        "id": 284,
+        "value": "Jesuitenresidenz Liběšice"
+      },
+      {
+        "id": 286,
+        "value": "Jesuitenresidenz Tuchmeritz"
+      },
+      {
+        "id": 294,
+        "value": "Jesuitenmission Lichtensteinica Böhmen"
+      },
+      {
+        "id": 295,
+        "value": "Jesuitenmission in Jáchymov"
+      },
+      {
+        "id": 296,
+        "value": "Jesuitenresidenz Opařany"
+      },
+      {
+        "id": 297,
+        "value": "Jesuitenresidenz Brandýs nad Labem-Stará Boleslav"
+      },
+      {
+        "id": 299,
+        "value": "Jesuitenmission Poenitentia in Bohemia-Germanica"
+      },
+      {
+        "id": 300,
+        "value": "Jesuitenmission Poenitentia Bohemia Bohemica"
+      },
+      {
+        "id": 301,
+        "value": "Jesuitenmission Poenitentia Moravia"
+      },
+      {
+        "id": 302,
+        "value": "Jesuitenmission Leipzig"
+      },
+      {
+        "id": 303,
+        "value": "Jesuitenmission Hubertusburg"
+      },
+      {
+        "id": 316,
+        "value": "Jesuitenmission Mladá Boleslav"
+      },
+      {
+        "id": 351,
+        "value": "Jesuitenmission Vsetín"
+      },
+      {
+        "id": 401,
+        "value": "Jesuitenmission Silesia Superiore, Cieszyn"
+      },
+      {
+        "id": 435,
+        "value": "Jesuitenmission Czeikowicium  (?)"
+      },
+      {
+        "id": 467,
+        "value": "Jesuitenmission Nový Jičín"
+      },
+      {
+        "id": 494,
+        "value": "Jesuitenmission Beraunensis"
+      },
+      {
+        "id": 517,
+        "value": "Jesuitenmission Modlany"
+      },
+      {
+        "id": 520,
+        "value": "Jesuitenmission De poenitentia per Austriam Inferiorem"
+      },
+      {
+        "id": 521,
+        "value": "Jesuitenmission Hermersdorf"
+      },
+      {
+        "id": 522,
+        "value": "Jesuitenmission Rakonitzer Kreis (Rakovník)"
+      }
+    ],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13947968",
+    "title": "Litterae annuae provinciae Bohemiae Societatis Iesu a. 1759",
+    "date": "1760–Mai 1762",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Provincia Bohemia"
+      }
+    ],
+    "note_type_facs": "",
+    "xml_id": "cod_12342",
+    "extent": "106 Bl.",
+    "height": "274",
+    "width": "202",
+    "foliation": "Moderne Foliierung.",
+    "acc_mat": "",
+    "binding": "Halbband, Deckel mit buntem Marmorpapier überzogen, 18. Jhdt.",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit, thematisch in 21 Kapitel gegliedert.",
+    "not_before": "1760",
+    "not_after": "1762",
+    "# when": "",
+    "date_letter": "1759"
+  },
+  "248": {
+    "id": 248,
+    "order": "8.47804878048780530264",
+    "signatur": "Cod. 12343",
+    "jesuiten_id": "jesuiten_msdesc__248",
+    "mentioned_orgs": [
+      {
+        "id": 41,
+        "value": "Missio Castrensis"
+      },
+      {
+        "id": 92,
+        "value": "Profeßhaus Prag"
+      },
+      {
+        "id": 93,
+        "value": "Jesuitenkolleg Březnice"
+      },
+      {
+        "id": 94,
+        "value": "Jesuitenresidenz Svatá Hora"
+      },
+      {
+        "id": 95,
+        "value": "Jesuitenkolleg Chomutov"
+      },
+      {
+        "id": 96,
+        "value": "Jesuitenkolleg Krumlov"
+      },
+      {
+        "id": 97,
+        "value": "Jesuitenkolleg Cheb"
+      },
+      {
+        "id": 98,
+        "value": "Jesuitenkolleg Jičín"
+      },
+      {
+        "id": 100,
+        "value": "Jesuitenkolleg Klatovy"
+      },
+      {
+        "id": 102,
+        "value": "Jesuitenkolleg Uherské Hradiště"
+      },
+      {
+        "id": 103,
+        "value": "Jesuitenkolleg Jihlava"
+      },
+      {
+        "id": 104,
+        "value": "Jesuitenkolleg Kutná Hora"
+      },
+      {
+        "id": 105,
+        "value": "Jesuitenresidenz Golčův Jeníkov"
+      },
+      {
+        "id": 108,
+        "value": "Jesuitenkolleg Litoměřice"
+      },
+      {
+        "id": 111,
+        "value": "Jesuitenkolleg Jindřichův Hradec"
+      },
+      {
+        "id": 112,
+        "value": "Jesuitenkolleg Olomouc"
+      },
+      {
+        "id": 113,
+        "value": "Jesuitenkolleg Opava"
+      },
+      {
+        "id": 116,
+        "value": "Jesuitenkolleg Prague ad S. Clementem"
+      },
+      {
+        "id": 117,
+        "value": "Jesuitenkolleg Hradec Králové"
+      },
+      {
+        "id": 120,
+        "value": "Jesuitenkolleg Telč"
+      },
+      {
+        "id": 122,
+        "value": "Jesuitenkolleg Znoymo"
+      },
+      {
+        "id": 123,
+        "value": "Jesuitenkolleg Brno"
+      },
+      {
+        "id": 124,
+        "value": "Jesuitenresidenz Tuřany"
+      },
+      {
+        "id": 133,
+        "value": "Jesuitenmission Pommersdorf"
+      },
+      {
+        "id": 132,
+        "value": "Jesuitenmission Brantice"
+      },
+      {
+        "id": 136,
+        "value": "Jesuitenresidenz Košumberk"
+      },
+      {
+        "id": 138,
+        "value": "Probationshaus Telč"
+      },
+      {
+        "id": 140,
+        "value": "Jesuitenresidenz Cieszyn"
+      },
+      {
+        "id": 142,
+        "value": "Jesuitenresidenz Maria Scheinensis"
+      },
+      {
+        "id": 159,
+        "value": "Probationshaus Jičín"
+      },
+      {
+        "id": 161,
+        "value": "Jesuitenmission Dresden"
+      },
+      {
+        "id": 197,
+        "value": "Jesuitenkolleg Prague ad S. Ignatium"
+      },
+      {
+        "id": 284,
+        "value": "Jesuitenresidenz Liběšice"
+      },
+      {
+        "id": 286,
+        "value": "Jesuitenresidenz Tuchmeritz"
+      },
+      {
+        "id": 294,
+        "value": "Jesuitenmission Lichtensteinica Böhmen"
+      },
+      {
+        "id": 295,
+        "value": "Jesuitenmission in Jáchymov"
+      },
+      {
+        "id": 296,
+        "value": "Jesuitenresidenz Opařany"
+      },
+      {
+        "id": 297,
+        "value": "Jesuitenresidenz Brandýs nad Labem-Stará Boleslav"
+      },
+      {
+        "id": 299,
+        "value": "Jesuitenmission Poenitentia in Bohemia-Germanica"
+      },
+      {
+        "id": 300,
+        "value": "Jesuitenmission Poenitentia Bohemia Bohemica"
+      },
+      {
+        "id": 301,
+        "value": "Jesuitenmission Poenitentia Moravia"
+      },
+      {
+        "id": 302,
+        "value": "Jesuitenmission Leipzig"
+      },
+      {
+        "id": 303,
+        "value": "Jesuitenmission Hubertusburg"
+      },
+      {
+        "id": 316,
+        "value": "Jesuitenmission Mladá Boleslav"
+      },
+      {
+        "id": 351,
+        "value": "Jesuitenmission Vsetín"
+      },
+      {
+        "id": 401,
+        "value": "Jesuitenmission Silesia Superiore, Cieszyn"
+      },
+      {
+        "id": 435,
+        "value": "Jesuitenmission Czeikowicium  (?)"
+      },
+      {
+        "id": 467,
+        "value": "Jesuitenmission Nový Jičín"
+      },
+      {
+        "id": 494,
+        "value": "Jesuitenmission Beraunensis"
+      },
+      {
+        "id": 520,
+        "value": "Jesuitenmission De poenitentia per Austriam Inferiorem"
+      },
+      {
+        "id": 521,
+        "value": "Jesuitenmission Hermersdorf"
+      },
+      {
+        "id": 522,
+        "value": "Jesuitenmission Rakonitzer Kreis (Rakovník)"
+      }
+    ],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13947969",
+    "title": "Litterae annuae provinciae Bohemiae Societatis Iesu a. 1761",
+    "date": "1762–Okt. 1763",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Provincia Bohemia"
+      }
+    ],
+    "note_type_facs": "",
+    "xml_id": "cod_12343",
+    "extent": "99, I* Bl.",
+    "height": "273",
+    "width": "198",
+    "foliation": "Moderne Foliierung.",
+    "acc_mat": "",
+    "binding": "Halbband, Deckel mit buntem Marmorpapier überzogen, 18. Jhdt.",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit, thematisch in 21 Kapitel gegliedert.",
+    "not_before": "1762",
+    "not_after": "1763",
+    "# when": "",
+    "date_letter": "1761"
+  },
+  "249": {
+    "id": 249,
+    "order": "8.47807017543859586794",
+    "signatur": "Cod. 12344",
+    "jesuiten_id": "jesuiten_msdesc__249",
+    "mentioned_orgs": [
+      {
+        "id": 41,
+        "value": "Missio Castrensis"
+      },
+      {
+        "id": 92,
+        "value": "Profeßhaus Prag"
+      },
+      {
+        "id": 93,
+        "value": "Jesuitenkolleg Březnice"
+      },
+      {
+        "id": 94,
+        "value": "Jesuitenresidenz Svatá Hora"
+      },
+      {
+        "id": 95,
+        "value": "Jesuitenkolleg Chomutov"
+      },
+      {
+        "id": 96,
+        "value": "Jesuitenkolleg Krumlov"
+      },
+      {
+        "id": 97,
+        "value": "Jesuitenkolleg Cheb"
+      },
+      {
+        "id": 98,
+        "value": "Jesuitenkolleg Jičín"
+      },
+      {
+        "id": 100,
+        "value": "Jesuitenkolleg Klatovy"
+      },
+      {
+        "id": 102,
+        "value": "Jesuitenkolleg Uherské Hradiště"
+      },
+      {
+        "id": 103,
+        "value": "Jesuitenkolleg Jihlava"
+      },
+      {
+        "id": 104,
+        "value": "Jesuitenkolleg Kutná Hora"
+      },
+      {
+        "id": 105,
+        "value": "Jesuitenresidenz Golčův Jeníkov"
+      },
+      {
+        "id": 108,
+        "value": "Jesuitenkolleg Litoměřice"
+      },
+      {
+        "id": 111,
+        "value": "Jesuitenkolleg Jindřichův Hradec"
+      },
+      {
+        "id": 112,
+        "value": "Jesuitenkolleg Olomouc"
+      },
+      {
+        "id": 113,
+        "value": "Jesuitenkolleg Opava"
+      },
+      {
+        "id": 116,
+        "value": "Jesuitenkolleg Prague ad S. Clementem"
+      },
+      {
+        "id": 117,
+        "value": "Jesuitenkolleg Hradec Králové"
+      },
+      {
+        "id": 120,
+        "value": "Jesuitenkolleg Telč"
+      },
+      {
+        "id": 122,
+        "value": "Jesuitenkolleg Znoymo"
+      },
+      {
+        "id": 123,
+        "value": "Jesuitenkolleg Brno"
+      },
+      {
+        "id": 124,
+        "value": "Jesuitenresidenz Tuřany"
+      },
+      {
+        "id": 133,
+        "value": "Jesuitenmission Pommersdorf"
+      },
+      {
+        "id": 132,
+        "value": "Jesuitenmission Brantice"
+      },
+      {
+        "id": 136,
+        "value": "Jesuitenresidenz Košumberk"
+      },
+      {
+        "id": 138,
+        "value": "Probationshaus Telč"
+      },
+      {
+        "id": 140,
+        "value": "Jesuitenresidenz Cieszyn"
+      },
+      {
+        "id": 142,
+        "value": "Jesuitenresidenz Maria Scheinensis"
+      },
+      {
+        "id": 159,
+        "value": "Probationshaus Jičín"
+      },
+      {
+        "id": 161,
+        "value": "Jesuitenmission Dresden"
+      },
+      {
+        "id": 197,
+        "value": "Jesuitenkolleg Prague ad S. Ignatium"
+      },
+      {
+        "id": 284,
+        "value": "Jesuitenresidenz Liběšice"
+      },
+      {
+        "id": 286,
+        "value": "Jesuitenresidenz Tuchmeritz"
+      },
+      {
+        "id": 294,
+        "value": "Jesuitenmission Lichtensteinica Böhmen"
+      },
+      {
+        "id": 295,
+        "value": "Jesuitenmission in Jáchymov"
+      },
+      {
+        "id": 296,
+        "value": "Jesuitenresidenz Opařany"
+      },
+      {
+        "id": 297,
+        "value": "Jesuitenresidenz Brandýs nad Labem-Stará Boleslav"
+      },
+      {
+        "id": 299,
+        "value": "Jesuitenmission Poenitentia in Bohemia-Germanica"
+      },
+      {
+        "id": 300,
+        "value": "Jesuitenmission Poenitentia Bohemia Bohemica"
+      },
+      {
+        "id": 301,
+        "value": "Jesuitenmission Poenitentia Moravia"
+      },
+      {
+        "id": 302,
+        "value": "Jesuitenmission Leipzig"
+      },
+      {
+        "id": 303,
+        "value": "Jesuitenmission Hubertusburg"
+      },
+      {
+        "id": 316,
+        "value": "Jesuitenmission Mladá Boleslav"
+      },
+      {
+        "id": 351,
+        "value": "Jesuitenmission Vsetín"
+      },
+      {
+        "id": 401,
+        "value": "Jesuitenmission Silesia Superiore, Cieszyn"
+      },
+      {
+        "id": 435,
+        "value": "Jesuitenmission Czeikowicium  (?)"
+      },
+      {
+        "id": 467,
+        "value": "Jesuitenmission Nový Jičín"
+      },
+      {
+        "id": 494,
+        "value": "Jesuitenmission Beraunensis"
+      },
+      {
+        "id": 520,
+        "value": "Jesuitenmission De poenitentia per Austriam Inferiorem"
+      },
+      {
+        "id": 521,
+        "value": "Jesuitenmission Hermersdorf"
+      },
+      {
+        "id": 522,
+        "value": "Jesuitenmission Rakonitzer Kreis (Rakovník)"
+      },
+      {
+        "id": 525,
+        "value": "Jesuitenmission Křesetice"
+      },
+      {
+        "id": 526,
+        "value": "Jesuitenmission Zizovium"
+      }
+    ],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13947970",
+    "title": "Litterae annuae provinciae Bohemiae Societatis Iesu a. 1762",
+    "date": "1763–1765",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Provincia Bohemia"
+      }
+    ],
+    "note_type_facs": "",
+    "xml_id": "cod_12344",
+    "extent": "84 Bl.",
+    "height": "268",
+    "width": "194",
+    "foliation": "Moderne Foliierung.",
+    "acc_mat": "",
+    "binding": "Halbband, Deckel mit buntem Marmorpapier überzogen, 18. Jhdt.",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit, thematisch in 21 Kapitel gegliedert.",
+    "not_before": "1763",
+    "not_after": "1765",
+    "# when": "",
+    "date_letter": "1762"
+  },
+  "250": {
+    "id": 250,
+    "order": "8.47808764940239001362",
+    "signatur": "Cod. 12345",
+    "jesuiten_id": "jesuiten_msdesc__250",
+    "mentioned_orgs": [
+      {
+        "id": 41,
+        "value": "Missio Castrensis"
+      },
+      {
+        "id": 92,
+        "value": "Profeßhaus Prag"
+      },
+      {
+        "id": 93,
+        "value": "Jesuitenkolleg Březnice"
+      },
+      {
+        "id": 94,
+        "value": "Jesuitenresidenz Svatá Hora"
+      },
+      {
+        "id": 95,
+        "value": "Jesuitenkolleg Chomutov"
+      },
+      {
+        "id": 96,
+        "value": "Jesuitenkolleg Krumlov"
+      },
+      {
+        "id": 97,
+        "value": "Jesuitenkolleg Cheb"
+      },
+      {
+        "id": 98,
+        "value": "Jesuitenkolleg Jičín"
+      },
+      {
+        "id": 100,
+        "value": "Jesuitenkolleg Klatovy"
+      },
+      {
+        "id": 102,
+        "value": "Jesuitenkolleg Uherské Hradiště"
+      },
+      {
+        "id": 103,
+        "value": "Jesuitenkolleg Jihlava"
+      },
+      {
+        "id": 104,
+        "value": "Jesuitenkolleg Kutná Hora"
+      },
+      {
+        "id": 105,
+        "value": "Jesuitenresidenz Golčův Jeníkov"
+      },
+      {
+        "id": 108,
+        "value": "Jesuitenkolleg Litoměřice"
+      },
+      {
+        "id": 111,
+        "value": "Jesuitenkolleg Jindřichův Hradec"
+      },
+      {
+        "id": 112,
+        "value": "Jesuitenkolleg Olomouc"
+      },
+      {
+        "id": 113,
+        "value": "Jesuitenkolleg Opava"
+      },
+      {
+        "id": 116,
+        "value": "Jesuitenkolleg Prague ad S. Clementem"
+      },
+      {
+        "id": 117,
+        "value": "Jesuitenkolleg Hradec Králové"
+      },
+      {
+        "id": 120,
+        "value": "Jesuitenkolleg Telč"
+      },
+      {
+        "id": 122,
+        "value": "Jesuitenkolleg Znoymo"
+      },
+      {
+        "id": 123,
+        "value": "Jesuitenkolleg Brno"
+      },
+      {
+        "id": 124,
+        "value": "Jesuitenresidenz Tuřany"
+      },
+      {
+        "id": 133,
+        "value": "Jesuitenmission Pommersdorf"
+      },
+      {
+        "id": 132,
+        "value": "Jesuitenmission Brantice"
+      },
+      {
+        "id": 136,
+        "value": "Jesuitenresidenz Košumberk"
+      },
+      {
+        "id": 138,
+        "value": "Probationshaus Telč"
+      },
+      {
+        "id": 140,
+        "value": "Jesuitenresidenz Cieszyn"
+      },
+      {
+        "id": 142,
+        "value": "Jesuitenresidenz Maria Scheinensis"
+      },
+      {
+        "id": 159,
+        "value": "Probationshaus Jičín"
+      },
+      {
+        "id": 161,
+        "value": "Jesuitenmission Dresden"
+      },
+      {
+        "id": 197,
+        "value": "Jesuitenkolleg Prague ad S. Ignatium"
+      },
+      {
+        "id": 284,
+        "value": "Jesuitenresidenz Liběšice"
+      },
+      {
+        "id": 286,
+        "value": "Jesuitenresidenz Tuchmeritz"
+      },
+      {
+        "id": 294,
+        "value": "Jesuitenmission Lichtensteinica Böhmen"
+      },
+      {
+        "id": 295,
+        "value": "Jesuitenmission in Jáchymov"
+      },
+      {
+        "id": 296,
+        "value": "Jesuitenresidenz Opařany"
+      },
+      {
+        "id": 297,
+        "value": "Jesuitenresidenz Brandýs nad Labem-Stará Boleslav"
+      },
+      {
+        "id": 299,
+        "value": "Jesuitenmission Poenitentia in Bohemia-Germanica"
+      },
+      {
+        "id": 300,
+        "value": "Jesuitenmission Poenitentia Bohemia Bohemica"
+      },
+      {
+        "id": 301,
+        "value": "Jesuitenmission Poenitentia Moravia"
+      },
+      {
+        "id": 302,
+        "value": "Jesuitenmission Leipzig"
+      },
+      {
+        "id": 303,
+        "value": "Jesuitenmission Hubertusburg"
+      },
+      {
+        "id": 316,
+        "value": "Jesuitenmission Mladá Boleslav"
+      },
+      {
+        "id": 351,
+        "value": "Jesuitenmission Vsetín"
+      },
+      {
+        "id": 401,
+        "value": "Jesuitenmission Silesia Superiore, Cieszyn"
+      },
+      {
+        "id": 435,
+        "value": "Jesuitenmission Czeikowicium  (?)"
+      },
+      {
+        "id": 467,
+        "value": "Jesuitenmission Nový Jičín"
+      },
+      {
+        "id": 494,
+        "value": "Jesuitenmission Beraunensis"
+      },
+      {
+        "id": 520,
+        "value": "Jesuitenmission De poenitentia per Austriam Inferiorem"
+      },
+      {
+        "id": 521,
+        "value": "Jesuitenmission Hermersdorf"
+      },
+      {
+        "id": 522,
+        "value": "Jesuitenmission Rakonitzer Kreis (Rakovník)"
+      },
+      {
+        "id": 525,
+        "value": "Jesuitenmission Křesetice"
+      },
+      {
+        "id": 526,
+        "value": "Jesuitenmission Zizovium"
+      }
+    ],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13947971",
+    "title": "Litterae annuae provinciae Bohemiae Societatis Iesu a. 1763",
+    "date": "ab 1764",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Provincia Bohemia"
+      }
+    ],
+    "note_type_facs": "",
+    "xml_id": "cod_12345",
+    "extent": "103 Bl.",
+    "height": "265",
+    "width": "197",
+    "foliation": "Moderne Foliierung.",
+    "acc_mat": "",
+    "binding": "Halbband, Deckel mit buntem Marmorpapier überzogen, 18. Jhdt.",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit, thematisch in 21 Kapitel gegliedert.",
+    "not_before": "1764",
+    "not_after": null,
+    "# when": "",
+    "date_letter": "1763"
+  },
+  "251": {
+    "id": 251,
+    "order": "8.47810218978102270171",
+    "signatur": "Cod. 12351",
+    "jesuiten_id": "jesuiten_msdesc__251",
+    "mentioned_orgs": [
+      {
+        "id": 41,
+        "value": "Missio Castrensis"
+      },
+      {
+        "id": 92,
+        "value": "Profeßhaus Prag"
+      },
+      {
+        "id": 93,
+        "value": "Jesuitenkolleg Březnice"
+      },
+      {
+        "id": 95,
+        "value": "Jesuitenkolleg Chomutov"
+      },
+      {
+        "id": 96,
+        "value": "Jesuitenkolleg Krumlov"
+      },
+      {
+        "id": 97,
+        "value": "Jesuitenkolleg Cheb"
+      },
+      {
+        "id": 98,
+        "value": "Jesuitenkolleg Jičín"
+      },
+      {
+        "id": 99,
+        "value": "Jesuitenkolleg Kłodzko"
+      },
+      {
+        "id": 100,
+        "value": "Jesuitenkolleg Klatovy"
+      },
+      {
+        "id": 101,
+        "value": "Jesuitenkolleg Głogów"
+      },
+      {
+        "id": 102,
+        "value": "Jesuitenkolleg Uherské Hradiště"
+      },
+      {
+        "id": 103,
+        "value": "Jesuitenkolleg Jihlava"
+      },
+      {
+        "id": 104,
+        "value": "Jesuitenkolleg Kutná Hora"
+      },
+      {
+        "id": 105,
+        "value": "Jesuitenresidenz Golčův Jeníkov"
+      },
+      {
+        "id": 106,
+        "value": "Jesuitenkolleg Legnica"
+      },
+      {
+        "id": 107,
+        "value": "Jesuitenresidenz Otyń"
+      },
+      {
+        "id": 108,
+        "value": "Jesuitenkolleg Litoměřice"
+      },
+      {
+        "id": 110,
+        "value": "Jesuitenkolleg Nysa"
+      },
+      {
+        "id": 111,
+        "value": "Jesuitenkolleg Jindřichův Hradec"
+      },
+      {
+        "id": 112,
+        "value": "Jesuitenkolleg Olomouc"
+      },
+      {
+        "id": 113,
+        "value": "Jesuitenkolleg Opava"
+      },
+      {
+        "id": 115,
+        "value": "Jesuitenkolleg Opole"
+      },
+      {
+        "id": 116,
+        "value": "Jesuitenkolleg Prague ad S. Clementem"
+      },
+      {
+        "id": 117,
+        "value": "Jesuitenkolleg Hradec Králové"
+      },
+      {
+        "id": 118,
+        "value": "Jesuitenkolleg Żagań"
+      },
+      {
+        "id": 119,
+        "value": "Jesuitenkolleg Świdnica"
+      },
+      {
+        "id": 120,
+        "value": "Jesuitenkolleg Telč"
+      },
+      {
+        "id": 121,
+        "value": "Jesuitenkolleg Wrocław"
+      },
+      {
+        "id": 122,
+        "value": "Jesuitenkolleg Znoymo"
+      },
+      {
+        "id": 123,
+        "value": "Jesuitenkolleg Brno"
+      },
+      {
+        "id": 124,
+        "value": "Jesuitenresidenz Tuřany"
+      },
+      {
+        "id": 133,
+        "value": "Jesuitenmission Pommersdorf"
+      },
+      {
+        "id": 132,
+        "value": "Jesuitenmission Brantice"
+      },
+      {
+        "id": 134,
+        "value": "Jesuitenresidenz Piekary"
+      },
+      {
+        "id": 136,
+        "value": "Jesuitenresidenz Košumberk"
+      },
+      {
+        "id": 137,
+        "value": "Jesuitenresidenz Jelenia Góra"
+      },
+      {
+        "id": 138,
+        "value": "Probationshaus Telč"
+      },
+      {
+        "id": 139,
+        "value": "Jesuitenmission Brzeg"
+      },
+      {
+        "id": 142,
+        "value": "Jesuitenresidenz Maria Scheinensis"
+      },
+      {
+        "id": 159,
+        "value": "Probationshaus Jičín"
+      },
+      {
+        "id": 161,
+        "value": "Jesuitenmission Dresden"
+      },
+      {
+        "id": 197,
+        "value": "Jesuitenkolleg Prague ad S. Ignatium"
+      },
+      {
+        "id": 284,
+        "value": "Jesuitenresidenz Liběšice"
+      },
+      {
+        "id": 286,
+        "value": "Jesuitenresidenz Tuchmeritz"
+      },
+      {
+        "id": 289,
+        "value": "Jesuitenresidenz Tarnowskie Góry"
+      },
+      {
+        "id": 297,
+        "value": "Jesuitenresidenz Brandýs nad Labem-Stará Boleslav"
+      },
+      {
+        "id": 299,
+        "value": "Jesuitenmission Poenitentia in Bohemia-Germanica"
+      },
+      {
+        "id": 302,
+        "value": "Jesuitenmission Leipzig"
+      },
+      {
+        "id": 371,
+        "value": "Jesuitenmission Svatá Hora"
+      },
+      {
+        "id": 435,
+        "value": "Jesuitenmission Czeikowicium  (?)"
+      },
+      {
+        "id": 518,
+        "value": "Jesuitenmission Kynšperk nad Ohří"
+      }
+    ],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13949201",
+    "title": "Litterae annuae provinciae Bohemiae Societatis Iesu a. 1743",
+    "date": "ab 1744",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Provincia Bohemia"
+      }
+    ],
+    "note_type_facs": "",
+    "xml_id": "cod_12351",
+    "extent": "I, 72, I* Bl.",
+    "height": "268",
+    "width": "198",
+    "foliation": "Moderne Foliierung.",
+    "acc_mat": "",
+    "binding": "Halbband, Deckel mit buntem Marmorpapier überzogen, 18. Jhdt.",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit, thematisch in 21 Kapitel gegliedert.",
+    "not_before": "1744",
+    "not_after": null,
+    "# when": "",
+    "date_letter": "1743"
+  },
   "142": {
     "id": 142,
     "order": "8.47826086956521685067",
@@ -13087,6 +14760,1110 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1744"
+  },
+  "252": {
+    "id": 252,
+    "order": "8.48000000000000042633",
+    "signatur": "Cod. 12353",
+    "jesuiten_id": "jesuiten_msdesc__252",
+    "mentioned_orgs": [
+      {
+        "id": 41,
+        "value": "Missio Castrensis"
+      },
+      {
+        "id": 92,
+        "value": "Profeßhaus Prag"
+      },
+      {
+        "id": 93,
+        "value": "Jesuitenkolleg Březnice"
+      },
+      {
+        "id": 94,
+        "value": "Jesuitenresidenz Svatá Hora"
+      },
+      {
+        "id": 95,
+        "value": "Jesuitenkolleg Chomutov"
+      },
+      {
+        "id": 96,
+        "value": "Jesuitenkolleg Krumlov"
+      },
+      {
+        "id": 97,
+        "value": "Jesuitenkolleg Cheb"
+      },
+      {
+        "id": 98,
+        "value": "Jesuitenkolleg Jičín"
+      },
+      {
+        "id": 99,
+        "value": "Jesuitenkolleg Kłodzko"
+      },
+      {
+        "id": 100,
+        "value": "Jesuitenkolleg Klatovy"
+      },
+      {
+        "id": 101,
+        "value": "Jesuitenkolleg Głogów"
+      },
+      {
+        "id": 102,
+        "value": "Jesuitenkolleg Uherské Hradiště"
+      },
+      {
+        "id": 103,
+        "value": "Jesuitenkolleg Jihlava"
+      },
+      {
+        "id": 104,
+        "value": "Jesuitenkolleg Kutná Hora"
+      },
+      {
+        "id": 105,
+        "value": "Jesuitenresidenz Golčův Jeníkov"
+      },
+      {
+        "id": 106,
+        "value": "Jesuitenkolleg Legnica"
+      },
+      {
+        "id": 107,
+        "value": "Jesuitenresidenz Otyń"
+      },
+      {
+        "id": 108,
+        "value": "Jesuitenkolleg Litoměřice"
+      },
+      {
+        "id": 110,
+        "value": "Jesuitenkolleg Nysa"
+      },
+      {
+        "id": 111,
+        "value": "Jesuitenkolleg Jindřichův Hradec"
+      },
+      {
+        "id": 112,
+        "value": "Jesuitenkolleg Olomouc"
+      },
+      {
+        "id": 113,
+        "value": "Jesuitenkolleg Opava"
+      },
+      {
+        "id": 115,
+        "value": "Jesuitenkolleg Opole"
+      },
+      {
+        "id": 116,
+        "value": "Jesuitenkolleg Prague ad S. Clementem"
+      },
+      {
+        "id": 117,
+        "value": "Jesuitenkolleg Hradec Králové"
+      },
+      {
+        "id": 118,
+        "value": "Jesuitenkolleg Żagań"
+      },
+      {
+        "id": 119,
+        "value": "Jesuitenkolleg Świdnica"
+      },
+      {
+        "id": 120,
+        "value": "Jesuitenkolleg Telč"
+      },
+      {
+        "id": 121,
+        "value": "Jesuitenkolleg Wrocław"
+      },
+      {
+        "id": 122,
+        "value": "Jesuitenkolleg Znoymo"
+      },
+      {
+        "id": 123,
+        "value": "Jesuitenkolleg Brno"
+      },
+      {
+        "id": 124,
+        "value": "Jesuitenresidenz Tuřany"
+      },
+      {
+        "id": 133,
+        "value": "Jesuitenmission Pommersdorf"
+      },
+      {
+        "id": 132,
+        "value": "Jesuitenmission Brantice"
+      },
+      {
+        "id": 134,
+        "value": "Jesuitenresidenz Piekary"
+      },
+      {
+        "id": 137,
+        "value": "Jesuitenresidenz Jelenia Góra"
+      },
+      {
+        "id": 138,
+        "value": "Probationshaus Telč"
+      },
+      {
+        "id": 139,
+        "value": "Jesuitenmission Brzeg"
+      },
+      {
+        "id": 140,
+        "value": "Jesuitenresidenz Cieszyn"
+      },
+      {
+        "id": 142,
+        "value": "Jesuitenresidenz Maria Scheinensis"
+      },
+      {
+        "id": 159,
+        "value": "Probationshaus Jičín"
+      },
+      {
+        "id": 161,
+        "value": "Jesuitenmission Dresden"
+      },
+      {
+        "id": 197,
+        "value": "Jesuitenkolleg Prague ad S. Ignatium"
+      },
+      {
+        "id": 196,
+        "value": "Jesuitenmission Římov"
+      },
+      {
+        "id": 284,
+        "value": "Jesuitenresidenz Liběšice"
+      },
+      {
+        "id": 289,
+        "value": "Jesuitenresidenz Tarnowskie Góry"
+      },
+      {
+        "id": 294,
+        "value": "Jesuitenmission Lichtensteinica Böhmen"
+      },
+      {
+        "id": 296,
+        "value": "Jesuitenresidenz Opařany"
+      },
+      {
+        "id": 299,
+        "value": "Jesuitenmission Poenitentia in Bohemia-Germanica"
+      },
+      {
+        "id": 300,
+        "value": "Jesuitenmission Poenitentia Bohemia Bohemica"
+      },
+      {
+        "id": 302,
+        "value": "Jesuitenmission Leipzig"
+      },
+      {
+        "id": 303,
+        "value": "Jesuitenmission Hubertusburg"
+      },
+      {
+        "id": 325,
+        "value": "Jesuitenmission Stará Boleslav"
+      },
+      {
+        "id": 435,
+        "value": "Jesuitenmission Czeikowicium  (?)"
+      },
+      {
+        "id": 517,
+        "value": "Jesuitenmission Modlany"
+      },
+      {
+        "id": 518,
+        "value": "Jesuitenmission Kynšperk nad Ohří"
+      }
+    ],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13949203",
+    "title": "Litterae annuae provinciae Bohemiae Societatis Iesu a. 1745",
+    "date": "1746–Juli 1747",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Provincia Bohemia"
+      }
+    ],
+    "note_type_facs": "",
+    "xml_id": "cod_12353",
+    "extent": "57 Bl.",
+    "height": "268",
+    "width": "194",
+    "foliation": "Moderne Foliierung.",
+    "acc_mat": "",
+    "binding": "Halbband, Deckel mit buntem Marmorpapier überzogen, 18. Jhdt.",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit, thematisch in 21 Kapitel gegliedert.",
+    "not_before": "1746",
+    "not_after": "1747",
+    "# when": "",
+    "date_letter": "1745"
+  },
+  "253": {
+    "id": 253,
+    "order": "8.48148148148148095515",
+    "signatur": "Cod. 12354",
+    "jesuiten_id": "jesuiten_msdesc__253",
+    "mentioned_orgs": [
+      {
+        "id": 41,
+        "value": "Missio Castrensis"
+      },
+      {
+        "id": 92,
+        "value": "Profeßhaus Prag"
+      },
+      {
+        "id": 93,
+        "value": "Jesuitenkolleg Březnice"
+      },
+      {
+        "id": 94,
+        "value": "Jesuitenresidenz Svatá Hora"
+      },
+      {
+        "id": 95,
+        "value": "Jesuitenkolleg Chomutov"
+      },
+      {
+        "id": 96,
+        "value": "Jesuitenkolleg Krumlov"
+      },
+      {
+        "id": 97,
+        "value": "Jesuitenkolleg Cheb"
+      },
+      {
+        "id": 98,
+        "value": "Jesuitenkolleg Jičín"
+      },
+      {
+        "id": 99,
+        "value": "Jesuitenkolleg Kłodzko"
+      },
+      {
+        "id": 101,
+        "value": "Jesuitenkolleg Głogów"
+      },
+      {
+        "id": 102,
+        "value": "Jesuitenkolleg Uherské Hradiště"
+      },
+      {
+        "id": 103,
+        "value": "Jesuitenkolleg Jihlava"
+      },
+      {
+        "id": 104,
+        "value": "Jesuitenkolleg Kutná Hora"
+      },
+      {
+        "id": 105,
+        "value": "Jesuitenresidenz Golčův Jeníkov"
+      },
+      {
+        "id": 106,
+        "value": "Jesuitenkolleg Legnica"
+      },
+      {
+        "id": 107,
+        "value": "Jesuitenresidenz Otyń"
+      },
+      {
+        "id": 108,
+        "value": "Jesuitenkolleg Litoměřice"
+      },
+      {
+        "id": 110,
+        "value": "Jesuitenkolleg Nysa"
+      },
+      {
+        "id": 111,
+        "value": "Jesuitenkolleg Jindřichův Hradec"
+      },
+      {
+        "id": 112,
+        "value": "Jesuitenkolleg Olomouc"
+      },
+      {
+        "id": 113,
+        "value": "Jesuitenkolleg Opava"
+      },
+      {
+        "id": 115,
+        "value": "Jesuitenkolleg Opole"
+      },
+      {
+        "id": 116,
+        "value": "Jesuitenkolleg Prague ad S. Clementem"
+      },
+      {
+        "id": 117,
+        "value": "Jesuitenkolleg Hradec Králové"
+      },
+      {
+        "id": 118,
+        "value": "Jesuitenkolleg Żagań"
+      },
+      {
+        "id": 119,
+        "value": "Jesuitenkolleg Świdnica"
+      },
+      {
+        "id": 120,
+        "value": "Jesuitenkolleg Telč"
+      },
+      {
+        "id": 121,
+        "value": "Jesuitenkolleg Wrocław"
+      },
+      {
+        "id": 122,
+        "value": "Jesuitenkolleg Znoymo"
+      },
+      {
+        "id": 123,
+        "value": "Jesuitenkolleg Brno"
+      },
+      {
+        "id": 124,
+        "value": "Jesuitenresidenz Tuřany"
+      },
+      {
+        "id": 133,
+        "value": "Jesuitenmission Pommersdorf"
+      },
+      {
+        "id": 132,
+        "value": "Jesuitenmission Brantice"
+      },
+      {
+        "id": 134,
+        "value": "Jesuitenresidenz Piekary"
+      },
+      {
+        "id": 136,
+        "value": "Jesuitenresidenz Košumberk"
+      },
+      {
+        "id": 137,
+        "value": "Jesuitenresidenz Jelenia Góra"
+      },
+      {
+        "id": 138,
+        "value": "Probationshaus Telč"
+      },
+      {
+        "id": 139,
+        "value": "Jesuitenmission Brzeg"
+      },
+      {
+        "id": 142,
+        "value": "Jesuitenresidenz Maria Scheinensis"
+      },
+      {
+        "id": 159,
+        "value": "Probationshaus Jičín"
+      },
+      {
+        "id": 161,
+        "value": "Jesuitenmission Dresden"
+      },
+      {
+        "id": 197,
+        "value": "Jesuitenkolleg Prague ad S. Ignatium"
+      },
+      {
+        "id": 196,
+        "value": "Jesuitenmission Římov"
+      },
+      {
+        "id": 284,
+        "value": "Jesuitenresidenz Liběšice"
+      },
+      {
+        "id": 286,
+        "value": "Jesuitenresidenz Tuchmeritz"
+      },
+      {
+        "id": 289,
+        "value": "Jesuitenresidenz Tarnowskie Góry"
+      },
+      {
+        "id": 296,
+        "value": "Jesuitenresidenz Opařany"
+      },
+      {
+        "id": 297,
+        "value": "Jesuitenresidenz Brandýs nad Labem-Stará Boleslav"
+      },
+      {
+        "id": 299,
+        "value": "Jesuitenmission Poenitentia in Bohemia-Germanica"
+      },
+      {
+        "id": 300,
+        "value": "Jesuitenmission Poenitentia Bohemia Bohemica"
+      },
+      {
+        "id": 302,
+        "value": "Jesuitenmission Leipzig"
+      },
+      {
+        "id": 303,
+        "value": "Jesuitenmission Hubertusburg"
+      },
+      {
+        "id": 401,
+        "value": "Jesuitenmission Silesia Superiore, Cieszyn"
+      },
+      {
+        "id": 439,
+        "value": "Jesuitenmission Černíkovice"
+      },
+      {
+        "id": 495,
+        "value": "Jesuitenmission Policensis (?)"
+      },
+      {
+        "id": 517,
+        "value": "Jesuitenmission Modlany"
+      },
+      {
+        "id": 518,
+        "value": "Jesuitenmission Kynšperk nad Ohří"
+      },
+      {
+        "id": 524,
+        "value": "Jesuitenmission Starý Hrozenkov (?)"
+      }
+    ],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13949204",
+    "title": "Litterae annuae provinciae Bohemiae Societatis Iesu a. 1747",
+    "date": "ab 1748",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Provincia Bohemia"
+      }
+    ],
+    "note_type_facs": "",
+    "xml_id": "cod_12354",
+    "extent": "II, 37, I* Bl.",
+    "height": "277",
+    "width": "188",
+    "foliation": "Moderne Foliierung.",
+    "acc_mat": "",
+    "binding": "Halbband, Deckel mit buntem Marmorpapier überzogen, 18. Jhdt.",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit, thematisch in 21 Kapitel gegliedert.",
+    "not_before": "1748",
+    "not_after": null,
+    "# when": "",
+    "date_letter": "1747"
+  },
+  "254": {
+    "id": 254,
+    "order": "8.48275862068965480489",
+    "signatur": "Cod. 12355",
+    "jesuiten_id": "jesuiten_msdesc__254",
+    "mentioned_orgs": [
+      {
+        "id": 41,
+        "value": "Missio Castrensis"
+      },
+      {
+        "id": 92,
+        "value": "Profeßhaus Prag"
+      },
+      {
+        "id": 93,
+        "value": "Jesuitenkolleg Březnice"
+      },
+      {
+        "id": 94,
+        "value": "Jesuitenresidenz Svatá Hora"
+      },
+      {
+        "id": 95,
+        "value": "Jesuitenkolleg Chomutov"
+      },
+      {
+        "id": 96,
+        "value": "Jesuitenkolleg Krumlov"
+      },
+      {
+        "id": 97,
+        "value": "Jesuitenkolleg Cheb"
+      },
+      {
+        "id": 98,
+        "value": "Jesuitenkolleg Jičín"
+      },
+      {
+        "id": 99,
+        "value": "Jesuitenkolleg Kłodzko"
+      },
+      {
+        "id": 101,
+        "value": "Jesuitenkolleg Głogów"
+      },
+      {
+        "id": 102,
+        "value": "Jesuitenkolleg Uherské Hradiště"
+      },
+      {
+        "id": 103,
+        "value": "Jesuitenkolleg Jihlava"
+      },
+      {
+        "id": 104,
+        "value": "Jesuitenkolleg Kutná Hora"
+      },
+      {
+        "id": 105,
+        "value": "Jesuitenresidenz Golčův Jeníkov"
+      },
+      {
+        "id": 106,
+        "value": "Jesuitenkolleg Legnica"
+      },
+      {
+        "id": 107,
+        "value": "Jesuitenresidenz Otyń"
+      },
+      {
+        "id": 108,
+        "value": "Jesuitenkolleg Litoměřice"
+      },
+      {
+        "id": 110,
+        "value": "Jesuitenkolleg Nysa"
+      },
+      {
+        "id": 111,
+        "value": "Jesuitenkolleg Jindřichův Hradec"
+      },
+      {
+        "id": 112,
+        "value": "Jesuitenkolleg Olomouc"
+      },
+      {
+        "id": 113,
+        "value": "Jesuitenkolleg Opava"
+      },
+      {
+        "id": 115,
+        "value": "Jesuitenkolleg Opole"
+      },
+      {
+        "id": 116,
+        "value": "Jesuitenkolleg Prague ad S. Clementem"
+      },
+      {
+        "id": 117,
+        "value": "Jesuitenkolleg Hradec Králové"
+      },
+      {
+        "id": 118,
+        "value": "Jesuitenkolleg Żagań"
+      },
+      {
+        "id": 119,
+        "value": "Jesuitenkolleg Świdnica"
+      },
+      {
+        "id": 120,
+        "value": "Jesuitenkolleg Telč"
+      },
+      {
+        "id": 121,
+        "value": "Jesuitenkolleg Wrocław"
+      },
+      {
+        "id": 122,
+        "value": "Jesuitenkolleg Znoymo"
+      },
+      {
+        "id": 123,
+        "value": "Jesuitenkolleg Brno"
+      },
+      {
+        "id": 124,
+        "value": "Jesuitenresidenz Tuřany"
+      },
+      {
+        "id": 133,
+        "value": "Jesuitenmission Pommersdorf"
+      },
+      {
+        "id": 132,
+        "value": "Jesuitenmission Brantice"
+      },
+      {
+        "id": 134,
+        "value": "Jesuitenresidenz Piekary"
+      },
+      {
+        "id": 136,
+        "value": "Jesuitenresidenz Košumberk"
+      },
+      {
+        "id": 137,
+        "value": "Jesuitenresidenz Jelenia Góra"
+      },
+      {
+        "id": 138,
+        "value": "Probationshaus Telč"
+      },
+      {
+        "id": 139,
+        "value": "Jesuitenmission Brzeg"
+      },
+      {
+        "id": 142,
+        "value": "Jesuitenresidenz Maria Scheinensis"
+      },
+      {
+        "id": 159,
+        "value": "Probationshaus Jičín"
+      },
+      {
+        "id": 161,
+        "value": "Jesuitenmission Dresden"
+      },
+      {
+        "id": 197,
+        "value": "Jesuitenkolleg Prague ad S. Ignatium"
+      },
+      {
+        "id": 196,
+        "value": "Jesuitenmission Římov"
+      },
+      {
+        "id": 284,
+        "value": "Jesuitenresidenz Liběšice"
+      },
+      {
+        "id": 286,
+        "value": "Jesuitenresidenz Tuchmeritz"
+      },
+      {
+        "id": 289,
+        "value": "Jesuitenresidenz Tarnowskie Góry"
+      },
+      {
+        "id": 296,
+        "value": "Jesuitenresidenz Opařany"
+      },
+      {
+        "id": 297,
+        "value": "Jesuitenresidenz Brandýs nad Labem-Stará Boleslav"
+      },
+      {
+        "id": 299,
+        "value": "Jesuitenmission Poenitentia in Bohemia-Germanica"
+      },
+      {
+        "id": 300,
+        "value": "Jesuitenmission Poenitentia Bohemia Bohemica"
+      },
+      {
+        "id": 302,
+        "value": "Jesuitenmission Leipzig"
+      },
+      {
+        "id": 303,
+        "value": "Jesuitenmission Hubertusburg"
+      },
+      {
+        "id": 401,
+        "value": "Jesuitenmission Silesia Superiore, Cieszyn"
+      },
+      {
+        "id": 439,
+        "value": "Jesuitenmission Černíkovice"
+      },
+      {
+        "id": 495,
+        "value": "Jesuitenmission Policensis (?)"
+      },
+      {
+        "id": 517,
+        "value": "Jesuitenmission Modlany"
+      },
+      {
+        "id": 518,
+        "value": "Jesuitenmission Kynšperk nad Ohří"
+      },
+      {
+        "id": 524,
+        "value": "Jesuitenmission Starý Hrozenkov (?)"
+      }
+    ],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13949205",
+    "title": "Litterae annuae provinciae Bohemiae Societatis Iesu a. 1748",
+    "date": "ab 1749",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Provincia Bohemia"
+      }
+    ],
+    "note_type_facs": "",
+    "xml_id": "cod_12355",
+    "extent": "I, 52 Bl.",
+    "height": "270",
+    "width": "193",
+    "foliation": "Moderne Foliierung: 1–39, 39a, 40–51.",
+    "acc_mat": "",
+    "binding": "Halbband, Deckel mit buntem Marmorpapier überzogen, 18. Jhdt.",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit, thematisch in 21 Kapitel gegliedert.",
+    "not_before": "1749",
+    "not_after": null,
+    "# when": "",
+    "date_letter": "1748"
+  },
+  "255": {
+    "id": 255,
+    "order": "8.48387096774193594229",
+    "signatur": "Cod. 12356",
+    "jesuiten_id": "jesuiten_msdesc__255",
+    "mentioned_orgs": [
+      {
+        "id": 41,
+        "value": "Missio Castrensis"
+      },
+      {
+        "id": 92,
+        "value": "Profeßhaus Prag"
+      },
+      {
+        "id": 93,
+        "value": "Jesuitenkolleg Březnice"
+      },
+      {
+        "id": 94,
+        "value": "Jesuitenresidenz Svatá Hora"
+      },
+      {
+        "id": 95,
+        "value": "Jesuitenkolleg Chomutov"
+      },
+      {
+        "id": 96,
+        "value": "Jesuitenkolleg Krumlov"
+      },
+      {
+        "id": 97,
+        "value": "Jesuitenkolleg Cheb"
+      },
+      {
+        "id": 98,
+        "value": "Jesuitenkolleg Jičín"
+      },
+      {
+        "id": 99,
+        "value": "Jesuitenkolleg Kłodzko"
+      },
+      {
+        "id": 101,
+        "value": "Jesuitenkolleg Głogów"
+      },
+      {
+        "id": 102,
+        "value": "Jesuitenkolleg Uherské Hradiště"
+      },
+      {
+        "id": 103,
+        "value": "Jesuitenkolleg Jihlava"
+      },
+      {
+        "id": 104,
+        "value": "Jesuitenkolleg Kutná Hora"
+      },
+      {
+        "id": 105,
+        "value": "Jesuitenresidenz Golčův Jeníkov"
+      },
+      {
+        "id": 106,
+        "value": "Jesuitenkolleg Legnica"
+      },
+      {
+        "id": 107,
+        "value": "Jesuitenresidenz Otyń"
+      },
+      {
+        "id": 108,
+        "value": "Jesuitenkolleg Litoměřice"
+      },
+      {
+        "id": 110,
+        "value": "Jesuitenkolleg Nysa"
+      },
+      {
+        "id": 111,
+        "value": "Jesuitenkolleg Jindřichův Hradec"
+      },
+      {
+        "id": 112,
+        "value": "Jesuitenkolleg Olomouc"
+      },
+      {
+        "id": 113,
+        "value": "Jesuitenkolleg Opava"
+      },
+      {
+        "id": 115,
+        "value": "Jesuitenkolleg Opole"
+      },
+      {
+        "id": 116,
+        "value": "Jesuitenkolleg Prague ad S. Clementem"
+      },
+      {
+        "id": 117,
+        "value": "Jesuitenkolleg Hradec Králové"
+      },
+      {
+        "id": 118,
+        "value": "Jesuitenkolleg Żagań"
+      },
+      {
+        "id": 119,
+        "value": "Jesuitenkolleg Świdnica"
+      },
+      {
+        "id": 120,
+        "value": "Jesuitenkolleg Telč"
+      },
+      {
+        "id": 121,
+        "value": "Jesuitenkolleg Wrocław"
+      },
+      {
+        "id": 122,
+        "value": "Jesuitenkolleg Znoymo"
+      },
+      {
+        "id": 123,
+        "value": "Jesuitenkolleg Brno"
+      },
+      {
+        "id": 124,
+        "value": "Jesuitenresidenz Tuřany"
+      },
+      {
+        "id": 133,
+        "value": "Jesuitenmission Pommersdorf"
+      },
+      {
+        "id": 132,
+        "value": "Jesuitenmission Brantice"
+      },
+      {
+        "id": 134,
+        "value": "Jesuitenresidenz Piekary"
+      },
+      {
+        "id": 136,
+        "value": "Jesuitenresidenz Košumberk"
+      },
+      {
+        "id": 137,
+        "value": "Jesuitenresidenz Jelenia Góra"
+      },
+      {
+        "id": 138,
+        "value": "Probationshaus Telč"
+      },
+      {
+        "id": 139,
+        "value": "Jesuitenmission Brzeg"
+      },
+      {
+        "id": 142,
+        "value": "Jesuitenresidenz Maria Scheinensis"
+      },
+      {
+        "id": 159,
+        "value": "Probationshaus Jičín"
+      },
+      {
+        "id": 161,
+        "value": "Jesuitenmission Dresden"
+      },
+      {
+        "id": 197,
+        "value": "Jesuitenkolleg Prague ad S. Ignatium"
+      },
+      {
+        "id": 196,
+        "value": "Jesuitenmission Římov"
+      },
+      {
+        "id": 284,
+        "value": "Jesuitenresidenz Liběšice"
+      },
+      {
+        "id": 286,
+        "value": "Jesuitenresidenz Tuchmeritz"
+      },
+      {
+        "id": 289,
+        "value": "Jesuitenresidenz Tarnowskie Góry"
+      },
+      {
+        "id": 296,
+        "value": "Jesuitenresidenz Opařany"
+      },
+      {
+        "id": 297,
+        "value": "Jesuitenresidenz Brandýs nad Labem-Stará Boleslav"
+      },
+      {
+        "id": 299,
+        "value": "Jesuitenmission Poenitentia in Bohemia-Germanica"
+      },
+      {
+        "id": 300,
+        "value": "Jesuitenmission Poenitentia Bohemia Bohemica"
+      },
+      {
+        "id": 302,
+        "value": "Jesuitenmission Leipzig"
+      },
+      {
+        "id": 303,
+        "value": "Jesuitenmission Hubertusburg"
+      },
+      {
+        "id": 401,
+        "value": "Jesuitenmission Silesia Superiore, Cieszyn"
+      },
+      {
+        "id": 439,
+        "value": "Jesuitenmission Černíkovice"
+      },
+      {
+        "id": 495,
+        "value": "Jesuitenmission Policensis (?)"
+      },
+      {
+        "id": 517,
+        "value": "Jesuitenmission Modlany"
+      },
+      {
+        "id": 518,
+        "value": "Jesuitenmission Kynšperk nad Ohří"
+      },
+      {
+        "id": 524,
+        "value": "Jesuitenmission Starý Hrozenkov (?)"
+      }
+    ],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13949206",
+    "title": "Litterae annuae provinciae Bohemiae Societatis Iesu a. 1750",
+    "date": "ab 1751",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Provincia Bohemia"
+      }
+    ],
+    "note_type_facs": "",
+    "xml_id": "cod_12356",
+    "extent": "72 Bl.",
+    "height": "270",
+    "width": "200",
+    "foliation": "Moderne Foliierung.",
+    "acc_mat": "",
+    "binding": "Halbband, Deckel mit buntem Marmorpapier überzogen, Titelschild auf dem Vorderdeckel, 18. Jhdt.",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit, thematisch in 21 Kapitel gegliedert.",
+    "not_before": "1751",
+    "not_after": null,
+    "# when": "",
+    "date_letter": "1750"
+  },
+  "257": {
+    "id": 257,
+    "order": "8.48437500000000000000",
+    "signatur": "Cod. 12369",
+    "jesuiten_id": "jesuiten_msdesc__257",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948335",
+    "title": "Album omnium debitorum Societatis Iesu in provincia Bohemiae etc.",
+    "date": "ab 1692",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Provincia Bohemia"
+      }
+    ],
+    "note_type_facs": "",
+    "xml_id": "cod_12369",
+    "extent": "125 Bl.",
+    "height": "320",
+    "width": "203",
+    "foliation": "Moderne Foliierung.",
+    "acc_mat": "",
+    "binding": "Brauner Ledereinband über Pappdeckeln, Streicheisenlinien und Blindprägung, 18. Jhdt.",
+    "summary": "List aller Schuldner. Das Buch ist alphabetisch geordnet. Die Buchstaben sind mit Lesezeichen versehen. Die meisten Einträge sind gestrichen (vermutlich nach Schuldenbegleichung). Die ältesten Einträge sind aus den 1690er, die jüngsten aus den 1730er.",
+    "not_before": "1692",
+    "not_after": null,
+    "# when": "",
+    "date_letter": ""
+  },
+  "256": {
+    "id": 256,
+    "order": "8.48484848484848441785",
+    "signatur": "Cod. 12370",
+    "jesuiten_id": "jesuiten_msdesc__256",
+    "mentioned_orgs": [
+      {
+        "id": 197,
+        "value": "Jesuitenkolleg Prague ad S. Ignatium"
+      }
+    ],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948335",
+    "title": "Computus de statu temporali collegii Societatis Iesu Pragae ad S. Ignatium a. 1740-1772",
+    "date": "1740–1772",
+    "persons": [],
+    "mentioned_places": [],
+    "note_type_facs": "",
+    "xml_id": "cod_12370",
+    "extent": "I, 67, I* Bl.",
+    "height": "294",
+    "width": "190",
+    "foliation": "Moderne Foliierung: 1–20, 20a, 21–66.",
+    "acc_mat": "",
+    "binding": "Brauner Ledereinband über Pappdeckeln, Streicheisenlinien und Blindprägung, 18. Jhdt.",
+    "summary": "Rechnungsbuch des Prager Jesuitenkollegiums, enthaltend die Jahresabrechnungen für die Jahre 1740 bis 1771. Gedruckte Formulare; ausgefüllt sind nur die erste 16 Blätter (fols. 1r-16v).",
+    "not_before": "1740",
+    "not_after": "1772",
+    "# when": "",
+    "date_letter": "1740–1772"
   },
   "44": {
     "id": 44,
@@ -21863,7 +24640,7 @@
       }
     ],
     "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948118",
-    "title": "Historia collegii Soproniensis Societatis Iesu a. 1636-1694.",
+    "title": "Historia collegii Soproniensis Societatis Iesu. Vol. I: a. 1636-1694.",
     "date": "ab 1639",
     "persons": [],
     "mentioned_places": [],
@@ -21893,7 +24670,7 @@
       }
     ],
     "note_type_catalogue": "http://data.onb.ac.at/rec/AC13954948",
-    "title": "Historia collegii Soproniensis Societatis Iesu a. 1695-1757.",
+    "title": "Historia collegii Soproniensis Societatis Iesu. Vol. II: a. 1695-1757.",
     "date": "ab 1695",
     "persons": [],
     "mentioned_places": [],
@@ -21914,26 +24691,278 @@
   "243": {
     "id": 243,
     "order": "42.00000000000000000000",
-    "signatur": "",
+    "signatur": "Cod. 14004",
     "jesuiten_id": "jesuiten_msdesc__243",
-    "mentioned_orgs": [],
-    "note_type_catalogue": "",
-    "title": "",
-    "date": "",
+    "mentioned_orgs": [
+      {
+        "id": 87,
+        "value": "Jesuitenkolleg Sopron"
+      }
+    ],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13954949",
+    "title": "Historia collegii Soproniensis Societatis Iesu. Vol. III: a. 1758-1773",
+    "date": "ab 1759",
     "persons": [],
     "mentioned_places": [],
     "note_type_facs": "",
-    "xml_id": "",
-    "extent": "",
-    "height": null,
-    "width": null,
-    "foliation": "",
+    "xml_id": "cod_14004",
+    "extent": "I, 234 Bll.",
+    "height": "317",
+    "width": "204",
+    "foliation": "Zeitgenössische Paginierung 1–107, moderne Paginierung 108–468.",
     "acc_mat": "",
-    "binding": "",
-    "summary": "",
-    "not_before": null,
+    "binding": "Braunes Papier über Pappdeckeln, Titelschild auf dem Buchrücken, Schnitt rot. 18. Jhdt.",
+    "summary": "Fortsetzung der Geschichte des Jesuitenkollegs in Sopron. Siehe auch die erste zwei Bände: Codd. 14002 und 14003. Beschrieben sind nur die erste 107 Seiten, der Rest ist leer.",
+    "not_before": "1759",
     "not_after": null,
     "# when": "",
     "date_letter": ""
+  },
+  "244": {
+    "id": 244,
+    "order": "43.00000000000000000000",
+    "signatur": "Cod. 12337",
+    "jesuiten_id": "jesuiten_msdesc__244",
+    "mentioned_orgs": [
+      {
+        "id": 41,
+        "value": "Missio Castrensis"
+      },
+      {
+        "id": 92,
+        "value": "Profeßhaus Prag"
+      },
+      {
+        "id": 93,
+        "value": "Jesuitenkolleg Březnice"
+      },
+      {
+        "id": 94,
+        "value": "Jesuitenresidenz Svatá Hora"
+      },
+      {
+        "id": 95,
+        "value": "Jesuitenkolleg Chomutov"
+      },
+      {
+        "id": 96,
+        "value": "Jesuitenkolleg Krumlov"
+      },
+      {
+        "id": 97,
+        "value": "Jesuitenkolleg Cheb"
+      },
+      {
+        "id": 98,
+        "value": "Jesuitenkolleg Jičín"
+      },
+      {
+        "id": 100,
+        "value": "Jesuitenkolleg Klatovy"
+      },
+      {
+        "id": 102,
+        "value": "Jesuitenkolleg Uherské Hradiště"
+      },
+      {
+        "id": 103,
+        "value": "Jesuitenkolleg Jihlava"
+      },
+      {
+        "id": 104,
+        "value": "Jesuitenkolleg Kutná Hora"
+      },
+      {
+        "id": 105,
+        "value": "Jesuitenresidenz Golčův Jeníkov"
+      },
+      {
+        "id": 108,
+        "value": "Jesuitenkolleg Litoměřice"
+      },
+      {
+        "id": 111,
+        "value": "Jesuitenkolleg Jindřichův Hradec"
+      },
+      {
+        "id": 112,
+        "value": "Jesuitenkolleg Olomouc"
+      },
+      {
+        "id": 113,
+        "value": "Jesuitenkolleg Opava"
+      },
+      {
+        "id": 116,
+        "value": "Jesuitenkolleg Prague ad S. Clementem"
+      },
+      {
+        "id": 117,
+        "value": "Jesuitenkolleg Hradec Králové"
+      },
+      {
+        "id": 120,
+        "value": "Jesuitenkolleg Telč"
+      },
+      {
+        "id": 122,
+        "value": "Jesuitenkolleg Znoymo"
+      },
+      {
+        "id": 123,
+        "value": "Jesuitenkolleg Brno"
+      },
+      {
+        "id": 124,
+        "value": "Jesuitenresidenz Tuřany"
+      },
+      {
+        "id": 133,
+        "value": "Jesuitenmission Pommersdorf"
+      },
+      {
+        "id": 132,
+        "value": "Jesuitenmission Brantice"
+      },
+      {
+        "id": 136,
+        "value": "Jesuitenresidenz Košumberk"
+      },
+      {
+        "id": 138,
+        "value": "Probationshaus Telč"
+      },
+      {
+        "id": 140,
+        "value": "Jesuitenresidenz Cieszyn"
+      },
+      {
+        "id": 142,
+        "value": "Jesuitenresidenz Maria Scheinensis"
+      },
+      {
+        "id": 159,
+        "value": "Probationshaus Jičín"
+      },
+      {
+        "id": 161,
+        "value": "Jesuitenmission Dresden"
+      },
+      {
+        "id": 197,
+        "value": "Jesuitenkolleg Prague ad S. Ignatium"
+      },
+      {
+        "id": 284,
+        "value": "Jesuitenresidenz Liběšice"
+      },
+      {
+        "id": 286,
+        "value": "Jesuitenresidenz Tuchmeritz"
+      },
+      {
+        "id": 294,
+        "value": "Jesuitenmission Lichtensteinica Böhmen"
+      },
+      {
+        "id": 295,
+        "value": "Jesuitenmission in Jáchymov"
+      },
+      {
+        "id": 296,
+        "value": "Jesuitenresidenz Opařany"
+      },
+      {
+        "id": 297,
+        "value": "Jesuitenresidenz Brandýs nad Labem-Stará Boleslav"
+      },
+      {
+        "id": 299,
+        "value": "Jesuitenmission Poenitentia in Bohemia-Germanica"
+      },
+      {
+        "id": 300,
+        "value": "Jesuitenmission Poenitentia Bohemia Bohemica"
+      },
+      {
+        "id": 301,
+        "value": "Jesuitenmission Poenitentia Moravia"
+      },
+      {
+        "id": 302,
+        "value": "Jesuitenmission Leipzig"
+      },
+      {
+        "id": 303,
+        "value": "Jesuitenmission Hubertusburg"
+      },
+      {
+        "id": 316,
+        "value": "Jesuitenmission Mladá Boleslav"
+      },
+      {
+        "id": 351,
+        "value": "Jesuitenmission Vsetín"
+      },
+      {
+        "id": 401,
+        "value": "Jesuitenmission Silesia Superiore, Cieszyn"
+      },
+      {
+        "id": 435,
+        "value": "Jesuitenmission Czeikowicium  (?)"
+      },
+      {
+        "id": 467,
+        "value": "Jesuitenmission Nový Jičín"
+      },
+      {
+        "id": 494,
+        "value": "Jesuitenmission Beraunensis"
+      },
+      {
+        "id": 517,
+        "value": "Jesuitenmission Modlany"
+      },
+      {
+        "id": 520,
+        "value": "Jesuitenmission De poenitentia per Austriam Inferiorem"
+      },
+      {
+        "id": 521,
+        "value": "Jesuitenmission Hermersdorf"
+      },
+      {
+        "id": 522,
+        "value": "Jesuitenmission Rakonitzer Kreis (Rakovník)"
+      },
+      {
+        "id": 523,
+        "value": "Jesuitenmission Steiermark (?)"
+      }
+    ],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13947963",
+    "title": "Litterae annuae provinciae Bohemiae Societatis Iesu a. 1755",
+    "date": "1756-Juli 1757",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Provincia Bohemia"
+      }
+    ],
+    "note_type_facs": "",
+    "xml_id": "cod_12337",
+    "extent": "I, 71, I* Bl.",
+    "height": "272",
+    "width": "205",
+    "foliation": "Moderne Foliierung.",
+    "acc_mat": "",
+    "binding": "Halbband, Deckel mit buntem Marmorpapier überzogen, 18. Jhdt.",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit, thematisch in 21 Kapitel gegliedert.",
+    "not_before": "1756",
+    "not_after": "1757",
+    "# when": "",
+    "date_letter": "1755"
   }
 }
