@@ -30,6 +30,8 @@ jobs:
         run: python make_xml.py
       - name: make MSDESC TEI/XML
         run: python make_msdesc.py
+      - name: make to alma
+        run: python to_alma.py
       - name: denormalize indices
         run: ./denormalize.sh
       - name: Commit data
