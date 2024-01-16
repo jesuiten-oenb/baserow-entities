@@ -1,6 +1,7 @@
 import json
 import os
 import pandas as pd
+from tqdm import tqdm
 
 os.makedirs("alma", exist_ok=True)
 
@@ -28,7 +29,7 @@ def get_content(ms_item_list):
         orgs = mentioned(x, "orgs")
         places = (x, "places")
         if x["year"] is not None:
-            year = f'a {x["year"]}'
+            year = f'(a. {x["year"]})'
         else:
             year = False
         parts = [
@@ -53,7 +54,7 @@ ms_item_data = [value for key, value in ms_item_data.items() if value["msdesc"]]
 
 
 result = []
-for key, value in data.items():
+for key, value in tqdm(data.items()):
     ms_item_list = list(
         filter(lambda x: x["msdesc"][0]["value"] == value["signatur"], ms_item_data)
     )
@@ -80,4 +81,5 @@ for key, value in data.items():
     result.append(["", "", ""])
 
 df = pd.DataFrame(result)
+print(f"saving file to alma/alma.csv")
 df.to_csv(os.path.join("alma/alma.csv"), index=False)
