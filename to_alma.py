@@ -71,7 +71,7 @@ for key, value in tqdm(data.items()):
         [
             "Extent, Measures, Foliation",
             "300",
-            f"§§a {value['extent']}; $$c {value['height']} × {value['width']} mm; {value['foliation']}.",
+            f"§§a {value['extent']}; $$c {value['height']} × {value['width']} mm; {value['foliation']}",
         ]
     )
     result.append(["Fragments", "500", f"§§a {value['acc_mat']}"])
