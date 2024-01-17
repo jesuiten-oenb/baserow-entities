@@ -2,6 +2,7 @@ import json
 import os
 import pandas as pd
 from tqdm import tqdm
+import re
 
 os.makedirs("alma", exist_ok=True)
 
@@ -24,6 +25,10 @@ def mentioned(value, lookup):
 def get_content(ms_item_list):
     items = []
     for x in ms_item_list:
+        if 'r' or 'v' in x["locus_text"]:
+            pagination = 'fol.'
+        else:
+            pagination = 'S.'
         text = x["locus_text"]
         title = x["title"]
         orgs = mentioned(x, "orgs")
@@ -33,15 +38,16 @@ def get_content(ms_item_list):
         else:
             year = False
         parts = [
+            pagination,
             text,
-            year,
             title,
             orgs,
             places,
+            year
         ]
         content = " ".join([part for part in parts if isinstance(part, str)])
         items.append(content)
-    return " #### ".join(items)
+    return "; ".join(items)
 
 
 with open(os.path.join("json_dumps", "msdesc.json"), "r", encoding="utf-8") as f:
@@ -65,7 +71,7 @@ for key, value in tqdm(data.items()):
         [
             "Extent, Measures, Foliation",
             "300",
-            f"§§a {value['extent']}; $$c {value['height']} × {value['width']}mm; {value['foliation']}.",
+            f"§§a {value['extent']}; $$c {value['height']} × {value['width']} mm; {value['foliation']}.",
         ]
     )
     result.append(["Fragments", "500", f"§§a {value['acc_mat']}"])
