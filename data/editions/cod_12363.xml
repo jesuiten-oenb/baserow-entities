@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cod_12363.xml" xml:base="https://oenb.ac.at" prev="https://oenb.ac.at/cod_12361.xml" next="https://oenb.ac.at/cod_12369.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Wien, Österreichische Nationalbibliothek, Cod. 12363</title>
+                <title type="sub">Jesuiten Littera annuae</title>
+                <respStmt>
+                    <resp>Beschreibung und TEI-encoding</resp>
+                    <persName>
+                        <forename>Ivana</forename>
+                        <surname>Dobcheva</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="restricted">
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">This document is published under the Creative Commons licence Attribution 4.0 International (CC BY 4.0).</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:lang="de" xml:id="cod_12363">
+                    <msIdentifier>
+                        <country>Österreich</country>
+                        <settlement>Wien</settlement>
+                        <repository>Österreichische Nationalbibliothek</repository>
+                        <idno>Cod. 12363</idno>
+                    </msIdentifier>
+                    <head>
+                        <title>Informationes ad gubernandum provinciam Poloniam Societatis Iesu a. 1726</title>
+                        <origDate notBefore="1726-01-01">ab 1726</origDate>
+                        <date type="letter">1726 </date>
+                        <note type="catalogue">
+                            <ref target=""/>
+                        </note>
+                    </head>
+                    <msContents>                   
+                        <summary>
+                                Die Handschrift besteht aus einer kodikologischen Einheit, die in drei Teile gegliedert ist, und zwar nach der Rolle der Mitglieder als gegenwärtige oder ehemalige Rektoren von Kollegen oder solchen, die als geeignet für das Rektorenamt bezeichnet wurden: gubernant (S. 1-100), gubernarunt (S. 103-190) und apti ad gubernandum (S. 191-400). 
+                                
+                            <listPlace>
+                                <head>Erwähnte Orte:</head>
+                                <place>
+                                    <placeName key="#jesuiten_place__429">Provincia Polonia</placeName>
+                                </place>
+                            </listPlace>                           
+                        </summary> 
+                        <textLang mainLang="lat"/>
+                        
+                       
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="codex">
+                            <supportDesc material="paper">
+                                <support>Papier</support>
+                                <extent>
+                                    <measure type="leavesCount" unit="folio">I, 202, I* Bl.</measure>
+                                    <dimensions type="leaf_current" unit="mm">
+                                        <height>273</height>
+                                        <width>204</width>
+                                    </dimensions>
+                                </extent>
+                                <foliation>Moderne Foliierung der ersten drei Blätter (fols. 1–3); danach zeitgenössishe Paginierung 1–404.</foliation>
+                                <collation/>
+                            </supportDesc>
+                        </objectDesc>
+                        <bindingDesc>
+                            <binding>
+                                <p/>
+                            </binding>
+                        </bindingDesc>
+                        <accMat/>                        
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><p/></body>
+    <back><listPlace><place xml:id="jesuiten_place__429">
+                  <placeName>Provincia Polonia</placeName>
+               <noteGrp><note target="cod_12363.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12363</note></noteGrp></place>
+            </listPlace></back></text>
+</TEI>

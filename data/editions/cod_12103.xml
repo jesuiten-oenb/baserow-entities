@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cod_12103.xml" xml:base="https://oenb.ac.at" prev="https://oenb.ac.at/cod_12102.xml" next="https://oenb.ac.at/cod_12104.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Wien, Österreichische Nationalbibliothek, Cod. 12103</title>
+                <title type="sub">Jesuiten Littera annuae</title>
+                <respStmt>
+                    <resp>Beschreibung und TEI-encoding</resp>
+                    <persName>
+                        <forename>Ivana</forename>
+                        <surname>Dobcheva</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="restricted">
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">This document is published under the Creative Commons licence Attribution 4.0 International (CC BY 4.0).</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:lang="de" xml:id="cod_12103">
+                    <msIdentifier>
+                        <country>Österreich</country>
+                        <settlement>Wien</settlement>
+                        <repository>Österreichische Nationalbibliothek</repository>
+                        <idno>Cod. 12103</idno>
+                    </msIdentifier>
+                    <head>
+                        <title>Litterae annuae provinciae Austriae Societatis Iesu a. 1708</title>
+                        <origDate notBefore="1709-01-01">1709-1712</origDate>
+                        <date type="letter">1708 </date>
+                        <note type="facs">
+                            <ref target="https://digital.onb.ac.at/rep/access/open/131CF99C"/>
+                        </note>
+                        <note type="catalogue">
+                            <ref target="http://data.onb.ac.at/rec/AC13946927"/>
+                        </note>
+                    </head>
+                    <msContents>                   
+                        <summary>
+                                Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist thematisch in 10 Kapitel gegliedert. 
+                                
+                        </summary> 
+                        <textLang mainLang="lat"/>
+                        
+                       
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="codex">
+                            <supportDesc material="paper">
+                                <support>Papier</support>
+                                <extent>
+                                    <measure type="leavesCount" unit="folio">I, 97 Bl.</measure>
+                                    <dimensions type="leaf_current" unit="mm">
+                                        <height>305</height>
+                                        <width>205</width>
+                                    </dimensions>
+                                </extent>
+                                <foliation>Moderne Foliierung.</foliation>
+                                <collation/>
+                            </supportDesc>
+                        </objectDesc>
+                        <bindingDesc>
+                            <binding>
+                                <p>Pergament über Pappdeckeln, 18. Jhdt.</p>
+                            </binding>
+                        </bindingDesc>
+                        <accMat>Fragment bei der Restaurierung des Einbandes 1915 aus dem Deckel herausgenommen und auf einem Blatt eingeklebt, das als fol. 98 hinter dem Buchblock eingebunden ist. Druck "Steier Särsten Kanzleipapier".</accMat>                        
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><p/></body>
+    <back/></text>
+</TEI>
