@@ -25,10 +25,10 @@ def mentioned(value, lookup):
 def get_content(ms_item_list):
     items = []
     for x in ms_item_list:
-        if 'r' or 'v' in x["locus_text"]:
+        pagination = 'S.'
+        if not 'r' or 'v' in x["locus_text"]:
             pagination = 'fol.'
-        else:
-            pagination = 'S.'
+          
         text = x["locus_text"]
         title = x["title"]
         orgs = mentioned(x, "orgs")
