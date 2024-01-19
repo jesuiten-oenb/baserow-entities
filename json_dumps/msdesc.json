@@ -3706,8 +3706,8 @@
     "note_type_facs": "https://digital.onb.ac.at/rep/access/open/131CD1BE",
     "xml_id": "cod_12098",
     "extent": "I, 78 Bl.",
-    "height": null,
-    "width": null,
+    "height": "320",
+    "width": "207",
     "foliation": "Moderne Foliierung: I, 1, 1a, 2–17, 17*, 18–23, 23a, 24–75.",
     "acc_mat": "",
     "binding": "",
@@ -3731,8 +3731,8 @@
     "note_type_facs": "https://digital.onb.ac.at/rep/access/open/131CF9A4",
     "xml_id": "cod_12099",
     "extent": "II, 59 Bl.",
-    "height": null,
-    "width": null,
+    "height": "320",
+    "width": "210",
     "foliation": "Moderne Foliierung.",
     "acc_mat": "",
     "binding": "",
@@ -3909,8 +3909,8 @@
     "note_type_facs": "https://digital.onb.ac.at/rep/access/open/131CF9A3",
     "xml_id": "cod_12100",
     "extent": "II, 67 Bl.",
-    "height": null,
-    "width": null,
+    "height": "300",
+    "width": "195",
     "foliation": "Moderne Foliierung.",
     "acc_mat": "",
     "binding": "",
@@ -4051,8 +4051,8 @@
     "note_type_facs": "https://digital.onb.ac.at/rep/access/open/131CF9A5",
     "xml_id": "cod_12101",
     "extent": "I, 41 Bl.",
-    "height": null,
-    "width": null,
+    "height": "315",
+    "width": "200",
     "foliation": "Moderne Foliierung.",
     "acc_mat": "",
     "binding": "",
@@ -4249,8 +4249,8 @@
     "note_type_facs": "https://digital.onb.ac.at/rep/access/open/131CF99B",
     "xml_id": "cod_12102",
     "extent": "I, 74 Bl.",
-    "height": null,
-    "width": null,
+    "height": "307",
+    "width": "200",
     "foliation": "Moderne Foliierung.",
     "acc_mat": "",
     "binding": "",
@@ -4259,6 +4259,601 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1707"
+  },
+  "269": {
+    "id": 269,
+    "order": "4.96774193548387099639",
+    "signatur": "Cod. 12103",
+    "jesuiten_id": "jesuiten_msdesc__269",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13946927",
+    "title": "Litterae annuae provinciae Austriae Societatis Iesu a. 1708",
+    "date": "1709-1712",
+    "persons": [],
+    "mentioned_places": [],
+    "note_type_facs": "https://digital.onb.ac.at/rep/access/open/131CF99C",
+    "xml_id": "cod_12103",
+    "extent": "I, 97 Bl.",
+    "height": "305",
+    "width": "205",
+    "foliation": "Moderne Foliierung.",
+    "acc_mat": "Fragment bei der Restaurierung des Einbandes 1915 aus dem Deckel herausgenommen und auf einem Blatt eingeklebt, das als fol. 98 hinter dem Buchblock eingebunden ist. Druck \"Steier Särsten Kanzleipapier\".",
+    "binding": "Pergament über Pappdeckeln, 18. Jhdt.",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist thematisch in 10 Kapitel gegliedert.",
+    "not_before": "1709",
+    "not_after": "1712",
+    "# when": "",
+    "date_letter": "1708"
+  },
+  "270": {
+    "id": 270,
+    "order": "4.96875000000000000000",
+    "signatur": "Cod. 12104",
+    "jesuiten_id": "jesuiten_msdesc__270",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13946928",
+    "title": "Litterae annuae provinciae Austriae Societatis Iesu a. 1709",
+    "date": "1710-1712",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
+    "note_type_facs": "https://digital.onb.ac.at/rep/access/open/131CF9E8",
+    "xml_id": "cod_12104",
+    "extent": "I, 75 Bl.",
+    "height": "300",
+    "width": "200",
+    "foliation": "Moderne Foliierung.",
+    "acc_mat": "",
+    "binding": "Pergament über Pappdeckeln, 18. Jhdt.",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist thematisch in 19 Kapitel gegliedert.",
+    "not_before": "1710",
+    "not_after": "1712",
+    "# when": "",
+    "date_letter": "1709"
+  },
+  "271": {
+    "id": 271,
+    "order": "4.96969696969696972388",
+    "signatur": "Cod. 12105",
+    "jesuiten_id": "jesuiten_msdesc__271",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13946929",
+    "title": "Litterae annuae provinciae Austriae Societatis Iesu a. 1710",
+    "date": "1711-1713",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
+    "note_type_facs": "https://digital.onb.ac.at/rep/access/open/131CF9EA",
+    "xml_id": "cod_12105",
+    "extent": "74, I* Bl.",
+    "height": "332",
+    "width": "215",
+    "foliation": "Moderne Foliierung.",
+    "acc_mat": "",
+    "binding": "Pergament über Pappdeckeln, 18. Jhdt.",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist thematisch in 17 Kapitel gegliedert.",
+    "not_before": "1711",
+    "not_after": "1713",
+    "# when": "",
+    "date_letter": "1710"
+  },
+  "272": {
+    "id": 272,
+    "order": "4.97058823529411775155",
+    "signatur": "Cod. 12106",
+    "jesuiten_id": "jesuiten_msdesc__272",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13946930",
+    "title": "Litterae annuae provinciae Austriae Societatis Iesu a. 1712",
+    "date": "ab 1713",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
+    "note_type_facs": "https://digital.onb.ac.at/rep/access/open/131CF82C",
+    "xml_id": "cod_12106",
+    "extent": "III, 151, I* Bl.",
+    "height": "310",
+    "width": "197",
+    "foliation": "Zeitgenössische Paginierung 1-301.",
+    "acc_mat": "",
+    "binding": "Pergament über Pappdeckeln, 18. Jhdt.",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist thematisch in 10 Kapitel gegliedert.",
+    "not_before": "1713",
+    "not_after": null,
+    "# when": "",
+    "date_letter": "1712"
+  },
+  "273": {
+    "id": 273,
+    "order": "4.97142857142857153008",
+    "signatur": "Cod. 12107",
+    "jesuiten_id": "jesuiten_msdesc__273",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13946931",
+    "title": "Litterae annuae provinciae Austriae Societatis Iesu a. 1713",
+    "date": "1714-1715",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
+    "note_type_facs": "https://digital.onb.ac.at/rep/access/open/131CF820",
+    "xml_id": "cod_12107",
+    "extent": "I, 102, I* Bl.",
+    "height": "303",
+    "width": "190",
+    "foliation": "Zeitgenössische Paginierung 1–203.",
+    "acc_mat": "Auf dem Hinterdeckel eingeklebt ein Brief von Josephus Stöcklein SJ, Graz, 27. Juni 1727.",
+    "binding": "Pergament über Pappdeckeln, Titel mit Titne auf dem Vorderdeckel, 18. Jhdt.",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist thematisch in 13 Kapitel gegliedert.",
+    "not_before": "1714",
+    "not_after": "1715",
+    "# when": "",
+    "date_letter": "1713"
+  },
+  "274": {
+    "id": 274,
+    "order": "4.97222222222222232091",
+    "signatur": "Cod. 12108",
+    "jesuiten_id": "jesuiten_msdesc__274",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13946932",
+    "title": "Litterae annuae provinciae Austriae Societatis Iesu a. 1714",
+    "date": "1715",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
+    "note_type_facs": "https://digital.onb.ac.at/rep/access/open/131CF99D",
+    "xml_id": "cod_12108",
+    "extent": "III, 50, I* Bl.",
+    "height": "310",
+    "width": "203",
+    "foliation": "Zeitgenössische Paginierung 1–100.",
+    "acc_mat": "",
+    "binding": "Pergament über Pappdeckeln, 18. Jhdt.",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist thematisch in 14 Kapitel gegliedert.",
+    "not_before": null,
+    "not_after": null,
+    "# when": "1715",
+    "date_letter": "1714"
+  },
+  "275": {
+    "id": 275,
+    "order": "4.97297297297297280494",
+    "signatur": "Cod. 12109",
+    "jesuiten_id": "jesuiten_msdesc__275",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13946933",
+    "title": "Litterae annuae provinciae Austriae Societatis Iesu a. 1715",
+    "date": "1716",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
+    "note_type_facs": "https://digital.onb.ac.at/rep/access/open/131CF99E",
+    "xml_id": "cod_12109",
+    "extent": "I, 54, II* Bl.",
+    "height": "310",
+    "width": "200",
+    "foliation": "Moderne Foliierung.",
+    "acc_mat": "",
+    "binding": "Pergament über Pappdeckeln, Titel mit Titne auf dem Vorderdeckel, 18. Jhdt.",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist thematisch in 15 Kapitel gegliedert.",
+    "not_before": null,
+    "not_after": null,
+    "# when": "1716",
+    "date_letter": "1715"
+  },
+  "276": {
+    "id": 276,
+    "order": "4.97368421052631592971",
+    "signatur": "Cod. 12110",
+    "jesuiten_id": "jesuiten_msdesc__276",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13946934",
+    "title": "Litterae annuae provinciae Austriae Societatis Iesu a. 1716",
+    "date": "1717",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
+    "note_type_facs": "https://digital.onb.ac.at/rep/access/open/131CF99F",
+    "xml_id": "cod_12110",
+    "extent": "III, 79, III* Bl.",
+    "height": "305",
+    "width": "204",
+    "foliation": "Zeitgenössische Paginierung: 1–136, 138–159.",
+    "acc_mat": "",
+    "binding": "Pergament über Pappdeckeln, 18. Jhdt.",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist thematisch in 12 Kapitel gegliedert. Appendix: Residentia Cibiniensis.",
+    "not_before": null,
+    "not_after": null,
+    "# when": "1717",
+    "date_letter": "1716"
+  },
+  "277": {
+    "id": 277,
+    "order": "4.97435897435897445007",
+    "signatur": "Cod. 12111",
+    "jesuiten_id": "jesuiten_msdesc__277",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13946935",
+    "title": "Litterae annuae provinciae Austriae Societatis Iesu a. 1717",
+    "date": "1718",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
+    "note_type_facs": "https://digital.onb.ac.at/rep/access/open/131CF9A0",
+    "xml_id": "cod_12111",
+    "extent": "III, 57, II* Bl.",
+    "height": "316",
+    "width": "204",
+    "foliation": "Zeitgenössische Paginierung: 1–114.",
+    "acc_mat": "",
+    "binding": "Pergament über Pappdeckeln, Titel mit Titne auf dem Vorderdeckel, 18. Jhdt.",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist thematisch in 14 Kapitel gegliedert.",
+    "not_before": null,
+    "not_after": null,
+    "# when": "1718",
+    "date_letter": "1717"
+  },
+  "278": {
+    "id": 278,
+    "order": "4.97499999999999964473",
+    "signatur": "Cod. 12112",
+    "jesuiten_id": "jesuiten_msdesc__278",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13946936",
+    "title": "Litterae annuae provinciae Austriae Societatis Iesu a. 1718",
+    "date": "1719",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
+    "note_type_facs": "https://digital.onb.ac.at/rep/access/open/131CF9A1",
+    "xml_id": "cod_12112",
+    "extent": "III, 136, I* Bl.",
+    "height": "314",
+    "width": "207",
+    "foliation": "Zeitgenössische Paginierung: 1–269. Zwischen S. 212 und 213 ein Blatt eingeschoben: S. 212a und 212b.",
+    "acc_mat": "",
+    "binding": "Pergament über Pappdeckeln, 18. Jhdt.",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist thematisch in 20 Kapitel gegliedert.",
+    "not_before": null,
+    "not_after": null,
+    "# when": "1719",
+    "date_letter": "1718"
+  },
+  "279": {
+    "id": 279,
+    "order": "4.97560975609756095395",
+    "signatur": "Cod. 12113",
+    "jesuiten_id": "jesuiten_msdesc__279",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13946937",
+    "title": "Litterae annuae provinciae Austriae Societatis Iesu a. 1719",
+    "date": "1720",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
+    "note_type_facs": "https://digital.onb.ac.at/rep/access/open/131D9376",
+    "xml_id": "cod_12113",
+    "extent": "III, 102, I* Bl.",
+    "height": "300",
+    "width": "208",
+    "foliation": "Zeitgenössische Paginierung: 1–203.",
+    "acc_mat": "",
+    "binding": "Pergament über Pappdeckeln, 18. Jhdt.",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist thematisch in Kapitel gegliedert.",
+    "not_before": null,
+    "not_after": null,
+    "# when": "1720",
+    "date_letter": "1719"
+  },
+  "280": {
+    "id": 280,
+    "order": "4.97619047619047627506",
+    "signatur": "Cod. 12114",
+    "jesuiten_id": "jesuiten_msdesc__280",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13946938",
+    "title": "Litterae annuae provinciae Austriae Societatis Iesu a. 1720",
+    "date": "1721",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
+    "note_type_facs": "https://digital.onb.ac.at/rep/access/open/131CF9A2",
+    "xml_id": "cod_12114",
+    "extent": "II, 80, I* Bl.",
+    "height": "310",
+    "width": "197",
+    "foliation": "Zeitgenössische Paginierung: 1–159.",
+    "acc_mat": "",
+    "binding": "Pergament über Pappdeckeln, 18. Jhdt.",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist thematisch in 15 Kapitel gegliedert.",
+    "not_before": null,
+    "not_after": null,
+    "# when": "1721",
+    "date_letter": "1720"
+  },
+  "281": {
+    "id": 281,
+    "order": "4.97674418604651158660",
+    "signatur": "Cod. 12115",
+    "jesuiten_id": "jesuiten_msdesc__281",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13946939",
+    "title": "Litterae annuae provinciae Austriae Societatis Iesu a. 1720",
+    "date": "ab 1722",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
+    "note_type_facs": "https://digital.onb.ac.at/rep/access/open/131D9377",
+    "xml_id": "cod_12115",
+    "extent": "III, 69, III* Bl.",
+    "height": "295",
+    "width": "197",
+    "foliation": "Zeitgenössische Paginierung: 1–137.",
+    "acc_mat": "",
+    "binding": "Pergament über Pappdeckeln, 18. Jhdt.",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist thematisch in 12 Kapitel gegliedert.",
+    "not_before": "1722",
+    "not_after": null,
+    "# when": "",
+    "date_letter": "1721"
+  },
+  "282": {
+    "id": 282,
+    "order": "4.97727272727272751496",
+    "signatur": "Cod. 12116",
+    "jesuiten_id": "jesuiten_msdesc__282",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13946940",
+    "title": "Litterae annuae provinciae Austriae Societatis Iesu a. 1722",
+    "date": "ab 1723",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
+    "note_type_facs": "https://digital.onb.ac.at/rep/access/open/131D9371",
+    "xml_id": "cod_12116",
+    "extent": "I, 83, I* Bl.",
+    "height": null,
+    "width": null,
+    "foliation": "Moderne Foliierung.",
+    "acc_mat": "",
+    "binding": "Pergament über Pappdeckeln, 18. Jhdt.",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist thematisch in 15 Kapitel gegliedert.",
+    "not_before": "1723",
+    "not_after": null,
+    "# when": "",
+    "date_letter": "1722"
+  },
+  "283": {
+    "id": 283,
+    "order": "4.97777777777777785673",
+    "signatur": "Cod. 12117",
+    "jesuiten_id": "jesuiten_msdesc__283",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13946941",
+    "title": "Litterae annuae provinciae Austriae Societatis Iesu a. 1723",
+    "date": "1724",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
+    "note_type_facs": "https://digital.onb.ac.at/rep/access/open/131D9372",
+    "xml_id": "cod_12117",
+    "extent": "I, 58, I* Bl.",
+    "height": null,
+    "width": null,
+    "foliation": "Moderne Foliierung.",
+    "acc_mat": "",
+    "binding": "Pergament über Pappdeckeln, 18. Jhdt.",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist thematisch in 14 Kapitel gegliedert.",
+    "not_before": null,
+    "not_after": null,
+    "# when": "1724",
+    "date_letter": "1723"
+  },
+  "284": {
+    "id": 284,
+    "order": "4.97826086956521773885",
+    "signatur": "Cod. 12118",
+    "jesuiten_id": "jesuiten_msdesc__284",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13946942",
+    "title": "Litterae annuae provinciae Austriae Societatis Iesu a. 1724",
+    "date": "ab 1725",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
+    "note_type_facs": "https://digital.onb.ac.at/rep/access/open/131D9373",
+    "xml_id": "cod_12118",
+    "extent": "I, 102, I* Bl.",
+    "height": null,
+    "width": null,
+    "foliation": "Moderne Foliierung.",
+    "acc_mat": "",
+    "binding": "Pergament über Pappdeckeln, 18. Jhdt.",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist thematisch in 14 Kapitel gegliedert.",
+    "not_before": "1725",
+    "not_after": null,
+    "# when": "",
+    "date_letter": "1724"
+  },
+  "285": {
+    "id": 285,
+    "order": "4.97872340425531945129",
+    "signatur": "Cod. 12119",
+    "jesuiten_id": "jesuiten_msdesc__285",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13946943",
+    "title": "Litterae annuae provinciae Austriae Societatis Iesu a. 1725",
+    "date": "1726",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
+    "note_type_facs": "https://digital.onb.ac.at/rep/access/open/131D9374",
+    "xml_id": "cod_12119",
+    "extent": "115, I* Bl.",
+    "height": null,
+    "width": null,
+    "foliation": "Moderne Foliierung. Zwei eingeschobene Blätter nach fol. 100 als fol. 100* und fol. 100** foliiert.",
+    "acc_mat": "",
+    "binding": "Pergament über Pappdeckeln, 18. Jhdt.",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist thematisch in 15 Kapitel gegliedert.",
+    "not_before": null,
+    "not_after": null,
+    "# when": "1726",
+    "date_letter": "1725"
+  },
+  "286": {
+    "id": 286,
+    "order": "4.97916666666666696273",
+    "signatur": "Cod. 12120",
+    "jesuiten_id": "jesuiten_msdesc__286",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13946944",
+    "title": "Litterae annuae provinciae Austriae Societatis Iesu a. 1726",
+    "date": "1727",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
+    "note_type_facs": "https://digital.onb.ac.at/rep/access/open/131D9375",
+    "xml_id": "cod_12120",
+    "extent": "I, 86, I* Bl.",
+    "height": null,
+    "width": null,
+    "foliation": "Moderne Foliierung.",
+    "acc_mat": "",
+    "binding": "Pergament über Pappdeckeln, 18. Jhdt.",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist thematisch in 15 Kapitel gegliedert.",
+    "not_before": null,
+    "not_after": null,
+    "# when": "1727",
+    "date_letter": "1726"
+  },
+  "287": {
+    "id": 287,
+    "order": "4.97959183673469407694",
+    "signatur": "Cod. 12121",
+    "jesuiten_id": "jesuiten_msdesc__287",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13946945",
+    "title": "Litterae annuae provinciae Austriae Societatis Iesu a. 1727",
+    "date": "ab 1728",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
+    "note_type_facs": "https://digital.onb.ac.at/rep/access/open/131D936F",
+    "xml_id": "cod_12121",
+    "extent": "92 Bl.",
+    "height": null,
+    "width": null,
+    "foliation": "Moderne Foliierung.",
+    "acc_mat": "",
+    "binding": "Pergament über Pappdeckeln, 18. Jhdt.",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist thematisch in 15 Kapitel gegliedert.",
+    "not_before": "1728",
+    "not_after": null,
+    "# when": "",
+    "date_letter": "1727"
+  },
+  "288": {
+    "id": 288,
+    "order": "4.98000000000000042633",
+    "signatur": "Cod. 12122",
+    "jesuiten_id": "jesuiten_msdesc__288",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13946946",
+    "title": "Litterae annuae provinciae Austriae Societatis Iesu a. 1728",
+    "date": "ab 1729",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
+    "note_type_facs": "https://digital.onb.ac.at/rep/access/open/131D9370",
+    "xml_id": "cod_12122",
+    "extent": "179, I* Bl.",
+    "height": null,
+    "width": null,
+    "foliation": "Moderne Foliierung.",
+    "acc_mat": "",
+    "binding": "Pergament über Pappdeckeln, 18. Jhdt.",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist thematisch in 14 Kapitel gegliedert.",
+    "not_before": "1729",
+    "not_after": null,
+    "# when": "",
+    "date_letter": "1728"
   },
   "6": {
     "id": 6,
@@ -5742,6 +6337,386 @@
     "not_after": "1663",
     "# when": null,
     "date_letter": "1660"
+  },
+  "291": {
+    "id": 291,
+    "order": "6.33333333333333303727",
+    "signatur": "Cod. 12126",
+    "jesuiten_id": "jesuiten_msdesc__291",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948906",
+    "title": "Litterae annuae provinciae Austriae Societatis Iesu a. 1732",
+    "date": "1734–1734",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
+    "note_type_facs": "https://digital.onb.ac.at/rep/access/open/131D09ED",
+    "xml_id": "cod_12126",
+    "extent": "V, 201, II* Bl.",
+    "height": null,
+    "width": null,
+    "foliation": "Zeitgenössische Paginierung 1–402.",
+    "acc_mat": "",
+    "binding": "Pergament über Pappdeckeln, 18. Jhdt.",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist thematisch in 15 Kapitel gegliedert.",
+    "not_before": "1733",
+    "not_after": "1734",
+    "# when": "",
+    "date_letter": "1732"
+  },
+  "289": {
+    "id": 289,
+    "order": "6.50000000000000000000",
+    "signatur": "Cod. 12124",
+    "jesuiten_id": "jesuiten_msdesc__289",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948904",
+    "title": "Litterae annuae provinciae Austriae Societatis Iesu a. 1730",
+    "date": "1731",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
+    "note_type_facs": "https://digital.onb.ac.at/rep/access/open/131D09EF",
+    "xml_id": "cod_12124",
+    "extent": "II, 222, II* Bl.",
+    "height": null,
+    "width": null,
+    "foliation": "Moderne Foliierung.",
+    "acc_mat": "",
+    "binding": "Halbband, Deckel mit buntem Marmorpapier überzogen, 18. Jhdt.",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist thematisch in 14 Kapitel gegliedert.",
+    "not_before": null,
+    "not_after": null,
+    "# when": "1731",
+    "date_letter": "1730"
+  },
+  "290": {
+    "id": 290,
+    "order": "6.66666666666666696273",
+    "signatur": "Cod. 12125",
+    "jesuiten_id": "jesuiten_msdesc__290",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948905",
+    "title": "Litterae annuae provinciae Austriae Societatis Iesu a. 1731",
+    "date": "1732–1733",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
+    "note_type_facs": "https://digital.onb.ac.at/rep/access/open/131D09EE",
+    "xml_id": "cod_12125",
+    "extent": "III, 302, I* Bl.",
+    "height": null,
+    "width": null,
+    "foliation": "Zeitgenössische Paginierung 1–603.",
+    "acc_mat": "",
+    "binding": "Pergament über Pappdeckeln, 18. Jhdt.",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist thematisch in 14 Kapitel gegliedert.",
+    "not_before": "1732",
+    "not_after": "1733",
+    "# when": "",
+    "date_letter": "1731"
+  },
+  "292": {
+    "id": 292,
+    "order": "6.75000000000000000000",
+    "signatur": "Cod. 12127",
+    "jesuiten_id": "jesuiten_msdesc__292",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948907",
+    "title": "Litterae annuae provinciae Austriae Societatis Iesu a. 1733",
+    "date": "1734",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
+    "note_type_facs": "https://digital.onb.ac.at/rep/access/open/131D0421",
+    "xml_id": "cod_12127",
+    "extent": "III, 140, II* Bl.",
+    "height": null,
+    "width": null,
+    "foliation": "Zeitgenössische Paginierung 1–280.",
+    "acc_mat": "",
+    "binding": "Pergament über Pappdeckeln, 18. Jhdt.",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist thematisch in 22 Kapitel gegliedert.",
+    "not_before": null,
+    "not_after": null,
+    "# when": "1734",
+    "date_letter": "1733"
+  },
+  "293": {
+    "id": 293,
+    "order": "6.79999999999999982236",
+    "signatur": "Cod. 12128",
+    "jesuiten_id": "jesuiten_msdesc__293",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948908",
+    "title": "Litterae annuae provinciae Austriae Societatis Iesu a. 1734",
+    "date": "",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
+    "note_type_facs": "https://digital.onb.ac.at/rep/access/open/131D09EC",
+    "xml_id": "cod_12128",
+    "extent": "II, 144, I* Bl.",
+    "height": null,
+    "width": null,
+    "foliation": "Moderne Foliierung.",
+    "acc_mat": "",
+    "binding": "Pergament über Pappdeckeln, 18. Jhdt.",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist thematisch in Kapitel gegliedert.",
+    "not_before": null,
+    "not_after": null,
+    "# when": "",
+    "date_letter": "1734"
+  },
+  "294": {
+    "id": 294,
+    "order": "6.83333333333333303727",
+    "signatur": "Cod. 12129",
+    "jesuiten_id": "jesuiten_msdesc__294",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948930",
+    "title": "Litterae annuae provinciae Austriae Societatis Iesu a. 1735",
+    "date": "1736",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
+    "note_type_facs": "https://digital.onb.ac.at/rep/access/open/131D0A94",
+    "xml_id": "cod_12129",
+    "extent": "149 Bl.",
+    "height": null,
+    "width": null,
+    "foliation": "Moderne Foliierung.",
+    "acc_mat": "",
+    "binding": "Pergament über Pappdeckeln, 18. Jhdt.",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist thematisch in 16 Kapitel gegliedert.",
+    "not_before": null,
+    "not_after": null,
+    "# when": "1736",
+    "date_letter": "1735"
+  },
+  "295": {
+    "id": 295,
+    "order": "6.85714285714285676221",
+    "signatur": "Cod. 12130",
+    "jesuiten_id": "jesuiten_msdesc__295",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948931",
+    "title": "Litterae annuae provinciae Austriae Societatis Iesu a. 1736",
+    "date": "",
+    "persons": [],
+    "mentioned_places": [],
+    "note_type_facs": "https://digital.onb.ac.at/rep/access/open/131D0AA5",
+    "xml_id": "cod_12130",
+    "extent": "",
+    "height": null,
+    "width": null,
+    "foliation": "",
+    "acc_mat": "",
+    "binding": "",
+    "summary": "",
+    "not_before": null,
+    "not_after": null,
+    "# when": "",
+    "date_letter": "1736"
+  },
+  "296": {
+    "id": 296,
+    "order": "6.87500000000000000000",
+    "signatur": "Cod. 12131",
+    "jesuiten_id": "jesuiten_msdesc__296",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "",
+    "title": "",
+    "date": "",
+    "persons": [],
+    "mentioned_places": [],
+    "note_type_facs": "",
+    "xml_id": "cod_12131",
+    "extent": "",
+    "height": null,
+    "width": null,
+    "foliation": "",
+    "acc_mat": "",
+    "binding": "",
+    "summary": "",
+    "not_before": null,
+    "not_after": null,
+    "# when": "",
+    "date_letter": ""
+  },
+  "297": {
+    "id": 297,
+    "order": "6.88888888888888928363",
+    "signatur": "Cod. 12132",
+    "jesuiten_id": "jesuiten_msdesc__297",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "",
+    "title": "",
+    "date": "",
+    "persons": [],
+    "mentioned_places": [],
+    "note_type_facs": "",
+    "xml_id": "cod_12132",
+    "extent": "",
+    "height": null,
+    "width": null,
+    "foliation": "",
+    "acc_mat": "",
+    "binding": "",
+    "summary": "",
+    "not_before": null,
+    "not_after": null,
+    "# when": "",
+    "date_letter": ""
+  },
+  "298": {
+    "id": 298,
+    "order": "6.90000000000000035527",
+    "signatur": "Cod. 12133",
+    "jesuiten_id": "jesuiten_msdesc__298",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "",
+    "title": "",
+    "date": "",
+    "persons": [],
+    "mentioned_places": [],
+    "note_type_facs": "",
+    "xml_id": "cod_12133",
+    "extent": "",
+    "height": null,
+    "width": null,
+    "foliation": "",
+    "acc_mat": "",
+    "binding": "",
+    "summary": "",
+    "not_before": null,
+    "not_after": null,
+    "# when": "",
+    "date_letter": ""
+  },
+  "299": {
+    "id": 299,
+    "order": "6.90909090909090917165",
+    "signatur": "Cod. 12134",
+    "jesuiten_id": "jesuiten_msdesc__299",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "",
+    "title": "",
+    "date": "",
+    "persons": [],
+    "mentioned_places": [],
+    "note_type_facs": "",
+    "xml_id": "cod_12134",
+    "extent": "",
+    "height": null,
+    "width": null,
+    "foliation": "",
+    "acc_mat": "",
+    "binding": "",
+    "summary": "",
+    "not_before": null,
+    "not_after": null,
+    "# when": "",
+    "date_letter": ""
+  },
+  "300": {
+    "id": 300,
+    "order": "6.91666666666666696273",
+    "signatur": "Cod. 12135",
+    "jesuiten_id": "jesuiten_msdesc__300",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "",
+    "title": "",
+    "date": "",
+    "persons": [],
+    "mentioned_places": [],
+    "note_type_facs": "",
+    "xml_id": "cod_12135",
+    "extent": "",
+    "height": null,
+    "width": null,
+    "foliation": "",
+    "acc_mat": "",
+    "binding": "",
+    "summary": "",
+    "not_before": null,
+    "not_after": null,
+    "# when": "",
+    "date_letter": ""
+  },
+  "301": {
+    "id": 301,
+    "order": "6.92307692307692335021",
+    "signatur": "Cod. 12136",
+    "jesuiten_id": "jesuiten_msdesc__301",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "",
+    "title": "",
+    "date": "",
+    "persons": [],
+    "mentioned_places": [],
+    "note_type_facs": "",
+    "xml_id": "cod_12136",
+    "extent": "",
+    "height": null,
+    "width": null,
+    "foliation": "",
+    "acc_mat": "",
+    "binding": "",
+    "summary": "",
+    "not_before": null,
+    "not_after": null,
+    "# when": "",
+    "date_letter": ""
+  },
+  "302": {
+    "id": 302,
+    "order": "6.92857142857142882519",
+    "signatur": "Cod. 12137",
+    "jesuiten_id": "jesuiten_msdesc__302",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "",
+    "title": "",
+    "date": "",
+    "persons": [],
+    "mentioned_places": [],
+    "note_type_facs": "",
+    "xml_id": "cod_12137",
+    "extent": "",
+    "height": null,
+    "width": null,
+    "foliation": "",
+    "acc_mat": "",
+    "binding": "",
+    "summary": "",
+    "not_before": null,
+    "not_after": null,
+    "# when": "",
+    "date_letter": ""
   },
   "10": {
     "id": 10,
@@ -14359,6 +15334,1004 @@
     "# when": "",
     "date_letter": "1763"
   },
+  "262": {
+    "id": 262,
+    "order": "8.47809523809523746252",
+    "signatur": "Cod. 12346",
+    "jesuiten_id": "jesuiten_msdesc__262",
+    "mentioned_orgs": [
+      {
+        "id": 41,
+        "value": "Missio Castrensis"
+      },
+      {
+        "id": 92,
+        "value": "Profeßhaus Prag"
+      },
+      {
+        "id": 93,
+        "value": "Jesuitenkolleg Březnice"
+      },
+      {
+        "id": 94,
+        "value": "Jesuitenresidenz Svatá Hora"
+      },
+      {
+        "id": 95,
+        "value": "Jesuitenkolleg Chomutov"
+      },
+      {
+        "id": 96,
+        "value": "Jesuitenkolleg Krumlov"
+      },
+      {
+        "id": 97,
+        "value": "Jesuitenkolleg Cheb"
+      },
+      {
+        "id": 98,
+        "value": "Jesuitenkolleg Jičín"
+      },
+      {
+        "id": 100,
+        "value": "Jesuitenkolleg Klatovy"
+      },
+      {
+        "id": 102,
+        "value": "Jesuitenkolleg Uherské Hradiště"
+      },
+      {
+        "id": 103,
+        "value": "Jesuitenkolleg Jihlava"
+      },
+      {
+        "id": 104,
+        "value": "Jesuitenkolleg Kutná Hora"
+      },
+      {
+        "id": 105,
+        "value": "Jesuitenresidenz Golčův Jeníkov"
+      },
+      {
+        "id": 108,
+        "value": "Jesuitenkolleg Litoměřice"
+      },
+      {
+        "id": 111,
+        "value": "Jesuitenkolleg Jindřichův Hradec"
+      },
+      {
+        "id": 112,
+        "value": "Jesuitenkolleg Olomouc"
+      },
+      {
+        "id": 113,
+        "value": "Jesuitenkolleg Opava"
+      },
+      {
+        "id": 116,
+        "value": "Jesuitenkolleg Prague ad S. Clementem"
+      },
+      {
+        "id": 117,
+        "value": "Jesuitenkolleg Hradec Králové"
+      },
+      {
+        "id": 120,
+        "value": "Jesuitenkolleg Telč"
+      },
+      {
+        "id": 122,
+        "value": "Jesuitenkolleg Znoymo"
+      },
+      {
+        "id": 123,
+        "value": "Jesuitenkolleg Brno"
+      },
+      {
+        "id": 124,
+        "value": "Jesuitenresidenz Tuřany"
+      },
+      {
+        "id": 133,
+        "value": "Jesuitenmission Pommersdorf"
+      },
+      {
+        "id": 132,
+        "value": "Jesuitenmission Brantice"
+      },
+      {
+        "id": 136,
+        "value": "Jesuitenresidenz Košumberk"
+      },
+      {
+        "id": 138,
+        "value": "Probationshaus Telč"
+      },
+      {
+        "id": 140,
+        "value": "Jesuitenresidenz Cieszyn"
+      },
+      {
+        "id": 142,
+        "value": "Jesuitenresidenz Maria Scheinensis"
+      },
+      {
+        "id": 159,
+        "value": "Probationshaus Jičín"
+      },
+      {
+        "id": 161,
+        "value": "Jesuitenmission Dresden"
+      },
+      {
+        "id": 197,
+        "value": "Jesuitenkolleg Prague ad S. Ignatium"
+      },
+      {
+        "id": 284,
+        "value": "Jesuitenresidenz Liběšice"
+      },
+      {
+        "id": 286,
+        "value": "Jesuitenresidenz Tuchmeritz"
+      },
+      {
+        "id": 294,
+        "value": "Jesuitenmission Lichtensteinica Böhmen"
+      },
+      {
+        "id": 295,
+        "value": "Jesuitenmission in Jáchymov"
+      },
+      {
+        "id": 296,
+        "value": "Jesuitenresidenz Opařany"
+      },
+      {
+        "id": 297,
+        "value": "Jesuitenresidenz Brandýs nad Labem-Stará Boleslav"
+      },
+      {
+        "id": 299,
+        "value": "Jesuitenmission Poenitentia in Bohemia-Germanica"
+      },
+      {
+        "id": 300,
+        "value": "Jesuitenmission Poenitentia Bohemia Bohemica"
+      },
+      {
+        "id": 301,
+        "value": "Jesuitenmission Poenitentia Moravia"
+      },
+      {
+        "id": 302,
+        "value": "Jesuitenmission Leipzig"
+      },
+      {
+        "id": 303,
+        "value": "Jesuitenmission Hubertusburg"
+      },
+      {
+        "id": 316,
+        "value": "Jesuitenmission Mladá Boleslav"
+      },
+      {
+        "id": 351,
+        "value": "Jesuitenmission Vsetín"
+      },
+      {
+        "id": 401,
+        "value": "Jesuitenmission Silesia Superiore, Cieszyn"
+      },
+      {
+        "id": 435,
+        "value": "Jesuitenmission Czeikowicium  (?)"
+      },
+      {
+        "id": 467,
+        "value": "Jesuitenmission Nový Jičín"
+      },
+      {
+        "id": 494,
+        "value": "Jesuitenmission Beraunensis"
+      },
+      {
+        "id": 520,
+        "value": "Jesuitenmission De poenitentia per Austriam Inferiorem"
+      },
+      {
+        "id": 521,
+        "value": "Jesuitenmission Hermersdorf"
+      },
+      {
+        "id": 522,
+        "value": "Jesuitenmission Rakonitzer Kreis (Rakovník)"
+      },
+      {
+        "id": 525,
+        "value": "Jesuitenmission Křesetice"
+      },
+      {
+        "id": 526,
+        "value": "Jesuitenmission Zizovium"
+      }
+    ],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13947972",
+    "title": "Litterae annuae provinciae Bohemiae Societatis Iesu a. 1764",
+    "date": "ab 1747",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Provincia Bohemia"
+      }
+    ],
+    "note_type_facs": "",
+    "xml_id": "cod_12346",
+    "extent": "78 Bl.",
+    "height": "275",
+    "width": "205",
+    "foliation": "Moderne Foliierung.",
+    "acc_mat": "",
+    "binding": "Halbband, Deckel mit buntem Marmorpapier überzogen, 18. Jhdt.",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit, thematisch in 21 Kapitel gegliedert.",
+    "not_before": "1747",
+    "not_after": null,
+    "# when": "",
+    "date_letter": "1764"
+  },
+  "263": {
+    "id": 263,
+    "order": "8.47809762202753525173",
+    "signatur": "Cod. 12347",
+    "jesuiten_id": "jesuiten_msdesc__263",
+    "mentioned_orgs": [
+      {
+        "id": 41,
+        "value": "Missio Castrensis"
+      },
+      {
+        "id": 92,
+        "value": "Profeßhaus Prag"
+      },
+      {
+        "id": 93,
+        "value": "Jesuitenkolleg Březnice"
+      },
+      {
+        "id": 94,
+        "value": "Jesuitenresidenz Svatá Hora"
+      },
+      {
+        "id": 95,
+        "value": "Jesuitenkolleg Chomutov"
+      },
+      {
+        "id": 96,
+        "value": "Jesuitenkolleg Krumlov"
+      },
+      {
+        "id": 97,
+        "value": "Jesuitenkolleg Cheb"
+      },
+      {
+        "id": 98,
+        "value": "Jesuitenkolleg Jičín"
+      },
+      {
+        "id": 100,
+        "value": "Jesuitenkolleg Klatovy"
+      },
+      {
+        "id": 102,
+        "value": "Jesuitenkolleg Uherské Hradiště"
+      },
+      {
+        "id": 103,
+        "value": "Jesuitenkolleg Jihlava"
+      },
+      {
+        "id": 104,
+        "value": "Jesuitenkolleg Kutná Hora"
+      },
+      {
+        "id": 105,
+        "value": "Jesuitenresidenz Golčův Jeníkov"
+      },
+      {
+        "id": 108,
+        "value": "Jesuitenkolleg Litoměřice"
+      },
+      {
+        "id": 111,
+        "value": "Jesuitenkolleg Jindřichův Hradec"
+      },
+      {
+        "id": 112,
+        "value": "Jesuitenkolleg Olomouc"
+      },
+      {
+        "id": 113,
+        "value": "Jesuitenkolleg Opava"
+      },
+      {
+        "id": 116,
+        "value": "Jesuitenkolleg Prague ad S. Clementem"
+      },
+      {
+        "id": 117,
+        "value": "Jesuitenkolleg Hradec Králové"
+      },
+      {
+        "id": 120,
+        "value": "Jesuitenkolleg Telč"
+      },
+      {
+        "id": 122,
+        "value": "Jesuitenkolleg Znoymo"
+      },
+      {
+        "id": 123,
+        "value": "Jesuitenkolleg Brno"
+      },
+      {
+        "id": 124,
+        "value": "Jesuitenresidenz Tuřany"
+      },
+      {
+        "id": 133,
+        "value": "Jesuitenmission Pommersdorf"
+      },
+      {
+        "id": 132,
+        "value": "Jesuitenmission Brantice"
+      },
+      {
+        "id": 136,
+        "value": "Jesuitenresidenz Košumberk"
+      },
+      {
+        "id": 138,
+        "value": "Probationshaus Telč"
+      },
+      {
+        "id": 140,
+        "value": "Jesuitenresidenz Cieszyn"
+      },
+      {
+        "id": 142,
+        "value": "Jesuitenresidenz Maria Scheinensis"
+      },
+      {
+        "id": 159,
+        "value": "Probationshaus Jičín"
+      },
+      {
+        "id": 161,
+        "value": "Jesuitenmission Dresden"
+      },
+      {
+        "id": 197,
+        "value": "Jesuitenkolleg Prague ad S. Ignatium"
+      },
+      {
+        "id": 284,
+        "value": "Jesuitenresidenz Liběšice"
+      },
+      {
+        "id": 286,
+        "value": "Jesuitenresidenz Tuchmeritz"
+      },
+      {
+        "id": 294,
+        "value": "Jesuitenmission Lichtensteinica Böhmen"
+      },
+      {
+        "id": 295,
+        "value": "Jesuitenmission in Jáchymov"
+      },
+      {
+        "id": 296,
+        "value": "Jesuitenresidenz Opařany"
+      },
+      {
+        "id": 297,
+        "value": "Jesuitenresidenz Brandýs nad Labem-Stará Boleslav"
+      },
+      {
+        "id": 299,
+        "value": "Jesuitenmission Poenitentia in Bohemia-Germanica"
+      },
+      {
+        "id": 300,
+        "value": "Jesuitenmission Poenitentia Bohemia Bohemica"
+      },
+      {
+        "id": 301,
+        "value": "Jesuitenmission Poenitentia Moravia"
+      },
+      {
+        "id": 302,
+        "value": "Jesuitenmission Leipzig"
+      },
+      {
+        "id": 303,
+        "value": "Jesuitenmission Hubertusburg"
+      },
+      {
+        "id": 316,
+        "value": "Jesuitenmission Mladá Boleslav"
+      },
+      {
+        "id": 351,
+        "value": "Jesuitenmission Vsetín"
+      },
+      {
+        "id": 401,
+        "value": "Jesuitenmission Silesia Superiore, Cieszyn"
+      },
+      {
+        "id": 435,
+        "value": "Jesuitenmission Czeikowicium  (?)"
+      },
+      {
+        "id": 467,
+        "value": "Jesuitenmission Nový Jičín"
+      },
+      {
+        "id": 494,
+        "value": "Jesuitenmission Beraunensis"
+      },
+      {
+        "id": 520,
+        "value": "Jesuitenmission De poenitentia per Austriam Inferiorem"
+      },
+      {
+        "id": 521,
+        "value": "Jesuitenmission Hermersdorf"
+      },
+      {
+        "id": 522,
+        "value": "Jesuitenmission Rakonitzer Kreis (Rakovník)"
+      },
+      {
+        "id": 525,
+        "value": "Jesuitenmission Křesetice"
+      },
+      {
+        "id": 526,
+        "value": "Jesuitenmission Zizovium"
+      }
+    ],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13947155",
+    "title": "Litterae annuae provinciae Bohemiae Societatis Iesu a. 1765",
+    "date": "ab 1766",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Provincia Bohemia"
+      }
+    ],
+    "note_type_facs": "",
+    "xml_id": "cod_12347",
+    "extent": "62 Bl.",
+    "height": "275",
+    "width": "205",
+    "foliation": "Moderne Foliierung.",
+    "acc_mat": "",
+    "binding": "Halbband, Deckel mit buntem Marmorpapier überzogen, 18. Jhdt.",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit, thematisch in 21 Kapitel gegliedert.",
+    "not_before": "1766",
+    "not_after": null,
+    "# when": "",
+    "date_letter": "1765"
+  },
+  "266": {
+    "id": 266,
+    "order": "8.47809878844361541894",
+    "signatur": "Cod. 12348",
+    "jesuiten_id": "jesuiten_msdesc__266",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13949198",
+    "title": "Litterae annuae provinciae Bohemiae Societatis Iesu a. 1711",
+    "date": "ab 1712",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Provincia Bohemia"
+      }
+    ],
+    "note_type_facs": "",
+    "xml_id": "cod_12348",
+    "extent": "I, 113, I* Bl.",
+    "height": "270",
+    "width": "194",
+    "foliation": "Moderne Foliierung.",
+    "acc_mat": "",
+    "binding": "Halbband, Deckel mit buntem Marmorpapier überzogen, 18. Jhdt.",
+    "summary": "Zusammengesetzte Handschrift aus den Berichten verschiedener Domizilen in Böhmen.",
+    "not_before": "1712",
+    "not_after": null,
+    "# when": "",
+    "date_letter": "1711"
+  },
+  "267": {
+    "id": 267,
+    "order": "8.47809948032665161577",
+    "signatur": "Cod. 12349",
+    "jesuiten_id": "jesuiten_msdesc__267",
+    "mentioned_orgs": [
+      {
+        "id": 41,
+        "value": "Missio Castrensis"
+      },
+      {
+        "id": 92,
+        "value": "Profeßhaus Prag"
+      },
+      {
+        "id": 93,
+        "value": "Jesuitenkolleg Březnice"
+      },
+      {
+        "id": 94,
+        "value": "Jesuitenresidenz Svatá Hora"
+      },
+      {
+        "id": 95,
+        "value": "Jesuitenkolleg Chomutov"
+      },
+      {
+        "id": 96,
+        "value": "Jesuitenkolleg Krumlov"
+      },
+      {
+        "id": 97,
+        "value": "Jesuitenkolleg Cheb"
+      },
+      {
+        "id": 98,
+        "value": "Jesuitenkolleg Jičín"
+      },
+      {
+        "id": 99,
+        "value": "Jesuitenkolleg Kłodzko"
+      },
+      {
+        "id": 100,
+        "value": "Jesuitenkolleg Klatovy"
+      },
+      {
+        "id": 101,
+        "value": "Jesuitenkolleg Głogów"
+      },
+      {
+        "id": 102,
+        "value": "Jesuitenkolleg Uherské Hradiště"
+      },
+      {
+        "id": 103,
+        "value": "Jesuitenkolleg Jihlava"
+      },
+      {
+        "id": 105,
+        "value": "Jesuitenresidenz Golčův Jeníkov"
+      },
+      {
+        "id": 106,
+        "value": "Jesuitenkolleg Legnica"
+      },
+      {
+        "id": 107,
+        "value": "Jesuitenresidenz Otyń"
+      },
+      {
+        "id": 108,
+        "value": "Jesuitenkolleg Litoměřice"
+      },
+      {
+        "id": 110,
+        "value": "Jesuitenkolleg Nysa"
+      },
+      {
+        "id": 111,
+        "value": "Jesuitenkolleg Jindřichův Hradec"
+      },
+      {
+        "id": 112,
+        "value": "Jesuitenkolleg Olomouc"
+      },
+      {
+        "id": 113,
+        "value": "Jesuitenkolleg Opava"
+      },
+      {
+        "id": 115,
+        "value": "Jesuitenkolleg Opole"
+      },
+      {
+        "id": 116,
+        "value": "Jesuitenkolleg Prague ad S. Clementem"
+      },
+      {
+        "id": 117,
+        "value": "Jesuitenkolleg Hradec Králové"
+      },
+      {
+        "id": 118,
+        "value": "Jesuitenkolleg Żagań"
+      },
+      {
+        "id": 119,
+        "value": "Jesuitenkolleg Świdnica"
+      },
+      {
+        "id": 120,
+        "value": "Jesuitenkolleg Telč"
+      },
+      {
+        "id": 121,
+        "value": "Jesuitenkolleg Wrocław"
+      },
+      {
+        "id": 122,
+        "value": "Jesuitenkolleg Znoymo"
+      },
+      {
+        "id": 123,
+        "value": "Jesuitenkolleg Brno"
+      },
+      {
+        "id": 124,
+        "value": "Jesuitenresidenz Tuřany"
+      },
+      {
+        "id": 133,
+        "value": "Jesuitenmission Pommersdorf"
+      },
+      {
+        "id": 132,
+        "value": "Jesuitenmission Brantice"
+      },
+      {
+        "id": 134,
+        "value": "Jesuitenresidenz Piekary"
+      },
+      {
+        "id": 136,
+        "value": "Jesuitenresidenz Košumberk"
+      },
+      {
+        "id": 137,
+        "value": "Jesuitenresidenz Jelenia Góra"
+      },
+      {
+        "id": 138,
+        "value": "Probationshaus Telč"
+      },
+      {
+        "id": 139,
+        "value": "Jesuitenmission Brzeg"
+      },
+      {
+        "id": 140,
+        "value": "Jesuitenresidenz Cieszyn"
+      },
+      {
+        "id": 142,
+        "value": "Jesuitenresidenz Maria Scheinensis"
+      },
+      {
+        "id": 159,
+        "value": "Probationshaus Jičín"
+      },
+      {
+        "id": 161,
+        "value": "Jesuitenmission Dresden"
+      },
+      {
+        "id": 197,
+        "value": "Jesuitenkolleg Prague ad S. Ignatium"
+      },
+      {
+        "id": 284,
+        "value": "Jesuitenresidenz Liběšice"
+      },
+      {
+        "id": 289,
+        "value": "Jesuitenresidenz Tarnowskie Góry"
+      },
+      {
+        "id": 293,
+        "value": "Jesuitenmission Jablunkov Pass"
+      },
+      {
+        "id": 297,
+        "value": "Jesuitenresidenz Brandýs nad Labem-Stará Boleslav"
+      },
+      {
+        "id": 300,
+        "value": "Jesuitenmission Poenitentia Bohemia Bohemica"
+      },
+      {
+        "id": 302,
+        "value": "Jesuitenmission Leipzig"
+      },
+      {
+        "id": 401,
+        "value": "Jesuitenmission Silesia Superiore, Cieszyn"
+      },
+      {
+        "id": 435,
+        "value": "Jesuitenmission Czeikowicium  (?)"
+      },
+      {
+        "id": 518,
+        "value": "Jesuitenmission Kynšperk nad Ohří"
+      }
+    ],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13949199",
+    "title": "Litterae annuae provinciae Bohemiae Societatis Iesu a. 1741",
+    "date": "1742-Juni 1743",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Provincia Bohemia"
+      }
+    ],
+    "note_type_facs": "",
+    "xml_id": "cod_12349",
+    "extent": "II, 101, II* Bl.",
+    "height": "270",
+    "width": "197",
+    "foliation": "Moderne Foliierung.",
+    "acc_mat": "",
+    "binding": "Halbband, Deckel mit buntem Marmorpapier überzogen, Titelschild auf dem Vorderdeckel, 18. Jhdt.",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit, thematisch in 21 Kapitel gegliedert. Als 'Supplementum annalium' Berichte einzelner Kollege und Missionen (fols. 77r-100v).",
+    "not_before": "1742",
+    "not_after": "1743",
+    "# when": "",
+    "date_letter": "1741"
+  },
+  "268": {
+    "id": 268,
+    "order": "8.47809993830968622319",
+    "signatur": "Cod. 12350",
+    "jesuiten_id": "jesuiten_msdesc__268",
+    "mentioned_orgs": [
+      {
+        "id": 41,
+        "value": "Missio Castrensis"
+      },
+      {
+        "id": 92,
+        "value": "Profeßhaus Prag"
+      },
+      {
+        "id": 93,
+        "value": "Jesuitenkolleg Březnice"
+      },
+      {
+        "id": 94,
+        "value": "Jesuitenresidenz Svatá Hora"
+      },
+      {
+        "id": 95,
+        "value": "Jesuitenkolleg Chomutov"
+      },
+      {
+        "id": 96,
+        "value": "Jesuitenkolleg Krumlov"
+      },
+      {
+        "id": 97,
+        "value": "Jesuitenkolleg Cheb"
+      },
+      {
+        "id": 98,
+        "value": "Jesuitenkolleg Jičín"
+      },
+      {
+        "id": 99,
+        "value": "Jesuitenkolleg Kłodzko"
+      },
+      {
+        "id": 100,
+        "value": "Jesuitenkolleg Klatovy"
+      },
+      {
+        "id": 101,
+        "value": "Jesuitenkolleg Głogów"
+      },
+      {
+        "id": 102,
+        "value": "Jesuitenkolleg Uherské Hradiště"
+      },
+      {
+        "id": 103,
+        "value": "Jesuitenkolleg Jihlava"
+      },
+      {
+        "id": 105,
+        "value": "Jesuitenresidenz Golčův Jeníkov"
+      },
+      {
+        "id": 106,
+        "value": "Jesuitenkolleg Legnica"
+      },
+      {
+        "id": 107,
+        "value": "Jesuitenresidenz Otyń"
+      },
+      {
+        "id": 108,
+        "value": "Jesuitenkolleg Litoměřice"
+      },
+      {
+        "id": 110,
+        "value": "Jesuitenkolleg Nysa"
+      },
+      {
+        "id": 111,
+        "value": "Jesuitenkolleg Jindřichův Hradec"
+      },
+      {
+        "id": 112,
+        "value": "Jesuitenkolleg Olomouc"
+      },
+      {
+        "id": 113,
+        "value": "Jesuitenkolleg Opava"
+      },
+      {
+        "id": 115,
+        "value": "Jesuitenkolleg Opole"
+      },
+      {
+        "id": 116,
+        "value": "Jesuitenkolleg Prague ad S. Clementem"
+      },
+      {
+        "id": 117,
+        "value": "Jesuitenkolleg Hradec Králové"
+      },
+      {
+        "id": 118,
+        "value": "Jesuitenkolleg Żagań"
+      },
+      {
+        "id": 119,
+        "value": "Jesuitenkolleg Świdnica"
+      },
+      {
+        "id": 120,
+        "value": "Jesuitenkolleg Telč"
+      },
+      {
+        "id": 121,
+        "value": "Jesuitenkolleg Wrocław"
+      },
+      {
+        "id": 122,
+        "value": "Jesuitenkolleg Znoymo"
+      },
+      {
+        "id": 123,
+        "value": "Jesuitenkolleg Brno"
+      },
+      {
+        "id": 124,
+        "value": "Jesuitenresidenz Tuřany"
+      },
+      {
+        "id": 133,
+        "value": "Jesuitenmission Pommersdorf"
+      },
+      {
+        "id": 132,
+        "value": "Jesuitenmission Brantice"
+      },
+      {
+        "id": 134,
+        "value": "Jesuitenresidenz Piekary"
+      },
+      {
+        "id": 136,
+        "value": "Jesuitenresidenz Košumberk"
+      },
+      {
+        "id": 137,
+        "value": "Jesuitenresidenz Jelenia Góra"
+      },
+      {
+        "id": 138,
+        "value": "Probationshaus Telč"
+      },
+      {
+        "id": 139,
+        "value": "Jesuitenmission Brzeg"
+      },
+      {
+        "id": 140,
+        "value": "Jesuitenresidenz Cieszyn"
+      },
+      {
+        "id": 142,
+        "value": "Jesuitenresidenz Maria Scheinensis"
+      },
+      {
+        "id": 159,
+        "value": "Probationshaus Jičín"
+      },
+      {
+        "id": 161,
+        "value": "Jesuitenmission Dresden"
+      },
+      {
+        "id": 197,
+        "value": "Jesuitenkolleg Prague ad S. Ignatium"
+      },
+      {
+        "id": 284,
+        "value": "Jesuitenresidenz Liběšice"
+      },
+      {
+        "id": 289,
+        "value": "Jesuitenresidenz Tarnowskie Góry"
+      },
+      {
+        "id": 293,
+        "value": "Jesuitenmission Jablunkov Pass"
+      },
+      {
+        "id": 297,
+        "value": "Jesuitenresidenz Brandýs nad Labem-Stará Boleslav"
+      },
+      {
+        "id": 302,
+        "value": "Jesuitenmission Leipzig"
+      },
+      {
+        "id": 401,
+        "value": "Jesuitenmission Silesia Superiore, Cieszyn"
+      },
+      {
+        "id": 435,
+        "value": "Jesuitenmission Czeikowicium  (?)"
+      },
+      {
+        "id": 518,
+        "value": "Jesuitenmission Kynšperk nad Ohří"
+      }
+    ],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13949200",
+    "title": "Litterae annuae provinciae Bohemiae Societatis Iesu a. 1742",
+    "date": "ab 1743",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Provincia Bohemia"
+      }
+    ],
+    "note_type_facs": "",
+    "xml_id": "cod_12350",
+    "extent": "II, 196, I* Bl.",
+    "height": "270",
+    "width": "196",
+    "foliation": "Moderne Foliierung.",
+    "acc_mat": "",
+    "binding": "Halbband, Deckel mit buntem Marmorpapier überzogen, Titelschild auf dem Vorderdeckel, 18. Jhdt.",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit, thematisch in 20 Kapitel gegliedert.",
+    "not_before": "1743",
+    "not_after": null,
+    "# when": "",
+    "date_letter": "1742"
+  },
   "251": {
     "id": 251,
     "order": "8.47810218978102270171",
@@ -15805,6 +17778,797 @@
     "# when": "",
     "date_letter": "1750"
   },
+  "260": {
+    "id": 260,
+    "order": "8.48412698412698418338",
+    "signatur": "Cod. 12357",
+    "jesuiten_id": "jesuiten_msdesc__260",
+    "mentioned_orgs": [
+      {
+        "id": 92,
+        "value": "Profeßhaus Prag"
+      },
+      {
+        "id": 93,
+        "value": "Jesuitenkolleg Březnice"
+      },
+      {
+        "id": 95,
+        "value": "Jesuitenkolleg Chomutov"
+      },
+      {
+        "id": 96,
+        "value": "Jesuitenkolleg Krumlov"
+      },
+      {
+        "id": 97,
+        "value": "Jesuitenkolleg Cheb"
+      },
+      {
+        "id": 98,
+        "value": "Jesuitenkolleg Jičín"
+      },
+      {
+        "id": 100,
+        "value": "Jesuitenkolleg Klatovy"
+      },
+      {
+        "id": 102,
+        "value": "Jesuitenkolleg Uherské Hradiště"
+      },
+      {
+        "id": 103,
+        "value": "Jesuitenkolleg Jihlava"
+      },
+      {
+        "id": 104,
+        "value": "Jesuitenkolleg Kutná Hora"
+      },
+      {
+        "id": 105,
+        "value": "Jesuitenresidenz Golčův Jeníkov"
+      },
+      {
+        "id": 108,
+        "value": "Jesuitenkolleg Litoměřice"
+      },
+      {
+        "id": 111,
+        "value": "Jesuitenkolleg Jindřichův Hradec"
+      },
+      {
+        "id": 112,
+        "value": "Jesuitenkolleg Olomouc"
+      },
+      {
+        "id": 113,
+        "value": "Jesuitenkolleg Opava"
+      },
+      {
+        "id": 116,
+        "value": "Jesuitenkolleg Prague ad S. Clementem"
+      },
+      {
+        "id": 117,
+        "value": "Jesuitenkolleg Hradec Králové"
+      },
+      {
+        "id": 120,
+        "value": "Jesuitenkolleg Telč"
+      },
+      {
+        "id": 121,
+        "value": "Jesuitenkolleg Wrocław"
+      },
+      {
+        "id": 122,
+        "value": "Jesuitenkolleg Znoymo"
+      },
+      {
+        "id": 123,
+        "value": "Jesuitenkolleg Brno"
+      },
+      {
+        "id": 124,
+        "value": "Jesuitenresidenz Tuřany"
+      },
+      {
+        "id": 133,
+        "value": "Jesuitenmission Pommersdorf"
+      },
+      {
+        "id": 132,
+        "value": "Jesuitenmission Brantice"
+      },
+      {
+        "id": 136,
+        "value": "Jesuitenresidenz Košumberk"
+      },
+      {
+        "id": 138,
+        "value": "Probationshaus Telč"
+      },
+      {
+        "id": 140,
+        "value": "Jesuitenresidenz Cieszyn"
+      },
+      {
+        "id": 142,
+        "value": "Jesuitenresidenz Maria Scheinensis"
+      },
+      {
+        "id": 159,
+        "value": "Probationshaus Jičín"
+      },
+      {
+        "id": 161,
+        "value": "Jesuitenmission Dresden"
+      },
+      {
+        "id": 197,
+        "value": "Jesuitenkolleg Prague ad S. Ignatium"
+      },
+      {
+        "id": 196,
+        "value": "Jesuitenmission Římov"
+      },
+      {
+        "id": 284,
+        "value": "Jesuitenresidenz Liběšice"
+      },
+      {
+        "id": 286,
+        "value": "Jesuitenresidenz Tuchmeritz"
+      },
+      {
+        "id": 294,
+        "value": "Jesuitenmission Lichtensteinica Böhmen"
+      },
+      {
+        "id": 295,
+        "value": "Jesuitenmission in Jáchymov"
+      },
+      {
+        "id": 296,
+        "value": "Jesuitenresidenz Opařany"
+      },
+      {
+        "id": 297,
+        "value": "Jesuitenresidenz Brandýs nad Labem-Stará Boleslav"
+      },
+      {
+        "id": 299,
+        "value": "Jesuitenmission Poenitentia in Bohemia-Germanica"
+      },
+      {
+        "id": 300,
+        "value": "Jesuitenmission Poenitentia Bohemia Bohemica"
+      },
+      {
+        "id": 301,
+        "value": "Jesuitenmission Poenitentia Moravia"
+      },
+      {
+        "id": 302,
+        "value": "Jesuitenmission Leipzig"
+      },
+      {
+        "id": 303,
+        "value": "Jesuitenmission Hubertusburg"
+      },
+      {
+        "id": 351,
+        "value": "Jesuitenmission Vsetín"
+      },
+      {
+        "id": 371,
+        "value": "Jesuitenmission Svatá Hora"
+      },
+      {
+        "id": 401,
+        "value": "Jesuitenmission Silesia Superiore, Cieszyn"
+      },
+      {
+        "id": 467,
+        "value": "Jesuitenmission Nový Jičín"
+      },
+      {
+        "id": 517,
+        "value": "Jesuitenmission Modlany"
+      },
+      {
+        "id": 518,
+        "value": "Jesuitenmission Kynšperk nad Ohří"
+      },
+      {
+        "id": 523,
+        "value": "Jesuitenmission Steiermark (?)"
+      },
+      {
+        "id": 524,
+        "value": "Jesuitenmission Starý Hrozenkov (?)"
+      },
+      {
+        "id": 526,
+        "value": "Jesuitenmission Zizovium"
+      }
+    ],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948248",
+    "title": "Litterae annuae provinciae Bohemiae Societatis Iesu a. 1755",
+    "date": "1756–Juli 1757",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Provincia Bohemia"
+      }
+    ],
+    "note_type_facs": "",
+    "xml_id": "cod_12357",
+    "extent": "88 Bl.",
+    "height": "280",
+    "width": "195",
+    "foliation": "Moderne Foliierung.",
+    "acc_mat": "",
+    "binding": "Halbband, Deckel mit buntem Marmorpapier überzogen, 18. Jhdt.",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit, thematisch in 21 Kapitel gegliedert.",
+    "not_before": "1756",
+    "not_after": "1757",
+    "# when": "",
+    "date_letter": "1755"
+  },
+  "261": {
+    "id": 261,
+    "order": "8.48416289592760186622",
+    "signatur": "Cod. 12358",
+    "jesuiten_id": "jesuiten_msdesc__261",
+    "mentioned_orgs": [
+      {
+        "id": 92,
+        "value": "Profeßhaus Prag"
+      },
+      {
+        "id": 93,
+        "value": "Jesuitenkolleg Březnice"
+      },
+      {
+        "id": 95,
+        "value": "Jesuitenkolleg Chomutov"
+      },
+      {
+        "id": 96,
+        "value": "Jesuitenkolleg Krumlov"
+      },
+      {
+        "id": 97,
+        "value": "Jesuitenkolleg Cheb"
+      },
+      {
+        "id": 98,
+        "value": "Jesuitenkolleg Jičín"
+      },
+      {
+        "id": 100,
+        "value": "Jesuitenkolleg Klatovy"
+      },
+      {
+        "id": 102,
+        "value": "Jesuitenkolleg Uherské Hradiště"
+      },
+      {
+        "id": 103,
+        "value": "Jesuitenkolleg Jihlava"
+      },
+      {
+        "id": 104,
+        "value": "Jesuitenkolleg Kutná Hora"
+      },
+      {
+        "id": 105,
+        "value": "Jesuitenresidenz Golčův Jeníkov"
+      },
+      {
+        "id": 108,
+        "value": "Jesuitenkolleg Litoměřice"
+      },
+      {
+        "id": 111,
+        "value": "Jesuitenkolleg Jindřichův Hradec"
+      },
+      {
+        "id": 112,
+        "value": "Jesuitenkolleg Olomouc"
+      },
+      {
+        "id": 113,
+        "value": "Jesuitenkolleg Opava"
+      },
+      {
+        "id": 116,
+        "value": "Jesuitenkolleg Prague ad S. Clementem"
+      },
+      {
+        "id": 117,
+        "value": "Jesuitenkolleg Hradec Králové"
+      },
+      {
+        "id": 120,
+        "value": "Jesuitenkolleg Telč"
+      },
+      {
+        "id": 121,
+        "value": "Jesuitenkolleg Wrocław"
+      },
+      {
+        "id": 122,
+        "value": "Jesuitenkolleg Znoymo"
+      },
+      {
+        "id": 123,
+        "value": "Jesuitenkolleg Brno"
+      },
+      {
+        "id": 124,
+        "value": "Jesuitenresidenz Tuřany"
+      },
+      {
+        "id": 133,
+        "value": "Jesuitenmission Pommersdorf"
+      },
+      {
+        "id": 132,
+        "value": "Jesuitenmission Brantice"
+      },
+      {
+        "id": 136,
+        "value": "Jesuitenresidenz Košumberk"
+      },
+      {
+        "id": 138,
+        "value": "Probationshaus Telč"
+      },
+      {
+        "id": 140,
+        "value": "Jesuitenresidenz Cieszyn"
+      },
+      {
+        "id": 142,
+        "value": "Jesuitenresidenz Maria Scheinensis"
+      },
+      {
+        "id": 159,
+        "value": "Probationshaus Jičín"
+      },
+      {
+        "id": 161,
+        "value": "Jesuitenmission Dresden"
+      },
+      {
+        "id": 197,
+        "value": "Jesuitenkolleg Prague ad S. Ignatium"
+      },
+      {
+        "id": 196,
+        "value": "Jesuitenmission Římov"
+      },
+      {
+        "id": 284,
+        "value": "Jesuitenresidenz Liběšice"
+      },
+      {
+        "id": 286,
+        "value": "Jesuitenresidenz Tuchmeritz"
+      },
+      {
+        "id": 294,
+        "value": "Jesuitenmission Lichtensteinica Böhmen"
+      },
+      {
+        "id": 295,
+        "value": "Jesuitenmission in Jáchymov"
+      },
+      {
+        "id": 296,
+        "value": "Jesuitenresidenz Opařany"
+      },
+      {
+        "id": 297,
+        "value": "Jesuitenresidenz Brandýs nad Labem-Stará Boleslav"
+      },
+      {
+        "id": 299,
+        "value": "Jesuitenmission Poenitentia in Bohemia-Germanica"
+      },
+      {
+        "id": 300,
+        "value": "Jesuitenmission Poenitentia Bohemia Bohemica"
+      },
+      {
+        "id": 302,
+        "value": "Jesuitenmission Leipzig"
+      },
+      {
+        "id": 303,
+        "value": "Jesuitenmission Hubertusburg"
+      },
+      {
+        "id": 351,
+        "value": "Jesuitenmission Vsetín"
+      },
+      {
+        "id": 371,
+        "value": "Jesuitenmission Svatá Hora"
+      },
+      {
+        "id": 401,
+        "value": "Jesuitenmission Silesia Superiore, Cieszyn"
+      },
+      {
+        "id": 467,
+        "value": "Jesuitenmission Nový Jičín"
+      },
+      {
+        "id": 517,
+        "value": "Jesuitenmission Modlany"
+      },
+      {
+        "id": 518,
+        "value": "Jesuitenmission Kynšperk nad Ohří"
+      },
+      {
+        "id": 523,
+        "value": "Jesuitenmission Steiermark (?)"
+      },
+      {
+        "id": 524,
+        "value": "Jesuitenmission Starý Hrozenkov (?)"
+      },
+      {
+        "id": 526,
+        "value": "Jesuitenmission Zizovium"
+      }
+    ],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948249",
+    "title": "Litterae annuae provinciae Bohemiae Societatis Iesu a. 1744",
+    "date": "ab 1745",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Provincia Bohemia"
+      }
+    ],
+    "note_type_facs": "",
+    "xml_id": "cod_12358",
+    "extent": "II, 66, III* Bl.",
+    "height": "270",
+    "width": "197",
+    "foliation": "Moderne Foliierung: 1-65, 65*.",
+    "acc_mat": "",
+    "binding": "Halbband, Deckel mit buntem Marmorpapier überzogen, 18. Jhdt.",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit, thematisch in 21 Kapitel gegliedert. Als \"Supplementum annalium\" Berichte über die Mission in Dresden für die Jahre 1743 und 1744, das Kolleg in Legnica für das Jahr 1744 und das Kolleg in Kłodzko.",
+    "not_before": "1745",
+    "not_after": null,
+    "# when": "",
+    "date_letter": "1744"
+  },
+  "258": {
+    "id": 258,
+    "order": "8.48421052631579009073",
+    "signatur": "Cod. 12359",
+    "jesuiten_id": "jesuiten_msdesc__258",
+    "mentioned_orgs": [
+      {
+        "id": 92,
+        "value": "Profeßhaus Prag"
+      },
+      {
+        "id": 93,
+        "value": "Jesuitenkolleg Březnice"
+      },
+      {
+        "id": 95,
+        "value": "Jesuitenkolleg Chomutov"
+      },
+      {
+        "id": 96,
+        "value": "Jesuitenkolleg Krumlov"
+      },
+      {
+        "id": 97,
+        "value": "Jesuitenkolleg Cheb"
+      },
+      {
+        "id": 98,
+        "value": "Jesuitenkolleg Jičín"
+      },
+      {
+        "id": 100,
+        "value": "Jesuitenkolleg Klatovy"
+      },
+      {
+        "id": 102,
+        "value": "Jesuitenkolleg Uherské Hradiště"
+      },
+      {
+        "id": 103,
+        "value": "Jesuitenkolleg Jihlava"
+      },
+      {
+        "id": 104,
+        "value": "Jesuitenkolleg Kutná Hora"
+      },
+      {
+        "id": 105,
+        "value": "Jesuitenresidenz Golčův Jeníkov"
+      },
+      {
+        "id": 108,
+        "value": "Jesuitenkolleg Litoměřice"
+      },
+      {
+        "id": 111,
+        "value": "Jesuitenkolleg Jindřichův Hradec"
+      },
+      {
+        "id": 112,
+        "value": "Jesuitenkolleg Olomouc"
+      },
+      {
+        "id": 113,
+        "value": "Jesuitenkolleg Opava"
+      },
+      {
+        "id": 116,
+        "value": "Jesuitenkolleg Prague ad S. Clementem"
+      },
+      {
+        "id": 117,
+        "value": "Jesuitenkolleg Hradec Králové"
+      },
+      {
+        "id": 120,
+        "value": "Jesuitenkolleg Telč"
+      },
+      {
+        "id": 121,
+        "value": "Jesuitenkolleg Wrocław"
+      },
+      {
+        "id": 122,
+        "value": "Jesuitenkolleg Znoymo"
+      },
+      {
+        "id": 123,
+        "value": "Jesuitenkolleg Brno"
+      },
+      {
+        "id": 124,
+        "value": "Jesuitenresidenz Tuřany"
+      },
+      {
+        "id": 133,
+        "value": "Jesuitenmission Pommersdorf"
+      },
+      {
+        "id": 132,
+        "value": "Jesuitenmission Brantice"
+      },
+      {
+        "id": 136,
+        "value": "Jesuitenresidenz Košumberk"
+      },
+      {
+        "id": 138,
+        "value": "Probationshaus Telč"
+      },
+      {
+        "id": 140,
+        "value": "Jesuitenresidenz Cieszyn"
+      },
+      {
+        "id": 142,
+        "value": "Jesuitenresidenz Maria Scheinensis"
+      },
+      {
+        "id": 159,
+        "value": "Probationshaus Jičín"
+      },
+      {
+        "id": 161,
+        "value": "Jesuitenmission Dresden"
+      },
+      {
+        "id": 197,
+        "value": "Jesuitenkolleg Prague ad S. Ignatium"
+      },
+      {
+        "id": 196,
+        "value": "Jesuitenmission Římov"
+      },
+      {
+        "id": 284,
+        "value": "Jesuitenresidenz Liběšice"
+      },
+      {
+        "id": 286,
+        "value": "Jesuitenresidenz Tuchmeritz"
+      },
+      {
+        "id": 294,
+        "value": "Jesuitenmission Lichtensteinica Böhmen"
+      },
+      {
+        "id": 295,
+        "value": "Jesuitenmission in Jáchymov"
+      },
+      {
+        "id": 296,
+        "value": "Jesuitenresidenz Opařany"
+      },
+      {
+        "id": 297,
+        "value": "Jesuitenresidenz Brandýs nad Labem-Stará Boleslav"
+      },
+      {
+        "id": 300,
+        "value": "Jesuitenmission Poenitentia Bohemia Bohemica"
+      },
+      {
+        "id": 302,
+        "value": "Jesuitenmission Leipzig"
+      },
+      {
+        "id": 303,
+        "value": "Jesuitenmission Hubertusburg"
+      },
+      {
+        "id": 351,
+        "value": "Jesuitenmission Vsetín"
+      },
+      {
+        "id": 371,
+        "value": "Jesuitenmission Svatá Hora"
+      },
+      {
+        "id": 401,
+        "value": "Jesuitenmission Silesia Superiore, Cieszyn"
+      },
+      {
+        "id": 467,
+        "value": "Jesuitenmission Nový Jičín"
+      },
+      {
+        "id": 517,
+        "value": "Jesuitenmission Modlany"
+      },
+      {
+        "id": 518,
+        "value": "Jesuitenmission Kynšperk nad Ohří"
+      },
+      {
+        "id": 524,
+        "value": "Jesuitenmission Starý Hrozenkov (?)"
+      },
+      {
+        "id": 526,
+        "value": "Jesuitenmission Zizovium"
+      }
+    ],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948250",
+    "title": "Litterae annuae provinciae Bohemiae Societatis Iesu a. 1766",
+    "date": "ab 1767",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Provincia Bohemia"
+      }
+    ],
+    "note_type_facs": "",
+    "xml_id": "cod_12359",
+    "extent": "125 Bl.",
+    "height": "274",
+    "width": "200",
+    "foliation": "Moderne Foliierung.",
+    "acc_mat": "",
+    "binding": "Halbband, Deckel mit buntem Marmorpapier überzogen, 18. Jhdt.",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit, thematisch in 21 Kapitel gegliedert.",
+    "not_before": "1767",
+    "not_after": null,
+    "# when": "",
+    "date_letter": "1766"
+  },
+  "259": {
+    "id": 259,
+    "order": "8.48427672955974898628",
+    "signatur": "Cod. 12360",
+    "jesuiten_id": "jesuiten_msdesc__259",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948251",
+    "title": "Informationes ad gubernandum provinciam Bohemiam Societatis Iesu a. 1693",
+    "date": "ab 1693",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Provincia Bohemia"
+      }
+    ],
+    "note_type_facs": "",
+    "xml_id": "cod_12360",
+    "extent": "97 Bl.",
+    "height": "264",
+    "width": "203",
+    "foliation": "Zeitgenössische Foliierung in jeder kodikologischen Teil: 1–18, 1–40, 1–32. Moderne Foliierung.",
+    "acc_mat": "",
+    "binding": "Halbband, Deckel mit buntem Marmorpapier überzogen, Titelschild auf dem Vorderdeckel: 'Informatio ad gubernandum anni 1693. N. 20', Ende 17.-18. Jhdt.",
+    "summary": "Die Handschrift besteht aus drei kodikologischen Einheiten. Enthalten sind drei Katalogen in Form von gedruckten Formularen, in denen die Informationen über die Mitglieder der SJ eingetragen sind.",
+    "not_before": "1693",
+    "not_after": null,
+    "# when": "",
+    "date_letter": "1693"
+  },
+  "264": {
+    "id": 264,
+    "order": "8.48430493273542651878",
+    "signatur": "Cod. 12361",
+    "jesuiten_id": "jesuiten_msdesc__264",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948252",
+    "title": "Informationes ad gubernandum provinciam Bohemiam Societatis Iesu a. 1695",
+    "date": "ab 1695",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Provincia Bohemia"
+      }
+    ],
+    "note_type_facs": "",
+    "xml_id": "cod_12361",
+    "extent": "99 Bl.",
+    "height": "258",
+    "width": "200",
+    "foliation": "Zeitgenössische der kodikologischen Einheiten; Moderne Foliierung.",
+    "acc_mat": "",
+    "binding": "Halbband, Deckel mit buntem Marmorpapier überzogen, Titelschild auf dem Vorderdeckel: 'Informatio ad gubernandum anni 1695. N. 22', Ende 17.-18. Jhdt.",
+    "summary": "Die Handschrift besteht aus drei kodikologischen Einheiten. Enthalten sind drei Katalogen in Form von gedruckten Formularen, in denen die Informationen über die Mitglieder der SJ eingetragen sind.",
+    "not_before": "1695",
+    "not_after": null,
+    "# when": "",
+    "date_letter": "1695"
+  },
+  "265": {
+    "id": 265,
+    "order": "8.48432055749128899436",
+    "signatur": "Cod. 12363",
+    "jesuiten_id": "jesuiten_msdesc__265",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "",
+    "title": "Informationes ad gubernandum provinciam Poloniam Societatis Iesu a. 1726",
+    "date": "ab 1726",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 429,
+        "value": "Provincia Polonia"
+      }
+    ],
+    "note_type_facs": "",
+    "xml_id": "cod_12363",
+    "extent": "I, 202, I* Bl.",
+    "height": "273",
+    "width": "204",
+    "foliation": "Moderne Foliierung der ersten drei Blätter (fols. 1–3); danach zeitgenössishe Paginierung 1–404.",
+    "acc_mat": "",
+    "binding": "",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit, die in drei Teile gegliedert ist, und zwar nach der Rolle der Mitglieder als gegenwärtige oder ehemalige Rektoren von Kollegen oder solchen, die als geeignet für das Rektorenamt bezeichnet wurden: gubernant (S. 1-100), gubernarunt (S. 103-190) und apti ad gubernandum (S. 191-400).",
+    "not_before": "1726",
+    "not_after": null,
+    "# when": "",
+    "date_letter": "1726"
+  },
   "257": {
     "id": 257,
     "order": "8.48437500000000000000",
@@ -15828,7 +18592,7 @@
     "width": "203",
     "foliation": "Moderne Foliierung.",
     "acc_mat": "",
-    "binding": "Brauner Ledereinband über Pappdeckeln, Streicheisenlinien und Blindprägung, 18. Jhdt.",
+    "binding": "Brauner Ledereinband über Pappdeckeln, Streicheisenlinien und Blindprägung, Ende 17.-18. Jhdt.",
     "summary": "List aller Schuldner. Das Buch ist alphabetisch geordnet. Die Buchstaben sind mit Lesezeichen versehen. Die meisten Einträge sind gestrichen (vermutlich nach Schuldenbegleichung). Die ältesten Einträge sind aus den 1690er, die jüngsten aus den 1730er.",
     "not_before": "1692",
     "not_after": null,
