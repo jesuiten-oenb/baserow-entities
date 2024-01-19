@@ -25,9 +25,12 @@ def mentioned(value, lookup):
 def get_content(ms_item_list):
     items = []
     for x in ms_item_list:
-        pagination = 'S.'
-        if not 'r' or 'v' in x["locus_text"]:
-            pagination = 'fol.'
+        last_item = x["locus_text"][-1]
+        try:
+            int(last_item)
+            pagination = "S."
+        except ValueError:
+            pagination = "fol."
           
         text = x["locus_text"]
         title = x["title"]
