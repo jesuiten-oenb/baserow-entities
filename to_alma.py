@@ -82,7 +82,7 @@ for key, value in tqdm(data.items()):
         [
             "Organisations/Places",
             "505/8/0",
-            f"$$t {mentioned_orgs(value)}; {mentioned_places(value)}",
+            f"$$t Im Text erwähnte Orte bzw. Körperschaften: {mentioned_orgs(value)}; {mentioned_places(value)}",
         ]
     )
     result.append(["Binding", "563", value["binding"]])
