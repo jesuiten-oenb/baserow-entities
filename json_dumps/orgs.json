@@ -23601,7 +23601,7 @@
                 "value": "Cod. 12260"
             }
         ],
-        "alt_name": "Residentia Novisoliensis",
+        "alt_name": "Residentia Novisoliensis / Neosoliensis",
         "notes": "",
         "persons": []
     },
@@ -27724,7 +27724,7 @@
                 "value": "Cod. 12241"
             }
         ],
-        "alt_name": "Collegium Unguarinum",
+        "alt_name": "Collegium Unguarinum / Ungvariense",
         "notes": "",
         "persons": []
     },
@@ -37252,6 +37252,134 @@
             }
         ],
         "alt_name": "Missio (?) Zizovium",
+        "notes": "",
+        "persons": []
+    },
+    "527": {
+        "id": 527,
+        "order": "516.00000000000000000000",
+        "name": "Jesuitenmission Požega",
+        "jesuiten_id": "jesuiten_org__527",
+        "located_in": [
+            {
+                "id": 32,
+                "order": "32.00000000000000000000",
+                "name": "Požega",
+                "jesuiten_id": "jesuiten_place__32",
+                "geonames": "https://www.geonames.org/3190589/pozega.html",
+                "lat": "45.34028",
+                "long": "17.68528",
+                "wikidata": "",
+                "alt_names": [
+                    {
+                        "id": 16,
+                        "value": "Incerum"
+                    },
+                    {
+                        "id": 17,
+                        "value": "Posega"
+                    }
+                ],
+                "msdesc": [
+                    {
+                        "id": 67,
+                        "value": "Cod. 12059"
+                    },
+                    {
+                        "id": 68,
+                        "value": "Cod. 12060"
+                    },
+                    {
+                        "id": 10,
+                        "value": "Cod. 12138"
+                    },
+                    {
+                        "id": 11,
+                        "value": "Cod. 12266"
+                    },
+                    {
+                        "id": 31,
+                        "value": "Cod. 12273"
+                    },
+                    {
+                        "id": 113,
+                        "value": "Cod. 12279"
+                    },
+                    {
+                        "id": 32,
+                        "value": "Cod. 12274"
+                    },
+                    {
+                        "id": 33,
+                        "value": "Cod. 12275"
+                    },
+                    {
+                        "id": 34,
+                        "value": "Cod. 12276"
+                    },
+                    {
+                        "id": 30,
+                        "value": "Cod. 12277"
+                    },
+                    {
+                        "id": 60,
+                        "value": "Cod. 12241"
+                    }
+                ]
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Possegana Missio",
+        "notes": "",
+        "persons": []
+    },
+    "528": {
+        "id": 528,
+        "order": "517.00000000000000000000",
+        "name": "Jesuitenmission Tapensis",
+        "jesuiten_id": "jesuiten_org__528",
+        "located_in": [],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Tapensis diocesis et comitatus Jaurinensis",
+        "notes": "",
+        "persons": []
+    },
+    "529": {
+        "id": 529,
+        "order": "518.00000000000000000000",
+        "name": "Jesuitenmission Gömeriensis",
+        "jesuiten_id": "jesuiten_org__529",
+        "located_in": [],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Gömeriensis / Gömöriensis",
+        "notes": "",
+        "persons": []
+    },
+    "530": {
+        "id": 530,
+        "order": "519.00000000000000000000",
+        "name": "Jesuitenmission Csesznek",
+        "jesuiten_id": "jesuiten_org__530",
+        "located_in": [
+            {
+                "id": 430,
+                "order": "421.00000000000000000000",
+                "name": "Csesznek",
+                "jesuiten_id": "jesuiten_place__430",
+                "geonames": "https://www.geonames.org/3054147/csesznek.html",
+                "lat": "47.35664",
+                "long": "17.88515",
+                "wikidata": "",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Csesznekensis",
         "notes": "",
         "persons": []
     }
