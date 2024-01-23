@@ -22293,7 +22293,7 @@
     "foliation": "Moderne Foliierung.",
     "acc_mat": "",
     "binding": "",
-    "summary": "Katalog der Mitglieder in Provinz Austria für das Jahr 1739. Die Handschrift besteht aus einer kodikologischen Einheit. Sie ist in drei Teilen unterteilt: Sacerdotes (fols. 1–10); Scholastici: (fols. 11–17); und Coadjutores (fols. 19–24). Die Namen sind jeweils gedruckt, Angaben zur Nationalität, Geburtsort, Geburtsdatum, Datum des Eintritts in SJ, Gradus (z. T. nachgetragen) und Beruf sind handschriftlich ergänzt.",
+    "summary": "Katalog der Mitglieder in Provinz Austria für das Jahr 1739. Die Handschrift besteht aus einer kodikologischen Einheit. Sie ist in drei Teilen unterteilt: Sacerdotes (fols. 1–10); Scholastici: (fols. 11–17); und Coadjutores (fols. 19–24). Die Namen sind auf kleinen Zetteln gedruckt, die dann auf der ersten Spalte im Buch überklebt worden sind. Die Angaben in den anderen Spalten zur Nationalität, Geburtsort, Geburtsdatum, Datum des Eintritts in SJ, Gradus (z. T. nachgetragen) und Beruf sind handschriftlich ergänzt.",
     "not_before": "1739",
     "not_after": "1742",
     "# when": "",
@@ -22827,7 +22827,7 @@
         "value": "Provincia Bohemia"
       }
     ],
-    "note_type_facs": "",
+    "note_type_facs": "https://digital.onb.ac.at/rep/access/open/131DA150",
     "xml_id": "cod_11961",
     "extent": "IV, 575 Bl.",
     "height": "285",
@@ -26249,6 +26249,36 @@
     "# when": "",
     "date_letter": "1770"
   },
+  "338": {
+    "id": 338,
+    "order": "37.30666666666666486663",
+    "signatur": "Cod. 12219",
+    "jesuiten_id": "jesuiten_msdesc__338",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13960846",
+    "title": "Sammelhandschrift: Litterae annuae provinciae Austriae Societatis Iesu a. 1641-1646",
+    "date": "ab 1642",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
+    "note_type_facs": "",
+    "xml_id": "cod_12219",
+    "extent": "II, 380, I* Bl.",
+    "height": "290",
+    "width": "180",
+    "foliation": "Moderne Foliierung, springt von 238 auf 289. Zeitgenössische Paginierung, teilweise erhalten.",
+    "acc_mat": "",
+    "binding": "Halbband. Deckel mit braunem Marmorpapier bedeckt. Rücken mit Blindprägung.",
+    "summary": "Die zusammengesetzte Handschrift enthält die Berichte der Provincia Austria für die Jahre 1641 bis 1646. Die Berichte sind nach Domizilen gegliedert. Blattgröße teilweise sehr unterschiedlich.",
+    "not_before": "1642",
+    "not_after": null,
+    "# when": "",
+    "date_letter": "1641, 1642, 1643, 1644, 1645, 1646"
+  },
   "221": {
     "id": 221,
     "order": "37.30769230769230659917",
@@ -26308,6 +26338,96 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1769"
+  },
+  "339": {
+    "id": 339,
+    "order": "37.31428571428571672186",
+    "signatur": "Cod. 12221",
+    "jesuiten_id": "jesuiten_msdesc__339",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13958989",
+    "title": "Sammelhandschrift: Litterae annuae provinciae Austriae Societatis Iesu a. 1654-1660",
+    "date": "ab 1655",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
+    "note_type_facs": "",
+    "xml_id": "cod_12221",
+    "extent": "IV, 327, IV* Bl.",
+    "height": "290",
+    "width": "185",
+    "foliation": "Moderne Foliierung. Zeitgenössische Paginierung 1–127 auf fol. 218r–301r.",
+    "acc_mat": "",
+    "binding": "Halbband. Deckel mit braunem Marmorpapier bedeckt. Rücken mit Blindprägung.",
+    "summary": "Die zusammengesetzte Handschrift enthält die Berichte der Provincia Austria für die Jahre 1654 bis 1660. Der Bericht über das Jahr 1658 ist nach Domizilen gegliedert; alle andere sind ohne Gliederung.",
+    "not_before": "1655",
+    "not_after": null,
+    "# when": "",
+    "date_letter": "1654, 1655, 1656, 1657, 1658, 1659, 1660"
+  },
+  "340": {
+    "id": 340,
+    "order": "37.31481481481481665696",
+    "signatur": "Cod. 12222",
+    "jesuiten_id": "jesuiten_msdesc__340",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13958270",
+    "title": "Sammelhandschrift: Litterae annuae provinciae Austriae Societatis Iesu a. 1661-1666",
+    "date": "ab 1662",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
+    "note_type_facs": "https://digital.onb.ac.at/rep/access/open/131E069C",
+    "xml_id": "cod_12222",
+    "extent": "I, 328 Bl.",
+    "height": "290",
+    "width": "207",
+    "foliation": "Moderne Foliierung. Zeitgenössische Foliierung: 1–57 (fol. 187r–242r) und 1–84 (fol. 245r–327r).",
+    "acc_mat": "",
+    "binding": "Brauner Halblederband mit Pappdeckeln.  Rücken mit Blindprägung.",
+    "summary": "Die zusammengesetzte Handschrift enthält die Berichte der Provincia Austria für die Jahre 1661 bis 1666. Die Berichte sind nicht gegliedert. Die Themen sind teilweise am Seitenrand aufgeführt. Die ersten zwei Litterae auf fol. 1r-74v sind auf Papier eingelegt, um die ursprünglich kleineren Blätter dem Format der folgenden Blätter anzupassen.",
+    "not_before": "1662",
+    "not_after": null,
+    "# when": "",
+    "date_letter": "1661, 1662, 1663, 1664, 1665, 1666"
+  },
+  "341": {
+    "id": 341,
+    "order": "37.31506849315068308215",
+    "signatur": "Cod. 12223",
+    "jesuiten_id": "jesuiten_msdesc__341",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13958903",
+    "title": "Sammelhandschrift: Litterae annuae provinciae Austriae Societatis Iesu a. 1667-1670, 1653.",
+    "date": "ab 1668",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
+    "note_type_facs": "https://digital.onb.ac.at/rep/access/open/131E069D",
+    "xml_id": "cod_12223",
+    "extent": "IV, 356, IV* Bl.",
+    "height": "290",
+    "width": "195",
+    "foliation": "Moderne Foliierung: 1–342, 342*, 343–355.",
+    "acc_mat": "",
+    "binding": "Brauner Halblederband mit Pappdeckeln.  Rücken mit Blindprägung.",
+    "summary": "Die zusammengesetzte Handschrift enthält die Berichte der Provincia Austria für das Jahr 1653 und die Jahre 1667 bis 1670. Die Berichte sind thematisch in Kapiteln gegliedert.",
+    "not_before": "1668",
+    "not_after": null,
+    "# when": "",
+    "date_letter": "1667, 1668, 1669, 1670, 1653"
   },
   "337": {
     "id": 337,
