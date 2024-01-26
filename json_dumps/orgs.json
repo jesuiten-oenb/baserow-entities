@@ -5396,10 +5396,6 @@
                         "value": "Cod. 12072"
                     },
                     {
-                        "id": 137,
-                        "value": "Cod. 12079"
-                    },
-                    {
                         "id": 6,
                         "value": "Cod. 12123"
                     },
@@ -7589,10 +7585,6 @@
                         "value": "Cod. 12072"
                     },
                     {
-                        "id": 137,
-                        "value": "Cod. 12079"
-                    },
-                    {
                         "id": 6,
                         "value": "Cod. 12123"
                     },
@@ -8089,10 +8081,6 @@
                     {
                         "id": 103,
                         "value": "Cod. 12069"
-                    },
-                    {
-                        "id": 137,
-                        "value": "Cod. 12079"
                     },
                     {
                         "id": 6,
@@ -9235,10 +9223,6 @@
                     {
                         "id": 97,
                         "value": "Cod. 12062"
-                    },
-                    {
-                        "id": 137,
-                        "value": "Cod. 12079"
                     },
                     {
                         "id": 10,
@@ -11599,7 +11583,7 @@
                 "value": "Cod. 12240"
             }
         ],
-        "alt_name": "Solnensis residentia",
+        "alt_name": "Solnensis residentia / Zolnensis residentia",
         "notes": "",
         "persons": []
     },
@@ -12417,10 +12401,6 @@
                         "value": "Cod. 12072"
                     },
                     {
-                        "id": 137,
-                        "value": "Cod. 12079"
-                    },
-                    {
                         "id": 6,
                         "value": "Cod. 12123"
                     },
@@ -13230,7 +13210,7 @@
                 "value": "Cod. 12212"
             }
         ],
-        "alt_name": "Collegium Poseganum",
+        "alt_name": "Collegium Poseganum / Posseganum",
         "notes": "",
         "persons": []
     },
@@ -13295,10 +13275,6 @@
                     {
                         "id": 104,
                         "value": "Cod. 12072"
-                    },
-                    {
-                        "id": 137,
-                        "value": "Cod. 12079"
                     },
                     {
                         "id": 6,
@@ -13471,10 +13447,6 @@
                     {
                         "id": 103,
                         "value": "Cod. 12069"
-                    },
-                    {
-                        "id": 137,
-                        "value": "Cod. 12079"
                     },
                     {
                         "id": 6,
@@ -13870,7 +13842,7 @@
                 "value": "Cod. 12240"
             }
         ],
-        "alt_name": "Collegium Szakolczenze",
+        "alt_name": "Collegium Szakolczenze / Szacolca",
         "notes": "",
         "persons": []
     },
@@ -19233,10 +19205,6 @@
                         "value": "Cod. 12072"
                     },
                     {
-                        "id": 137,
-                        "value": "Cod. 12079"
-                    },
-                    {
                         "id": 6,
                         "value": "Cod. 12123"
                     },
@@ -22848,10 +22816,6 @@
                         "value": "Cod. 12072"
                     },
                     {
-                        "id": 137,
-                        "value": "Cod. 12079"
-                    },
-                    {
                         "id": 6,
                         "value": "Cod. 12123"
                     },
@@ -24057,10 +24021,6 @@
                     {
                         "id": 103,
                         "value": "Cod. 12069"
-                    },
-                    {
-                        "id": 137,
-                        "value": "Cod. 12079"
                     },
                     {
                         "id": 6,
@@ -37380,6 +37340,55 @@
         "gnd": "",
         "msdesc": [],
         "alt_name": "Missio Csesznekensis",
+        "notes": "",
+        "persons": []
+    },
+    "531": {
+        "id": 531,
+        "order": "520.00000000000000000000",
+        "name": "Jesuitenmission Celiensis",
+        "jesuiten_id": "jesuiten_org__531",
+        "located_in": [],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Celiensis",
+        "notes": "",
+        "persons": []
+    },
+    "532": {
+        "id": 532,
+        "order": "521.00000000000000000000",
+        "name": "Probationshaus Banská Bystrica",
+        "jesuiten_id": "jesuiten_org__532",
+        "located_in": [],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Domus probationis tertiae",
+        "notes": "",
+        "persons": []
+    },
+    "533": {
+        "id": 533,
+        "order": "522.00000000000000000000",
+        "name": "Jesuitenmission Levice",
+        "jesuiten_id": "jesuiten_org__533",
+        "located_in": [
+            {
+                "id": 45,
+                "order": "45.00000000000000000000",
+                "name": "Levice",
+                "jesuiten_id": "jesuiten_place__45",
+                "geonames": "https://www.geonames.org/3059101/levice.html",
+                "lat": "48.21563",
+                "long": "18.60705",
+                "wikidata": "https://www.wikidata.org/wiki/Q506693",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Leuensis",
         "notes": "",
         "persons": []
     }
