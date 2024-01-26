@@ -50,7 +50,7 @@ def get_content(ms_item_list):
         ]
         content = " ".join([part for part in parts if isinstance(part, str)])
         items.append(content)
-    return ".-.".join(items)
+    return ". - ".join(items)
 
 
 with open(os.path.join("json_dumps", "msdesc.json"), "r", encoding="utf-8") as f:
@@ -69,15 +69,15 @@ for key, value in tqdm(data.items()):
     )
     result.append([value["signatur"], "ALMA", "data"])
     result.append(["Title", "245", value["title"]])
-    result.append(["Date", "264", value["date"]])
+    result.append(["Date", "264", value["century"], value["date"]])
     result.append(
         [
             "Extent, Foliation, Measures",
             "300",
-            f"§§a {value['extent']}; {value['foliation']}; $$c {value['height']} × {value['width']} mm.",
+            f"$$a {value['extent']}; {value['foliation']}; $$c {value['height']} × {value['width']} mm.",
         ]
     )
-    result.append(["Fragments", "500", f"§§a {value['acc_mat']}"])
+    result.append(["Fragments", "500", f"$$a {value['acc_mat']}"])
     result.append(
         [
             "Organisations/Places",
@@ -85,8 +85,8 @@ for key, value in tqdm(data.items()):
             f"$$t Im Text erwähnte Orte bzw. Körperschaften: {mentioned_orgs(value)}; {mentioned_places(value)}",
         ]
     )
+    result.append(["Content", "505/8/0", get_content(ms_item_list)])
     result.append(["Binding", "563", value["binding"]])
-    result.append(["Content", "505", get_content(ms_item_list)])
     result.append(["", "", ""])
 
 df = pd.DataFrame(result)
