@@ -37366,5 +37366,30 @@
         "alt_name": "Domus probationis tertiae",
         "notes": "",
         "persons": []
+    },
+    "533": {
+        "id": 533,
+        "order": "522.00000000000000000000",
+        "name": "Jesuitenmission Levice",
+        "jesuiten_id": "jesuiten_org__533",
+        "located_in": [
+            {
+                "id": 45,
+                "order": "45.00000000000000000000",
+                "name": "Levice",
+                "jesuiten_id": "jesuiten_place__45",
+                "geonames": "https://www.geonames.org/3059101/levice.html",
+                "lat": "48.21563",
+                "long": "18.60705",
+                "wikidata": "https://www.wikidata.org/wiki/Q506693",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Leuensis",
+        "notes": "",
+        "persons": []
     }
 }
