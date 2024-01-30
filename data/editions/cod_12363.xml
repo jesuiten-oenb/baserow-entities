@@ -32,7 +32,7 @@
                         <origDate notBefore="1726-01-01">ab 1726</origDate>
                         <date type="letter">1726 </date>
                         <note type="catalogue">
-                            <ref target=""/>
+                            <ref target="http://data.onb.ac.at/rec/AC13953029"/>
                         </note>
                     </head>
                     <msContents>                   
@@ -42,7 +42,7 @@
                             <listPlace>
                                 <head>Erwähnte Orte:</head>
                                 <place>
-                                    <placeName key="#jesuiten_place__429">Provincia Polonia</placeName>
+                                    <placeName key="#jesuiten_place__429">Provincia Polonia Minor</placeName>
                                 </place>
                             </listPlace>                           
                         </summary> 
@@ -79,7 +79,8 @@
     <text>
         <body><p/></body>
     <back><listPlace><place xml:id="jesuiten_place__429">
-                  <placeName>Provincia Polonia</placeName>
-               <noteGrp><note target="cod_12363.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12363</note></noteGrp></place>
+                  <placeName>Provincia Polonia Minor</placeName>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q11390</idno>
+               <noteGrp><note target="cod_11982.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11982</note><note target="cod_11983.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11983</note><note target="cod_11989.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11989</note><note target="cod_12005.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12005</note><note target="cod_12006.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12006</note><note target="cod_12009.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12009</note><note target="cod_12009__asterix.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12009*</note><note target="cod_12012.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12012</note><note target="cod_12013.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12013</note><note target="cod_12363.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12363</note></noteGrp></place>
                </listPlace></back></text>
 </TEI>

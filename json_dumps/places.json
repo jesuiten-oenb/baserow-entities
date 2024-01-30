@@ -8999,20 +8999,7 @@
         "value": "Regnum Poloniae"
       }
     ],
-    "msdesc": [
-      {
-        "id": 170,
-        "value": "Cod. 11982"
-      },
-      {
-        "id": 171,
-        "value": "Cod. 11983"
-      },
-      {
-        "id": 190,
-        "value": "Cod. 11989"
-      }
-    ]
+    "msdesc": []
   },
   "318": {
     "id": 318,
@@ -9402,6 +9389,18 @@
         "value": "Cod. 12030"
       },
       {
+        "id": 1,
+        "value": "Cod. 12031"
+      },
+      {
+        "id": 2,
+        "value": "Cod. 12032"
+      },
+      {
+        "id": 3,
+        "value": "Cod. 12033"
+      },
+      {
         "id": 80,
         "value": "Cod. 12070"
       },
@@ -9448,6 +9447,10 @@
       {
         "id": 155,
         "value": "Cod. 12082"
+      },
+      {
+        "id": 393,
+        "value": "Cod. 12083"
       },
       {
         "id": 173,
@@ -9606,6 +9609,66 @@
         "value": "Cod. 12122"
       },
       {
+        "id": 6,
+        "value": "Cod. 12123"
+      },
+      {
+        "id": 47,
+        "value": "Cod. 12040"
+      },
+      {
+        "id": 48,
+        "value": "Cod. 12041"
+      },
+      {
+        "id": 49,
+        "value": "Cod. 12042"
+      },
+      {
+        "id": 50,
+        "value": "Cod. 12043"
+      },
+      {
+        "id": 54,
+        "value": "Cod. 12044"
+      },
+      {
+        "id": 55,
+        "value": "Cod. 12045"
+      },
+      {
+        "id": 56,
+        "value": "Cod. 12046"
+      },
+      {
+        "id": 62,
+        "value": "Cod. 12047"
+      },
+      {
+        "id": 86,
+        "value": "Cod. 12051"
+      },
+      {
+        "id": 87,
+        "value": "Cod. 12052"
+      },
+      {
+        "id": 88,
+        "value": "Cod. 12053"
+      },
+      {
+        "id": 89,
+        "value": "Cod. 12054"
+      },
+      {
+        "id": 91,
+        "value": "Cod. 12055"
+      },
+      {
+        "id": 92,
+        "value": "Cod. 12056"
+      },
+      {
         "id": 291,
         "value": "Cod. 12126"
       },
@@ -9660,6 +9723,10 @@
       {
         "id": 302,
         "value": "Cod. 12137"
+      },
+      {
+        "id": 10,
+        "value": "Cod. 12138"
       },
       {
         "id": 36,
@@ -9726,6 +9793,30 @@
         "value": "Cod. 12268"
       },
       {
+        "id": 14,
+        "value": "Cod. 12034"
+      },
+      {
+        "id": 15,
+        "value": "Cod. 12035"
+      },
+      {
+        "id": 19,
+        "value": "Cod. 12036"
+      },
+      {
+        "id": 20,
+        "value": "Cod. 12037"
+      },
+      {
+        "id": 21,
+        "value": "Cod. 12038"
+      },
+      {
+        "id": 22,
+        "value": "Cod. 12039"
+      },
+      {
         "id": 123,
         "value": "Cod. 12242"
       },
@@ -9760,6 +9851,10 @@
       {
         "id": 61,
         "value": "Cod. 11960"
+      },
+      {
+        "id": 76,
+        "value": "Cod. 11978"
       },
       {
         "id": 303,
@@ -11394,17 +11489,53 @@
   "429": {
     "id": 429,
     "order": "420.00000000000000000000",
-    "name": "Provincia Polonia",
+    "name": "Provincia Polonia Minor",
     "jesuiten_id": "jesuiten_place__429",
     "geonames": "",
     "lat": null,
     "long": null,
-    "wikidata": "",
+    "wikidata": "https://www.wikidata.org/wiki/Q11390",
     "alt_names": [],
     "msdesc": [
       {
+        "id": 75,
+        "value": "Cod. 12013"
+      },
+      {
         "id": 265,
         "value": "Cod. 12363"
+      },
+      {
+        "id": 170,
+        "value": "Cod. 11982"
+      },
+      {
+        "id": 171,
+        "value": "Cod. 11983"
+      },
+      {
+        "id": 190,
+        "value": "Cod. 11989"
+      },
+      {
+        "id": 95,
+        "value": "Cod. 12005"
+      },
+      {
+        "id": 96,
+        "value": "Cod. 12006"
+      },
+      {
+        "id": 396,
+        "value": "Cod. 12009"
+      },
+      {
+        "id": 395,
+        "value": "Cod. 12009*"
+      },
+      {
+        "id": 45,
+        "value": "Cod. 12012"
       }
     ]
   },
@@ -11418,6 +11549,211 @@
     "long": "17.88515",
     "wikidata": "",
     "alt_names": [],
+    "msdesc": []
+  },
+  "431": {
+    "id": 431,
+    "order": "422.00000000000000000000",
+    "name": "Ovruch",
+    "jesuiten_id": "jesuiten_place__431",
+    "geonames": "https://www.geonames.org/698131/ovruch.html",
+    "lat": "51.32460",
+    "long": "28.80351",
+    "wikidata": "https://www.wikidata.org/wiki/Q27039",
+    "alt_names": [
+      {
+        "id": 295,
+        "value": "Owrutsch"
+      }
+    ],
+    "msdesc": []
+  },
+  "432": {
+    "id": 432,
+    "order": "423.00000000000000000000",
+    "name": "Markowce",
+    "jesuiten_id": "jesuiten_place__432",
+    "geonames": "https://www.geonames.org/765187/markowce.html",
+    "lat": "49.53758",
+    "long": "22.11531",
+    "wikidata": "",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "433": {
+    "id": 433,
+    "order": "424.00000000000000000000",
+    "name": "Kovel",
+    "jesuiten_id": "jesuiten_place__433",
+    "geonames": "https://www.geonames.org/704617/kovel.html",
+    "lat": "51.21526",
+    "long": "24.70867",
+    "wikidata": "",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "434": {
+    "id": 434,
+    "order": "425.00000000000000000000",
+    "name": "Kremenets",
+    "jesuiten_id": "jesuiten_place__434",
+    "geonames": "https://geonames.org/704143/kremenets.html",
+    "lat": "50.09864",
+    "long": "25.72787",
+    "wikidata": "https://www.wikidata.org/wiki/Q849116",
+    "alt_names": [
+      {
+        "id": 296,
+        "value": "Kremenez"
+      }
+    ],
+    "msdesc": []
+  },
+  "435": {
+    "id": 435,
+    "order": "426.00000000000000000000",
+    "name": "Bila Tserkva",
+    "jesuiten_id": "jesuiten_place__435",
+    "geonames": "https://www.geonames.org/712165/bila-tserkva.html",
+    "lat": "49.80040",
+    "long": "30.12851",
+    "wikidata": "https://www.wikidata.org/wiki/Q33342",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "436": {
+    "id": 436,
+    "order": "427.00000000000000000000",
+    "name": "Błonie",
+    "jesuiten_id": "jesuiten_place__436",
+    "geonames": "https://www.geonames.org/775820/blonie.html",
+    "lat": "52.19849",
+    "long": "20.61709",
+    "wikidata": "https://www.wikidata.org/wiki/Q608376",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "437": {
+    "id": 437,
+    "order": "428.00000000000000000000",
+    "name": "Sambir",
+    "jesuiten_id": "jesuiten_place__437",
+    "geonames": "https://www.geonames.org/694864/sambir.html",
+    "lat": "49.51631",
+    "long": "23.20060",
+    "wikidata": "https://www.wikidata.org/wiki/Q156593",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "438": {
+    "id": 438,
+    "order": "429.00000000000000000000",
+    "name": "Bar",
+    "jesuiten_id": "jesuiten_place__438",
+    "geonames": "https://www.geonames.org/712861/bar.html",
+    "lat": "49.07362",
+    "long": "27.67404",
+    "wikidata": "",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "439": {
+    "id": 439,
+    "order": "430.00000000000000000000",
+    "name": "Sharhorod",
+    "jesuiten_id": "jesuiten_place__439",
+    "geonames": "https://www.geonames.org/694350/sharhorod.html",
+    "lat": "48.73562",
+    "long": "28.08459",
+    "wikidata": "https://www.wikidata.org/wiki/Q691504",
+    "alt_names": [
+      {
+        "id": 297,
+        "value": "Scharhorod"
+      }
+    ],
+    "msdesc": []
+  },
+  "440": {
+    "id": 440,
+    "order": "431.00000000000000000000",
+    "name": "Lychkivtsi",
+    "jesuiten_id": "jesuiten_place__440",
+    "geonames": "https://www.geonames.org/702698/luchkovtsy.html",
+    "lat": "49.14413",
+    "long": "26.17439",
+    "wikidata": "https://www.wikidata.org/wiki/Q4270887",
+    "alt_names": [
+      {
+        "id": 298,
+        "value": "Liczkowce"
+      }
+    ],
+    "msdesc": []
+  },
+  "441": {
+    "id": 441,
+    "order": "432.00000000000000000000",
+    "name": "Krasnystaw",
+    "jesuiten_id": "jesuiten_place__441",
+    "geonames": "https://www.geonames.org/767605/krasnystaw.html",
+    "lat": "50.98464",
+    "long": "23.17420",
+    "wikidata": "https://www.wikidata.org/wiki/Q155088",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "442": {
+    "id": 442,
+    "order": "433.00000000000000000000",
+    "name": "Łaszczów",
+    "jesuiten_id": "jesuiten_place__442",
+    "geonames": "https://www.geonames.org/766692/laszczow.html",
+    "lat": "50.53332",
+    "long": "23.72562",
+    "wikidata": "https://www.wikidata.org/wiki/Q2167485",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "443": {
+    "id": 443,
+    "order": "434.00000000000000000000",
+    "name": "Nastasiv",
+    "jesuiten_id": "jesuiten_place__443",
+    "geonames": "https://www.geonames.org/700438/nastasiv.html",
+    "lat": "49.42401",
+    "long": "25.50883",
+    "wikidata": "https://www.wikidata.org/wiki/Q664118",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "444": {
+    "id": 444,
+    "order": "435.00000000000000000000",
+    "name": "Volodymyr",
+    "jesuiten_id": "jesuiten_place__444",
+    "geonames": "https://www.geonames.org/689378/volodymyr-volynskyi.html",
+    "lat": "50.85253",
+    "long": "24.32364",
+    "wikidata": "https://www.wikidata.org/wiki/Q33544",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "445": {
+    "id": 445,
+    "order": "436.00000000000000000000",
+    "name": "Ivano-Frankivsk",
+    "jesuiten_id": "jesuiten_place__445",
+    "geonames": "https://www.geonames.org/707471/ivano-frankivsk.html",
+    "lat": "48.92312",
+    "long": "24.71248",
+    "wikidata": "https://www.wikidata.org/wiki/Q156726",
+    "alt_names": [
+      {
+        "id": 299,
+        "value": "Stanisławów"
+      }
+    ],
     "msdesc": []
   }
 }

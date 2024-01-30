@@ -4623,5 +4623,77 @@
         "value": "Kynšperk nad Ohří"
       }
     ]
+  },
+  "295": {
+    "id": 295,
+    "order": "295.00000000000000000000",
+    "Name": "Owrutsch",
+    "Notes": {
+      "id": 11394,
+      "value": "ger",
+      "color": "green"
+    },
+    "places": [
+      {
+        "id": 431,
+        "value": "Ovruch"
+      }
+    ]
+  },
+  "296": {
+    "id": 296,
+    "order": "296.00000000000000000000",
+    "Name": "Kremenez",
+    "Notes": {
+      "id": 11394,
+      "value": "ger",
+      "color": "green"
+    },
+    "places": [
+      {
+        "id": 434,
+        "value": "Kremenets"
+      }
+    ]
+  },
+  "297": {
+    "id": 297,
+    "order": "297.00000000000000000000",
+    "Name": "Scharhorod",
+    "Notes": {
+      "id": 11394,
+      "value": "ger",
+      "color": "green"
+    },
+    "places": [
+      {
+        "id": 439,
+        "value": "Sharhorod"
+      }
+    ]
+  },
+  "298": {
+    "id": 298,
+    "order": "298.00000000000000000000",
+    "Name": "Liczkowce",
+    "Notes": null,
+    "places": [
+      {
+        "id": 440,
+        "value": "Lychkivtsi"
+      }
+    ]
+  },
+  "299": {
+    "id": 299,
+    "order": "299.00000000000000000000",
+    "Name": "Stanisławów",
+    "Notes": null,
+    "places": [
+      {
+        "id": 445,
+        "value": "Ivano-Frankivsk"
+      }
+    ]
   }
 }

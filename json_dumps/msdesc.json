@@ -9,7 +9,12 @@
     "title": "Litterae annuae provinciae Poloniae Societatis Iesu a. 1609-1613",
     "date": "ab 1610",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 429,
+        "value": "Provincia Polonia Minor"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_12013",
     "extent": "II, 74, I* Bl.",
@@ -267,7 +272,12 @@
     "title": "Litterae annuae provinciae Austriae Societatis Iesu a. 1633",
     "date": "ab 1633",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
     "note_type_facs": "https://data.onb.ac.at/rep/131ABE3B",
     "xml_id": "cod_12031",
     "extent": "54 Bl.",
@@ -386,7 +396,12 @@
     "title": "Litterae annuae provinciae Austriae Societatis Iesu a. 1635",
     "date": "ab 1635",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
     "note_type_facs": "http://data.onb.ac.at/dtl/9135782",
     "xml_id": "cod_12032",
     "extent": "26 Bl.",
@@ -474,7 +489,12 @@
         "value": "Christophorus Banffy"
       }
     ],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
     "note_type_facs": "http://data.onb.ac.at/dtl/9086968",
     "xml_id": "cod_12033",
     "extent": "31 Bl.",
@@ -3491,6 +3511,37 @@
     "date_letter": "1685",
     "century": "17. Jhdt."
   },
+  "393": {
+    "id": 393,
+    "order": "4.93103448275862099592",
+    "signatur": "Cod. 12083",
+    "jesuiten_id": "jesuiten_msdesc__393",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13947444",
+    "title": "Litterae annuae provinciae Austriae Societatis Iesu a. 1686",
+    "date": "",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
+    "note_type_facs": "",
+    "xml_id": "cod_12083",
+    "extent": "",
+    "height": null,
+    "width": null,
+    "foliation": "",
+    "acc_mat": "",
+    "binding": "",
+    "summary": "",
+    "not_before": null,
+    "not_after": null,
+    "# when": "",
+    "date_letter": "1686",
+    "century": "17. Jhdt."
+  },
   "173": {
     "id": 173,
     "order": "4.93333333333333357018",
@@ -5390,6 +5441,10 @@
       {
         "id": 87,
         "value": "Špania Dolina"
+      },
+      {
+        "id": 342,
+        "value": "Provincia Austria"
       }
     ],
     "note_type_facs": "https://digital.onb.ac.at/rep/access/open/131D96A9",
@@ -5417,7 +5472,12 @@
     "title": "Litterae annuae provinciae Austriae Societatis Iesu a. 1643",
     "date": "1644–Feb. 1645",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
     "note_type_facs": "http://data.onb.ac.at/dtl/9068110",
     "xml_id": "cod_12040",
     "extent": "III, 35, II* Bl.",
@@ -5443,7 +5503,12 @@
     "title": "Litterae annuae provinciae Austriae Societatis Iesu a. 1644",
     "date": "1645–Sept. 1646",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
     "note_type_facs": "http://data.onb.ac.at/dtl/9066708",
     "xml_id": "cod_12041",
     "extent": "II, 55 Bl.",
@@ -5469,7 +5534,12 @@
     "title": "Litterae annuae provinciae Austriae Societatis Iesu a. 1645",
     "date": "1646–Jan. 1648",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
     "note_type_facs": "http://data.onb.ac.at/dtl/9065776",
     "xml_id": "cod_12042",
     "extent": "II, 83, I* Bl.",
@@ -5495,7 +5565,12 @@
     "title": "Litterae annuae provinciae Austriae Societatis Iesu a. 1646",
     "date": "1647",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
     "note_type_facs": "http://data.onb.ac.at/dtl/9232156",
     "xml_id": "cod_12043",
     "extent": "V, 77 Bl.",
@@ -5521,7 +5596,12 @@
     "title": "Litterae annuae provinciae Austriae Societatis Iesu a. 1647",
     "date": "ab 1648",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
     "note_type_facs": "http://data.onb.ac.at/dtl/9228812",
     "xml_id": "cod_12044",
     "extent": "IV, 77 Bl.",
@@ -5547,7 +5627,12 @@
     "title": "Litterae annuae provinciae Austriae Societatis Iesu a. 1648",
     "date": "1649–März 1650",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
     "note_type_facs": "http://data.onb.ac.at/dtl/9141035",
     "xml_id": "cod_12045",
     "extent": "II, 70, I* Bl.",
@@ -5573,7 +5658,12 @@
     "title": "Litterae annuae provinciae Austriae Societatis Iesu a. 1649",
     "date": "1650–Aug. 1651",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
     "note_type_facs": "http://data.onb.ac.at/dtl/9141817",
     "xml_id": "cod_12046",
     "extent": "109 Bl.",
@@ -5599,7 +5689,12 @@
     "title": "Litterae annuae provinciae Austriae Societatis Iesu a. 1650",
     "date": "1651–Dez. 1652",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
     "note_type_facs": "http://data.onb.ac.at/dtl/9233008",
     "xml_id": "cod_12047",
     "extent": "IV, 92, I* Bl.",
@@ -6092,7 +6187,12 @@
     "title": "Litterae annuae provinciae Austriae Societatis Iesu a. 1654",
     "date": "ab 1655",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
     "note_type_facs": "http://data.onb.ac.at/dtl/9248530",
     "xml_id": "cod_12051",
     "extent": "III, 35 Bl.",
@@ -6235,7 +6335,12 @@
     "title": "Litterae annuae provinciae Austriae Societatis Iesu a. 1655",
     "date": "1656–1657",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
     "note_type_facs": "http://data.onb.ac.at/dtl/9238362",
     "xml_id": "cod_12052",
     "extent": "II, 35, I* Bl.",
@@ -6261,7 +6366,12 @@
     "title": "Litterae annuae provinciae Austriae Societatis Iesu a. 1656",
     "date": "ab 1657",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
     "note_type_facs": "http://data.onb.ac.at/dtl/9189785",
     "xml_id": "cod_12053",
     "extent": "31, I* Bl.",
@@ -6287,7 +6397,12 @@
     "title": "Litterae annuae provinciae Austriae Societatis Iesu a. 1657",
     "date": "1658–1660",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
     "note_type_facs": "http://data.onb.ac.at/dtl/9227480",
     "xml_id": "cod_12054",
     "extent": "III, 36, I* Bl.",
@@ -6313,7 +6428,12 @@
     "title": "Litterae annuae provinciae Austriae Societatis Iesu a. 1658",
     "date": "ab 1659",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
     "note_type_facs": "http://data.onb.ac.at/dtl/9228108",
     "xml_id": "cod_12055",
     "extent": "II, 30 Bl.",
@@ -6472,6 +6592,10 @@
       {
         "id": 172,
         "value": "Transylvania"
+      },
+      {
+        "id": 342,
+        "value": "Provincia Austria"
       }
     ],
     "note_type_facs": "http://data.onb.ac.at/dtl/9216368",
@@ -7314,6 +7438,10 @@
       {
         "id": 87,
         "value": "Špania Dolina"
+      },
+      {
+        "id": 342,
+        "value": "Provincia Austria"
       }
     ],
     "note_type_facs": "https://digital.onb.ac.at/rep/access/open/131D356D",
@@ -18986,14 +19114,14 @@
     "signatur": "Cod. 12363",
     "jesuiten_id": "jesuiten_msdesc__265",
     "mentioned_orgs": [],
-    "note_type_catalogue": "",
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13953029",
     "title": "Informationes ad gubernandum provinciam Poloniam Societatis Iesu a. 1726",
     "date": "ab 1726",
     "persons": [],
     "mentioned_places": [
       {
         "id": 429,
-        "value": "Provincia Polonia"
+        "value": "Provincia Polonia Minor"
       }
     ],
     "note_type_facs": "",
@@ -21203,7 +21331,12 @@
     "title": "Litterae annuae provinciae Austriae Societatis Iesu a. 1637",
     "date": "ab 1638",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
     "note_type_facs": "http://data.onb.ac.at/dtl/9144428",
     "xml_id": "cod_12034",
     "extent": "66 Bl.",
@@ -21350,7 +21483,12 @@
     "title": "Litterae annuae provinciae Austriae Societatis Iesu a. 1638",
     "date": "1639",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
     "note_type_facs": "http://data.onb.ac.at/dtl/9083108",
     "xml_id": "cod_12035",
     "extent": "65 Bl.",
@@ -21469,7 +21607,12 @@
     "title": "Litterae annuae provinciae Austriae Societatis Iesu a. 1639",
     "date": "ab 1640",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
     "note_type_facs": "http://data.onb.ac.at/dtl/9134751",
     "xml_id": "cod_12036",
     "extent": "51 Bl.",
@@ -21495,7 +21638,12 @@
     "title": "Litterae annuae provinciae Austriae Societatis Iesu a. 1640",
     "date": "1641–1642",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
     "note_type_facs": "http://data.onb.ac.at/dtl/9073448",
     "xml_id": "cod_12037",
     "extent": "84 Bl.",
@@ -21521,7 +21669,12 @@
     "title": "Litterae annuae provinciae Austriae Societatis Iesu a. 1641",
     "date": "ab 1642",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
     "note_type_facs": "http://data.onb.ac.at/dtl/9094728",
     "xml_id": "cod_12038",
     "extent": "I, 81, I* Bl.",
@@ -21547,7 +21700,12 @@
     "title": "Litterae annuae provinciae Austriae Societatis Iesu a. 1642",
     "date": "1643–1644",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
     "note_type_facs": "http://data.onb.ac.at/dtl/9074370",
     "xml_id": "cod_12039",
     "extent": "47 Bl.",
@@ -23883,7 +24041,12 @@
     "title": "Catalogus religiosorum Societatis Iesu in provincia Austriae 27 aprilis 1633",
     "date": "1633",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_11978",
     "extent": "II, 39, I* Bl.",
@@ -23937,8 +24100,8 @@
     "persons": [],
     "mentioned_places": [
       {
-        "id": 317,
-        "value": "Kingdom of Poland"
+        "id": 429,
+        "value": "Provincia Polonia Minor"
       }
     ],
     "note_type_facs": "",
@@ -23968,8 +24131,8 @@
     "persons": [],
     "mentioned_places": [
       {
-        "id": 317,
-        "value": "Kingdom of Poland"
+        "id": 429,
+        "value": "Provincia Polonia Minor"
       }
     ],
     "note_type_facs": "",
@@ -24035,8 +24198,8 @@
     "persons": [],
     "mentioned_places": [
       {
-        "id": 317,
-        "value": "Kingdom of Poland"
+        "id": 429,
+        "value": "Provincia Polonia Minor"
       }
     ],
     "note_type_facs": "",
@@ -24312,7 +24475,12 @@
     "title": "Litterae annuae provinciae Poloniae Societatis Iesu a. 1606-1608",
     "date": "ab 1607 bzw. 1608, 1609",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 429,
+        "value": "Provincia Polonia Minor"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_12005",
     "extent": "I, 77, I* Bl.",
@@ -24338,7 +24506,12 @@
     "title": "Litterae annuae provinciae Poloniae Societatis Iesu a. 1586, 1595, 1598, 1599, 1604 et 1605",
     "date": "",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 429,
+        "value": "Provincia Polonia Minor"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_12006",
     "extent": "I, 99 Bl.",
@@ -24354,6 +24527,99 @@
     "date_letter": "1586, 1595, 1598, 1599, 1604, 1605",
     "century": "16. Jhdt."
   },
+  "396": {
+    "id": 396,
+    "order": "31.89285714285714234961",
+    "signatur": "Cod. 12009",
+    "jesuiten_id": "jesuiten_msdesc__396",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948840",
+    "title": "Status temporales domiciliorum  provinciae minoris Poloniae Societatis Iesu a. 1754-1772",
+    "date": "ab 1754",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 429,
+        "value": "Provincia Polonia Minor"
+      }
+    ],
+    "note_type_facs": "",
+    "xml_id": "cod_12009",
+    "extent": "I, 175, II* Bl.",
+    "height": "335",
+    "width": "195",
+    "foliation": "Moderne Foliierung.",
+    "acc_mat": "",
+    "binding": "Halbband, Deckel mit Marmorpapier bedeckt; Titelschild auf dem Vorderdeckel. 18. Jhdt. Restauriert 1918 (alter Hinterdeckel ersetzt).",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit. Die Ordnung ist nach Domizilen und innerhalb der Domizile chronologisch. Tabellarische Auflistung der Ausgaben.",
+    "not_before": null,
+    "not_after": null,
+    "# when": "",
+    "date_letter": "1754-1772",
+    "century": "18. Jhdt."
+  },
+  "395": {
+    "id": 395,
+    "order": "31.89473684210526371885",
+    "signatur": "Cod. 12009*",
+    "jesuiten_id": "jesuiten_msdesc__395",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948841",
+    "title": "Status temporales domiciliorum et collegiorum provinciae minoris Poloniae Societatis Iesu a. 1764-1772",
+    "date": "",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 429,
+        "value": "Provincia Polonia Minor"
+      }
+    ],
+    "note_type_facs": "",
+    "xml_id": "cod_12009__asterix",
+    "extent": "I, 55, II* Bl.",
+    "height": "330",
+    "width": "200",
+    "foliation": "Moderne Foliierung. Die fol. 1–3 sowie 4 und 5 sind bei der Bindung je zu einem Blatt zusammengesetzt.",
+    "acc_mat": "",
+    "binding": "Pappeinband, Wien, 19. Jhdt.",
+    "summary": "Zusammengesetzte Handschrift mit verschiedenen Rechnungen, Ausgaben (status temporalis, rationes universales), Zeugnissen von Kreditnehmern, Briefen von SJ-Mitgliedern aus der Provinz Polonia Minor. Zum Teil sind es kleine Zettel ohne Datum und Ortsangabe. Die Stücke sind nur vereinzelt erschlossen. Stark variierende Blattgröße.",
+    "not_before": null,
+    "not_after": null,
+    "# when": "",
+    "date_letter": "1764-1772",
+    "century": "18. Jhdt."
+  },
+  "394": {
+    "id": 394,
+    "order": "31.89999999999999857891",
+    "signatur": "Cod. 12011",
+    "jesuiten_id": "jesuiten_msdesc__394",
+    "mentioned_orgs": [
+      {
+        "id": 116,
+        "value": "Jesuitenkolleg Prague ad S. Clementem"
+      }
+    ],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948843",
+    "title": "Synopsis historiae collegii Pragensis Societatis Iesu ad S. Clementem a. 1555-1700 cum supplemento a. 1701-1729",
+    "date": "ab 1695",
+    "persons": [],
+    "mentioned_places": [],
+    "note_type_facs": "",
+    "xml_id": "cod_12011",
+    "extent": "I, 100 Bl.",
+    "height": "268",
+    "width": "190",
+    "foliation": "Zeitgenössische Paginierung: 1–152; fortgesetzt bei moderner Paginierung 153–200.",
+    "acc_mat": "",
+    "binding": "Halbband, Deckel mit Marmorpapier bedeckt; Titelschild auf dem Vorderdeckel. 18. Jhdt.",
+    "summary": "Die Geschichte des Kollegs St. Clemens in Prag ist eine nach Jahren gegliederte Chronik. Der erste Teil für die Jahre 1555 bis 1695 wurde wahrscheinlich von einer Hand geschrieben oder abgeschrieben, was den Terminus post quem für die Synopsis auf das Jahr 1695 festlegt. Der Text für die Jahre 1696 bis 1700 stammt von einer anderen Hand. Die folgenden Blätter (ab S. 87) waren wahrscheinlich für einen gesonderten kodikologischen Teil vorgesehen – siehe Anmerkung auf S. 86: Continuatio secuturorum annorum videat in libro altero, cui titulus: Supplementum historiae Collegii SJ Pragae ad S. Clementem ab a. 1701; sequitur dictum supplementum. \nEin weiterer Korrektor fügte die folgende Kritik hinzu, die sich auf das angeblich schlechte Latein und den fehlerhaften Text bezieht: [Supplementum] cum multis (infinitis) erroribus, ut prorsus puer, aut latinitatis ignarus scriptsisse illud videatur, quos tamen correximus, ut potuimus, exceptis nominibus proptriis nostrorum, etc. quae in fontibus inquirenda sunt. Utinam bonus Pater Freyberger ipse tantum sibi otii sumpsisset, ut sua manu omnia consignaret.",
+    "not_before": "1695",
+    "not_after": null,
+    "# when": "",
+    "date_letter": "",
+    "century": "16.-18. Jhdt."
+  },
   "45": {
     "id": 45,
     "order": "32.00000000000000000000",
@@ -24364,7 +24630,12 @@
     "title": "Litterae annuae provinciae Poloniae Societatis Iesu a. 1630, 1636, 1639, 1653 et 1658",
     "date": "1631–1659",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 429,
+        "value": "Provincia Polonia Minor"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_12012",
     "extent": "I, 91, I* Bl.",
@@ -25869,7 +26140,7 @@
     "signatur": "Cod. 12189",
     "jesuiten_id": "jesuiten_msdesc__380",
     "mentioned_orgs": [],
-    "note_type_catalogue": "",
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948158",
     "title": "Litterae annuae provinciae Austriae Societatis Iesu a. 1740",
     "date": "ab 1741",
     "persons": [],
@@ -25879,7 +26150,7 @@
         "value": "Provincia Austria"
       }
     ],
-    "note_type_facs": "",
+    "note_type_facs": "https://digital.onb.ac.at/rep/access/open/131DA2B8",
     "xml_id": "cod_12189",
     "extent": "II, 72, I* Bl.",
     "height": "328",
@@ -26086,7 +26357,7 @@
     "signatur": "Cod. 12182",
     "jesuiten_id": "jesuiten_msdesc__385",
     "mentioned_orgs": [],
-    "note_type_catalogue": "",
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948151",
     "title": "Litterae annuae provinciae Austriae Societatis Iesu a. 1732",
     "date": "1733",
     "persons": [],
@@ -26096,7 +26367,7 @@
         "value": "Provincia Austria"
       }
     ],
-    "note_type_facs": "",
+    "note_type_facs": "https://digital.onb.ac.at/rep/access/open/131D8790",
     "xml_id": "cod_12182",
     "extent": "I, 151, I* Bl.",
     "height": "308",
@@ -26117,7 +26388,7 @@
     "signatur": "Cod. 12183",
     "jesuiten_id": "jesuiten_msdesc__386",
     "mentioned_orgs": [],
-    "note_type_catalogue": "",
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948152",
     "title": "Litterae annuae provinciae Austriae Societatis Iesu a. 1733",
     "date": "",
     "persons": [],
@@ -26127,7 +26398,7 @@
         "value": "Provincia Austria"
       }
     ],
-    "note_type_facs": "",
+    "note_type_facs": "https://digital.onb.ac.at/rep/access/open/131D8792",
     "xml_id": "cod_12183",
     "extent": "III, 129, II* Bl.",
     "height": "325",
@@ -26148,7 +26419,7 @@
     "signatur": "Cod. 12184",
     "jesuiten_id": "jesuiten_msdesc__387",
     "mentioned_orgs": [],
-    "note_type_catalogue": "",
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948153",
     "title": "Litterae annuae provinciae Austriae Societatis Iesu a. 1734",
     "date": "1735",
     "persons": [],
@@ -26158,7 +26429,7 @@
         "value": "Provincia Austria"
       }
     ],
-    "note_type_facs": "",
+    "note_type_facs": "https://digital.onb.ac.at/rep/access/open/131D8966",
     "xml_id": "cod_12184",
     "extent": "115, III* Bl.",
     "height": "300",
@@ -26179,7 +26450,7 @@
     "signatur": "Cod. 12185",
     "jesuiten_id": "jesuiten_msdesc__388",
     "mentioned_orgs": [],
-    "note_type_catalogue": "",
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948154",
     "title": "Litterae annuae provinciae Austriae Societatis Iesu a. 1736",
     "date": "1737",
     "persons": [],
@@ -26189,7 +26460,7 @@
         "value": "Provincia Austria"
       }
     ],
-    "note_type_facs": "",
+    "note_type_facs": "https://digital.onb.ac.at/rep/access/open/131D8997",
     "xml_id": "cod_12185",
     "extent": "III, 128, I* Bl.",
     "height": "343",
@@ -26210,7 +26481,7 @@
     "signatur": "Cod. 12186",
     "jesuiten_id": "jesuiten_msdesc__389",
     "mentioned_orgs": [],
-    "note_type_catalogue": "",
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948155",
     "title": "",
     "date": "",
     "persons": [],
@@ -26220,7 +26491,7 @@
         "value": "Provincia Austria"
       }
     ],
-    "note_type_facs": "",
+    "note_type_facs": "https://digital.onb.ac.at/rep/access/open/131D83DD",
     "xml_id": "cod_12186",
     "extent": "II, 8, I* Bl.",
     "height": "305",
@@ -26241,7 +26512,7 @@
     "signatur": "Cod. 12187",
     "jesuiten_id": "jesuiten_msdesc__390",
     "mentioned_orgs": [],
-    "note_type_catalogue": "",
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948156",
     "title": "Litterae annuae provinciae Austriae Societatis Iesu a. 1738",
     "date": "1739–1740",
     "persons": [],
@@ -26251,7 +26522,7 @@
         "value": "Provincia Austria"
       }
     ],
-    "note_type_facs": "",
+    "note_type_facs": "https://digital.onb.ac.at/rep/access/open/131DA2B7",
     "xml_id": "cod_12187",
     "extent": "254 Bl.",
     "height": "328",
@@ -26272,7 +26543,7 @@
     "signatur": "Cod. 12188",
     "jesuiten_id": "jesuiten_msdesc__391",
     "mentioned_orgs": [],
-    "note_type_catalogue": "",
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948157",
     "title": "Litterae annuae provinciae Austriae Societatis Iesu a. 1739",
     "date": "1740–1741",
     "persons": [],
@@ -26282,7 +26553,7 @@
         "value": "Provincia Austria"
       }
     ],
-    "note_type_facs": "",
+    "note_type_facs": "https://digital.onb.ac.at/rep/access/open/131DA2B6",
     "xml_id": "cod_12188",
     "extent": "100, I* Bl.",
     "height": "335",
@@ -26303,7 +26574,7 @@
     "signatur": "Cod. 12190",
     "jesuiten_id": "jesuiten_msdesc__378",
     "mentioned_orgs": [],
-    "note_type_catalogue": "",
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948159",
     "title": "Litterae annuae provinciae Austriae Societatis Iesu a. 1741",
     "date": "ab 1742",
     "persons": [],
@@ -26313,7 +26584,7 @@
         "value": "Provincia Austria"
       }
     ],
-    "note_type_facs": "",
+    "note_type_facs": "https://digital.onb.ac.at/rep/access/open/131DA2B9",
     "xml_id": "cod_12190",
     "extent": "III, 77, I* Bl.",
     "height": "315",
@@ -26976,7 +27247,7 @@
         "value": "Provincia Austria"
       }
     ],
-    "note_type_facs": "",
+    "note_type_facs": "https://digital.onb.ac.at/rep/access/open/131E102E",
     "xml_id": "cod_12205",
     "extent": "117, I* Bl.",
     "height": "325",

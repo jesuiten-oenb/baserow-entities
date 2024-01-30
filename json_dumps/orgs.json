@@ -17816,6 +17816,10 @@
                 "value": "Cod. 12004"
             },
             {
+                "id": 394,
+                "value": "Cod. 12011"
+            },
+            {
                 "id": 244,
                 "value": "Cod. 12337"
             }
@@ -22130,7 +22134,7 @@
         "gnd": "",
         "msdesc": [],
         "alt_name": "Collegium Jaroslaviense",
-        "notes": "",
+        "notes": "JAROSLAVIA, Jaruslaw, urbs in dioec. Premisliensi, habuit olim duas domos prov. Minor. Polon.: 1) Colleginm Jaroslaviense (1571-1773) intra moenia urbis penes templum S. Joannis, cum gymnasio pro externis et cum scholasticatu Nostrorum (i. e. rhetorica, ultimis autem annis philosophia). 2) Domus 3. Probationis (1635-l773), dicta collegium Campo-Marianum, quia extra moenia \"in campo\" sive \"in arena\" cum sanctuario B. Mariae V. situm. Annis 1821-1832 fuit Jaroslaviae penes ecclesiam parochialem statio missionis prov. Galiciae.\n(Catalogus provinciae Galicianae Societatis Jesu. Ineunte anno 1899, Krakau, S. 27).",
         "persons": []
     },
     "172": {
@@ -22516,7 +22520,7 @@
         "gnd": "",
         "msdesc": [],
         "alt_name": "Ostrogiense Collegium",
-        "notes": "",
+        "notes": "OSTROG, Ostrogia, Ostrogimn, urbs Volhyniae in dioec. Luceoriensi. Collegium Ostrogiense 1626-1773, cum gymnasio et philosophia pro externis, item cum philosophia pro Nostris 1635-1756; ultimis annis (1756-1773) loco philosophiae pro Nostris fuit novitiatus cum rhetorica prov. Minor. Polon. Penes collegium existebat convictus nobilium 1640-1773. \n(Catalogus provinciae Galicianae Societatis Jesu. Ineunte anno 1899, Krakau, S. 50).",
         "persons": []
     },
     "197": {
@@ -37390,6 +37394,486 @@
         "msdesc": [],
         "alt_name": "Missio Leuensis",
         "notes": "",
+        "persons": []
+    },
+    "534": {
+        "id": 534,
+        "order": "523.00000000000000000000",
+        "name": "Jesuitenkolleg Ovruch",
+        "jesuiten_id": "jesuiten_org__534",
+        "located_in": [
+            {
+                "id": 431,
+                "order": "422.00000000000000000000",
+                "name": "Ovruch",
+                "jesuiten_id": "jesuiten_place__431",
+                "geonames": "https://www.geonames.org/698131/ovruch.html",
+                "lat": "51.32460",
+                "long": "28.80351",
+                "wikidata": "https://www.wikidata.org/wiki/Q27039",
+                "alt_names": [
+                    {
+                        "id": 295,
+                        "value": "Owrutsch"
+                    }
+                ],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Collegium Xaver Ovrucense",
+        "notes": "",
+        "persons": []
+    },
+    "535": {
+        "id": 535,
+        "order": "524.00000000000000000000",
+        "name": "Jesuitenmission Markowce",
+        "jesuiten_id": "jesuiten_org__535",
+        "located_in": [
+            {
+                "id": 432,
+                "order": "423.00000000000000000000",
+                "name": "Markowce",
+                "jesuiten_id": "jesuiten_place__432",
+                "geonames": "https://www.geonames.org/765187/markowce.html",
+                "lat": "49.53758",
+                "long": "22.11531",
+                "wikidata": "",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Markovecensis missio",
+        "notes": "Markovicensis, Markovecensis missio 1708-1773, prov. Minor. Polon, in pago Volhiniae Markowice, Markowicze, Marchowicze, donato collegio Luceoriensi a. 1708. Dependebat haec missio ab eodem collegio, unita cum missione Covelensi et Vlodimiriensi. \n(Catalogus provinciae Galicianae Societatis Jesu. Ineunte anno 1899, Krakau, S. 42.)",
+        "persons": []
+    },
+    "536": {
+        "id": 536,
+        "order": "525.00000000000000000000",
+        "name": "Jesuitenmission Kovel",
+        "jesuiten_id": "jesuiten_org__536",
+        "located_in": [
+            {
+                "id": 433,
+                "order": "424.00000000000000000000",
+                "name": "Kovel",
+                "jesuiten_id": "jesuiten_place__433",
+                "geonames": "https://www.geonames.org/704617/kovel.html",
+                "lat": "51.21526",
+                "long": "24.70867",
+                "wikidata": "",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio covelensis",
+        "notes": "Covelici, Kowel, oppidum. Missio Coveliana, kovelensis 1686-\n1773, pertinebat ad collegium Luceoriense et ad residentiam Vlodimiriensem, prov. MIinor. Polon.\n(Catalogus provinciae Galicianae Societatis Jesu. Ineunte anno 1899, Krakau, S. 15)",
+        "persons": []
+    },
+    "537": {
+        "id": 537,
+        "order": "526.00000000000000000000",
+        "name": "Jesuitenkolleg Kremenets",
+        "jesuiten_id": "jesuiten_org__537",
+        "located_in": [
+            {
+                "id": 434,
+                "order": "425.00000000000000000000",
+                "name": "Kremenets",
+                "jesuiten_id": "jesuiten_place__434",
+                "geonames": "https://geonames.org/704143/kremenets.html",
+                "lat": "50.09864",
+                "long": "25.72787",
+                "wikidata": "https://www.wikidata.org/wiki/Q849116",
+                "alt_names": [
+                    {
+                        "id": 296,
+                        "value": "Kremenez"
+                    }
+                ],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Collegium Cremenecensis / Cremenecum",
+        "notes": "Cremenecum, Krzemieniec, urbs in dioec. Luceoriensi. Residentia Cremenecensis, inchoata a. 1709; conversa in collegium circa a. 1750, cum duobus couvictibns, cum gymnasio ab a. 1713, nec non cum philosophia tam pro externis quam pro Nostris; prov. Minor. Polon. - Collegium sublatum a. 1773.  \nCatalogus provinciae Galicianae Societatis Jesu. Ineunte anno 1899, Krakau, S. 16.",
+        "persons": []
+    },
+    "538": {
+        "id": 538,
+        "order": "527.00000000000000000000",
+        "name": "Probationshaus Jarosław",
+        "jesuiten_id": "jesuiten_org__538",
+        "located_in": [
+            {
+                "id": 145,
+                "order": "142.00000000000000000000",
+                "name": "Jarosław",
+                "jesuiten_id": "jesuiten_place__145",
+                "geonames": "https://www.geonames.org/770380/jaroslaw.html",
+                "lat": "50.01623",
+                "long": "22.67776",
+                "wikidata": "https://www.wikidata.org/wiki/Q721928",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Domus probationis Jaroslaviensis",
+        "notes": "",
+        "persons": []
+    },
+    "539": {
+        "id": 539,
+        "order": "528.00000000000000000000",
+        "name": "Jesuitenmission Bila Tserkva",
+        "jesuiten_id": "jesuiten_org__539",
+        "located_in": [
+            {
+                "id": 435,
+                "order": "426.00000000000000000000",
+                "name": "Bila Tserkva",
+                "jesuiten_id": "jesuiten_place__435",
+                "geonames": "https://www.geonames.org/712165/bila-tserkva.html",
+                "lat": "49.80040",
+                "long": "30.12851",
+                "wikidata": "https://www.wikidata.org/wiki/Q33342",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Białocerquensis / Bialocerquensis",
+        "notes": "Białacerkiew, lat. Bialocerquia, urbs in Ukraina, dioec. Kijoviensis. Missio Bialocerkviensis, Bialocerquensis, a. 1664 inchoata,\npertinebat ad coll. Ostrogiense, postea ab a. 1686 ad domum Ovrucensem, connexa cum missione Jurevicensi. \nCatalogus provinciae Galicianae Societatis Jesu. Ineunte anno 1899, Krakau, S. 8.",
+        "persons": []
+    },
+    "540": {
+        "id": 540,
+        "order": "529.00000000000000000000",
+        "name": "Jesuitenmission Błonie",
+        "jesuiten_id": "jesuiten_org__540",
+        "located_in": [
+            {
+                "id": 436,
+                "order": "427.00000000000000000000",
+                "name": "Błonie",
+                "jesuiten_id": "jesuiten_place__436",
+                "geonames": "https://www.geonames.org/775820/blonie.html",
+                "lat": "52.19849",
+                "long": "20.61709",
+                "wikidata": "https://www.wikidata.org/wiki/Q608376",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Blonnensis",
+        "notes": "Błon, Błonie, praedium coll. acad. Vilnensis (1620- 1773). Blonensis missio ibidem, vide: Bakana.  \n(Catalogus provinciae Galicianae Societatis Jesu. Ineunte anno 1899, Krakau, S. 9).",
+        "persons": []
+    },
+    "541": {
+        "id": 541,
+        "order": "530.00000000000000000000",
+        "name": "Jesuitenresidenz Sambir",
+        "jesuiten_id": "jesuiten_org__541",
+        "located_in": [
+            {
+                "id": 437,
+                "order": "428.00000000000000000000",
+                "name": "Sambir",
+                "jesuiten_id": "jesuiten_place__437",
+                "geonames": "https://www.geonames.org/694864/sambir.html",
+                "lat": "49.51631",
+                "long": "23.20060",
+                "wikidata": "https://www.wikidata.org/wiki/Q156593",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Residentia Samboriensis",
+        "notes": "SAMBOR, Samboria, urbs in dioec. Premisliensi. Residentia Samboriensis a. 1699 incboata, postea a. 1761 in collegium conversa, prov. Minor. Polon., cum gymnasio, existebat ad annum 1773.\n(Catalogus provinciae Galicianae Societatis Jesu. Ineunte anno 1899, Krakau, S. 61).",
+        "persons": []
+    },
+    "542": {
+        "id": 542,
+        "order": "531.00000000000000000000",
+        "name": "Jesuitenkolleg Bar",
+        "jesuiten_id": "jesuiten_org__542",
+        "located_in": [
+            {
+                "id": 438,
+                "order": "429.00000000000000000000",
+                "name": "Bar",
+                "jesuiten_id": "jesuiten_place__438",
+                "geonames": "https://www.geonames.org/712861/bar.html",
+                "lat": "49.07362",
+                "long": "27.67404",
+                "wikidata": "",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Collegiumm Barensis",
+        "notes": "BAR, Barum, urbs Podoliae in dioec. Camenecensi. Missio Barensis inchoata a. 1613, conversa a. 1732 in residentiam, tandem in collegium 1755-1773 cum gymnasio et philosophia pro externis, prov. Minor. Polon. \n(Catalogus provinciae Galicianae Societatis Jesu. Ineunte anno 1899, Krakau, S. 7).",
+        "persons": []
+    },
+    "543": {
+        "id": 543,
+        "order": "532.00000000000000000000",
+        "name": "Jesuitenmission Sharhorod",
+        "jesuiten_id": "jesuiten_org__543",
+        "located_in": [
+            {
+                "id": 439,
+                "order": "430.00000000000000000000",
+                "name": "Sharhorod",
+                "jesuiten_id": "jesuiten_place__439",
+                "geonames": "https://www.geonames.org/694350/sharhorod.html",
+                "lat": "48.73562",
+                "long": "28.08459",
+                "wikidata": "https://www.wikidata.org/wiki/Q691504",
+                "alt_names": [
+                    {
+                        "id": 297,
+                        "value": "Scharhorod"
+                    }
+                ],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Szarogrodensis",
+        "notes": "Szarogrodénsis missio in oppido Ukrainae Szarogród, pertinebat ad coll. Camenecense, postea ad Barense, prov. Minor. Polon. \n(Catalogus provinciae Galicianae Societatis Jesu. Ineunte anno 1899, Krakau, S. 67).",
+        "persons": []
+    },
+    "544": {
+        "id": 544,
+        "order": "533.00000000000000000000",
+        "name": "Jesuitenmission Lychkivtsi",
+        "jesuiten_id": "jesuiten_org__544",
+        "located_in": [
+            {
+                "id": 440,
+                "order": "431.00000000000000000000",
+                "name": "Lychkivtsi",
+                "jesuiten_id": "jesuiten_place__440",
+                "geonames": "https://www.geonames.org/702698/luchkovtsy.html",
+                "lat": "49.14413",
+                "long": "26.17439",
+                "wikidata": "https://www.wikidata.org/wiki/Q4270887",
+                "alt_names": [
+                    {
+                        "id": 298,
+                        "value": "Liczkowce"
+                    }
+                ],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Liczkoviensis",
+        "notes": "Liczkoviensis missio cum bonis Liczkowce pertinebat ad coll. Camenecense prov. Minor. Polon. Iterum a. 1825-1842 fuit ibidem missio cum cnra parochiae, prov. Galic. \n(Catalogus provinciae Galicianae Societatis Jesu. Ineunte anno 1899, Krakau, S. 38).",
+        "persons": []
+    },
+    "545": {
+        "id": 545,
+        "order": "534.00000000000000000000",
+        "name": "Jesuitenkolleg Krasnystaw",
+        "jesuiten_id": "jesuiten_org__545",
+        "located_in": [
+            {
+                "id": 441,
+                "order": "432.00000000000000000000",
+                "name": "Krasnystaw",
+                "jesuiten_id": "jesuiten_place__441",
+                "geonames": "https://www.geonames.org/767605/krasnystaw.html",
+                "lat": "50.98464",
+                "long": "23.17420",
+                "wikidata": "https://www.wikidata.org/wiki/Q155088",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Collegium Crasnostaviensis",
+        "notes": "CRASNOSTAVIA, Krasnystaw, urbs olim in dioec. Chelmensi. Residentia Crasnostaviensis a. 1685 inchoata, postea conversa in collegium (1720-1773) cum gymnasio et philosophia pro externis, item per aliquod tempus cum rhetorica et philosophia pro Nostris. Penes collegium fuit seminarinm clericorum, fundatum auno 1724, mox amissum. Prov. Minor. Polon.\n(Catalogus provinciae Galicianae Societatis Jesu. Ineunte anno 1899, Krakau, S. 15-16).",
+        "persons": []
+    },
+    "546": {
+        "id": 546,
+        "order": "535.00000000000000000000",
+        "name": "Jesuitenresidenz Łaszczów",
+        "jesuiten_id": "jesuiten_org__546",
+        "located_in": [
+            {
+                "id": 442,
+                "order": "433.00000000000000000000",
+                "name": "Łaszczów",
+                "jesuiten_id": "jesuiten_place__442",
+                "geonames": "https://www.geonames.org/766692/laszczow.html",
+                "lat": "50.53332",
+                "long": "23.72562",
+                "wikidata": "https://www.wikidata.org/wiki/Q2167485",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Residentia Łaszczoviensis",
+        "notes": "Łaszczów, Laszczówka, olim in dioec. Chelmensi. Residentia Łaszczoviensis 1731-1773 prov. Minor. Polon. dependebat a coll. Crasnostaviensi, postea a Jaroslaviensi S. Ioannis, tandem iterum a Crasnostaviensi. \n(Catalogus provinciae Galicianae Societatis Jesu. Ineunte anno 1899, Krakau, S. 37).",
+        "persons": []
+    },
+    "547": {
+        "id": 547,
+        "order": "536.00000000000000000000",
+        "name": "Jesuitenmission Nastasiv",
+        "jesuiten_id": "jesuiten_org__547",
+        "located_in": [
+            {
+                "id": 443,
+                "order": "434.00000000000000000000",
+                "name": "Nastasiv",
+                "jesuiten_id": "jesuiten_place__443",
+                "geonames": "https://www.geonames.org/700438/nastasiv.html",
+                "lat": "49.42401",
+                "long": "25.50883",
+                "wikidata": "https://www.wikidata.org/wiki/Q664118",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Nastasoviensis",
+        "notes": "Nastasoviensis missio 1706-1773 in pago Nastasów cum cura parochiae (1744-1773), pertinebat ad coll. Leopoliense. \n(Catalogus provinciae Galicianae Societatis Jesu. Ineunte anno 1899, Krakau, S. 46).",
+        "persons": []
+    },
+    "548": {
+        "id": 548,
+        "order": "537.00000000000000000000",
+        "name": "Jesuitenmission Volodymyr",
+        "jesuiten_id": "jesuiten_org__548",
+        "located_in": [
+            {
+                "id": 444,
+                "order": "435.00000000000000000000",
+                "name": "Volodymyr",
+                "jesuiten_id": "jesuiten_place__444",
+                "geonames": "https://www.geonames.org/689378/volodymyr-volynskyi.html",
+                "lat": "50.85253",
+                "long": "24.32364",
+                "wikidata": "https://www.wikidata.org/wiki/Q33544",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Vlodimiriensis",
+        "notes": "Vlodimiria, Włodzimierz, urbs Volhynia. Missio Vlodimiriensis pertinebat anno 1719 ad coll. Luceoriense, conversa in residentiam a. 1762, dissoluta a. 1773. Habuit gymnasinm et philosophiam pro externis ab a. 1762.  \n(Catalogus provinciae Galicianae Societatis Jesu. Ineunte anno 1899, Krakau, S. 75).",
+        "persons": []
+    },
+    "549": {
+        "id": 549,
+        "order": "538.00000000000000000000",
+        "name": "Probationshaus Ostroch",
+        "jesuiten_id": "jesuiten_org__549",
+        "located_in": [
+            {
+                "id": 160,
+                "order": "157.00000000000000000000",
+                "name": "Ostroh",
+                "jesuiten_id": "jesuiten_place__160",
+                "geonames": "https://www.geonames.org/698232/ostroh.html",
+                "lat": "50.32942",
+                "long": "26.51425",
+                "wikidata": "https://www.wikidata.org/wiki/Q140671",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Domus probationis ostrogiensis",
+        "notes": "",
+        "persons": []
+    },
+    "550": {
+        "id": 550,
+        "order": "539.00000000000000000000",
+        "name": "Jesuitenresidenz Vinnytsya",
+        "jesuiten_id": "jesuiten_org__550",
+        "located_in": [
+            {
+                "id": 144,
+                "order": "141.00000000000000000000",
+                "name": "Vinnytsia",
+                "jesuiten_id": "jesuiten_place__144",
+                "geonames": "https://www.geonames.org/689558/vinnytsya.html",
+                "lat": "49.23220",
+                "long": "28.46871",
+                "wikidata": "https://www.wikidata.org/wiki/Q157144",
+                "alt_names": [
+                    {
+                        "id": 182,
+                        "value": "Vinica"
+                    }
+                ],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Residentia Vinnicensis",
+        "notes": "Winnica, Vinnica, urbs Podoliae in dioec. Luceoriensi. Missio Vinnicensis a. 1613 inchoata, et circa 1725 in residentiam conversa, dependebat a coll. Ostrogiensi ab a. 1638, postea ab Ovrucensi ad a. 1773, prov. Minor. Polon.  \n(Catalogus provinciae Galicianae Societatis Jesu. Ineunte anno 1899, Krakau, S. 74).",
+        "persons": []
+    },
+    "551": {
+        "id": 551,
+        "order": "540.00000000000000000000",
+        "name": "Jesuitenkolleg Ivano-Frankivsk",
+        "jesuiten_id": "jesuiten_org__551",
+        "located_in": [
+            {
+                "id": 445,
+                "order": "436.00000000000000000000",
+                "name": "Ivano-Frankivsk",
+                "jesuiten_id": "jesuiten_place__445",
+                "geonames": "https://www.geonames.org/707471/ivano-frankivsk.html",
+                "lat": "48.92312",
+                "long": "24.71248",
+                "wikidata": "https://www.wikidata.org/wiki/Q156726",
+                "alt_names": [
+                    {
+                        "id": 299,
+                        "value": "Stanisławów"
+                    }
+                ],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Collegium Stanislaopoliensis",
+        "notes": "STANISLAOPOLIS, Stanislawów, urbs in archidioec. Leopoliensi. Residentia Stanislaopoliensis, Stanislaopolitana, Stanislavoviensis, anno 1715 inchoata, et a. 1722 in collegium conversa, cum gymnasio et philosophia pro externis, prov. Minor. Polon., permansit ad a. 1773. Nunc residentia Stanislaopolitana S. Stanislai Kostka, prov. Galic., existit ab a. 1885.   \n(Catalogus provinciae Galicianae Societatis Jesu. Ineunte anno 1899, Krakau, S. 65).",
         "persons": []
     }
 }
