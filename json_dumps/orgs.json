@@ -1507,6 +1507,14 @@
             {
                 "id": 153,
                 "value": "Cod. 12240"
+            },
+            {
+                "id": 399,
+                "value": "Cod. 12419"
+            },
+            {
+                "id": 400,
+                "value": "Cod. 12419*"
             }
         ],
         "alt_name": "Collegium Graecense",
@@ -16098,6 +16106,10 @@
                 "value": "Cod. 11950"
             },
             {
+                "id": 398,
+                "value": "Cod. 12410*"
+            },
+            {
                 "id": 244,
                 "value": "Cod. 12337"
             }
@@ -21946,6 +21958,10 @@
             {
                 "id": 106,
                 "value": "Cod. 11895"
+            },
+            {
+                "id": 397,
+                "value": "Cod. 12410"
             }
         ],
         "alt_name": "Residentia Leopoldina; Residentia S. J. Neostad.",
@@ -37874,6 +37890,111 @@
         "msdesc": [],
         "alt_name": "Collegium Stanislaopoliensis",
         "notes": "STANISLAOPOLIS, Stanislawów, urbs in archidioec. Leopoliensi. Residentia Stanislaopoliensis, Stanislaopolitana, Stanislavoviensis, anno 1715 inchoata, et a. 1722 in collegium conversa, cum gymnasio et philosophia pro externis, prov. Minor. Polon., permansit ad a. 1773. Nunc residentia Stanislaopolitana S. Stanislai Kostka, prov. Galic., existit ab a. 1885.   \n(Catalogus provinciae Galicianae Societatis Jesu. Ineunte anno 1899, Krakau, S. 65).",
+        "persons": []
+    },
+    "552": {
+        "id": 552,
+        "order": "541.00000000000000000000",
+        "name": "Jesuitenresidenz Yuravichy",
+        "jesuiten_id": "jesuiten_org__552",
+        "located_in": [
+            {
+                "id": 446,
+                "order": "437.00000000000000000000",
+                "name": "Yuravichy",
+                "jesuiten_id": "jesuiten_place__446",
+                "geonames": "https://www.geonames.org/619537/yuravichy.html",
+                "lat": "51.95130",
+                "long": "29.52840",
+                "wikidata": "https://www.wikidata.org/wiki/Q3919348",
+                "alt_names": [
+                    {
+                        "id": 300,
+                        "value": "Juravičy"
+                    }
+                ],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Residentia Jurovicensis",
+        "notes": "Jurovicensis missio, condita a. 1673, postea (ante a. 1754) in residentiam mutata, in oppidulo Jurowice sive Jurewicze, existebat ad a. 1773, subiecta coll. Ostrogiensi, postea Ovrucensi; prov. Minor. Polon. Habuit 1756-1773 scholas inferiores pro externis. Imago B. Mariae V. thaumaturga, quae ibidem colebatur, conservatur nunc ab a. 1886 Cracoviae in templo S. Barbarae.\n(Catalogus provinciae Galicianae Societatis Jesu. Ineunte anno 1899, Krakau, S. 29).",
+        "persons": []
+    },
+    "553": {
+        "id": 553,
+        "order": "542.00000000000000000000",
+        "name": "Jesuitenresidenz Zhytomyr",
+        "jesuiten_id": "jesuiten_org__553",
+        "located_in": [
+            {
+                "id": 447,
+                "order": "438.00000000000000000000",
+                "name": "Zhytomyr",
+                "jesuiten_id": "jesuiten_place__447",
+                "geonames": "https://www.geonames.org/686967/zhytomyr.html",
+                "lat": "50.26487",
+                "long": "28.67669",
+                "wikidata": "https://www.wikidata.org/wiki/Q156713",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Residentia Zytomiriensis",
+        "notes": "Zytomiria, Zytomierz, urbs in dioecesi olim Kijoviensi. Missio Zytomiriensis, a. 1724 fundata, et circa a. 1751 in residentiam erecta, cum gymnasio, pertinebat primum ad coll. Ostrogiense, postea ad Ovrucense, prov. Minor. Polon.; sublata a. 1773. \n(Catalogus provinciae Galicianae Societatis Jesu. Ineunte anno 1899, Krakau, S. 80).",
+        "persons": []
+    },
+    "554": {
+        "id": 554,
+        "order": "543.00000000000000000000",
+        "name": "Jesuitenmission Mazyr",
+        "jesuiten_id": "jesuiten_org__554",
+        "located_in": [
+            {
+                "id": 448,
+                "order": "439.00000000000000000000",
+                "name": "Mazyr",
+                "jesuiten_id": "jesuiten_place__448",
+                "geonames": "https://www.geonames.org/625324/mazyr.html",
+                "lat": "52.04950",
+                "long": "29.24560",
+                "wikidata": "https://www.wikidata.org/wiki/Q386487",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Mozyrensis / Mozirensis",
+        "notes": "Mozyr, Mozyrz, lat. Mossyria, oppidum in dioec. Vilnensi. Missio Mozirensis 1723-1773 (unita ab anno 1730 cum missione Jurevicensi) pertinebat ad coll. Ostrogiense, postea ad Ovrucense, prov.Minor. Polon.  \n(Catalogus provinciae Galicianae Societatis Jesu. Ineunte anno 1899, Krakau, S. 45).",
+        "persons": []
+    },
+    "555": {
+        "id": 555,
+        "order": "544.00000000000000000000",
+        "name": "Jesuitenmission Chechelnyk",
+        "jesuiten_id": "jesuiten_org__555",
+        "located_in": [
+            {
+                "id": 449,
+                "order": "440.00000000000000000000",
+                "name": "Chechelnyk",
+                "jesuiten_id": "jesuiten_place__449",
+                "geonames": "https://www.geonames.org/710892/chechelnyk.html",
+                "lat": "48.21558",
+                "long": "29.36469",
+                "wikidata": "https://www.wikidata.org/wiki/Q1721808",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Czeczelnicensis",
+        "notes": "Czeczelnicensis missio in Czeczelnik, oppido Podoliae, pertinebat a. 1759 ad coll. Barense, a. 1773 ad resid. Vinnicensem; prov. Minor. Polon.    \n(Catalogus provinciae Galicianae Societatis Jesu. Ineunte anno 1899, Krakau, S. 16).",
         "persons": []
     }
 }

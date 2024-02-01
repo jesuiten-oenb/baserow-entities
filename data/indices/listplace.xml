@@ -2444,7 +2444,7 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/756135/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q270</idno>
-               </place>
+               <noteGrp><note target="cod_12009.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12009</note></noteGrp></place>
                <place xml:id="jesuiten_place__330">
                   <placeName>Krnov</placeName>
                   <location type="coords">
@@ -3271,6 +3271,38 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/707471/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q156726</idno>
+               </place>
+               <place xml:id="jesuiten_place__446">
+                  <placeName>Yuravichy</placeName>
+                  <location type="coords">
+                     <geo>51.95130 29.52840</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/619537/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q3919348</idno>
+               </place>
+               <place xml:id="jesuiten_place__447">
+                  <placeName>Zhytomyr</placeName>
+                  <location type="coords">
+                     <geo>50.26487 28.67669</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/686967/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q156713</idno>
+               </place>
+               <place xml:id="jesuiten_place__448">
+                  <placeName>Mazyr</placeName>
+                  <location type="coords">
+                     <geo>52.04950 29.24560</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/625324/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q386487</idno>
+               </place>
+               <place xml:id="jesuiten_place__449">
+                  <placeName>Chechelnyk</placeName>
+                  <location type="coords">
+                     <geo>48.21558 29.36469</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/710892/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1721808</idno>
                </place>
             </listPlace>
          </div>
