@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cod_12363.xml" xml:base="https://oenb.ac.at" prev="https://oenb.ac.at/cod_12361.xml" next="https://oenb.ac.at/cod_12369.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cod_12363.xml" xml:base="https://oenb.ac.at" prev="https://oenb.ac.at/cod_12362.xml" next="https://oenb.ac.at/cod_12364.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -29,7 +29,6 @@
                     </msIdentifier>
                     <head>
                         <title>Informationes ad gubernandum provinciam Poloniam Societatis Iesu a. 1726</title>
-                        <origDate notBefore="1726-01-01">ab 1726</origDate>
                         <date type="letter">1726 </date>
                         <note type="catalogue">
                             <ref target="http://data.onb.ac.at/rec/AC13953029"/>
@@ -37,7 +36,7 @@
                     </head>
                     <msContents>                   
                         <summary>
-                                Die Handschrift besteht aus einer kodikologischen Einheit, die in drei Teile gegliedert ist, und zwar nach der Rolle der Mitglieder als gegenwärtige oder ehemalige Rektoren von Kollegen oder solchen, die als geeignet für das Rektorenamt bezeichnet wurden: gubernant (S. 1–100), gubernarunt (S. 103–190) und apti ad gubernandum (S. 191–400). 
+                                Evaluationen für Ordensämter in insgesamt 4 Bänden: Cod. 12362–12365. Cod. 12363 aus dem mjahr 1726 ist in drei Teile gegliedert, je nach der Rolle der Mitglieder als (1) amtierende oder (2) ehemalige Rektoren von Kollegen oder (3) Personen, die für das Rektorenamt in Frage kamen: gubernant (S. 1-100), gubernarunt (S. 103-190) und apti ad gubernandum (S. 191-400). 
                                 
                             <listPlace>
                                 <head>Erwähnte Orte:</head>
@@ -67,7 +66,7 @@
                         </objectDesc>
                         <bindingDesc>
                             <binding>
-                                <p/>
+                                <p>Pappeinband mit buntem Marmorpapier überklebt,  18. Jhdt.</p>
                             </binding>
                         </bindingDesc>
                         <accMat/>                        
@@ -81,6 +80,6 @@
     <back><listPlace><place xml:id="jesuiten_place__429">
                   <placeName>Provincia Polonia Minor</placeName>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q11390</idno>
-               <noteGrp><note target="cod_11982.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11982</note><note target="cod_11983.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11983</note><note target="cod_11989.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11989</note><note target="cod_12005.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12005</note><note target="cod_12006.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12006</note><note target="cod_12009.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12009</note><note target="cod_12009__asterix.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12009*</note><note target="cod_12012.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12012</note><note target="cod_12013.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12013</note><note target="cod_12363.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12363</note></noteGrp></place>
+               <noteGrp><note target="cod_11982.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11982</note><note target="cod_11983.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11983</note><note target="cod_11989.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11989</note><note target="cod_12005.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12005</note><note target="cod_12006.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12006</note><note target="cod_12009.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12009</note><note target="cod_12009__asterix.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12009*</note><note target="cod_12012.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12012</note><note target="cod_12013.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12013</note><note target="cod_12362.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12362</note><note target="cod_12363.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12363</note><note target="cod_12364.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12364</note><note target="cod_12365.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12365</note></noteGrp></place>
                </listPlace></back></text>
 </TEI>

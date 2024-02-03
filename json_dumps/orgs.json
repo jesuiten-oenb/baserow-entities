@@ -10326,7 +10326,7 @@
                 "value": "Cod. 12240"
             }
         ],
-        "alt_name": "Residentia Turociensis",
+        "alt_name": "Residentia Turociensis / Thurocziensis",
         "notes": "",
         "persons": []
     },
@@ -10699,7 +10699,7 @@
                 "value": "Cod. 12240"
             }
         ],
-        "alt_name": "",
+        "alt_name": "Cibiniensis Residentia",
         "notes": "",
         "persons": []
     },
@@ -16807,6 +16807,14 @@
             {
                 "id": 255,
                 "value": "Cod. 12356"
+            },
+            {
+                "id": 406,
+                "value": "Cod. 12367"
+            },
+            {
+                "id": 407,
+                "value": "Cod. 12367*"
             }
         ],
         "alt_name": "Residentia Wartenbergensis",
@@ -29181,6 +29189,10 @@
                         "value": "Cod. 12361"
                     },
                     {
+                        "id": 408,
+                        "value": "Cod. 12368"
+                    },
+                    {
                         "id": 257,
                         "value": "Cod. 12369"
                     },
@@ -37995,6 +38007,18 @@
         "msdesc": [],
         "alt_name": "Missio Czeczelnicensis",
         "notes": "Czeczelnicensis missio in Czeczelnik, oppido Podoliae, pertinebat a. 1759 ad coll. Barense, a. 1773 ad resid. Vinnicensem; prov. Minor. Polon.    \n(Catalogus provinciae Galicianae Societatis Jesu. Ineunte anno 1899, Krakau, S. 16).",
+        "persons": []
+    },
+    "556": {
+        "id": 556,
+        "order": "545.00000000000000000000",
+        "name": "Konvikt St. Bartholomeus",
+        "jesuiten_id": "jesuiten_org__556",
+        "located_in": [],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Convictus Sancti Bartholomei",
+        "notes": "",
         "persons": []
     }
 }

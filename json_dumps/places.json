@@ -6247,12 +6247,12 @@
   "148": {
     "id": 148,
     "order": "145.00000000000000000000",
-    "name": "China",
+    "name": "Provincia Sinensis",
     "jesuiten_id": "jesuiten_place__148",
     "geonames": "",
     "lat": null,
     "long": null,
-    "wikidata": "",
+    "wikidata": "https://www.wikidata.org/wiki/Q105078855",
     "alt_names": [
       {
         "id": 56,
@@ -6261,9 +6261,18 @@
       {
         "id": 271,
         "value": "Kina"
+      },
+      {
+        "id": 301,
+        "value": "Provincia Sina"
       }
     ],
-    "msdesc": []
+    "msdesc": [
+      {
+        "id": 405,
+        "value": "Cod. 12366"
+      }
+    ]
   },
   "149": {
     "id": 149,
@@ -8115,6 +8124,10 @@
         "value": "Cod. 12361"
       },
       {
+        "id": 408,
+        "value": "Cod. 12368"
+      },
+      {
         "id": 257,
         "value": "Cod. 12369"
       },
@@ -9791,6 +9804,10 @@
       {
         "id": 157,
         "value": "Cod. 12268"
+      },
+      {
+        "id": 404,
+        "value": "Cod. 12269"
       },
       {
         "id": 14,
@@ -11502,8 +11519,20 @@
         "value": "Cod. 12013"
       },
       {
+        "id": 401,
+        "value": "Cod. 12362"
+      },
+      {
+        "id": 402,
+        "value": "Cod. 12364"
+      },
+      {
         "id": 265,
         "value": "Cod. 12363"
+      },
+      {
+        "id": 403,
+        "value": "Cod. 12365"
       },
       {
         "id": 170,

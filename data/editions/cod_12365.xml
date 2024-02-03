@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cod_12365.xml" xml:base="https://oenb.ac.at" prev="https://oenb.ac.at/cod_12364.xml" next="https://oenb.ac.at/cod_12366.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Wien, Österreichische Nationalbibliothek, Cod. 12365</title>
+                <title type="sub">Jesuiten Littera annuae</title>
+                <respStmt>
+                    <resp>Beschreibung und TEI-encoding</resp>
+                    <persName>
+                        <forename>Ivana</forename>
+                        <surname>Dobcheva</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="restricted">
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">This document is published under the Creative Commons licence Attribution 4.0 International (CC BY 4.0).</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:lang="de" xml:id="cod_12365">
+                    <msIdentifier>
+                        <country>Österreich</country>
+                        <settlement>Wien</settlement>
+                        <repository>Österreichische Nationalbibliothek</repository>
+                        <idno>Cod. 12365</idno>
+                    </msIdentifier>
+                    <head>
+                        <title>Informationes ad gubernandum provinciam Poloniae Societatis Iesu a. 1730</title>
+                        <date type="letter">1730 </date>
+                        <note type="catalogue">
+                            <ref target="http://data.onb.ac.at/rec/AC13953031"/>
+                        </note>
+                    </head>
+                    <msContents>                   
+                        <summary>
+                                Beurkundungen von Ordensämtern in insgesamt 4 Bänden: Cod. 12362–12365. Cod. 12365 aus dem Jahr 1730 besteht aus einem kodikologischen Teil. Inhaltsverzeichnis auf fol. 2ar-3av mit Angabe der Namen der zu beurkundenden Mitglieder und Folionummer. Die Beurkundungen sind nach der Funktion der Mitglieder in drei Teile gegliedert: fols. 1r-24v amtierende Rektoren (Gubernanten); fols. 24*a-42v ehemalige Rektoren (Gubernarunt); fols. 42*r-94v Personen, die für das Amt des Rektors in Frage kamen (Apti ad gubernandum).
+Die Bewertung erfolgt auf gedruckten Formularen mit jeweils 12 Punkten. 
+                                
+                            <listPlace>
+                                <head>Erwähnte Orte:</head>
+                                <place>
+                                    <placeName key="#jesuiten_place__429">Provincia Polonia Minor</placeName>
+                                </place>
+                            </listPlace>                           
+                        </summary> 
+                        <textLang mainLang="lat"/>
+                        
+                       
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="codex">
+                            <supportDesc material="paper">
+                                <support>Papier</support>
+                                <extent>
+                                    <measure type="leavesCount" unit="folio">I, 99, I* Bl.</measure>
+                                    <dimensions type="leaf_current" unit="mm">
+                                        <height>274</height>
+                                        <width>190</width>
+                                    </dimensions>
+                                </extent>
+                                <foliation>Zeitgenössische Foliierung 1–94; moderne Foliierung der ursprünglich nicht berücksichtigte Blätter vorn und zwischen den Teilen: 1a-3a, 24*, 42*.</foliation>
+                                <collation/>
+                            </supportDesc>
+                        </objectDesc>
+                        <bindingDesc>
+                            <binding>
+                                <p>Pappeinband mit buntem Marmorpapier überklebt,  18. Jhdt.</p>
+                            </binding>
+                        </bindingDesc>
+                        <accMat/>                        
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><p/></body>
+    <back><listPlace><place xml:id="jesuiten_place__429">
+                  <placeName>Provincia Polonia Minor</placeName>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q11390</idno>
+               <noteGrp><note target="cod_11982.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11982</note><note target="cod_11983.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11983</note><note target="cod_11989.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11989</note><note target="cod_12005.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12005</note><note target="cod_12006.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12006</note><note target="cod_12009.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12009</note><note target="cod_12009__asterix.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12009*</note><note target="cod_12012.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12012</note><note target="cod_12013.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12013</note><note target="cod_12362.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12362</note><note target="cod_12363.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12363</note><note target="cod_12364.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12364</note><note target="cod_12365.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12365</note></noteGrp></place>
+               </listPlace></back></text>
+</TEI>
