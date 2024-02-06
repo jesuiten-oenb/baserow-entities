@@ -7872,6 +7872,10 @@
     "alt_names": [],
     "msdesc": [
       {
+        "id": 410,
+        "value": "Cod. 12016"
+      },
+      {
         "id": 230,
         "value": "Cod. 12029"
       },
@@ -11519,6 +11523,14 @@
         "value": "Cod. 12013"
       },
       {
+        "id": 413,
+        "value": "Cod. 12021"
+      },
+      {
+        "id": 414,
+        "value": "Cod. 12022"
+      },
+      {
         "id": 401,
         "value": "Cod. 12362"
       },
@@ -11835,6 +11847,42 @@
     "lat": "48.21558",
     "long": "29.36469",
     "wikidata": "https://www.wikidata.org/wiki/Q1721808",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "450": {
+    "id": 450,
+    "order": "441.00000000000000000000",
+    "name": "Heidelberg",
+    "jesuiten_id": "jesuiten_place__450",
+    "geonames": "https://www.geonames.org/2907911/heidelberg.html",
+    "lat": "49.40768",
+    "long": "8.69079",
+    "wikidata": "",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "451": {
+    "id": 451,
+    "order": "442.00000000000000000000",
+    "name": "Scotland",
+    "jesuiten_id": "jesuiten_place__451",
+    "geonames": "https://www.geonames.org/2638360/scotland.html",
+    "lat": "56.00000",
+    "long": "-4.00000",
+    "wikidata": "",
+    "alt_names": [],
+    "msdesc": []
+  },
+  "452": {
+    "id": 452,
+    "order": "443.00000000000000000000",
+    "name": "Topoľčany",
+    "jesuiten_id": "jesuiten_place__452",
+    "geonames": "https://www.geonames.org/3057174/topolcany.html",
+    "lat": "48.56361",
+    "long": "18.16712",
+    "wikidata": "https://www.wikidata.org/wiki/Q750423",
     "alt_names": [],
     "msdesc": []
   }

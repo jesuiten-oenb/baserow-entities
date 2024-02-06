@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cod_12023.xml" xml:base="https://oenb.ac.at" prev="https://oenb.ac.at/cod_12022.xml" next="https://oenb.ac.at/cod_12025.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Wien, Österreichische Nationalbibliothek, Cod. 12023</title>
+                <title type="sub">Jesuiten Littera annuae</title>
+                <respStmt>
+                    <resp>Beschreibung und TEI-encoding</resp>
+                    <persName>
+                        <forename>Ivana</forename>
+                        <surname>Dobcheva</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="restricted">
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">This document is published under the Creative Commons licence Attribution 4.0 International (CC BY 4.0).</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:lang="de" xml:id="cod_12023">
+                    <msIdentifier>
+                        <country>Österreich</country>
+                        <settlement>Wien</settlement>
+                        <repository>Österreichische Nationalbibliothek</repository>
+                        <idno>Cod. 12023</idno>
+                    </msIdentifier>
+                    <head>
+                        <title>Catalogus librorum in bibliotheca collegii Premysliensis Societatis Iesu contentorum a. 1742</title>
+                        <date type="letter"> </date>
+                        <note type="catalogue">
+                            <ref target="http://data.onb.ac.at/rec/AC13948756"/>
+                        </note>
+                    </head>
+                    <msContents>                   
+                        <summary>
+                                Bibliothekskatalog des Jesuitenkollegs in Przemyśl aus dem Jahr 1742, thematisch geordnet. Lesezeichen auf dem Vorderschnitt für die thematischen Abschnitte ('Apologia variae', 'Ascetae' etc.). 
+                                
+                                <listOrg>
+                                    <head>Erwähnte Körperschaften:</head>
+                                    <org>
+                                        <orgName key="#jesuiten_org__187">Jesuitenkolleg Przemyśl</orgName>
+                                    </org>
+                                </listOrg>                           
+                        </summary> 
+                        <textLang mainLang="lat"/>
+                        
+                       
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="codex">
+                            <supportDesc material="paper">
+                                <support>Papier</support>
+                                <extent>
+                                    <measure type="leavesCount" unit="folio">I, 90 Bl.</measure>
+                                    <dimensions type="leaf_current" unit="mm">
+                                        <height>320</height>
+                                        <width>197</width>
+                                    </dimensions>
+                                </extent>
+                                <foliation>Moderne Foliierung.</foliation>
+                                <collation/>
+                            </supportDesc>
+                        </objectDesc>
+                        <bindingDesc>
+                            <binding>
+                                <p>Halbband, Deckel mit Marmorpapier bedeckt, 18. Jhdt.</p>
+                            </binding>
+                        </bindingDesc>
+                        <accMat/>                        
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><p/></body>
+    <back><listOrg><org xml:id="jesuiten_org__187">
+                  <orgName>Jesuitenkolleg Przemyśl</orgName>
+                  <orgName type="alt">Premisliense Collegium</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__161">Przemyśl</placeName>
+                     <geo>49.78498 22.76728</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/761168/</idno></note>
+                  </location>
+               <noteGrp><note target="cod_12009.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12009</note><note target="cod_12009__asterix.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12009*</note><note target="cod_12012.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12012</note><note target="cod_12023.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12023</note></noteGrp></org>
+               </listOrg></back></text>
+</TEI>

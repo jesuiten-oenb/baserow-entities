@@ -14395,6 +14395,10 @@
         "gnd": "",
         "msdesc": [
             {
+                "id": 409,
+                "value": "Cod. 12015"
+            },
+            {
                 "id": 197,
                 "value": "Cod. 12325"
             },
@@ -16733,6 +16737,10 @@
         "gnd": "",
         "msdesc": [
             {
+                "id": 412,
+                "value": "Cod. 12019"
+            },
+            {
                 "id": 235,
                 "value": "Cod. 12326"
             },
@@ -17273,6 +17281,10 @@
         ],
         "gnd": "",
         "msdesc": [
+            {
+                "id": 416,
+                "value": "Cod. 12026"
+            },
             {
                 "id": 197,
                 "value": "Cod. 12325"
@@ -22023,6 +22035,10 @@
         "gnd": "",
         "msdesc": [
             {
+                "id": 417,
+                "value": "Cod. 12025"
+            },
+            {
                 "id": 202,
                 "value": "Cod. 11988"
             }
@@ -22742,7 +22758,12 @@
             }
         ],
         "gnd": "",
-        "msdesc": [],
+        "msdesc": [
+            {
+                "id": 415,
+                "value": "Cod. 12023"
+            }
+        ],
         "alt_name": "Premisliense Collegium",
         "notes": "",
         "persons": []
@@ -23950,7 +23971,12 @@
         "jesuiten_id": "jesuiten_org__208",
         "located_in": [],
         "gnd": "",
-        "msdesc": [],
+        "msdesc": [
+            {
+                "id": 416,
+                "value": "Cod. 12026"
+            }
+        ],
         "alt_name": "Missio Cardinalitia",
         "notes": "Moravia ?",
         "persons": []
@@ -24922,7 +24948,12 @@
             }
         ],
         "gnd": "",
-        "msdesc": [],
+        "msdesc": [
+            {
+                "id": 416,
+                "value": "Cod. 12026"
+            }
+        ],
         "alt_name": "Missio Oppaviensis",
         "notes": "",
         "persons": []
@@ -28937,6 +28968,10 @@
                 "alt_names": [],
                 "msdesc": [
                     {
+                        "id": 410,
+                        "value": "Cod. 12016"
+                    },
+                    {
                         "id": 230,
                         "value": "Cod. 12029"
                     },
@@ -32554,6 +32589,10 @@
         "gnd": "",
         "msdesc": [
             {
+                "id": 416,
+                "value": "Cod. 12026"
+            },
+            {
                 "id": 197,
                 "value": "Cod. 12325"
             },
@@ -34188,7 +34227,12 @@
             }
         ],
         "gnd": "",
-        "msdesc": [],
+        "msdesc": [
+            {
+                "id": 416,
+                "value": "Cod. 12026"
+            }
+        ],
         "alt_name": "Missio Brumoviensis",
         "notes": "",
         "persons": []
@@ -38018,6 +38062,749 @@
         "gnd": "",
         "msdesc": [],
         "alt_name": "Convictus Sancti Bartholomei",
+        "notes": "",
+        "persons": []
+    },
+    "557": {
+        "id": 557,
+        "order": "546.00000000000000000000",
+        "name": "Jesuitenkolleg Žatec",
+        "jesuiten_id": "jesuiten_org__557",
+        "located_in": [
+            {
+                "id": 411,
+                "order": "402.00000000000000000000",
+                "name": "Žatec",
+                "jesuiten_id": "jesuiten_place__411",
+                "geonames": "https://www.geonames.org/11925475/zatec.html",
+                "lat": "49.20608",
+                "long": "15.50435",
+                "wikidata": "https://www.wikidata.org/wiki/Q393426",
+                "alt_names": [
+                    {
+                        "id": 286,
+                        "value": "Saaz"
+                    }
+                ],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [
+            {
+                "id": 411,
+                "value": "Cod. 12017"
+            }
+        ],
+        "alt_name": "Collegium Zatecensis",
+        "notes": "",
+        "persons": []
+    },
+    "558": {
+        "id": 558,
+        "order": "547.00000000000000000000",
+        "name": "Jesuitenseminar Březnice",
+        "jesuiten_id": "jesuiten_org__558",
+        "located_in": [
+            {
+                "id": 298,
+                "order": "289.00000000000000000000",
+                "name": "Březnice",
+                "jesuiten_id": "jesuiten_place__298",
+                "geonames": "https://www.geonames.org/3078683/breznice.html",
+                "lat": "49.55763",
+                "long": "13.95063",
+                "wikidata": "https://www.wikidata.org/wiki/Q1019970",
+                "alt_names": [
+                    {
+                        "id": 214,
+                        "value": "Bresnitz"
+                    }
+                ],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Seminarium Brzeznicense",
+        "notes": "",
+        "persons": []
+    },
+    "559": {
+        "id": 559,
+        "order": "548.00000000000000000000",
+        "name": "Jesuitenseminar Krumlov",
+        "jesuiten_id": "jesuiten_org__559",
+        "located_in": [
+            {
+                "id": 99,
+                "order": "96.00000000000000000000",
+                "name": "Český Krumlov",
+                "jesuiten_id": "jesuiten_place__99",
+                "geonames": "https://www.geonames.org/3077889/cesky-krumlov.html",
+                "lat": "48.81091",
+                "long": "14.31521",
+                "wikidata": "https://www.wikidata.org/wiki/Q188082",
+                "alt_names": [
+                    {
+                        "id": 82,
+                        "value": "Böhmisch Krumau"
+                    },
+                    {
+                        "id": 83,
+                        "value": "Crumlovia"
+                    }
+                ],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Seminarium Crumloviense",
+        "notes": "",
+        "persons": []
+    },
+    "560": {
+        "id": 560,
+        "order": "549.00000000000000000000",
+        "name": "Jesuitenseminar Chomutov",
+        "jesuiten_id": "jesuiten_org__560",
+        "located_in": [
+            {
+                "id": 98,
+                "order": "95.00000000000000000000",
+                "name": "Chomutov",
+                "jesuiten_id": "jesuiten_place__98",
+                "geonames": "https://www.geonames.org/3077685/chomutov.html",
+                "lat": "50.46048",
+                "long": "13.41779",
+                "wikidata": "https://www.wikidata.org/wiki/Q146356",
+                "alt_names": [
+                    {
+                        "id": 36,
+                        "value": "Commotovium"
+                    },
+                    {
+                        "id": 58,
+                        "value": "Komotau"
+                    }
+                ],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Seminarium Commotoviense",
+        "notes": "",
+        "persons": []
+    },
+    "561": {
+        "id": 561,
+        "order": "550.00000000000000000000",
+        "name": "Jesuitenseminar Jičín",
+        "jesuiten_id": "jesuiten_org__561",
+        "located_in": [
+            {
+                "id": 102,
+                "order": "99.00000000000000000000",
+                "name": "Jičín",
+                "jesuiten_id": "jesuiten_place__102",
+                "geonames": "https://www.geonames.org/3074204/jicin.html",
+                "lat": "50.43723",
+                "long": "15.35162",
+                "wikidata": "https://www.wikidata.org/wiki/Q656603",
+                "alt_names": [
+                    {
+                        "id": 51,
+                        "value": "Gitzinum"
+                    },
+                    {
+                        "id": 52,
+                        "value": "Jitschin"
+                    },
+                    {
+                        "id": 53,
+                        "value": "Gitschin"
+                    }
+                ],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Seminarium Giczinense",
+        "notes": "",
+        "persons": []
+    },
+    "562": {
+        "id": 562,
+        "order": "551.00000000000000000000",
+        "name": "Jesuitenseminar Kłodzko",
+        "jesuiten_id": "jesuiten_org__562",
+        "located_in": [
+            {
+                "id": 103,
+                "order": "100.00000000000000000000",
+                "name": "Kłodzko",
+                "jesuiten_id": "jesuiten_place__103",
+                "geonames": "https://www.geonames.org/3096053/klodzko.html",
+                "lat": "50.43488",
+                "long": "16.66145",
+                "wikidata": "https://www.wikidata.org/wiki/Q284604",
+                "alt_names": [
+                    {
+                        "id": 59,
+                        "value": "Glatz"
+                    }
+                ],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Seminarium Glacense",
+        "notes": "",
+        "persons": []
+    },
+    "563": {
+        "id": 563,
+        "order": "552.00000000000000000000",
+        "name": "Jesutienseminar Klatovy",
+        "jesuiten_id": "jesuiten_org__563",
+        "located_in": [],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Seminarium Glattoviense",
+        "notes": "",
+        "persons": []
+    },
+    "564": {
+        "id": 564,
+        "order": "553.00000000000000000000",
+        "name": "Jesuitenseminar Kutná Hora",
+        "jesuiten_id": "jesuiten_org__564",
+        "located_in": [
+            {
+                "id": 108,
+                "order": "105.00000000000000000000",
+                "name": "Kutná Hora",
+                "jesuiten_id": "jesuiten_place__108",
+                "geonames": "https://www.geonames.org/3072463/kutna-hora.html",
+                "lat": "49.94839",
+                "long": "15.26816",
+                "wikidata": "https://www.wikidata.org/wiki/Q155975",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Seminarium Kuttenberg",
+        "notes": "",
+        "persons": []
+    },
+    "565": {
+        "id": 565,
+        "order": "554.00000000000000000000",
+        "name": "Jesuitenseminar Uherské Hradiště",
+        "jesuiten_id": "jesuiten_org__565",
+        "located_in": [
+            {
+                "id": 106,
+                "order": "103.00000000000000000000",
+                "name": "Uherské Hradiště",
+                "jesuiten_id": "jesuiten_place__106",
+                "geonames": "https://www.geonames.org/3063739/uherske-hradiste.html",
+                "lat": "49.06975",
+                "long": "17.45969",
+                "wikidata": "https://www.wikidata.org/wiki/Q502993",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Seminarium Hradistiense",
+        "notes": "",
+        "persons": []
+    },
+    "566": {
+        "id": 566,
+        "order": "555.00000000000000000000",
+        "name": "Jesuitenseminar Jihlava",
+        "jesuiten_id": "jesuiten_org__566",
+        "located_in": [
+            {
+                "id": 107,
+                "order": "104.00000000000000000000",
+                "name": "Jihlava",
+                "jesuiten_id": "jesuiten_place__107",
+                "geonames": "https://www.geonames.org/3074199/jihlava.html",
+                "lat": "49.39610",
+                "long": "15.59124",
+                "wikidata": "https://www.wikidata.org/wiki/Q183111",
+                "alt_names": [
+                    {
+                        "id": 54,
+                        "value": "Iglavia"
+                    }
+                ],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Seminarium Iglaviense",
+        "notes": "",
+        "persons": []
+    },
+    "567": {
+        "id": 567,
+        "order": "556.00000000000000000000",
+        "name": "Jesuitenseminar Legnica",
+        "jesuiten_id": "jesuiten_org__567",
+        "located_in": [
+            {
+                "id": 110,
+                "order": "107.00000000000000000000",
+                "name": "Legnica",
+                "jesuiten_id": "jesuiten_place__110",
+                "geonames": "https://www.geonames.org/3093692/legnica.html",
+                "lat": "51.21006",
+                "long": "16.16190",
+                "wikidata": "https://www.wikidata.org/wiki/Q106274",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Seminarium Lignicense",
+        "notes": "",
+        "persons": []
+    },
+    "568": {
+        "id": 568,
+        "order": "557.00000000000000000000",
+        "name": "Jesuitenseminar Litoměřice",
+        "jesuiten_id": "jesuiten_org__568",
+        "located_in": [
+            {
+                "id": 112,
+                "order": "109.00000000000000000000",
+                "name": "Litoměřice",
+                "jesuiten_id": "jesuiten_place__112",
+                "geonames": "https://www.geonames.org/3071677/litomerice.html",
+                "lat": "50.53348",
+                "long": "14.13180",
+                "wikidata": "https://www.wikidata.org/wiki/Q384403",
+                "alt_names": [
+                    {
+                        "id": 48,
+                        "value": "Leitmeritz"
+                    }
+                ],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Seminarium Litomericense",
+        "notes": "",
+        "persons": []
+    },
+    "569": {
+        "id": 569,
+        "order": "558.00000000000000000000",
+        "name": "Jesuitenseminar Nysa",
+        "jesuiten_id": "jesuiten_org__569",
+        "located_in": [
+            {
+                "id": 100,
+                "order": "97.00000000000000000000",
+                "name": "Nysa",
+                "jesuiten_id": "jesuiten_place__100",
+                "geonames": "https://www.geonames.org/3090436/nysa.html",
+                "lat": "50.47379",
+                "long": "17.33437",
+                "wikidata": "https://www.wikidata.org/wiki/Q815721",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Seminarium Nissense",
+        "notes": "",
+        "persons": []
+    },
+    "570": {
+        "id": 570,
+        "order": "559.00000000000000000000",
+        "name": "Jesuitenseminar Jindřichův Hradec",
+        "jesuiten_id": "jesuiten_org__570",
+        "located_in": [
+            {
+                "id": 113,
+                "order": "110.00000000000000000000",
+                "name": "Jindřichův Hradec",
+                "jesuiten_id": "jesuiten_place__113",
+                "geonames": "https://www.geonames.org/3074149/jindrichuv-hradec.html",
+                "lat": "49.14404",
+                "long": "15.00301",
+                "wikidata": "https://www.wikidata.org/wiki/Q368929",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Seminarium Novo-Domense",
+        "notes": "",
+        "persons": []
+    },
+    "571": {
+        "id": 571,
+        "order": "560.00000000000000000000",
+        "name": "Jesuitenseminar Prag",
+        "jesuiten_id": "jesuiten_org__571",
+        "located_in": [
+            {
+                "id": 93,
+                "order": "90.00000000000000000000",
+                "name": "Prague",
+                "jesuiten_id": "jesuiten_place__93",
+                "geonames": "https://www.geonames.org/3067696/prague.html",
+                "lat": "50.08804",
+                "long": "14.42076",
+                "wikidata": "https://www.wikidata.org/wiki/Q1085",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Seminarium Neo-Pragense",
+        "notes": "",
+        "persons": []
+    },
+    "572": {
+        "id": 572,
+        "order": "561.00000000000000000000",
+        "name": "Jesuitenseminar Świdnica",
+        "jesuiten_id": "jesuiten_org__572",
+        "located_in": [
+            {
+                "id": 95,
+                "order": "92.00000000000000000000",
+                "name": "Świdnica",
+                "jesuiten_id": "jesuiten_place__95",
+                "geonames": "https://www.geonames.org/3084093/swidnica.html",
+                "lat": "50.84378",
+                "long": "16.48859",
+                "wikidata": "https://www.wikidata.org/wiki/Q387396",
+                "alt_names": [
+                    {
+                        "id": 35,
+                        "value": "Schwidnicium"
+                    }
+                ],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Seminarium Schwidnicense",
+        "notes": "",
+        "persons": []
+    },
+    "573": {
+        "id": 573,
+        "order": "562.00000000000000000000",
+        "name": "Jesuitenseminar Hradec Králové",
+        "jesuiten_id": "jesuiten_org__573",
+        "located_in": [],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Seminarium Reginohradecense",
+        "notes": "",
+        "persons": []
+    },
+    "574": {
+        "id": 574,
+        "order": "563.00000000000000000000",
+        "name": "Jesuitenseminar Telč",
+        "jesuiten_id": "jesuiten_org__574",
+        "located_in": [
+            {
+                "id": 120,
+                "order": "117.00000000000000000000",
+                "name": "Telč",
+                "jesuiten_id": "jesuiten_place__120",
+                "geonames": "https://www.geonames.org/3064316/telc.html",
+                "lat": "49.18418",
+                "long": "15.45275",
+                "wikidata": "https://www.wikidata.org/wiki/Q373804",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Seminarium Telcense",
+        "notes": "",
+        "persons": []
+    },
+    "575": {
+        "id": 575,
+        "order": "564.00000000000000000000",
+        "name": "Jesuitenseminar Prag",
+        "jesuiten_id": "jesuiten_org__575",
+        "located_in": [
+            {
+                "id": 93,
+                "order": "90.00000000000000000000",
+                "name": "Prague",
+                "jesuiten_id": "jesuiten_place__93",
+                "geonames": "https://www.geonames.org/3067696/prague.html",
+                "lat": "50.08804",
+                "long": "14.42076",
+                "wikidata": "https://www.wikidata.org/wiki/Q1085",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Seminarium pragense (S. Wenceslai)",
+        "notes": "",
+        "persons": []
+    },
+    "576": {
+        "id": 576,
+        "order": "565.00000000000000000000",
+        "name": "Jesuitenseminar M. Prag",
+        "jesuiten_id": "jesuiten_org__576",
+        "located_in": [
+            {
+                "id": 93,
+                "order": "90.00000000000000000000",
+                "name": "Prague",
+                "jesuiten_id": "jesuiten_place__93",
+                "geonames": "https://www.geonames.org/3067696/prague.html",
+                "lat": "50.08804",
+                "long": "14.42076",
+                "wikidata": "https://www.wikidata.org/wiki/Q1085",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Seminarium M. Pragense",
+        "notes": "",
+        "persons": []
+    },
+    "577": {
+        "id": 577,
+        "order": "566.00000000000000000000",
+        "name": "Jesuitenkonvikt Olomouc",
+        "jesuiten_id": "jesuiten_org__577",
+        "located_in": [
+            {
+                "id": 114,
+                "order": "111.00000000000000000000",
+                "name": "Olomouc",
+                "jesuiten_id": "jesuiten_place__114",
+                "geonames": "https://www.geonames.org/3069011/olomouc.html",
+                "lat": "49.59552",
+                "long": "17.25175",
+                "wikidata": "https://www.wikidata.org/wiki/Q81137",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Convictus Olomucensis",
+        "notes": "",
+        "persons": []
+    },
+    "578": {
+        "id": 578,
+        "order": "567.00000000000000000000",
+        "name": "Jesuitenkonvikt Wrocław",
+        "jesuiten_id": "jesuiten_org__578",
+        "located_in": [
+            {
+                "id": 121,
+                "order": "118.00000000000000000000",
+                "name": "Wrocław",
+                "jesuiten_id": "jesuiten_place__121",
+                "geonames": "https://www.geonames.org/3081368/wroclaw.html",
+                "lat": "51.10000",
+                "long": "17.03333",
+                "wikidata": "https://www.wikidata.org/wiki/Q1799",
+                "alt_names": [
+                    {
+                        "id": 80,
+                        "value": "Breslau"
+                    },
+                    {
+                        "id": 81,
+                        "value": "Vratislavia"
+                    }
+                ],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Convictus Wratislavensis",
+        "notes": "",
+        "persons": []
+    },
+    "579": {
+        "id": 579,
+        "order": "568.00000000000000000000",
+        "name": "Jesuitenkonvikt Prag",
+        "jesuiten_id": "jesuiten_org__579",
+        "located_in": [
+            {
+                "id": 93,
+                "order": "90.00000000000000000000",
+                "name": "Prague",
+                "jesuiten_id": "jesuiten_place__93",
+                "geonames": "https://www.geonames.org/3067696/prague.html",
+                "lat": "50.08804",
+                "long": "14.42076",
+                "wikidata": "https://www.wikidata.org/wiki/Q1085",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Convictus V. Pragensis",
+        "notes": "",
+        "persons": []
+    },
+    "580": {
+        "id": 580,
+        "order": "569.00000000000000000000",
+        "name": "Jesuitenmission Scotica",
+        "jesuiten_id": "jesuiten_org__580",
+        "located_in": [
+            {
+                "id": 451,
+                "order": "442.00000000000000000000",
+                "name": "Scotland",
+                "jesuiten_id": "jesuiten_place__451",
+                "geonames": "https://www.geonames.org/2638360/scotland.html",
+                "lat": "56.00000",
+                "long": "-4.00000",
+                "wikidata": "",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Scotica",
+        "notes": "",
+        "persons": []
+    },
+    "581": {
+        "id": 581,
+        "order": "570.00000000000000000000",
+        "name": "Jesuitenmission Lappica (?)",
+        "jesuiten_id": "jesuiten_org__581",
+        "located_in": [],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio lappica",
+        "notes": "",
+        "persons": []
+    },
+    "582": {
+        "id": 582,
+        "order": "571.00000000000000000000",
+        "name": "Jesuitenmission Kroměříž",
+        "jesuiten_id": "jesuiten_org__582",
+        "located_in": [
+            {
+                "id": 283,
+                "order": "275.00000000000000000000",
+                "name": "Kroměříž",
+                "jesuiten_id": "jesuiten_place__283",
+                "geonames": "https://www.geonames.org/3072649/kromeriz.html",
+                "lat": "49.29785",
+                "long": "17.39312",
+                "wikidata": "https://www.wikidata.org/wiki/Q158239",
+                "alt_names": [
+                    {
+                        "id": 205,
+                        "value": "Cremsirium"
+                    }
+                ],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [
+            {
+                "id": 416,
+                "value": "Cod. 12026"
+            }
+        ],
+        "alt_name": "Missio Cremsiviensis",
+        "notes": "",
+        "persons": []
+    },
+    "583": {
+        "id": 583,
+        "order": "572.00000000000000000000",
+        "name": "Jesuitenmission Topoľčany",
+        "jesuiten_id": "jesuiten_org__583",
+        "located_in": [
+            {
+                "id": 452,
+                "order": "443.00000000000000000000",
+                "name": "Topoľčany",
+                "jesuiten_id": "jesuiten_place__452",
+                "geonames": "https://www.geonames.org/3057174/topolcany.html",
+                "lat": "48.56361",
+                "long": "18.16712",
+                "wikidata": "https://www.wikidata.org/wiki/Q750423",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [
+            {
+                "id": 416,
+                "value": "Cod. 12026"
+            }
+        ],
+        "alt_name": "Missio Topolchana",
+        "notes": "",
+        "persons": []
+    },
+    "584": {
+        "id": 584,
+        "order": "573.00000000000000000000",
+        "name": "Jesuitenmission Haugwitziana",
+        "jesuiten_id": "jesuiten_org__584",
+        "located_in": [],
+        "gnd": "",
+        "msdesc": [
+            {
+                "id": 416,
+                "value": "Cod. 12026"
+            }
+        ],
+        "alt_name": "Missio Haugwitziana",
         "notes": "",
         "persons": []
     }

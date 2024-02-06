@@ -20,7 +20,7 @@
     "extent": "II, 74, I* Bl.",
     "height": "325",
     "width": "200",
-    "foliation": "Moderne Foliierung",
+    "foliation": "Moderne Foliierung.",
     "acc_mat": "",
     "binding": "Pappeinband, Wien, 19. Jhdt.",
     "summary": "Zusammengesetzte Handschrift aus den Berichten mehreren jesuitischen Häusern. Die Berichte sind als einzelne kodikologischen Einheiten mit oft stark variierten Blattmaße gut erkennbar. Das erste Vorsatzblatt ist rot gestrichen mit dem Titel: 'Historia collegium Anno 1609, 1610, 1611, 1612, 1613, 1616'.",
@@ -29,6 +29,313 @@
     "# when": "",
     "date_letter": "1609–1613",
     "century": "17. Jhdt."
+  },
+  "409": {
+    "id": 409,
+    "order": "0.57142857142857139685",
+    "signatur": "Cod. 12015",
+    "jesuiten_id": "jesuiten_msdesc__409",
+    "mentioned_orgs": [
+      {
+        "id": 92,
+        "value": "Profeßhaus Prag"
+      }
+    ],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13949407",
+    "title": "Domus professae Societatis Iesu Pragensis instrumenta a. 1628-1654 collecta a. 1676",
+    "date": "1628-1773",
+    "persons": [],
+    "mentioned_places": [],
+    "note_type_facs": "",
+    "xml_id": "cod_12015",
+    "extent": "431 Bl.",
+    "height": "313",
+    "width": "205",
+    "foliation": "Moderne Foliierung; zeitgenössische Aktennummerierung auf dem rechten Eck oben und/oder unten.",
+    "acc_mat": "",
+    "binding": "Leder mit Blindstempeln über Holzdeckeln; Reste von zwei Schließen, 17. Jhdt.",
+    "summary": "Urkundenbuch des Prager Profeshauses. Nach dem Vermerk auf fol. 1r handelt es sich um sog. copia vidimata (= beglaubigte Abschriften), zumeist mit Originalunterschriften und Papier- oder Wachssiegeln. Damit wollte man verhindern, dass sie durch häufigen Gebrauch beschädigt wurden oder in ungebundener Form verloren gingen. Die Ordnung wurde vom 'juristconsultus' vorgenommen; zwischen den Urkunden wurden leere Blätter eingefügt, um weitere zugehörige Werke einzufügen. Weitere leere Blätter (fols. 297–431) wurden für künftige Eintragungen vorgesehen. \nEin 'Index Materiarum' befindet sich auf Blatt 2r. Die Urkunden sind thematisch in 12 Gruppen (A-M) geordnet. \nSprachen: Tschechisch, Deutsch, Latein.",
+    "not_before": "1628",
+    "not_after": "1773",
+    "# when": "",
+    "date_letter": "",
+    "century": "17.-18. Jhdt."
+  },
+  "410": {
+    "id": 410,
+    "order": "0.58333333333333337034",
+    "signatur": "Cod. 12016",
+    "jesuiten_id": "jesuiten_msdesc__410",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13949408",
+    "title": "Conspectus rationum acceptorum et expositorum in omnibus domis, collegiis, missionibus, residentiis etc. Societatis iesu a. 1714 in mundo universo",
+    "date": "1714-1716",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Provincia Bohemia"
+      }
+    ],
+    "note_type_facs": "",
+    "xml_id": "cod_12016",
+    "extent": "II, 93, I* Bl.",
+    "height": "325",
+    "width": "220",
+    "foliation": "Moderne Foliierung: 1–59, 59a, 60–92.",
+    "acc_mat": "",
+    "binding": "Brauner Leder über Pappe mit Blindstempeln und Streicheisenlinien; Titel 'Seminaria' auf dem Vorderdeckel. 18. Jhdt.",
+    "summary": "Ein- und Ausgabe (Rationes) von Seminaren in Provincia Bohemia für die Jahre 1714–1715. Die Handschrift ist nach den Seminaren gegliedert, mit Lesezeichen auf dem Vorderschnitt.",
+    "not_before": null,
+    "not_after": null,
+    "# when": "",
+    "date_letter": "",
+    "century": "18. Jhdt."
+  },
+  "411": {
+    "id": 411,
+    "order": "0.58823529411764707842",
+    "signatur": "Cod. 12017",
+    "jesuiten_id": "jesuiten_msdesc__411",
+    "mentioned_orgs": [
+      {
+        "id": 557,
+        "value": "Jesuitenkolleg Žatec"
+      }
+    ],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13949409",
+    "title": "Rationes musicorum a. 1702-1727 in collegio Zatecensi Societatis Iesu",
+    "date": "1702-1728",
+    "persons": [],
+    "mentioned_places": [],
+    "note_type_facs": "",
+    "xml_id": "cod_12017",
+    "extent": "II, 34, I* Bl.",
+    "height": "323",
+    "width": "215",
+    "foliation": "Moderne Foliierung.",
+    "acc_mat": "",
+    "binding": "Brauner Leder über Pappe mit Blindstempeln und Streicheisenlinien, 18. Jhdt.",
+    "summary": "Rechnungsbuch für Eingänge und Ausgänge in tabellarischer Form nach Monaten.",
+    "not_before": "1702",
+    "not_after": "1728",
+    "# when": "",
+    "date_letter": "1702-1727",
+    "century": "18. Jhdt."
+  },
+  "412": {
+    "id": 412,
+    "order": "0.59090909090909093937",
+    "signatur": "Cod. 12019",
+    "jesuiten_id": "jesuiten_msdesc__412",
+    "mentioned_orgs": [
+      {
+        "id": 107,
+        "value": "Jesuitenresidenz Otyń"
+      }
+    ],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13949410",
+    "title": "Diarium residententiae Societatis Iesu Wartenbergensis a. 1698-1721",
+    "date": "",
+    "persons": [],
+    "mentioned_places": [],
+    "note_type_facs": "",
+    "xml_id": "cod_12019",
+    "extent": "II, 377, II* Bl.",
+    "height": "320",
+    "width": "195",
+    "foliation": "Moderne Foliierung.",
+    "acc_mat": "",
+    "binding": "Pappeinband Wien 19. Jhdt.",
+    "summary": "Fortlaufendes Tagebuch der Jesuitenresidenz Otyń.",
+    "not_before": "1698",
+    "not_after": "1721",
+    "# when": "",
+    "date_letter": "1698-1721",
+    "century": "17.-18. Jhdt."
+  },
+  "413": {
+    "id": 413,
+    "order": "0.59259259259259255970",
+    "signatur": "Cod. 12021",
+    "jesuiten_id": "jesuiten_msdesc__413",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13949412",
+    "title": "Rapularium expositorum collegii cuiusdam Societatis Iesu Polonici ut videtur Leopoliensis a. 1759-1764",
+    "date": "",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 429,
+        "value": "Provincia Polonia Minor"
+      }
+    ],
+    "note_type_facs": "",
+    "xml_id": "cod_12021",
+    "extent": "I, 188 Bl.",
+    "height": "323",
+    "width": "192",
+    "foliation": "Moderne Foliierung.",
+    "acc_mat": "",
+    "binding": "Brauner Leder über Pappe mit Blindstempeln und Streicheisenlinien; 18. Jhdt.",
+    "summary": "Bücherverzeichnis (?) einiger Professoren oder SJ Mitglieder, mit Angabe der Größe und teilweise der Preise in Zlote. Sprache: Latein und Polnisch.",
+    "not_before": null,
+    "not_after": null,
+    "# when": "",
+    "date_letter": "1759-1764",
+    "century": "18. Jhdt."
+  },
+  "414": {
+    "id": 414,
+    "order": "0.59375000000000000000",
+    "signatur": "Cod. 12022",
+    "jesuiten_id": "jesuiten_msdesc__414",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13966027",
+    "title": "Sammelhandschrift: Lorenzo Ricci, Epistola ad Cantium Lasocki; Liber statuum actualium prov. Poloniae",
+    "date": "1764",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 429,
+        "value": "Provincia Polonia Minor"
+      }
+    ],
+    "note_type_facs": "",
+    "xml_id": "cod_12022",
+    "extent": "II, 64 Bl.",
+    "height": "315",
+    "width": "215",
+    "foliation": "Zeitgenössische Paginierung 1–128. Moderne Foliierung: I-III.",
+    "acc_mat": "",
+    "binding": "Halbband, Deckel mit Marmorpapier bedeckt; Titelschild auf dem Vorderdeckel aufgeklebt. Auf dem Rücken Titelschiild 'Jaroslawiene'. 18. Jhdt.",
+    "summary": "Status actualis der Provinz Polonia Minor nach Domizilen gegliedert in tabellarischer Form. Nur die Angaben für das Dezennium 1753-1763 sind ausgefüllt.\nVorgebunden ist ein Originalbrief Lorenzo Ricci an den Provinzial der prov. Polonia Minor von 1764.",
+    "not_before": null,
+    "not_after": null,
+    "# when": "1764",
+    "date_letter": "1753-1764",
+    "century": "18. Jhdt."
+  },
+  "415": {
+    "id": 415,
+    "order": "0.59459459459459462760",
+    "signatur": "Cod. 12023",
+    "jesuiten_id": "jesuiten_msdesc__415",
+    "mentioned_orgs": [
+      {
+        "id": 187,
+        "value": "Jesuitenkolleg Przemyśl"
+      }
+    ],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948756",
+    "title": "Catalogus librorum in bibliotheca collegii Premysliensis Societatis Iesu contentorum a. 1742",
+    "date": "1742",
+    "persons": [],
+    "mentioned_places": [],
+    "note_type_facs": "",
+    "xml_id": "cod_12023",
+    "extent": "I, 90 Bl.",
+    "height": "320",
+    "width": "197",
+    "foliation": "Moderne Foliierung.",
+    "acc_mat": "",
+    "binding": "Halbband, Deckel mit Marmorpapier bedeckt, 18. Jhdt.",
+    "summary": "Bibliothekskatalog des Jesuitenkollegs in Przemyśl aus dem Jahr 1742, thematisch geordnet. Lesezeichen auf dem Vorderschnitt für die thematischen Abschnitte ('Apologia variae', 'Ascetae' etc.).",
+    "not_before": null,
+    "not_after": null,
+    "# when": "1742",
+    "date_letter": "",
+    "century": "18. Jhdt."
+  },
+  "417": {
+    "id": 417,
+    "order": "0.59493670886075944448",
+    "signatur": "Cod. 12025",
+    "jesuiten_id": "jesuiten_msdesc__417",
+    "mentioned_orgs": [
+      {
+        "id": 166,
+        "value": "Jesuitenkolleg Lviv"
+      }
+    ],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13946447",
+    "title": "Liber epistolarum Societatis Iesu et scholas eiusdem Societatis Iesu concernentium a generalibus et provincialibus transmissarum rectoribus collegii Leopoliensis in provincia Poloniae",
+    "date": "",
+    "persons": [],
+    "mentioned_places": [],
+    "note_type_facs": "http://data.onb.ac.at/dtl/8991282",
+    "xml_id": "cod_12025",
+    "extent": "",
+    "height": null,
+    "width": null,
+    "foliation": "",
+    "acc_mat": "",
+    "binding": "",
+    "summary": "An den Rektor des Jesuitenkollegs in Lemberg gerichtete Briefe (mit wenigen Ausnahmen Abschriften).",
+    "not_before": null,
+    "not_after": null,
+    "# when": "",
+    "date_letter": "",
+    "century": "18. Jhdt."
+  },
+  "416": {
+    "id": 416,
+    "order": "0.59523809523809523281",
+    "signatur": "Cod. 12026",
+    "jesuiten_id": "jesuiten_msdesc__416",
+    "mentioned_orgs": [
+      {
+        "id": 112,
+        "value": "Jesuitenkolleg Olomouc"
+      },
+      {
+        "id": 208,
+        "value": "Jesuitenmission Cardinalitia"
+      },
+      {
+        "id": 238,
+        "value": "Jesuitenmission Opava"
+      },
+      {
+        "id": 401,
+        "value": "Jesuitenmission Silesia Superiore, Cieszyn"
+      },
+      {
+        "id": 450,
+        "value": "Jesuitenmission Brumov"
+      },
+      {
+        "id": 582,
+        "value": "Jesuitenmission Kroměříž"
+      },
+      {
+        "id": 583,
+        "value": "Jesuitenmission Topoľčany"
+      },
+      {
+        "id": 584,
+        "value": "Jesuitenmission Haugwitziana"
+      }
+    ],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13946448",
+    "title": "Historia collegii Olomucensis Societatis Iesu: Pars prior a. 1566-1727",
+    "date": "",
+    "persons": [],
+    "mentioned_places": [],
+    "note_type_facs": "",
+    "xml_id": "cod_12026",
+    "extent": "I, 322, II* Bl.",
+    "height": "315",
+    "width": "200",
+    "foliation": "Moderne Foliierung.",
+    "acc_mat": "",
+    "binding": "Brauner Leder über Pappe mit Streicheisenlinien, 18. Jhdt.",
+    "summary": "Die Berichte sind fortlaufend, wohl Jahr für Jahr eingeschrieben.",
+    "not_before": "1566",
+    "not_after": "1728",
+    "# when": "",
+    "date_letter": "1566-1727",
+    "century": "16.-18. Jhdt."
   },
   "230": {
     "id": 230,
