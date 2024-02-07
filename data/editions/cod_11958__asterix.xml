@@ -1862,11 +1862,7 @@
     </teiHeader>
     <text>
         <body><p/></body>
-    <back><listOrg><org xml:id="jesuiten_org__408">
-                  <orgName>Jesuitenmission Jaispicensis</orgName>
-                  <orgName type="alt">Missio Jaispicensis</orgName>
-               <noteGrp><note target="cod_11958__asterix.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11958*</note><note target="cod_11962.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11962</note><note target="cod_12281.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12281</note></noteGrp></org>
-               <org xml:id="jesuiten_org__348">
+    <back><listOrg><org xml:id="jesuiten_org__348">
                   <orgName>Jesuitenmission Hrušovany nad Jevišovkou</orgName>
                   <orgName type="alt">Missio Gruspacensis</orgName>
                   <location type="located_in_place">
@@ -1875,6 +1871,10 @@
                      <note type="idno"><idno type="geonames">https://sws.geonames.org/3074764/</idno></note>
                   </location>
                <noteGrp><note target="cod_11958__asterix.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11958*</note><note target="cod_11961.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11961</note></noteGrp></org>
+               <org xml:id="jesuiten_org__408">
+                  <orgName>Jesuitenmission Jaispicensis</orgName>
+                  <orgName type="alt">Missio Jaispicensis</orgName>
+               <noteGrp><note target="cod_11958__asterix.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11958*</note><note target="cod_11962.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11962</note><note target="cod_12281.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12281</note></noteGrp></org>
                <org xml:id="jesuiten_org__122">
                   <orgName>Jesuitenkolleg Znoymo</orgName>
                   <orgName type="alt">Collegium Znoymense</orgName>
