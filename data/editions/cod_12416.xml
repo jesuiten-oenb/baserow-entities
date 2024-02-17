@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cod_12416.xml" xml:base="https://oenb.ac.at" prev="https://oenb.ac.at/cod_12410__asterix.xml" next="https://oenb.ac.at/cod_12417__asterix.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Wien, Österreichische Nationalbibliothek, Cod. 12416</title>
+                <title type="sub">Jesuiten Littera annuae</title>
+                <respStmt>
+                    <resp>Beschreibung und TEI-encoding</resp>
+                    <persName>
+                        <forename>Ivana</forename>
+                        <surname>Dobcheva</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="restricted">
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">This document is published under the Creative Commons licence Attribution 4.0 International (CC BY 4.0).</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:lang="de" xml:id="cod_12416">
+                    <msIdentifier>
+                        <country>Österreich</country>
+                        <settlement>Wien</settlement>
+                        <repository>Österreichische Nationalbibliothek</repository>
+                        <idno>Cod. 12416</idno>
+                    </msIdentifier>
+                    <head>
+                        <title>Liber consultationum, collectionum, exhortationum, resolutionum et suffragiorum a. 1721-1773 collegii Samoriensis in provincia Poloniae Societatis Iesu</title>
+                        <date type="letter">1721-1773 </date>
+                        <note type="catalogue">
+                            <ref target="http://data.onb.ac.at/rec/AC13949856"/>
+                        </note>
+                    </head>
+                    <msContents>                   
+                        <summary>
+                                Das Buch ist in sieben Teile gegliedert, die auch durch Lesezeichen auf dem Vorderschnitt gekennzeichnet sind. Weitgehend unbeschrieben. 
+                                
+                                <listOrg>
+                                    <head>Erwähnte Körperschaften:</head>
+                                    <org>
+                                        <orgName key="#jesuiten_org__541">Jesuitenresidenz Sambir</orgName>
+                                    </org>
+                                </listOrg>                           
+                        </summary> 
+                        <textLang mainLang="lat"/>
+                        
+                                <msItem n="None">
+                                    <locus from="1r" to="12r">1r-12r</locus>
+                                    <title>Consultationes </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="21r" to="21v">21r-21v</locus>
+                                    <title>Suffragia </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="41r" to="41r">41r-41r</locus>
+                                    <title>Suffragia pro externis tum fundatoribus tum benefactoribus defunctis </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="66r" to="66r">66r-66r</locus>
+                                    <title>Hospites externi </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="87r" to="87r">87r-87r</locus>
+                                    <title>Hospites nostri </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="108r" to="119v">108r-119v</locus>
+                                    <title>Liber collectionum 1721-1772 </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="128r" to="132r">128r-132r</locus>
+                                    <title>Liber exhortationum 1721-1772 </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="144r" to="148v">144r-148v</locus>
+                                    <title>Liber resolutionum 1721-1773 </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="158r" to="159r">158r-159r</locus>
+                                    <title>Hospites in nostra residentia 1743 </title>
+                                </msItem>
+                          
+                        
+                       
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="codex">
+                            <supportDesc material="paper">
+                                <support>Papier</support>
+                                <extent>
+                                    <measure type="leavesCount" unit="folio">I, 159 Bl.</measure>
+                                    <dimensions type="leaf_current" unit="mm">
+                                        <height>197</height>
+                                        <width>165</width>
+                                    </dimensions>
+                                </extent>
+                                <foliation>Moderne Foliierung.</foliation>
+                                <collation/>
+                            </supportDesc>
+                        </objectDesc>
+                        <bindingDesc>
+                            <binding>
+                                <p>Halbband, Deckel mit buntem Marmorpapier überzogen; auf dem Buchrücken Zettel '19. Sambor'; 18. Jhdt.</p>
+                            </binding>
+                        </bindingDesc>
+                        <accMat/>                        
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><p/></body>
+    <back><listOrg><org xml:id="jesuiten_org__541">
+                  <orgName>Jesuitenresidenz Sambir</orgName>
+                  <orgName type="alt">Residentia Samboriensis</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__437">Sambir</placeName>
+                     <geo>49.51631 23.20060</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/694864/</idno></note>
+                  </location>
+                  <note>SAMBOR, Samboria, urbs in dioec. Premisliensi. Residentia Samboriensis a. 1699 incboata, postea a. 1761 in collegium conversa, prov. Minor. Polon., cum gymnasio, existebat ad annum 1773.
+(Catalogus provinciae Galicianae Societatis Jesu. Ineunte anno 1899, Krakau, S. 61).</note>
+               <noteGrp><note target="cod_12009.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12009</note><note target="cod_12416.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12416</note></noteGrp></org>
+               </listOrg></back></text>
+</TEI>

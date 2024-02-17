@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cod_12420.xml" xml:base="https://oenb.ac.at" prev="https://oenb.ac.at/cod_12419__asterix.xml" next="https://oenb.ac.at/cod_14002.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Wien, Österreichische Nationalbibliothek, Cod. 12420</title>
+                <title type="sub">Jesuiten Littera annuae</title>
+                <respStmt>
+                    <resp>Beschreibung und TEI-encoding</resp>
+                    <persName>
+                        <forename>Ivana</forename>
+                        <surname>Dobcheva</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="restricted">
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">This document is published under the Creative Commons licence Attribution 4.0 International (CC BY 4.0).</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:lang="de" xml:id="cod_12420">
+                    <msIdentifier>
+                        <country>Österreich</country>
+                        <settlement>Wien</settlement>
+                        <repository>Österreichische Nationalbibliothek</repository>
+                        <idno>Cod. 12420</idno>
+                    </msIdentifier>
+                    <head>
+                        <title>Magisterium inferiorum classium Societatis Iesu magistris accommodatum a. 1740</title>
+                        <date type="letter"> </date>
+                        <note type="facs">
+                            <ref target="http://data.onb.ac.at/dtl/8973290"/>
+                        </note>
+                        <note type="catalogue">
+                            <ref target="http://data.onb.ac.at/rec/AC13949862"/>
+                        </note>
+                    </head>
+                    <msContents>                   
+                        <summary>
+                                Es handelt sich um eine in drei Teile gegliederte Regel, die sich auf die innere und äußere Verfassung der Lehrer der Gesellschaft Jesu bezieht, d.h. wie sie sich zu Gott, zu den anderen Oberen und Vorgesetzten, zu den Gelehrten und zu sich selbst verhalten sollen. 
+                                
+                        </summary> 
+                        <textLang mainLang="lat"/>
+                        
+                                <msItem n="None">
+                                    <locus from="3" to="46">3-46</locus>
+                                    <title>Pars prima quid erga personas praecipue Deum, BV, SS angelos, caeteros caelites, superiorem ministrum, praefectum, fratres domesticos, collegas, parentes discipulorum, eorumque pedagogos, a discipulis distinctos abservare debeat </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="46" to="131">46-131</locus>
+                                    <title>Pars secunda de observanda a magistro erga discipulos </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="131" to="167">131-167</locus>
+                                    <title>Pars tertia quae magister erga se ipsum observare debet </title>
+                                </msItem>
+                          
+                        
+                       
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="codex">
+                            <supportDesc material="paper">
+                                <support>Papier</support>
+                                <extent>
+                                    <measure type="leavesCount" unit="folio">III, 129, I* Bl.</measure>
+                                    <dimensions type="leaf_current" unit="mm">
+                                        <height>125</height>
+                                        <width>77</width>
+                                    </dimensions>
+                                </extent>
+                                <foliation>Zeitgenössische Paginierung.</foliation>
+                                <collation/>
+                            </supportDesc>
+                        </objectDesc>
+                        <bindingDesc>
+                            <binding>
+                                <p>Brauner Ledereinband über Pappdeckeln mit Streicheisenlinien; Reste von Lederschließen. 18. Jhdt.</p>
+                            </binding>
+                        </bindingDesc>
+                        <accMat/>                        
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><p/></body>
+    <back/></text>
+</TEI>

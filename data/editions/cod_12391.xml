@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cod_12391.xml" xml:base="https://oenb.ac.at" prev="https://oenb.ac.at/cod_12387.xml" next="https://oenb.ac.at/cod_12404.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Wien, Österreichische Nationalbibliothek, Cod. 12391</title>
+                <title type="sub">Jesuiten Littera annuae</title>
+                <respStmt>
+                    <resp>Beschreibung und TEI-encoding</resp>
+                    <persName>
+                        <forename>Ivana</forename>
+                        <surname>Dobcheva</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="restricted">
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">This document is published under the Creative Commons licence Attribution 4.0 International (CC BY 4.0).</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:lang="de" xml:id="cod_12391">
+                    <msIdentifier>
+                        <country>Österreich</country>
+                        <settlement>Wien</settlement>
+                        <repository>Österreichische Nationalbibliothek</repository>
+                        <idno>Cod. 12391</idno>
+                    </msIdentifier>
+                    <head>
+                        <title>Liber consultationum collegii Societatis Iesu Brunensis in Moravia a. 1688-1745</title>
+                        <date type="letter"> </date>
+                        <note type="catalogue">
+                            <ref target="http://data.onb.ac.at/rec/AC13956651"/>
+                        </note>
+                    </head>
+                    <msContents>                   
+                        <summary>
+                                Zusammengesetzte Handschrift. Der Hauptteil der Handschrift auf 
+fol. 10r-147r besteht aus dem sogenannten Liber consultationum des Jesuitenkollegs in Brünn, eine chronologische Auflistung der Beratungen für die Jahre 1688–1745, mit Angabe der Themen bzw. der gelesenen Texte. Vorgebunden ist ein Bericht über die "Prima solemnitas in monte Crucis prope Sobeschicium" am 3. Mai 1718 bei Soběšice (fol. 1v-r), sowie vier Konzepte für die Ausmalung der Altäre des hl. Franciscus Borgia (fol. 2-3r), der Beata Maria Virgo (fol. 4r-5r), der Sanctorum trium crucifixorum Japoniae (fol. 6r-7r) und des hl. Johannes Nepomuk (fol. 8r-9r). 
+                                
+                        </summary> 
+                        <textLang mainLang="lat"/>
+                        
+                       
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="codex">
+                            <supportDesc material="paper">
+                                <support>Papier</support>
+                                <extent>
+                                    <measure type="leavesCount" unit="folio">I, 146 Bl.</measure>
+                                    <dimensions type="leaf_current" unit="mm">
+                                        <height>300</height>
+                                        <width>200</width>
+                                    </dimensions>
+                                </extent>
+                                <foliation>Moderne Foliierung.</foliation>
+                                <collation/>
+                            </supportDesc>
+                        </objectDesc>
+                        <bindingDesc>
+                            <binding>
+                                <p>Pergament über Pappdeckel, 18. Jhdt.</p>
+                            </binding>
+                        </bindingDesc>
+                        <accMat/>                        
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><p/></body>
+    <back/></text>
+</TEI>
