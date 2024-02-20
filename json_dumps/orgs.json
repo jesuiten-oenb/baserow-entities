@@ -22448,8 +22448,17 @@
             }
         ],
         "gnd": "",
-        "msdesc": [],
-        "alt_name": "Crosnenfe Collegium",
+        "msdesc": [
+            {
+                "id": 425,
+                "value": "Cod. 12417"
+            },
+            {
+                "id": 59,
+                "value": "Cod. 12417*"
+            }
+        ],
+        "alt_name": "Collegium Crosnense",
         "notes": "",
         "persons": []
     },
@@ -23684,12 +23693,7 @@
             }
         ],
         "gnd": "",
-        "msdesc": [
-            {
-                "id": 59,
-                "value": "Cod. 12417*"
-            }
-        ],
+        "msdesc": [],
         "alt_name": "Collegium Crosnense",
         "notes": "",
         "persons": []
@@ -38818,6 +38822,793 @@
             }
         ],
         "alt_name": "Missio Haugwitziana",
+        "notes": "",
+        "persons": []
+    },
+    "585": {
+        "id": 585,
+        "order": "574.00000000000000000000",
+        "name": "Jesuitenmission Gorizia",
+        "jesuiten_id": "jesuiten_org__585",
+        "located_in": [
+            {
+                "id": 27,
+                "order": "27.00000000000000000000",
+                "name": "Gorizia",
+                "jesuiten_id": "jesuiten_place__27",
+                "geonames": "https://www.geonames.org/3175986/gorizia.html",
+                "lat": "45.94088",
+                "long": "13.62167",
+                "wikidata": "https://www.wikidata.org/wiki/Q6596",
+                "alt_names": [
+                    {
+                        "id": 13,
+                        "value": "Görz"
+                    }
+                ],
+                "msdesc": [
+                    {
+                        "id": 66,
+                        "value": "Cod. 12058"
+                    },
+                    {
+                        "id": 67,
+                        "value": "Cod. 12059"
+                    },
+                    {
+                        "id": 68,
+                        "value": "Cod. 12060"
+                    },
+                    {
+                        "id": 97,
+                        "value": "Cod. 12062"
+                    },
+                    {
+                        "id": 98,
+                        "value": "Cod. 12063"
+                    },
+                    {
+                        "id": 99,
+                        "value": "Cod. 12064"
+                    },
+                    {
+                        "id": 100,
+                        "value": "Cod. 12065"
+                    },
+                    {
+                        "id": 4,
+                        "value": "Cod. 12066"
+                    },
+                    {
+                        "id": 101,
+                        "value": "Cod. 12067"
+                    },
+                    {
+                        "id": 102,
+                        "value": "Cod. 12068"
+                    },
+                    {
+                        "id": 103,
+                        "value": "Cod. 12069"
+                    },
+                    {
+                        "id": 64,
+                        "value": "Cod. 12049"
+                    },
+                    {
+                        "id": 10,
+                        "value": "Cod. 12138"
+                    },
+                    {
+                        "id": 31,
+                        "value": "Cod. 12273"
+                    },
+                    {
+                        "id": 113,
+                        "value": "Cod. 12279"
+                    },
+                    {
+                        "id": 32,
+                        "value": "Cod. 12274"
+                    },
+                    {
+                        "id": 33,
+                        "value": "Cod. 12275"
+                    },
+                    {
+                        "id": 34,
+                        "value": "Cod. 12276"
+                    },
+                    {
+                        "id": 30,
+                        "value": "Cod. 12277"
+                    },
+                    {
+                        "id": 70,
+                        "value": "Cod. 12231"
+                    },
+                    {
+                        "id": 60,
+                        "value": "Cod. 12241"
+                    }
+                ]
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Goritiensis",
+        "notes": "",
+        "persons": []
+    },
+    "586": {
+        "id": 586,
+        "order": "575.00000000000000000000",
+        "name": "Jesuitenmission Richemburg",
+        "jesuiten_id": "jesuiten_org__586",
+        "located_in": [],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Richemburgensis",
+        "notes": "\"... Domini Buriani Berka dominium\" (Cod. 13561, fol. 19v).",
+        "persons": []
+    },
+    "587": {
+        "id": 587,
+        "order": "576.00000000000000000000",
+        "name": "Jesuitenmission Eberau",
+        "jesuiten_id": "jesuiten_org__587",
+        "located_in": [
+            {
+                "id": 453,
+                "order": "444.00000000000000000000",
+                "name": "Eberau",
+                "jesuiten_id": "jesuiten_place__453",
+                "geonames": "https://www.geonames.org/2780539/eberau.html",
+                "lat": "47.10764",
+                "long": "16.46044",
+                "wikidata": "",
+                "alt_names": [
+                    {
+                        "id": 302,
+                        "value": "Monyorókerék"
+                    }
+                ],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Monyorokerekiensis",
+        "notes": "Monyorókerék, Komitat Vas, nordöstlich von Németújvár (heute Eberau, Österreich).",
+        "persons": []
+    },
+    "588": {
+        "id": 588,
+        "order": "577.00000000000000000000",
+        "name": "Jesuitenmission Alsolinduana",
+        "jesuiten_id": "jesuiten_org__588",
+        "located_in": [],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Alsolinduana",
+        "notes": "apud illustrum dynastam Christophorum Pamphy",
+        "persons": []
+    },
+    "589": {
+        "id": 589,
+        "order": "578.00000000000000000000",
+        "name": "Jesuitenmission Leonhartoviensis",
+        "jesuiten_id": "jesuiten_org__589",
+        "located_in": [],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Leonhartoviensis",
+        "notes": "\"Tertius et ultimus agitur huius missionis annus, cui circa autumnales ferias feliciter finis impositus\" (Cod. 13561, fol. 51r - a. 1615).",
+        "persons": []
+    },
+    "590": {
+        "id": 590,
+        "order": "579.00000000000000000000",
+        "name": "Jesuitenmission Chropyně",
+        "jesuiten_id": "jesuiten_org__590",
+        "located_in": [
+            {
+                "id": 454,
+                "order": "445.00000000000000000000",
+                "name": "Chropyně",
+                "jesuiten_id": "jesuiten_place__454",
+                "geonames": "https://www.geonames.org/3077549/chropyne.html",
+                "lat": "49.35644",
+                "long": "17.36451",
+                "wikidata": "",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Chropinensis",
+        "notes": "",
+        "persons": []
+    },
+    "591": {
+        "id": 591,
+        "order": "580.00000000000000000000",
+        "name": "Jesuitenresidenz Linz",
+        "jesuiten_id": "jesuiten_org__591",
+        "located_in": [
+            {
+                "id": 3,
+                "order": "3.00000000000000000000",
+                "name": "Linz",
+                "jesuiten_id": "jesuiten_place__3",
+                "geonames": "https://www.geonames.org/2772400/linz.html",
+                "lat": "48.30639",
+                "long": "14.28611",
+                "wikidata": "https://www.wikidata.org/wiki/Q41329",
+                "alt_names": [
+                    {
+                        "id": 127,
+                        "value": "Lincium"
+                    }
+                ],
+                "msdesc": [
+                    {
+                        "id": 66,
+                        "value": "Cod. 12058"
+                    },
+                    {
+                        "id": 67,
+                        "value": "Cod. 12059"
+                    },
+                    {
+                        "id": 68,
+                        "value": "Cod. 12060"
+                    },
+                    {
+                        "id": 97,
+                        "value": "Cod. 12062"
+                    },
+                    {
+                        "id": 98,
+                        "value": "Cod. 12063"
+                    },
+                    {
+                        "id": 99,
+                        "value": "Cod. 12064"
+                    },
+                    {
+                        "id": 100,
+                        "value": "Cod. 12065"
+                    },
+                    {
+                        "id": 4,
+                        "value": "Cod. 12066"
+                    },
+                    {
+                        "id": 101,
+                        "value": "Cod. 12067"
+                    },
+                    {
+                        "id": 103,
+                        "value": "Cod. 12069"
+                    },
+                    {
+                        "id": 6,
+                        "value": "Cod. 12123"
+                    },
+                    {
+                        "id": 63,
+                        "value": "Cod. 12048"
+                    },
+                    {
+                        "id": 64,
+                        "value": "Cod. 12049"
+                    },
+                    {
+                        "id": 7,
+                        "value": "Cod. 12057"
+                    },
+                    {
+                        "id": 10,
+                        "value": "Cod. 12138"
+                    },
+                    {
+                        "id": 11,
+                        "value": "Cod. 12266"
+                    },
+                    {
+                        "id": 31,
+                        "value": "Cod. 12273"
+                    },
+                    {
+                        "id": 113,
+                        "value": "Cod. 12279"
+                    },
+                    {
+                        "id": 32,
+                        "value": "Cod. 12274"
+                    },
+                    {
+                        "id": 33,
+                        "value": "Cod. 12275"
+                    },
+                    {
+                        "id": 34,
+                        "value": "Cod. 12276"
+                    },
+                    {
+                        "id": 30,
+                        "value": "Cod. 12277"
+                    },
+                    {
+                        "id": 70,
+                        "value": "Cod. 12231"
+                    },
+                    {
+                        "id": 60,
+                        "value": "Cod. 12241"
+                    }
+                ]
+            },
+            {
+                "id": 455,
+                "order": "446.00000000000000000000",
+                "name": "Pulgarn",
+                "jesuiten_id": "jesuiten_place__455",
+                "geonames": "https://www.geonames.org/2768256/pulgarn.html",
+                "lat": "48.28148",
+                "long": "14.39604",
+                "wikidata": "https://www.wikidata.org/wiki/Q1305287",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Residentia Lincensis et Pulgarensis",
+        "notes": "",
+        "persons": []
+    },
+    "592": {
+        "id": 592,
+        "order": "581.00000000000000000000",
+        "name": "Jesuitenmission Uzhhorod",
+        "jesuiten_id": "jesuiten_org__592",
+        "located_in": [
+            {
+                "id": 247,
+                "order": "175.50000000000000000000",
+                "name": "Uzhhorod",
+                "jesuiten_id": "jesuiten_place__247",
+                "geonames": "https://www.geonames.org/690548/uzhgorod.html",
+                "lat": "48.62420",
+                "long": "22.29470",
+                "wikidata": "https://www.wikidata.org/wiki/Q156711",
+                "alt_names": [
+                    {
+                        "id": 173,
+                        "value": "Unguarinum"
+                    },
+                    {
+                        "id": 174,
+                        "value": "Ungvár"
+                    },
+                    {
+                        "id": 175,
+                        "value": "Užhorod"
+                    },
+                    {
+                        "id": 187,
+                        "value": "Uschhorod"
+                    }
+                ],
+                "msdesc": [
+                    {
+                        "id": 97,
+                        "value": "Cod. 12062"
+                    },
+                    {
+                        "id": 98,
+                        "value": "Cod. 12063"
+                    },
+                    {
+                        "id": 99,
+                        "value": "Cod. 12064"
+                    },
+                    {
+                        "id": 100,
+                        "value": "Cod. 12065"
+                    },
+                    {
+                        "id": 103,
+                        "value": "Cod. 12069"
+                    },
+                    {
+                        "id": 113,
+                        "value": "Cod. 12279"
+                    }
+                ]
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Unguariensis",
+        "notes": "Unguarinum arx est et oppidum illust. fundatoris Hammonensis Sclavoniae, Uch dictum a flumine praeterlabinte, quod hunari Ung appelant ... (Cod. 13561, fol. 65r).",
+        "persons": []
+    },
+    "593": {
+        "id": 593,
+        "order": "582.00000000000000000000",
+        "name": "Jesuitenmission Mukachevo",
+        "jesuiten_id": "jesuiten_org__593",
+        "located_in": [
+            {
+                "id": 458,
+                "order": "449.00000000000000000000",
+                "name": "Mukachevo",
+                "jesuiten_id": "jesuiten_place__458",
+                "geonames": "https://www.geonames.org/700646/mukachevo.html",
+                "lat": "48.44248",
+                "long": "22.71800",
+                "wikidata": "",
+                "alt_names": [
+                    {
+                        "id": 304,
+                        "value": "Mungacz"
+                    }
+                ],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Munkacziana",
+        "notes": "\"Mungacz arx est in monte, quem amaenissimi campi late ambiunt finitima Russiae et Transylvaniae; civitas eiusdem nominis in patente camplo, remota ab arce ...\" (Cod. 13561, fol. 66r).",
+        "persons": []
+    },
+    "594": {
+        "id": 594,
+        "order": "583.00000000000000000000",
+        "name": "Jesuitenmission Parchovany",
+        "jesuiten_id": "jesuiten_org__594",
+        "located_in": [
+            {
+                "id": 459,
+                "order": "450.00000000000000000000",
+                "name": "Parchovany",
+                "jesuiten_id": "jesuiten_place__459",
+                "geonames": "https://www.geonames.org/723930/parchovany.html",
+                "lat": "48.75216",
+                "long": "21.71596",
+                "wikidata": "",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Parnoviensis",
+        "notes": "\"Parno pagus Homonnae ... \" (Cod. 13561, fol. 67).",
+        "persons": []
+    },
+    "595": {
+        "id": 595,
+        "order": "584.00000000000000000000",
+        "name": "Jesuitenresidenz Leoben",
+        "jesuiten_id": "jesuiten_org__595",
+        "located_in": [],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Residentia Leobiensis",
+        "notes": "\"Tandem residentia Leobiensis a duobus sacerotibus et duobus frateribus coadjutoribus inita 10. decembris anni 1613. Hoc anno [1614] in forma probationis transivit\" (Cod. 13561, fol. 69r).",
+        "persons": []
+    },
+    "596": {
+        "id": 596,
+        "order": "585.00000000000000000000",
+        "name": "Jesuitenresidenz Gorizia",
+        "jesuiten_id": "jesuiten_org__596",
+        "located_in": [
+            {
+                "id": 27,
+                "order": "27.00000000000000000000",
+                "name": "Gorizia",
+                "jesuiten_id": "jesuiten_place__27",
+                "geonames": "https://www.geonames.org/3175986/gorizia.html",
+                "lat": "45.94088",
+                "long": "13.62167",
+                "wikidata": "https://www.wikidata.org/wiki/Q6596",
+                "alt_names": [
+                    {
+                        "id": 13,
+                        "value": "Görz"
+                    }
+                ],
+                "msdesc": [
+                    {
+                        "id": 66,
+                        "value": "Cod. 12058"
+                    },
+                    {
+                        "id": 67,
+                        "value": "Cod. 12059"
+                    },
+                    {
+                        "id": 68,
+                        "value": "Cod. 12060"
+                    },
+                    {
+                        "id": 97,
+                        "value": "Cod. 12062"
+                    },
+                    {
+                        "id": 98,
+                        "value": "Cod. 12063"
+                    },
+                    {
+                        "id": 99,
+                        "value": "Cod. 12064"
+                    },
+                    {
+                        "id": 100,
+                        "value": "Cod. 12065"
+                    },
+                    {
+                        "id": 4,
+                        "value": "Cod. 12066"
+                    },
+                    {
+                        "id": 101,
+                        "value": "Cod. 12067"
+                    },
+                    {
+                        "id": 102,
+                        "value": "Cod. 12068"
+                    },
+                    {
+                        "id": 103,
+                        "value": "Cod. 12069"
+                    },
+                    {
+                        "id": 64,
+                        "value": "Cod. 12049"
+                    },
+                    {
+                        "id": 10,
+                        "value": "Cod. 12138"
+                    },
+                    {
+                        "id": 31,
+                        "value": "Cod. 12273"
+                    },
+                    {
+                        "id": 113,
+                        "value": "Cod. 12279"
+                    },
+                    {
+                        "id": 32,
+                        "value": "Cod. 12274"
+                    },
+                    {
+                        "id": 33,
+                        "value": "Cod. 12275"
+                    },
+                    {
+                        "id": 34,
+                        "value": "Cod. 12276"
+                    },
+                    {
+                        "id": 30,
+                        "value": "Cod. 12277"
+                    },
+                    {
+                        "id": 70,
+                        "value": "Cod. 12231"
+                    },
+                    {
+                        "id": 60,
+                        "value": "Cod. 12241"
+                    }
+                ]
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Residentia Goritiensis",
+        "notes": "",
+        "persons": []
+    },
+    "597": {
+        "id": 597,
+        "order": "586.00000000000000000000",
+        "name": "Jesuitenmission Rakocziana",
+        "jesuiten_id": "jesuiten_org__597",
+        "located_in": [],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "",
+        "notes": "\"Apud magnum dominum Paulum Rakoczii\" (Cod. 13561, fol. 84v).",
+        "persons": []
+    },
+    "598": {
+        "id": 598,
+        "order": "587.00000000000000000000",
+        "name": "Jesuitenmission Kisvárda",
+        "jesuiten_id": "jesuiten_org__598",
+        "located_in": [
+            {
+                "id": 460,
+                "order": "451.00000000000000000000",
+                "name": "Kisvárda",
+                "jesuiten_id": "jesuiten_place__460",
+                "geonames": "https://www.geonames.org/718739/kisvarda.html",
+                "lat": "48.21667",
+                "long": "22.08333",
+                "wikidata": "",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Kisvardensis",
+        "notes": "",
+        "persons": []
+    },
+    "599": {
+        "id": 599,
+        "order": "588.00000000000000000000",
+        "name": "Jesuitenmission Pácin",
+        "jesuiten_id": "jesuiten_org__599",
+        "located_in": [
+            {
+                "id": 461,
+                "order": "452.00000000000000000000",
+                "name": "Pácin",
+                "jesuiten_id": "jesuiten_place__461",
+                "geonames": "https://www.geonames.org/716656/pacin.html",
+                "lat": "48.33480",
+                "long": "21.83608",
+                "wikidata": "",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Patzinensis sive Alaghiana",
+        "notes": "\"... dominum Melchiorem Alaghi, benefactorem collegii homonnensis visitavit unus e collegio pater, festis Paschae, pentecostes et Mativitatis Christi ... \" (Cod. 13561, fol. 85r).",
+        "persons": []
+    },
+    "600": {
+        "id": 600,
+        "order": "589.00000000000000000000",
+        "name": "Jesuitenresidenz Krems",
+        "jesuiten_id": "jesuiten_org__600",
+        "located_in": [
+            {
+                "id": 11,
+                "order": "11.00000000000000000000",
+                "name": "Krems",
+                "jesuiten_id": "jesuiten_place__11",
+                "geonames": "https://www.geonames.org/2773549/krems-an-der-donau.html",
+                "lat": "48.40921",
+                "long": "15.61415",
+                "wikidata": "https://www.wikidata.org/wiki/Q131266",
+                "alt_names": [
+                    {
+                        "id": 104,
+                        "value": "Crembsium"
+                    }
+                ],
+                "msdesc": [
+                    {
+                        "id": 66,
+                        "value": "Cod. 12058"
+                    },
+                    {
+                        "id": 67,
+                        "value": "Cod. 12059"
+                    },
+                    {
+                        "id": 68,
+                        "value": "Cod. 12060"
+                    },
+                    {
+                        "id": 97,
+                        "value": "Cod. 12062"
+                    },
+                    {
+                        "id": 98,
+                        "value": "Cod. 12063"
+                    },
+                    {
+                        "id": 99,
+                        "value": "Cod. 12064"
+                    },
+                    {
+                        "id": 100,
+                        "value": "Cod. 12065"
+                    },
+                    {
+                        "id": 4,
+                        "value": "Cod. 12066"
+                    },
+                    {
+                        "id": 101,
+                        "value": "Cod. 12067"
+                    },
+                    {
+                        "id": 102,
+                        "value": "Cod. 12068"
+                    },
+                    {
+                        "id": 103,
+                        "value": "Cod. 12069"
+                    },
+                    {
+                        "id": 6,
+                        "value": "Cod. 12123"
+                    },
+                    {
+                        "id": 63,
+                        "value": "Cod. 12048"
+                    },
+                    {
+                        "id": 64,
+                        "value": "Cod. 12049"
+                    },
+                    {
+                        "id": 7,
+                        "value": "Cod. 12057"
+                    },
+                    {
+                        "id": 10,
+                        "value": "Cod. 12138"
+                    },
+                    {
+                        "id": 11,
+                        "value": "Cod. 12266"
+                    },
+                    {
+                        "id": 31,
+                        "value": "Cod. 12273"
+                    },
+                    {
+                        "id": 113,
+                        "value": "Cod. 12279"
+                    },
+                    {
+                        "id": 32,
+                        "value": "Cod. 12274"
+                    },
+                    {
+                        "id": 33,
+                        "value": "Cod. 12275"
+                    },
+                    {
+                        "id": 34,
+                        "value": "Cod. 12276"
+                    },
+                    {
+                        "id": 30,
+                        "value": "Cod. 12277"
+                    },
+                    {
+                        "id": 70,
+                        "value": "Cod. 12231"
+                    },
+                    {
+                        "id": 60,
+                        "value": "Cod. 12241"
+                    }
+                ]
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Residentia Crembsensis",
         "notes": "",
         "persons": []
     }

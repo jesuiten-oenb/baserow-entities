@@ -25682,6 +25682,37 @@
     "date_letter": "1721-1773",
     "century": "18. Jhdt."
   },
+  "425": {
+    "id": 425,
+    "order": "36.79999999999999715783",
+    "signatur": "Cod. 12417",
+    "jesuiten_id": "jesuiten_msdesc__425",
+    "mentioned_orgs": [
+      {
+        "id": 182,
+        "value": "Jesuitenkolleg Krosno"
+      }
+    ],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13949857",
+    "title": "Historia collegii Crosnensis Societatis Iesu a. 1720-1772",
+    "date": "ab 1720",
+    "persons": [],
+    "mentioned_places": [],
+    "note_type_facs": "",
+    "xml_id": "cod_12417",
+    "extent": "I, 466 Bl.",
+    "height": "190",
+    "width": "155",
+    "foliation": "Zeitgenössische Paginierung 1–221; moderne Paginierung 222–561.",
+    "acc_mat": "",
+    "binding": "Brauner Ledereinband über Pappdeckeln mit Streicheisenlinien; am Vorderdeckel Titel mit Tinte: Liber Collegii Crasnensis abolitae Societatis Jesu.",
+    "summary": "Der Kodex umfasst die Geschichte des Jesuitenkollegs in Krosno vom 1. Januar des Jahres 1720 bis zum Monat Juli 1772 in chronologischer Reihenfolge. Die Themen sind teilweise am Blattrand vermerkt. \nBeschrieben sind nur die erste 363 Seiten. Inhaltsverzeichnis auf S. 543–544.",
+    "not_before": "1720",
+    "not_after": null,
+    "# when": "",
+    "date_letter": "1720-1772",
+    "century": "18. Jhdt."
+  },
   "59": {
     "id": 59,
     "order": "37.00000000000000000000",
@@ -25689,8 +25720,8 @@
     "jesuiten_id": "jesuiten_msdesc__59",
     "mentioned_orgs": [
       {
-        "id": 205,
-        "value": "Jesuitenkolleg Krosno Odrzańskie"
+        "id": 182,
+        "value": "Jesuitenkolleg Krosno"
       }
     ],
     "note_type_catalogue": "http://data.onb.ac.at/rec/AC13949858",
@@ -31799,6 +31830,63 @@
     "not_after": null,
     "# when": "",
     "date_letter": "",
+    "century": "18. Jhdt."
+  },
+  "426": {
+    "id": 426,
+    "order": "39.79999999999999715783",
+    "signatur": "Cod. 12480",
+    "jesuiten_id": "jesuiten_msdesc__426",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948572",
+    "title": "Verzeichnis der Archivs-Urkunden und Akten des aufgehobenen Grazer Jesuitenkollegs",
+    "date": "ab 1773",
+    "persons": [],
+    "mentioned_places": [],
+    "note_type_facs": "",
+    "xml_id": "cod_12480",
+    "extent": "I, 49, I* Bl.",
+    "height": "333",
+    "width": "225",
+    "foliation": "Moderne Foliierung.",
+    "acc_mat": "",
+    "binding": "Pappeinband, 18.-19. Jhdt.",
+    "summary": "",
+    "not_before": "1773",
+    "not_after": null,
+    "# when": "",
+    "date_letter": "",
+    "century": "18. Jhdt."
+  },
+  "427": {
+    "id": 427,
+    "order": "39.83333333333333570181",
+    "signatur": "Cod. 13561",
+    "jesuiten_id": "jesuiten_msdesc__427",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948354",
+    "title": "Litterae annuae Societatis Iesu provinciae Austriae a. 1615 et 1616",
+    "date": "ab 1617",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
+    "note_type_facs": "",
+    "xml_id": "cod_13561",
+    "extent": "I, 97, I*",
+    "height": "290",
+    "width": "190",
+    "foliation": "Zeitgenössische Paginierung 1–144 und danach 1–46. Moderne Foliierung 1–97.",
+    "acc_mat": "",
+    "binding": "Halbband, Deckel mit buntem Marmorpapier überzogen.",
+    "summary": "Die Handschrift besteht aus zwei kodikologischen Teilen, die die Berichte von 1615 und 1616 enthalten. Die Teile sind nach Domizilen geordnet.",
+    "not_before": "1617",
+    "not_after": null,
+    "# when": "",
+    "date_letter": "1616, 1617",
     "century": "18. Jhdt."
   },
   "241": {

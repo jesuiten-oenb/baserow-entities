@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cod_12417__asterix.xml" xml:base="https://oenb.ac.at" prev="https://oenb.ac.at/cod_12416.xml" next="https://oenb.ac.at/cod_12419.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cod_12417__asterix.xml" xml:base="https://oenb.ac.at" prev="https://oenb.ac.at/cod_12417.xml" next="https://oenb.ac.at/cod_12419.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -42,7 +42,7 @@
                                 <listOrg>
                                     <head>Erwähnte Körperschaften:</head>
                                     <org>
-                                        <orgName key="#jesuiten_org__205">Jesuitenkolleg Krosno Odrzańskie</orgName>
+                                        <orgName key="#jesuiten_org__182">Jesuitenkolleg Krosno</orgName>
                                     </org>
                                 </listOrg>                           
                         </summary> 
@@ -78,14 +78,14 @@
     </teiHeader>
     <text>
         <body><p/></body>
-    <back><listOrg><org xml:id="jesuiten_org__205">
-                  <orgName>Jesuitenkolleg Krosno Odrzańskie</orgName>
+    <back><listOrg><org xml:id="jesuiten_org__182">
+                  <orgName>Jesuitenkolleg Krosno</orgName>
                   <orgName type="alt">Collegium Crosnense</orgName>
                   <location type="located_in_place">
-                     <placeName key="jesuiten_place__176">Krosno Odrzańskie</placeName>
-                     <geo>52.05492 15.09882</geo>
-                     <note type="idno"><idno type="geonames">https://sws.geonames.org/3094633/</idno></note>
+                     <placeName key="jesuiten_place__156">Krosno</placeName>
+                     <geo>49.68866 21.77058</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/767470/</idno></note>
                   </location>
-               <noteGrp><note target="cod_12417__asterix.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12417*</note></noteGrp></org>
+               <noteGrp><note target="cod_12012.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12012</note><note target="cod_12417.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12417</note><note target="cod_12417__asterix.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12417*</note></noteGrp></org>
                </listOrg></back></text>
 </TEI>
