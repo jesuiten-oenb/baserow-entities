@@ -5139,7 +5139,7 @@
             }
         ],
         "alt_name": "Missio Bitsensis",
-        "notes": "",
+        "notes": "\"Bitsa est arx quae septentrioni ungaria inter montes... \" (Cod. 13564, fol. 65r).",
         "persons": []
     },
     "32": {
@@ -39609,6 +39609,1316 @@
         "gnd": "",
         "msdesc": [],
         "alt_name": "Residentia Crembsensis",
+        "notes": "",
+        "persons": []
+    },
+    "601": {
+        "id": 601,
+        "order": "590.00000000000000000000",
+        "name": "Jesuitenmission Skuteč",
+        "jesuiten_id": "jesuiten_org__601",
+        "located_in": [
+            {
+                "id": 463,
+                "order": "454.00000000000000000000",
+                "name": "Skuteč",
+                "jesuiten_id": "jesuiten_place__463",
+                "geonames": "https://www.geonames.org/3065921/skutec.html",
+                "lat": "49.84347",
+                "long": "15.99655",
+                "wikidata": "",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Scutecensis",
+        "notes": "",
+        "persons": []
+    },
+    "602": {
+        "id": 602,
+        "order": "591.00000000000000000000",
+        "name": "Jesuitenmission Hlína",
+        "jesuiten_id": "jesuiten_org__602",
+        "located_in": [
+            {
+                "id": 462,
+                "order": "453.00000000000000000000",
+                "name": "Hlína",
+                "jesuiten_id": "jesuiten_place__462",
+                "geonames": "https://www.geonames.org/3075789/hlina.html",
+                "lat": "49.11362",
+                "long": "16.42616",
+                "wikidata": "https://www.wikidata.org/wiki/Q1621473",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Hlynecensis",
+        "notes": "",
+        "persons": []
+    },
+    "603": {
+        "id": 603,
+        "order": "592.00000000000000000000",
+        "name": "Jesuitenmission Rijeka",
+        "jesuiten_id": "jesuiten_org__603",
+        "located_in": [
+            {
+                "id": 29,
+                "order": "29.00000000000000000000",
+                "name": "Rijeka",
+                "jesuiten_id": "jesuiten_place__29",
+                "geonames": "https://www.geonames.org/3191648/rijeka.html",
+                "lat": "45.32673",
+                "long": "14.44241",
+                "wikidata": "https://www.wikidata.org/wiki/Q1647",
+                "alt_names": [
+                    {
+                        "id": 73,
+                        "value": "Flumen / Fiume"
+                    }
+                ],
+                "msdesc": [
+                    {
+                        "id": 67,
+                        "value": "Cod. 12059"
+                    },
+                    {
+                        "id": 68,
+                        "value": "Cod. 12060"
+                    },
+                    {
+                        "id": 97,
+                        "value": "Cod. 12062"
+                    },
+                    {
+                        "id": 98,
+                        "value": "Cod. 12063"
+                    },
+                    {
+                        "id": 99,
+                        "value": "Cod. 12064"
+                    },
+                    {
+                        "id": 4,
+                        "value": "Cod. 12066"
+                    },
+                    {
+                        "id": 101,
+                        "value": "Cod. 12067"
+                    },
+                    {
+                        "id": 102,
+                        "value": "Cod. 12068"
+                    },
+                    {
+                        "id": 103,
+                        "value": "Cod. 12069"
+                    },
+                    {
+                        "id": 6,
+                        "value": "Cod. 12123"
+                    },
+                    {
+                        "id": 64,
+                        "value": "Cod. 12049"
+                    },
+                    {
+                        "id": 65,
+                        "value": "Cod. 12050"
+                    },
+                    {
+                        "id": 10,
+                        "value": "Cod. 12138"
+                    },
+                    {
+                        "id": 11,
+                        "value": "Cod. 12266"
+                    },
+                    {
+                        "id": 31,
+                        "value": "Cod. 12273"
+                    },
+                    {
+                        "id": 113,
+                        "value": "Cod. 12279"
+                    },
+                    {
+                        "id": 32,
+                        "value": "Cod. 12274"
+                    },
+                    {
+                        "id": 33,
+                        "value": "Cod. 12275"
+                    },
+                    {
+                        "id": 34,
+                        "value": "Cod. 12276"
+                    },
+                    {
+                        "id": 30,
+                        "value": "Cod. 12277"
+                    },
+                    {
+                        "id": 70,
+                        "value": "Cod. 12231"
+                    },
+                    {
+                        "id": 60,
+                        "value": "Cod. 12241"
+                    }
+                ]
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Fluminensis",
+        "notes": "",
+        "persons": []
+    },
+    "604": {
+        "id": 604,
+        "order": "593.00000000000000000000",
+        "name": "Jesuitenmission Trieste",
+        "jesuiten_id": "jesuiten_org__604",
+        "located_in": [
+            {
+                "id": 28,
+                "order": "28.00000000000000000000",
+                "name": "Trieste",
+                "jesuiten_id": "jesuiten_place__28",
+                "geonames": "https://www.geonames.org/3165185/trieste.html",
+                "lat": "45.64953",
+                "long": "13.77678",
+                "wikidata": "https://www.wikidata.org/wiki/Q546",
+                "alt_names": [
+                    {
+                        "id": 78,
+                        "value": "Tergestinum"
+                    },
+                    {
+                        "id": 162,
+                        "value": "Tergeste"
+                    }
+                ],
+                "msdesc": [
+                    {
+                        "id": 66,
+                        "value": "Cod. 12058"
+                    },
+                    {
+                        "id": 67,
+                        "value": "Cod. 12059"
+                    },
+                    {
+                        "id": 68,
+                        "value": "Cod. 12060"
+                    },
+                    {
+                        "id": 97,
+                        "value": "Cod. 12062"
+                    },
+                    {
+                        "id": 98,
+                        "value": "Cod. 12063"
+                    },
+                    {
+                        "id": 99,
+                        "value": "Cod. 12064"
+                    },
+                    {
+                        "id": 100,
+                        "value": "Cod. 12065"
+                    },
+                    {
+                        "id": 4,
+                        "value": "Cod. 12066"
+                    },
+                    {
+                        "id": 101,
+                        "value": "Cod. 12067"
+                    },
+                    {
+                        "id": 102,
+                        "value": "Cod. 12068"
+                    },
+                    {
+                        "id": 103,
+                        "value": "Cod. 12069"
+                    },
+                    {
+                        "id": 6,
+                        "value": "Cod. 12123"
+                    },
+                    {
+                        "id": 63,
+                        "value": "Cod. 12048"
+                    },
+                    {
+                        "id": 64,
+                        "value": "Cod. 12049"
+                    },
+                    {
+                        "id": 65,
+                        "value": "Cod. 12050"
+                    },
+                    {
+                        "id": 7,
+                        "value": "Cod. 12057"
+                    },
+                    {
+                        "id": 11,
+                        "value": "Cod. 12266"
+                    },
+                    {
+                        "id": 31,
+                        "value": "Cod. 12273"
+                    },
+                    {
+                        "id": 113,
+                        "value": "Cod. 12279"
+                    },
+                    {
+                        "id": 32,
+                        "value": "Cod. 12274"
+                    },
+                    {
+                        "id": 33,
+                        "value": "Cod. 12275"
+                    },
+                    {
+                        "id": 34,
+                        "value": "Cod. 12276"
+                    },
+                    {
+                        "id": 30,
+                        "value": "Cod. 12277"
+                    },
+                    {
+                        "id": 70,
+                        "value": "Cod. 12231"
+                    },
+                    {
+                        "id": 60,
+                        "value": "Cod. 12241"
+                    }
+                ]
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Tergestina",
+        "notes": "",
+        "persons": []
+    },
+    "605": {
+        "id": 605,
+        "order": "594.00000000000000000000",
+        "name": "Jesuitenmission Satu Mare",
+        "jesuiten_id": "jesuiten_org__605",
+        "located_in": [
+            {
+                "id": 58,
+                "order": "58.00000000000000000000",
+                "name": "Satu Mare",
+                "jesuiten_id": "jesuiten_place__58",
+                "geonames": "https://www.geonames.org/667873/satu-mare.html",
+                "lat": "47.79926",
+                "long": "22.86255",
+                "wikidata": "",
+                "alt_names": [
+                    {
+                        "id": 24,
+                        "value": "Szat(t)marinum"
+                    },
+                    {
+                        "id": 140,
+                        "value": "Szatmárnémeti"
+                    },
+                    {
+                        "id": 141,
+                        "value": "Sathmar"
+                    }
+                ],
+                "msdesc": [
+                    {
+                        "id": 66,
+                        "value": "Cod. 12058"
+                    },
+                    {
+                        "id": 68,
+                        "value": "Cod. 12060"
+                    },
+                    {
+                        "id": 98,
+                        "value": "Cod. 12063"
+                    },
+                    {
+                        "id": 99,
+                        "value": "Cod. 12064"
+                    },
+                    {
+                        "id": 4,
+                        "value": "Cod. 12066"
+                    },
+                    {
+                        "id": 6,
+                        "value": "Cod. 12123"
+                    },
+                    {
+                        "id": 7,
+                        "value": "Cod. 12057"
+                    },
+                    {
+                        "id": 31,
+                        "value": "Cod. 12273"
+                    },
+                    {
+                        "id": 113,
+                        "value": "Cod. 12279"
+                    },
+                    {
+                        "id": 32,
+                        "value": "Cod. 12274"
+                    },
+                    {
+                        "id": 33,
+                        "value": "Cod. 12275"
+                    },
+                    {
+                        "id": 34,
+                        "value": "Cod. 12276"
+                    },
+                    {
+                        "id": 30,
+                        "value": "Cod. 12277"
+                    },
+                    {
+                        "id": 70,
+                        "value": "Cod. 12231"
+                    },
+                    {
+                        "id": 60,
+                        "value": "Cod. 12241"
+                    }
+                ]
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Szattmarina",
+        "notes": "",
+        "persons": []
+    },
+    "606": {
+        "id": 606,
+        "order": "595.00000000000000000000",
+        "name": "Jesuitenmission Osová",
+        "jesuiten_id": "jesuiten_org__606",
+        "located_in": [
+            {
+                "id": 464,
+                "order": "455.00000000000000000000",
+                "name": "Osová",
+                "jesuiten_id": "jesuiten_place__464",
+                "geonames": "",
+                "lat": "49.17033",
+                "long": "16.56874",
+                "wikidata": "",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Ossoviensis",
+        "notes": "\"Dominium Ossoviense quinque milliaribus Bruna distat ... \" (Cod. 13562, fol. 27r).",
+        "persons": []
+    },
+    "607": {
+        "id": 607,
+        "order": "596.00000000000000000000",
+        "name": "Jesuitenmission Žďár nad Sázavou",
+        "jesuiten_id": "jesuiten_org__607",
+        "located_in": [
+            {
+                "id": 465,
+                "order": "456.00000000000000000000",
+                "name": "Žďár nad Sázavou",
+                "jesuiten_id": "jesuiten_place__465",
+                "geonames": "https://www.geonames.org/3061695/zgar-nad-sazavou.html",
+                "lat": "49.56263",
+                "long": "15.93924",
+                "wikidata": "https://www.wikidata.org/wiki/Q394453",
+                "alt_names": [
+                    {
+                        "id": 305,
+                        "value": "Sar"
+                    },
+                    {
+                        "id": 306,
+                        "value": "Zara"
+                    }
+                ],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Zarensis",
+        "notes": "",
+        "persons": []
+    },
+    "608": {
+        "id": 608,
+        "order": "597.00000000000000000000",
+        "name": "Jesuitenmission Telč",
+        "jesuiten_id": "jesuiten_org__608",
+        "located_in": [
+            {
+                "id": 120,
+                "order": "117.00000000000000000000",
+                "name": "Telč",
+                "jesuiten_id": "jesuiten_place__120",
+                "geonames": "https://www.geonames.org/3064316/telc.html",
+                "lat": "49.18418",
+                "long": "15.45275",
+                "wikidata": "https://www.wikidata.org/wiki/Q373804",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Telcziensis",
+        "notes": "",
+        "persons": []
+    },
+    "609": {
+        "id": 609,
+        "order": "598.00000000000000000000",
+        "name": "Jesutienmission Lackenbach",
+        "jesuiten_id": "jesuiten_org__609",
+        "located_in": [
+            {
+                "id": 466,
+                "order": "457.00000000000000000000",
+                "name": "Lackenbach",
+                "jesuiten_id": "jesuiten_place__466",
+                "geonames": "https://www.geonames.org/2773184/lackenbach.html",
+                "lat": "47.59042",
+                "long": "16.46533",
+                "wikidata": "https://wikidata.org/wiki/Q663242",
+                "alt_names": [
+                    {
+                        "id": 307,
+                        "value": "Lakompak"
+                    }
+                ],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Lakonpachiensis",
+        "notes": "",
+        "persons": []
+    },
+    "610": {
+        "id": 610,
+        "order": "599.00000000000000000000",
+        "name": "Jesuitenmission Doubravník",
+        "jesuiten_id": "jesuiten_org__610",
+        "located_in": [
+            {
+                "id": 467,
+                "order": "458.00000000000000000000",
+                "name": "Doubravník",
+                "jesuiten_id": "jesuiten_place__467",
+                "geonames": "https://www.geonames.org/3076525/doubravnik.html",
+                "lat": "49.42411",
+                "long": "16.35269",
+                "wikidata": "",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Dobravniciensis",
+        "notes": "",
+        "persons": []
+    },
+    "611": {
+        "id": 611,
+        "order": "600.00000000000000000000",
+        "name": "Jesuitenmission Feldkirchen in Kärnten",
+        "jesuiten_id": "jesuiten_org__611",
+        "located_in": [
+            {
+                "id": 469,
+                "order": "460.00000000000000000000",
+                "name": "Feldkirchen in Kärnten",
+                "jesuiten_id": "jesuiten_place__469",
+                "geonames": "https://www.geonames.org/2779669/feldkirchen-in-kaernten.html",
+                "lat": "46.72368",
+                "long": "14.09580",
+                "wikidata": "",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Feldkirchensis",
+        "notes": "",
+        "persons": []
+    },
+    "612": {
+        "id": 612,
+        "order": "601.00000000000000000000",
+        "name": "Jesuitenmission Vinodol",
+        "jesuiten_id": "jesuiten_org__612",
+        "located_in": [
+            {
+                "id": 470,
+                "order": "461.00000000000000000000",
+                "name": "Vinodol",
+                "jesuiten_id": "jesuiten_place__470",
+                "geonames": "https://www.geonames.org/11072235/vinodolska-opcina.html",
+                "lat": "45.22219",
+                "long": "14.68941",
+                "wikidata": "https://de.wikipedia.org/wiki/Vinodol",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio diaecesis spiscopi Segnensis infra flumen S. Vitii et Segnini, vulgo Vinodol",
+        "notes": "",
+        "persons": []
+    },
+    "613": {
+        "id": 613,
+        "order": "602.00000000000000000000",
+        "name": "Jesuitenmission Petrinensis",
+        "jesuiten_id": "jesuiten_org__613",
+        "located_in": [],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Petrinensis",
+        "notes": "\"... excidit nihilominus Carnioliae inferiori proficua...\" (Cod. 13562, fol. 78r).",
+        "persons": []
+    },
+    "614": {
+        "id": 614,
+        "order": "603.00000000000000000000",
+        "name": "Jesuitenmission St. Veit an der Glan",
+        "jesuiten_id": "jesuiten_org__614",
+        "located_in": [
+            {
+                "id": 471,
+                "order": "462.00000000000000000000",
+                "name": "St. Veit an der Glan",
+                "jesuiten_id": "jesuiten_place__471",
+                "geonames": "https://www.geonames.org/2766359/sankt-veit-an-der-glan.html",
+                "lat": "46.76806",
+                "long": "14.36028",
+                "wikidata": "",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio ad S. Vitum",
+        "notes": "\"Est S. Vitus quondam Metropolis Carinthiae...\" (Cod. 13562, fol. 78v).",
+        "persons": []
+    },
+    "615": {
+        "id": 615,
+        "order": "604.00000000000000000000",
+        "name": "Jesuitenmission Lanseriana",
+        "jesuiten_id": "jesuiten_org__615",
+        "located_in": [
+            {
+                "id": 466,
+                "order": "457.00000000000000000000",
+                "name": "Lackenbach",
+                "jesuiten_id": "jesuiten_place__466",
+                "geonames": "https://www.geonames.org/2773184/lackenbach.html",
+                "lat": "47.59042",
+                "long": "16.46533",
+                "wikidata": "https://wikidata.org/wiki/Q663242",
+                "alt_names": [
+                    {
+                        "id": 307,
+                        "value": "Lakompak"
+                    }
+                ],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Lanseriana in Ungaria",
+        "notes": "",
+        "persons": []
+    },
+    "616": {
+        "id": 616,
+        "order": "605.00000000000000000000",
+        "name": "Jesuitenmission Nograd",
+        "jesuiten_id": "jesuiten_org__616",
+        "located_in": [
+            {
+                "id": 474,
+                "order": "465.00000000000000000000",
+                "name": "Nograd",
+                "jesuiten_id": "jesuiten_place__474",
+                "geonames": "",
+                "lat": "48.18100",
+                "long": "19.51500",
+                "wikidata": "https://www.wikidata.org/wiki/Q116189505",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Nogradiensis",
+        "notes": "",
+        "persons": []
+    },
+    "617": {
+        "id": 617,
+        "order": "606.00000000000000000000",
+        "name": "Jesuitenmission Polná",
+        "jesuiten_id": "jesuiten_org__617",
+        "located_in": [
+            {
+                "id": 183,
+                "order": "180.00000000000000000000",
+                "name": "Polná",
+                "jesuiten_id": "jesuiten_place__183",
+                "geonames": "https://www.geonames.org/3067870/polna.html",
+                "lat": "49.48700",
+                "long": "15.71881",
+                "wikidata": "https://www.wikidata.org/wiki/Q158263",
+                "alt_names": [],
+                "msdesc": []
+            },
+            {
+                "id": 184,
+                "order": "181.00000000000000000000",
+                "name": "Přibyslav",
+                "jesuiten_id": "jesuiten_place__184",
+                "geonames": "https://www.geonames.org/3067535/pribyslav.html",
+                "lat": "49.57684",
+                "long": "15.73855",
+                "wikidata": "https://www.wikidata.org/wiki/Q161060",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Polnensis",
+        "notes": "\"Polnensis ditio Boemiae et moraviae circumscribitur, iure vero Bohemorum utitur, duas habet civitates Polnam et Przibislaviam... \" (Cod. 13563).",
+        "persons": []
+    },
+    "618": {
+        "id": 618,
+        "order": "607.00000000000000000000",
+        "name": "Jesuitenmission Sutice",
+        "jesuiten_id": "jesuiten_org__618",
+        "located_in": [
+            {
+                "id": 475,
+                "order": "466.00000000000000000000",
+                "name": "Sutice",
+                "jesuiten_id": "jesuiten_place__475",
+                "geonames": "",
+                "lat": "50.34480",
+                "long": "15.21360",
+                "wikidata": "https://www.wikidata.org/wiki/Q12057273",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Suticensis",
+        "notes": "",
+        "persons": []
+    },
+    "619": {
+        "id": 619,
+        "order": "608.00000000000000000000",
+        "name": "Jesuitenmission Karlsbach (?)",
+        "jesuiten_id": "jesuiten_org__619",
+        "located_in": [
+            {
+                "id": 476,
+                "order": "467.00000000000000000000",
+                "name": "Karlsbach",
+                "jesuiten_id": "jesuiten_place__476",
+                "geonames": "",
+                "lat": null,
+                "long": null,
+                "wikidata": "",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Carlspachensis",
+        "notes": "",
+        "persons": []
+    },
+    "620": {
+        "id": 620,
+        "order": "609.00000000000000000000",
+        "name": "Jesuitenmission Nekemarkensis Mattendorffensis",
+        "jesuiten_id": "jesuiten_org__620",
+        "located_in": [],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Nekemarkensis et Mattendorffensis",
+        "notes": "",
+        "persons": []
+    },
+    "621": {
+        "id": 621,
+        "order": "610.00000000000000000000",
+        "name": "Kolleg Pazmaneum",
+        "jesuiten_id": "jesuiten_org__621",
+        "located_in": [
+            {
+                "id": 1,
+                "order": "1.00000000000000000000",
+                "name": "Wien",
+                "jesuiten_id": "jesuiten_place__1",
+                "geonames": "https://www.geonames.org/2761369/vienna.html",
+                "lat": "48.20849",
+                "long": "16.37208",
+                "wikidata": "",
+                "alt_names": [],
+                "msdesc": [
+                    {
+                        "id": 66,
+                        "value": "Cod. 12058"
+                    },
+                    {
+                        "id": 67,
+                        "value": "Cod. 12059"
+                    },
+                    {
+                        "id": 68,
+                        "value": "Cod. 12060"
+                    },
+                    {
+                        "id": 97,
+                        "value": "Cod. 12062"
+                    },
+                    {
+                        "id": 99,
+                        "value": "Cod. 12064"
+                    },
+                    {
+                        "id": 4,
+                        "value": "Cod. 12066"
+                    },
+                    {
+                        "id": 101,
+                        "value": "Cod. 12067"
+                    },
+                    {
+                        "id": 102,
+                        "value": "Cod. 12068"
+                    },
+                    {
+                        "id": 103,
+                        "value": "Cod. 12069"
+                    },
+                    {
+                        "id": 63,
+                        "value": "Cod. 12048"
+                    },
+                    {
+                        "id": 64,
+                        "value": "Cod. 12049"
+                    },
+                    {
+                        "id": 65,
+                        "value": "Cod. 12050"
+                    },
+                    {
+                        "id": 7,
+                        "value": "Cod. 12057"
+                    },
+                    {
+                        "id": 10,
+                        "value": "Cod. 12138"
+                    },
+                    {
+                        "id": 11,
+                        "value": "Cod. 12266"
+                    },
+                    {
+                        "id": 31,
+                        "value": "Cod. 12273"
+                    },
+                    {
+                        "id": 113,
+                        "value": "Cod. 12279"
+                    },
+                    {
+                        "id": 32,
+                        "value": "Cod. 12274"
+                    },
+                    {
+                        "id": 33,
+                        "value": "Cod. 12275"
+                    },
+                    {
+                        "id": 34,
+                        "value": "Cod. 12276"
+                    },
+                    {
+                        "id": 30,
+                        "value": "Cod. 12277"
+                    },
+                    {
+                        "id": 70,
+                        "value": "Cod. 12231"
+                    }
+                ]
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Collegium Pazmanianum",
+        "notes": "",
+        "persons": []
+    },
+    "622": {
+        "id": 622,
+        "order": "611.00000000000000000000",
+        "name": "Jesuitenseminar Pancratius",
+        "jesuiten_id": "jesuiten_org__622",
+        "located_in": [],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Seminarium Ignatii et Pancratii",
+        "notes": "",
+        "persons": []
+    },
+    "623": {
+        "id": 623,
+        "order": "612.00000000000000000000",
+        "name": "Jesuitenmission Constantinopolitana",
+        "jesuiten_id": "jesuiten_org__623",
+        "located_in": [
+            {
+                "id": 477,
+                "order": "468.00000000000000000000",
+                "name": "Istanbul",
+                "jesuiten_id": "jesuiten_place__477",
+                "geonames": "https://www.geonames.org/745044/istanbul.html",
+                "lat": "41.01384",
+                "long": "28.94966",
+                "wikidata": "",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Constantinopolitana",
+        "notes": "",
+        "persons": []
+    },
+    "624": {
+        "id": 624,
+        "order": "613.00000000000000000000",
+        "name": "Sodalitium Annunciatae Virginis",
+        "jesuiten_id": "jesuiten_org__624",
+        "located_in": [],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "",
+        "notes": "",
+        "persons": []
+    },
+    "625": {
+        "id": 625,
+        "order": "614.00000000000000000000",
+        "name": "Jesuitenmission Marburg",
+        "jesuiten_id": "jesuiten_org__625",
+        "located_in": [
+            {
+                "id": 137,
+                "order": "134.00000000000000000000",
+                "name": "Marburg",
+                "jesuiten_id": "jesuiten_place__137",
+                "geonames": "https://www.geonames.org/2873759/marburg-an-der-lahn.html",
+                "lat": "50.80904",
+                "long": "8.77069",
+                "wikidata": "https://www.wikidata.org/wiki/Q3869",
+                "alt_names": [],
+                "msdesc": [
+                    {
+                        "id": 33,
+                        "value": "Cod. 12275"
+                    }
+                ]
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Marpurgensis",
+        "notes": "",
+        "persons": []
+    },
+    "626": {
+        "id": 626,
+        "order": "615.00000000000000000000",
+        "name": "Jesuitenseminar Studiorum",
+        "jesuiten_id": "jesuiten_org__626",
+        "located_in": [
+            {
+                "id": 9,
+                "order": "9.00000000000000000000",
+                "name": "Ljubljana",
+                "jesuiten_id": "jesuiten_place__9",
+                "geonames": "https://www.geonames.org/3196359/ljubljana.html",
+                "lat": "46.05108",
+                "long": "14.50513",
+                "wikidata": "https://www.wikidata.org/wiki/Q437",
+                "alt_names": [
+                    {
+                        "id": 49,
+                        "value": "Labacum"
+                    },
+                    {
+                        "id": 50,
+                        "value": "Laibach"
+                    }
+                ],
+                "msdesc": [
+                    {
+                        "id": 66,
+                        "value": "Cod. 12058"
+                    },
+                    {
+                        "id": 67,
+                        "value": "Cod. 12059"
+                    },
+                    {
+                        "id": 68,
+                        "value": "Cod. 12060"
+                    },
+                    {
+                        "id": 97,
+                        "value": "Cod. 12062"
+                    },
+                    {
+                        "id": 99,
+                        "value": "Cod. 12064"
+                    },
+                    {
+                        "id": 100,
+                        "value": "Cod. 12065"
+                    },
+                    {
+                        "id": 4,
+                        "value": "Cod. 12066"
+                    },
+                    {
+                        "id": 101,
+                        "value": "Cod. 12067"
+                    },
+                    {
+                        "id": 102,
+                        "value": "Cod. 12068"
+                    },
+                    {
+                        "id": 103,
+                        "value": "Cod. 12069"
+                    },
+                    {
+                        "id": 6,
+                        "value": "Cod. 12123"
+                    },
+                    {
+                        "id": 64,
+                        "value": "Cod. 12049"
+                    },
+                    {
+                        "id": 7,
+                        "value": "Cod. 12057"
+                    },
+                    {
+                        "id": 10,
+                        "value": "Cod. 12138"
+                    },
+                    {
+                        "id": 11,
+                        "value": "Cod. 12266"
+                    },
+                    {
+                        "id": 113,
+                        "value": "Cod. 12279"
+                    },
+                    {
+                        "id": 60,
+                        "value": "Cod. 12241"
+                    }
+                ]
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Seminarium studiorum",
+        "notes": "",
+        "persons": []
+    },
+    "627": {
+        "id": 627,
+        "order": "616.00000000000000000000",
+        "name": "Jesuitenresidenz Obrendorf (?)",
+        "jesuiten_id": "jesuiten_org__627",
+        "located_in": [],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Residentia Obrendorfensis",
+        "notes": "",
+        "persons": []
+    },
+    "628": {
+        "id": 628,
+        "order": "617.00000000000000000000",
+        "name": "Jesuitenseminar Pauperum",
+        "jesuiten_id": "jesuiten_org__628",
+        "located_in": [
+            {
+                "id": 3,
+                "order": "3.00000000000000000000",
+                "name": "Linz",
+                "jesuiten_id": "jesuiten_place__3",
+                "geonames": "https://www.geonames.org/2772400/linz.html",
+                "lat": "48.30639",
+                "long": "14.28611",
+                "wikidata": "https://www.wikidata.org/wiki/Q41329",
+                "alt_names": [
+                    {
+                        "id": 127,
+                        "value": "Lincium"
+                    }
+                ],
+                "msdesc": [
+                    {
+                        "id": 66,
+                        "value": "Cod. 12058"
+                    },
+                    {
+                        "id": 67,
+                        "value": "Cod. 12059"
+                    },
+                    {
+                        "id": 68,
+                        "value": "Cod. 12060"
+                    },
+                    {
+                        "id": 97,
+                        "value": "Cod. 12062"
+                    },
+                    {
+                        "id": 98,
+                        "value": "Cod. 12063"
+                    },
+                    {
+                        "id": 99,
+                        "value": "Cod. 12064"
+                    },
+                    {
+                        "id": 100,
+                        "value": "Cod. 12065"
+                    },
+                    {
+                        "id": 4,
+                        "value": "Cod. 12066"
+                    },
+                    {
+                        "id": 101,
+                        "value": "Cod. 12067"
+                    },
+                    {
+                        "id": 103,
+                        "value": "Cod. 12069"
+                    },
+                    {
+                        "id": 6,
+                        "value": "Cod. 12123"
+                    },
+                    {
+                        "id": 63,
+                        "value": "Cod. 12048"
+                    },
+                    {
+                        "id": 64,
+                        "value": "Cod. 12049"
+                    },
+                    {
+                        "id": 7,
+                        "value": "Cod. 12057"
+                    },
+                    {
+                        "id": 10,
+                        "value": "Cod. 12138"
+                    },
+                    {
+                        "id": 11,
+                        "value": "Cod. 12266"
+                    },
+                    {
+                        "id": 31,
+                        "value": "Cod. 12273"
+                    },
+                    {
+                        "id": 113,
+                        "value": "Cod. 12279"
+                    },
+                    {
+                        "id": 32,
+                        "value": "Cod. 12274"
+                    },
+                    {
+                        "id": 33,
+                        "value": "Cod. 12275"
+                    },
+                    {
+                        "id": 34,
+                        "value": "Cod. 12276"
+                    },
+                    {
+                        "id": 30,
+                        "value": "Cod. 12277"
+                    },
+                    {
+                        "id": 70,
+                        "value": "Cod. 12231"
+                    },
+                    {
+                        "id": 60,
+                        "value": "Cod. 12241"
+                    }
+                ]
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Seminarium Pauperum",
+        "notes": "",
+        "persons": []
+    },
+    "629": {
+        "id": 629,
+        "order": "618.00000000000000000000",
+        "name": "Jesuitenmission Alba Julia",
+        "jesuiten_id": "jesuiten_org__629",
+        "located_in": [
+            {
+                "id": 70,
+                "order": "67.00000000000000000000",
+                "name": "Alba Julia",
+                "jesuiten_id": "jesuiten_place__70",
+                "geonames": "https://www.geonames.org/686578/alba-iulia.html",
+                "lat": "46.06667",
+                "long": "23.58333",
+                "wikidata": "https://www.wikidata.org/wiki/Q174665",
+                "alt_names": [
+                    {
+                        "id": 97,
+                        "value": "Alba Carolina"
+                    },
+                    {
+                        "id": 114,
+                        "value": "Gyulafehérvár"
+                    }
+                ],
+                "msdesc": [
+                    {
+                        "id": 97,
+                        "value": "Cod. 12062"
+                    },
+                    {
+                        "id": 10,
+                        "value": "Cod. 12138"
+                    },
+                    {
+                        "id": 43,
+                        "value": "Cod. 12254"
+                    },
+                    {
+                        "id": 31,
+                        "value": "Cod. 12273"
+                    },
+                    {
+                        "id": 32,
+                        "value": "Cod. 12274"
+                    },
+                    {
+                        "id": 33,
+                        "value": "Cod. 12275"
+                    },
+                    {
+                        "id": 34,
+                        "value": "Cod. 12276"
+                    },
+                    {
+                        "id": 30,
+                        "value": "Cod. 12277"
+                    }
+                ]
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Albae Juliae in Transylvania",
+        "notes": "",
+        "persons": []
+    },
+    "630": {
+        "id": 630,
+        "order": "619.00000000000000000000",
+        "name": "Jesuitenmission Caransebeş",
+        "jesuiten_id": "jesuiten_org__630",
+        "located_in": [
+            {
+                "id": 478,
+                "order": "469.00000000000000000000",
+                "name": "Caransebeş",
+                "jesuiten_id": "jesuiten_place__478",
+                "geonames": "https://www.geonames.org/682729/caransebes.html",
+                "lat": "45.41667",
+                "long": "22.21667",
+                "wikidata": "",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio karamsebesiana in Transylvania",
         "notes": "",
         "persons": []
     }

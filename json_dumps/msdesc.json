@@ -31887,7 +31887,69 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1616, 1617",
-    "century": "18. Jhdt."
+    "century": "17. Jhdt."
+  },
+  "428": {
+    "id": 428,
+    "order": "39.85714285714285409767",
+    "signatur": "Cod. 13562",
+    "jesuiten_id": "jesuiten_msdesc__428",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948355",
+    "title": "Litterae annuae Societatis Iesu provinciae Austriae a. 1617-1619",
+    "date": "ab 1618",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
+    "note_type_facs": "",
+    "xml_id": "cod_13562",
+    "extent": "I, 89, I* Bl.",
+    "height": "290",
+    "width": "190",
+    "foliation": "Innerhalb der drei kodikologischen Teilen zeitgenössische Paginierung 1–62, 1–62 und 1–52. Moderne Foliierung.",
+    "acc_mat": "",
+    "binding": "Halbband, Deckel mit buntem Marmorpapier überzogen.",
+    "summary": "Die Handschrift besteht aus drei kodikologischen Teilen, die die Berichte von 1617, 1618 und 1619 enthalten. Die Teile sind nach Domizilen geordnet.",
+    "not_before": "1618",
+    "not_after": null,
+    "# when": "",
+    "date_letter": "1617, 1618, 1619",
+    "century": "17. Jhdt."
+  },
+  "430": {
+    "id": 430,
+    "order": "39.87500000000000000000",
+    "signatur": "Cod. 13564",
+    "jesuiten_id": "jesuiten_msdesc__430",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948357",
+    "title": "Litterae annuae Societatis Iesu provinciae Austriae a. 1628-1632",
+    "date": "ab 1629",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
+    "note_type_facs": "",
+    "xml_id": "cod_13564",
+    "extent": "I, 155, I* Bl.",
+    "height": "290",
+    "width": "190",
+    "foliation": "Innerhalb der kodikologischen Teilen zeitgenössische Paginierung. Moderne Durchfoliierung.",
+    "acc_mat": "",
+    "binding": "Halbband, Deckel mit buntem Marmorpapier überzogen.",
+    "summary": "Die Handschrift besteht aus fünf kodikologischen Teilen mit jeweils eigener zeitgenössischer Paginierung. Z. T. stark variierende Blattgröße.",
+    "not_before": "1629",
+    "not_after": null,
+    "# when": "",
+    "date_letter": "1628, 1629, 1630, 1631, 1632",
+    "century": "17. Jhdt."
   },
   "241": {
     "id": 241,
@@ -32229,5 +32291,36 @@
     "# when": "",
     "date_letter": "1755",
     "century": "18. Jhdt."
+  },
+  "429": {
+    "id": 429,
+    "order": "44.00000000000000000000",
+    "signatur": "Cod. 13563",
+    "jesuiten_id": "jesuiten_msdesc__429",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948356",
+    "title": "Litterae annuae Societatis Iesu provinciae Austriae a. 1619-1623 et 1625-1627",
+    "date": "ab 1620",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
+    "note_type_facs": "",
+    "xml_id": "cod_13563",
+    "extent": "I, 102, I* Bl.",
+    "height": "290",
+    "width": "190",
+    "foliation": "Innerhalb der kodikologischen Teilen zeitgenössische Paginierung. Moderne Durchfoliierung.",
+    "acc_mat": "",
+    "binding": "Halbband, Deckel mit buntem Marmorpapier überzogen.",
+    "summary": "Die Handschrift besteht aus mehreren kodikologischen Teilen mit jeweils eigener zeitgenössischer Paginierung. Der erste Teil (fol. 1-5) ist nur fragmentarisch erhalten (vgl. die zeitgenössische Paginierung 54-64); er enthält zwei originale Litterae (vgl. die Faltung).",
+    "not_before": "1620",
+    "not_after": null,
+    "# when": "",
+    "date_letter": "1619, 1620, 1621, 1622, 1623, 1625, 1626, 1627",
+    "century": "17. Jhdt."
   }
 }
