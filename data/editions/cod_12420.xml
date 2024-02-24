@@ -29,6 +29,7 @@
                     </msIdentifier>
                     <head>
                         <title>Magisterium inferiorum classium Societatis Iesu magistris accommodatum a. 1740</title>
+                        <origDate notBefore="1701-01-01"/>
                         <date type="letter"> </date>
                         <note type="facs">
                             <ref target="http://data.onb.ac.at/dtl/8973290"/>
@@ -47,14 +48,17 @@
                                 <msItem n="None">
                                     <locus from="3" to="46">3-46</locus>
                                     <title>Pars prima quid erga personas praecipue Deum, BV, SS angelos, caeteros caelites, superiorem ministrum, praefectum, fratres domesticos, collegas, parentes discipulorum, eorumque pedagogos, a discipulis distinctos abservare debeat </title>
+                                    <note> (a.<date>0</date>)</note>
                                 </msItem>
                                 <msItem n="None">
                                     <locus from="46" to="131">46-131</locus>
                                     <title>Pars secunda de observanda a magistro erga discipulos </title>
+                                    <note> (a.<date>0</date>)</note>
                                 </msItem>
                                 <msItem n="None">
                                     <locus from="131" to="167">131-167</locus>
                                     <title>Pars tertia quae magister erga se ipsum observare debet </title>
+                                    <note> (a.<date>0</date>)</note>
                                 </msItem>
                           
                         

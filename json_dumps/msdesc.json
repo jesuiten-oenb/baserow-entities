@@ -31826,8 +31826,8 @@
     "acc_mat": "",
     "binding": "Brauner Ledereinband über Pappdeckeln mit Streicheisenlinien; Reste von Lederschließen. 18. Jhdt.",
     "summary": "Es handelt sich um eine in drei Teile gegliederte Regel, die sich auf die innere und äußere Verfassung der Lehrer der Gesellschaft Jesu bezieht, d.h. wie sie sich zu Gott, zu den anderen Oberen und Vorgesetzten, zu den Gelehrten und zu sich selbst verhalten sollen.",
-    "not_before": null,
-    "not_after": null,
+    "not_before": "1701",
+    "not_after": "1800",
     "# when": "",
     "date_letter": "",
     "century": "18. Jhdt."
@@ -31950,6 +31950,169 @@
     "# when": "",
     "date_letter": "1628, 1629, 1630, 1631, 1632",
     "century": "17. Jhdt."
+  },
+  "432": {
+    "id": 432,
+    "order": "39.88888888888888573092",
+    "signatur": "Cod. 13600",
+    "jesuiten_id": "jesuiten_msdesc__432",
+    "mentioned_orgs": [
+      {
+        "id": 106,
+        "value": "Jesuitenkolleg Legnica"
+      }
+    ],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13950418",
+    "title": "Historia de ortu et progressu collegii Sprintzensteiniani Societatis Iesu Lignicii",
+    "date": "ab 1701",
+    "persons": [],
+    "mentioned_places": [],
+    "note_type_facs": "",
+    "xml_id": "cod_13600",
+    "extent": "I, 92, I* Bl.",
+    "height": "330",
+    "width": "210",
+    "foliation": "Moderne Foliierung. Zeitgenössische Nummerierung durch Kombination von Buchstaben und Nummer (A1, A2 ... B1, B2 etc.) am unteren Blattrand.",
+    "acc_mat": "",
+    "binding": "Pappeinband, 18.-19. Jhdt.",
+    "summary": "Das Werk mit dem Titel 'Historia originalis' gliedert sich in zwei Teile, von denen der erste die Entstehung (fols. 1–83) und der zweite die Entwicklung (fols. 84–90) des Jesuitenkollegs in Legnica beschreibt; es folgt chronologisch der Abfolge der Jahre, der Erzählung und der Reihenfolge der Ereignisse. Das Exemplar war wohl als Konzept gedacht, wie das Layout (mit breitem Rand für Ergänzungen) sowie die zahlreichen Korrekturen vermuten lassen.\nAuf fol. 91-92 ist eine Liste der Bücher beigefügt, die unter der Leitung von P. Andrea Sax der Bibliothek des Kollegs übergeben wurden.",
+    "not_before": "1701",
+    "not_after": null,
+    "# when": "",
+    "date_letter": "",
+    "century": "18. Jhdt."
+  },
+  "433": {
+    "id": 433,
+    "order": "39.89999999999999857891",
+    "signatur": "Cod. 13601",
+    "jesuiten_id": "jesuiten_msdesc__433",
+    "mentioned_orgs": [
+      {
+        "id": 116,
+        "value": "Jesuitenkolleg Prague ad S. Clementem"
+      }
+    ],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13950419",
+    "title": "Litterae quadrimestres et alia acta ad historiam collegii Clementini Societatis Iesu Pragae a. 1565-1588 facientia",
+    "date": "",
+    "persons": [],
+    "mentioned_places": [],
+    "note_type_facs": "",
+    "xml_id": "cod_13601",
+    "extent": "I, 92, I* Bl.",
+    "height": "325",
+    "width": "220",
+    "foliation": "Moderne Foliierung, 1–7, 7a-7d, 8–33, 33a, 34–48, 48a, 49–75, 75a, 76–78, 78a, 79–84.",
+    "acc_mat": "",
+    "binding": "Pappeinband, 18.-19. Jhdt.",
+    "summary": "Die Handschrift enthält eine Reihe verschiedener Dokumente: Exemplar litterarum für Schenkungen und Ankäufe für das Prager Kolleg; Verzeichnis der Mitglieder; Briefe (meist Abschriften) von Rektoren und Professoren (Henricus Blyßemius, Johannes Boemus, Georgius Peraxylus, Thomas Budina, Georgius Varus, Michael Tolmainer aus den 1560er Jahren; Stephanus Corvinus aus den 1570er Jahren); Vorbereitungsmaterial bzw. Entwürfe für die offiziellen Litterae 'Materia collegii Pragensis pro literis anni' für die 1580er Jahre.",
+    "not_before": "1701",
+    "not_after": "1800",
+    "# when": "",
+    "date_letter": "",
+    "century": "18. Jhdt."
+  },
+  "434": {
+    "id": 434,
+    "order": "39.90909090909090650712",
+    "signatur": "Cod. 13602",
+    "jesuiten_id": "jesuiten_msdesc__434",
+    "mentioned_orgs": [
+      {
+        "id": 160,
+        "value": "Probationshaus Brno"
+      },
+      {
+        "id": 123,
+        "value": "Jesuitenkolleg Brno"
+      }
+    ],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13956729",
+    "title": "Sammelhandschrift",
+    "date": "",
+    "persons": [],
+    "mentioned_places": [],
+    "note_type_facs": "",
+    "xml_id": "cod_13602",
+    "extent": "I, 36, I* Bl.",
+    "height": "310",
+    "width": "200",
+    "foliation": "Moderne Foliierung.",
+    "acc_mat": "",
+    "binding": "Pappeinband, 18.-19. Jhdt.",
+    "summary": "Zusammengesetzte Handschrift  mit Berichten (sog. Supplementum und Augmentum) über die Geschichte des Jesuitenkollegs und Probationshauses in Brünn in den Jahren 1569–1581, 1660–1667, 1708 und 1714. Blattgröße teilweise sehr unterschiedlich.",
+    "not_before": "1601",
+    "not_after": "1800",
+    "# when": "",
+    "date_letter": "",
+    "century": "17.-18. Jhdt."
+  },
+  "435": {
+    "id": 435,
+    "order": "39.91666666666666429819",
+    "signatur": "Cod. 13602*",
+    "jesuiten_id": "jesuiten_msdesc__435",
+    "mentioned_orgs": [
+      {
+        "id": 160,
+        "value": "Probationshaus Brno"
+      },
+      {
+        "id": 123,
+        "value": "Jesuitenkolleg Brno"
+      }
+    ],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13956934",
+    "title": "Sammelhandschrift",
+    "date": "",
+    "persons": [],
+    "mentioned_places": [],
+    "note_type_facs": "",
+    "xml_id": "cod_13602__asterix",
+    "extent": "I, 20, I* Bl.",
+    "height": "310",
+    "width": "200",
+    "foliation": "Moderne Foliierung: 1–17, 17a, 18–19.",
+    "acc_mat": "",
+    "binding": "Pappeinband Wien, 19. Jhdt.",
+    "summary": "Zusammengesetzte Handschrift mit Dokumenten, die fast ausschließlich das Jesuitenkolleg und Probationshaus in Brünn betreffen.",
+    "not_before": "1701",
+    "not_after": "1800",
+    "# when": "",
+    "date_letter": "",
+    "century": "18. Jhdt."
+  },
+  "436": {
+    "id": 436,
+    "order": "39.92307692307691979750",
+    "signatur": "Cod. 13604",
+    "jesuiten_id": "jesuiten_msdesc__436",
+    "mentioned_orgs": [
+      {
+        "id": 99,
+        "value": "Jesuitenkolleg Kłodzko"
+      }
+    ],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13960033",
+    "title": "Epistolae quinque variorum Societatis Iesu de ecclesia Glacensi",
+    "date": "",
+    "persons": [],
+    "mentioned_places": [],
+    "note_type_facs": "",
+    "xml_id": "cod_13604",
+    "extent": "I, 39, I* Bl.",
+    "height": "320",
+    "width": "200",
+    "foliation": "Moderne Foliierung: 1–33, 33a, 34–38.",
+    "acc_mat": "",
+    "binding": "Halbband, Deckel mit buntem Marmorpapier überzogen.",
+    "summary": "Zusammengesetzte Handschrift mit Werken, die das Jesuitenkolleg in Kłodzko betreffen.",
+    "not_before": null,
+    "not_after": null,
+    "# when": "",
+    "date_letter": "",
+    "century": "18. Jhdt."
   },
   "241": {
     "id": 241,
@@ -32321,6 +32484,37 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1619, 1620, 1621, 1622, 1623, 1625, 1626, 1627",
+    "century": "17. Jhdt."
+  },
+  "431": {
+    "id": 431,
+    "order": "45.00000000000000000000",
+    "signatur": "Cod. 13565",
+    "jesuiten_id": "jesuiten_msdesc__431",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13959651",
+    "title": "Litterae annuae Societatis Iesu a. 1632 in usum legentium adaptatae",
+    "date": "ab 1633",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
+    "note_type_facs": "",
+    "xml_id": "cod_13565",
+    "extent": "III, 38, I* Bl.",
+    "height": "298",
+    "width": "190",
+    "foliation": "Zeitgenössische Paginierung; moderne Foliierung.",
+    "acc_mat": "",
+    "binding": "Halbband, Deckel mit buntem Marmorpapier überzogen.",
+    "summary": "Jahresbrief aus dem Jahr 1632 an P. Georgius Forro, Provinzoberer der Gesellschaft Jesu für die österreichische Provinz. Die Abschrift war für die Donauregion (Wien, Bratislava, Tranava, Gyor, Krems, Linz, Steyr, Passau) bestimmt (vgl. die Notiz auf fol. IIr und IIIr). Die Texte sind mit Korrekturen, Abkürzungen und Anmerkungen versehen, vermutlich um sie den Bedürfnissen der Leser anzupassen.",
+    "not_before": "1633",
+    "not_after": null,
+    "# when": "",
+    "date_letter": "1631, 1632",
     "century": "17. Jhdt."
   }
 }

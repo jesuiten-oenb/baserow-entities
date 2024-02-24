@@ -15673,6 +15673,10 @@
             {
                 "id": 255,
                 "value": "Cod. 12356"
+            },
+            {
+                "id": 436,
+                "value": "Cod. 13604"
             }
         ],
         "alt_name": "Collegium Glacense / Glacii",
@@ -16709,6 +16713,10 @@
             {
                 "id": 255,
                 "value": "Cod. 12356"
+            },
+            {
+                "id": 432,
+                "value": "Cod. 13600"
             }
         ],
         "alt_name": "Collegium Lignicense",
@@ -17852,6 +17860,10 @@
                 "value": "Cod. 12011"
             },
             {
+                "id": 433,
+                "value": "Cod. 13601"
+            },
+            {
                 "id": 244,
                 "value": "Cod. 12337"
             }
@@ -18749,6 +18761,14 @@
             {
                 "id": 218,
                 "value": "Cod. 11958"
+            },
+            {
+                "id": 434,
+                "value": "Cod. 13602"
+            },
+            {
+                "id": 435,
+                "value": "Cod. 13602*"
             }
         ],
         "alt_name": "Domus probationis Brunae",
@@ -18925,6 +18945,14 @@
             {
                 "id": 219,
                 "value": "Cod. 11949"
+            },
+            {
+                "id": 434,
+                "value": "Cod. 13602"
+            },
+            {
+                "id": 435,
+                "value": "Cod. 13602*"
             },
             {
                 "id": 244,
@@ -20834,7 +20862,7 @@
     "147": {
         "id": 147,
         "order": "146.00000000000000000000",
-        "name": "Seminarium Werdenbergicum",
+        "name": "Jesuitenseminar Werdenberg",
         "jesuiten_id": "jesuiten_org__147",
         "located_in": [
             {
@@ -40919,6 +40947,306 @@
         "gnd": "",
         "msdesc": [],
         "alt_name": "Missio karamsebesiana in Transylvania",
+        "notes": "",
+        "persons": []
+    },
+    "631": {
+        "id": 631,
+        "order": "620.00000000000000000000",
+        "name": "Jesuitenresidenz Győr",
+        "jesuiten_id": "jesuiten_org__631",
+        "located_in": [
+            {
+                "id": 8,
+                "order": "8.00000000000000000000",
+                "name": "Győr",
+                "jesuiten_id": "jesuiten_place__8",
+                "geonames": "https://www.geonames.org/3052009/gyor.html",
+                "lat": "47.68333",
+                "long": "17.63512",
+                "wikidata": "https://www.wikidata.org/wiki/Q134494",
+                "alt_names": [
+                    {
+                        "id": 9,
+                        "value": "Jaurinum"
+                    },
+                    {
+                        "id": 138,
+                        "value": "Raab"
+                    },
+                    {
+                        "id": 139,
+                        "value": "Arrabona"
+                    }
+                ],
+                "msdesc": [
+                    {
+                        "id": 66,
+                        "value": "Cod. 12058"
+                    },
+                    {
+                        "id": 67,
+                        "value": "Cod. 12059"
+                    },
+                    {
+                        "id": 68,
+                        "value": "Cod. 12060"
+                    },
+                    {
+                        "id": 97,
+                        "value": "Cod. 12062"
+                    },
+                    {
+                        "id": 98,
+                        "value": "Cod. 12063"
+                    },
+                    {
+                        "id": 99,
+                        "value": "Cod. 12064"
+                    },
+                    {
+                        "id": 100,
+                        "value": "Cod. 12065"
+                    },
+                    {
+                        "id": 4,
+                        "value": "Cod. 12066"
+                    },
+                    {
+                        "id": 101,
+                        "value": "Cod. 12067"
+                    },
+                    {
+                        "id": 102,
+                        "value": "Cod. 12068"
+                    },
+                    {
+                        "id": 103,
+                        "value": "Cod. 12069"
+                    },
+                    {
+                        "id": 6,
+                        "value": "Cod. 12123"
+                    },
+                    {
+                        "id": 63,
+                        "value": "Cod. 12048"
+                    },
+                    {
+                        "id": 64,
+                        "value": "Cod. 12049"
+                    },
+                    {
+                        "id": 65,
+                        "value": "Cod. 12050"
+                    },
+                    {
+                        "id": 7,
+                        "value": "Cod. 12057"
+                    },
+                    {
+                        "id": 10,
+                        "value": "Cod. 12138"
+                    },
+                    {
+                        "id": 11,
+                        "value": "Cod. 12266"
+                    },
+                    {
+                        "id": 31,
+                        "value": "Cod. 12273"
+                    },
+                    {
+                        "id": 113,
+                        "value": "Cod. 12279"
+                    },
+                    {
+                        "id": 32,
+                        "value": "Cod. 12274"
+                    },
+                    {
+                        "id": 33,
+                        "value": "Cod. 12275"
+                    },
+                    {
+                        "id": 34,
+                        "value": "Cod. 12276"
+                    },
+                    {
+                        "id": 30,
+                        "value": "Cod. 12277"
+                    },
+                    {
+                        "id": 70,
+                        "value": "Cod. 12231"
+                    },
+                    {
+                        "id": 60,
+                        "value": "Cod. 12241"
+                    }
+                ]
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Sedes Jaurinensis",
+        "notes": "",
+        "persons": []
+    },
+    "632": {
+        "id": 632,
+        "order": "621.00000000000000000000",
+        "name": "Jesuitenseminar Verdenberg",
+        "jesuiten_id": "jesuiten_org__632",
+        "located_in": [
+            {
+                "id": 27,
+                "order": "27.00000000000000000000",
+                "name": "Gorizia",
+                "jesuiten_id": "jesuiten_place__27",
+                "geonames": "https://www.geonames.org/3175986/gorizia.html",
+                "lat": "45.94088",
+                "long": "13.62167",
+                "wikidata": "https://www.wikidata.org/wiki/Q6596",
+                "alt_names": [
+                    {
+                        "id": 13,
+                        "value": "Görz"
+                    }
+                ],
+                "msdesc": [
+                    {
+                        "id": 66,
+                        "value": "Cod. 12058"
+                    },
+                    {
+                        "id": 67,
+                        "value": "Cod. 12059"
+                    },
+                    {
+                        "id": 68,
+                        "value": "Cod. 12060"
+                    },
+                    {
+                        "id": 97,
+                        "value": "Cod. 12062"
+                    },
+                    {
+                        "id": 98,
+                        "value": "Cod. 12063"
+                    },
+                    {
+                        "id": 99,
+                        "value": "Cod. 12064"
+                    },
+                    {
+                        "id": 100,
+                        "value": "Cod. 12065"
+                    },
+                    {
+                        "id": 4,
+                        "value": "Cod. 12066"
+                    },
+                    {
+                        "id": 101,
+                        "value": "Cod. 12067"
+                    },
+                    {
+                        "id": 102,
+                        "value": "Cod. 12068"
+                    },
+                    {
+                        "id": 103,
+                        "value": "Cod. 12069"
+                    },
+                    {
+                        "id": 64,
+                        "value": "Cod. 12049"
+                    },
+                    {
+                        "id": 10,
+                        "value": "Cod. 12138"
+                    },
+                    {
+                        "id": 31,
+                        "value": "Cod. 12273"
+                    },
+                    {
+                        "id": 113,
+                        "value": "Cod. 12279"
+                    },
+                    {
+                        "id": 32,
+                        "value": "Cod. 12274"
+                    },
+                    {
+                        "id": 33,
+                        "value": "Cod. 12275"
+                    },
+                    {
+                        "id": 34,
+                        "value": "Cod. 12276"
+                    },
+                    {
+                        "id": 30,
+                        "value": "Cod. 12277"
+                    },
+                    {
+                        "id": 70,
+                        "value": "Cod. 12231"
+                    },
+                    {
+                        "id": 60,
+                        "value": "Cod. 12241"
+                    }
+                ]
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Seminarium Verdenbergicum",
+        "notes": "",
+        "persons": []
+    },
+    "633": {
+        "id": 633,
+        "order": "622.00000000000000000000",
+        "name": "Jesuitenmission Maurensis",
+        "jesuiten_id": "jesuiten_org__633",
+        "located_in": [],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Mavrensis Missio",
+        "notes": "",
+        "persons": []
+    },
+    "634": {
+        "id": 634,
+        "order": "623.00000000000000000000",
+        "name": "Jesuitenmission Bottianiana",
+        "jesuiten_id": "jesuiten_org__634",
+        "located_in": [
+            {
+                "id": 304,
+                "order": "295.00000000000000000000",
+                "name": "Hungary Kingdom",
+                "jesuiten_id": "jesuiten_place__304",
+                "geonames": "",
+                "lat": null,
+                "long": null,
+                "wikidata": "https://www.wikidata.org/wiki/Q171150",
+                "alt_names": [
+                    {
+                        "id": 221,
+                        "value": "Ungaria"
+                    }
+                ],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Bottianiana",
         "notes": "",
         "persons": []
     }
