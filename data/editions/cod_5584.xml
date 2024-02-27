@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cod_5584.xml" xml:base="https://oenb.ac.at" prev="https://oenb.ac.at/cod_14004.xml" next="https://oenb.ac.at/cod_7438.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Wien, Österreichische Nationalbibliothek, Cod. 5584</title>
+                <title type="sub">Jesuiten Littera annuae</title>
+                <respStmt>
+                    <resp>Beschreibung und TEI-encoding</resp>
+                    <persName>
+                        <forename>Ivana</forename>
+                        <surname>Dobcheva</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="restricted">
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">This document is published under the Creative Commons licence Attribution 4.0 International (CC BY 4.0).</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:lang="de" xml:id="cod_5584">
+                    <msIdentifier>
+                        <country>Österreich</country>
+                        <settlement>Wien</settlement>
+                        <repository>Österreichische Nationalbibliothek</repository>
+                        <idno>Cod. 5584</idno>
+                    </msIdentifier>
+                    <head>
+                        <title>Kirchenhistorische Sammelhandschrift</title>
+                        <origDate notBefore="1601-01-01"/>
+                        <date type="letter"> </date>
+                        <note type="catalogue">
+                            <ref target="http://data.onb.ac.at/rec/AC13958041"/>
+                        </note>
+                    </head>
+                    <msContents>                   
+                        <summary>
+                                Zusammengesetzte Handschrift mit Bullen, Briefen und Statuten der SJ. 
+                                
+                        </summary> 
+                        <textLang mainLang="lat"/>
+                        
+                                <msItem n="None">
+                                    <locus from="1r" to="2v">1r-2v</locus>
+                                    <title>Urbanus V. papa: Bulla 'Super custodiam' </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="3r" to="6v">3r-6v</locus>
+                                    <title>Sigefridus Goriziensis abbas: Epistola ad Popponem de matrimonio Henrici III. cum Agnete </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="7r" to="7v">7r-7v</locus>
+                                    <title>Sigefridus Goriziensis abbas: Epistola ad B. de matrimonio Henrici III. cum Agnete </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="7v" to="9v">7v-9v</locus>
+                                    <title>Winandus: Epistola ad A. Coloniensem archiepiscopum de expeditione hispanica contra Sarracenos a. 1147 </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="9v" to="">9v-</locus>
+                                    <title>Epistola quae A. Coloniensi archiepiscopo peregrini eiusdem ecclesiae perscripserunt qui erant in expeditione contra Sarracenos: Fragmentum </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="13r" to="15v">13r-15v</locus>
+                                    <title>Oratio habita in fine concilii Tridentini </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="16r" to="16v">16r-16v</locus>
+                                    <title>Oratio a legato cesareo ad patres concilii Tridentini declamata </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="17r" to="17v">17r-17v</locus>
+                                    <title>Responsio legatorum pontificis ad orationem legati caesarei in concilio Tridentino </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="18r" to="19r">18r-19r</locus>
+                                    <title>Descriptio brevis collegiorum societatis Iesu </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="20r" to="20av">20r-20av</locus>
+                                    <title>Constitutiones in ipso collegio Romae erecto a Gregorio XIII. pro natione germanica observandae </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="21r" to="21av">21r-21av</locus>
+                                    <title>Formula promissionis quae tum in provinciis tum eriam romae facienda est </title>
+                                </msItem>
+                          
+                        
+                       
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="codex">
+                            <supportDesc material="paper">
+                                <support>Papier</support>
+                                <extent>
+                                    <measure type="leavesCount" unit="folio">VII, 21, VII Bl.</measure>
+                                    <dimensions type="leaf_current" unit="mm">
+                                        <height>320</height>
+                                        <width>210</width>
+                                    </dimensions>
+                                </extent>
+                                <foliation>Zeitgenössische alte Foliierung auf fols. 1–2 ‚181-184‘; zeitgenössische Foliierung 1–19; moderne Foliierung der letzten Blätter (20–21) sowie die Vor- und Nachsatzblätter.</foliation>
+                                <collation/>
+                            </supportDesc>
+                        </objectDesc>
+                        <bindingDesc>
+                            <binding>
+                                <p>Halbband, Deckel mit rotem Marmorpapier überzogen; Titelschild auf dem Rücken 'Urbani Bulla'.</p>
+                            </binding>
+                        </bindingDesc>
+                        <accMat/>                        
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><p/></body>
+    <back/></text>
+</TEI>
