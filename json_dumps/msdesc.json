@@ -25346,6 +25346,37 @@
     "date_letter": "1630, 1636, 1639, 1653, 1658",
     "century": "17. Jhdt."
   },
+  "445": {
+    "id": 445,
+    "order": "32.25000000000000000000",
+    "signatur": "Cod. 14382",
+    "jesuiten_id": "jesuiten_msdesc__445",
+    "mentioned_orgs": [
+      {
+        "id": 10,
+        "value": "Jesuitenkolleg Passau"
+      }
+    ],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13948860",
+    "title": "Diarium collegii Societatis Iesu Patavii a. 1670-1684",
+    "date": "1670-1684",
+    "persons": [],
+    "mentioned_places": [],
+    "note_type_facs": "",
+    "xml_id": "cod_14382",
+    "extent": "I, 185 Bl.",
+    "height": "390",
+    "width": "155",
+    "foliation": "Moderne Foliierung.",
+    "acc_mat": "",
+    "binding": "Pergament über Pappe: Makulatur (Fragmente mindestens vier Blätter) aus einer liturgischen Handschrift (Antiphonar?) wohl aus dem 14. Jhdt. Buchschmuck: Kadellen, alternierende rote und blaue Lombarden; Neumen auf vier roten Linien.",
+    "summary": "Die schmale Handschrift enthält das Tagebuch des Jesuitenkollegs in Passau. Für jeden Tag gibt es einen Eintrag, der unterschiedlich lang ist, meist aber 1-2 Zeilen umfasst.",
+    "not_before": "1670",
+    "not_after": "1684",
+    "# when": "",
+    "date_letter": "1670-1684",
+    "century": "17. Jhdt."
+  },
   "437": {
     "id": 437,
     "order": "32.33333333333333570181",
@@ -32140,6 +32171,32 @@
     "date_letter": "",
     "century": "18. Jhdt."
   },
+  "446": {
+    "id": 446,
+    "order": "39.92592592592592382061",
+    "signatur": "Cod. 13620",
+    "jesuiten_id": "jesuiten_msdesc__446",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13950223",
+    "title": "Liber quintus ordinatium continens ordinationes temporaneas ex Urbe a patribus generalibus Societatis Iesu a. 1597-1773 missas in provinciam Poloniae",
+    "date": "",
+    "persons": [],
+    "mentioned_places": [],
+    "note_type_facs": "",
+    "xml_id": "cod_13620",
+    "extent": "",
+    "height": null,
+    "width": null,
+    "foliation": "",
+    "acc_mat": "",
+    "binding": "",
+    "summary": "Abschriften und Auszüge aus Instruktionsbriefen der Generäle, Provinziale und Visitatoren",
+    "not_before": null,
+    "not_after": null,
+    "# when": "",
+    "date_letter": "",
+    "century": "18. Jhdt."
+  },
   "441": {
     "id": 441,
     "order": "39.92857142857143060155",
@@ -32661,5 +32718,98 @@
     "# when": "",
     "date_letter": "",
     "century": "17.-18. Jhdt."
+  },
+  "442": {
+    "id": 442,
+    "order": "48.00000000000000000000",
+    "signatur": "Cod. 8342",
+    "jesuiten_id": "jesuiten_msdesc__442",
+    "mentioned_orgs": [
+      {
+        "id": 2,
+        "value": "Jesuitenkolleg Wien"
+      }
+    ],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13955472",
+    "title": "Historia collegii Societatis Iesu Viennensis pars III a. 1728-1770",
+    "date": "ab 1728",
+    "persons": [],
+    "mentioned_places": [],
+    "note_type_facs": "",
+    "xml_id": "cod_8342",
+    "extent": "I, 350 Bl.",
+    "height": "330",
+    "width": "220",
+    "foliation": "Moderne Foliierung.",
+    "acc_mat": "",
+    "binding": "Helles Leder mit Streicheisenlinien, Rollen- u. Plattenstempeln über Holzdeckeln; zwei Schließe.",
+    "summary": "Es handelt sich um den dritten Band der Geschichte des Wiener Jesuitenkollegs (vgl. die Anmerkung 'Pars III' auf fol. 1r). Die Handschrift besteht aus einem kodikologischen Teil; die Einträge wurden jedoch schrittweise über mehrere Jahre hinweg von verschiedenen Händen geschrieben. Sie enthält die Jahresberichte des Kollegs, die 'Annales' oder 'Historia' genannt werden, aus den letzten Jahrzehnten vor der Aufhebung des Jesuitenordens (a. 1728–1770). Die Themen ('Nummerus personarum', 'Confessiones et Communiones' etc.) sind am Rand des Blattes vermerkt. Fols. 221v-350 sind leer. \nDie ersten beiden Teile der Historia sind unter den Signaturen Cod. 8367 (a. 1551–1638) und Cod. 8368 (a. 1648–1727) erhalten.",
+    "not_before": "1728",
+    "not_after": null,
+    "# when": "",
+    "date_letter": "1728-1770",
+    "century": "18. Jhdt."
+  },
+  "443": {
+    "id": 443,
+    "order": "49.00000000000000000000",
+    "signatur": "Cod. 8367",
+    "jesuiten_id": "jesuiten_msdesc__443",
+    "mentioned_orgs": [
+      {
+        "id": 2,
+        "value": "Jesuitenkolleg Wien"
+      }
+    ],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13955741",
+    "title": "Historia collegii Societatis Iesu Viennensis pars I a. 1552-1638",
+    "date": "ab 1638",
+    "persons": [],
+    "mentioned_places": [],
+    "note_type_facs": "http://data.onb.ac.at/dtl/6494508",
+    "xml_id": "cod_8367",
+    "extent": "464, II* Bl.",
+    "height": "313",
+    "width": "205",
+    "foliation": "Moderne Foliierung.",
+    "acc_mat": "",
+    "binding": "Helles Leder mit Streicheisenlinien, tw. fig. Rollen- u. Plattenstempeln (im Stil des 16. Jhdts.) über Holzdeckeln.",
+    "summary": "Es handelt sich um den ersten Band der Geschichte des Wiener Jesuitenkollegs (a. 1551–1638). Die Handschrift besteht aus einem kodikologischen Teil; die ersten Einträge (a. 1551 bis 1581) wurden von einer Hand geschrieben, die weiteren von verschiedenen. Mehr als die Hälfte des Bandes ist leer geblieben (fol. 188v–464). Dazwischen wurden auch leere Blätter für fehlende Jahresberichte gelassen (für die Jahre 1621, 1627, 1628, 1630, 1633, 1634). \nDie beiden anderen Teile der Geschichte sind unter den Signaturen Cod. 8342 (a. 1728–1770) und Cod. 8368 (a. 1648–1727) erhalten.",
+    "not_before": "1638",
+    "not_after": null,
+    "# when": "",
+    "date_letter": "1552-1638",
+    "century": "17. Jhdt."
+  },
+  "444": {
+    "id": 444,
+    "order": "50.00000000000000000000",
+    "signatur": "Cod. 8368",
+    "jesuiten_id": "jesuiten_msdesc__444",
+    "mentioned_orgs": [
+      {
+        "id": 2,
+        "value": "Jesuitenkolleg Wien"
+      }
+    ],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13955742",
+    "title": "Historia collegii Societatis Iesu Viennensis pars II a. 1648-1727",
+    "date": "ab 1648",
+    "persons": [],
+    "mentioned_places": [],
+    "note_type_facs": "",
+    "xml_id": "cod_8368",
+    "extent": "527 Bl.",
+    "height": "305",
+    "width": "195",
+    "foliation": "Moderne Foliierung.",
+    "acc_mat": "",
+    "binding": "Helles Leder mit Streicheisenlinien, Rollen- u. Plattenstempeln über Holzdeckeln. Grün gefärbten Schnitt.",
+    "summary": "Es handelt sich um den zweiten Band der Geschichte des Wiener Jesuitenkollegs (a. 1648-1727). Das Manuskript besteht aus einem kodikologischen Teil, aber die Einträge wurden schrittweise über mehrere Jahre hinweg von verschiedenen Händen geschrieben. Sie enthält die Jahresberichte des Kollegs, 'Annales' oder 'Historia' genannt; die Themen ('Nummerus personarum', 'Confessiones et Communiones' etc.) sind meist am Rand des Blattes vermerkt. Die beiden anderen Teile der Historia werden unter den Signaturen Cod. 8342 und 8367 aufbewahrt.",
+    "not_before": "1648",
+    "not_after": null,
+    "# when": "",
+    "date_letter": "1648-1727",
+    "century": "18. Jhdt."
   }
 }
