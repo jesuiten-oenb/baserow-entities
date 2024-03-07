@@ -25346,6 +25346,103 @@
     "date_letter": "1630, 1636, 1639, 1653, 1658",
     "century": "17. Jhdt."
   },
+  "448": {
+    "id": 448,
+    "order": "32.20000000000000284217",
+    "signatur": "Cod. 14074",
+    "jesuiten_id": "jesuiten_msdesc__448",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13949468",
+    "title": "Elogia virorum illustrium Societatis Iesu olim provinciae Bohemiae",
+    "date": "",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Provincia Bohemia"
+      }
+    ],
+    "note_type_facs": "",
+    "xml_id": "cod_14074",
+    "extent": "II, 198, II* Bl.",
+    "height": "320",
+    "width": "200",
+    "foliation": "Moderne Foliierung.",
+    "acc_mat": "",
+    "binding": "Halbband, Deckel mit buntem Marmorpapier überzogen; Titelschild am Buchrücken.",
+    "summary": "Zusammengesetzte Handschrift mit Lobreden (auch Entwürfe) auf verstorbene Mitglieder der Gesellschaft aus der Provincia Bohemia. U. a. Wenzel Schwertfer (GND 100334520), Karl Grobbendonck (GND 13980627X), Paulus Arndt (1630–1700), Fridericus Bridelius (GND 173482686), Joannes Mehrer (1614–1670), Augustinus Perneker (1650–1675), Melchior Koneczny (1594–1668), Wenceslaus Tatyrek (1641–1680), Adalbertus Goliasch (1639–1673), Joannes Institoris (1615–1673), Joannes Thumisius (1637–1673), Joannes Perger (1643–1680); eine Gruppe verstorbenen im Jahr 1654: Gilielmus Mening, \tJoannes Flaxius u. a.; Joannes Albertus de Boye; eine Gruppe verstorbenen in Kolleg Olomouc 1623; Georgius Curatius (1607–1665), Joannes Dakazat (1587-1656), Antonius Tempelman (1657–1696), eine Gruppe verstorbenen 1656 aus Provinz Böhmen, Andreas Metsch (GND 140976523), Juan Gabriel Guillén (1627–1675 aus Provincia Toletana), Georgius Czapek (1648–1680), Mathias Planiczky (1647–1715), Fridericus Wolff (1643–1708), Maximilianus Pech (1655–1707), Wenceslaus Wolff, Adamus Gembarzowsky (1608–1649), Michael Marcius (1621–1649), Andreas Nigrinus (GND 140989374), Paulus Zilka, Carolus Neürauter (1664–1702), Godefridus Garscher (1650–1675), Ferdinandus Waldthauser (GND 12177323X), Simon Lamacz (1660–1697) – auf Tschechisch; Balthasar Conradus (1599–1660), Dominicus Valesius Italus (GND 140941908), Michael Maschel, (1606–1664).\nZ. T. sehr unterschiedliche Blattgröße.",
+    "not_before": "1601",
+    "not_after": "1800",
+    "# when": "",
+    "date_letter": "",
+    "century": "17.-18. Jhdt."
+  },
+  "449": {
+    "id": 449,
+    "order": "32.22222222222222143273",
+    "signatur": "Cod. 14104",
+    "jesuiten_id": "jesuiten_msdesc__449",
+    "mentioned_orgs": [
+      {
+        "id": 197,
+        "value": "Jesuitenkolleg Prague ad S. Ignatium"
+      }
+    ],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13950549",
+    "title": "Historia collegii Societatis Iesu Neo-Pragae a. 1628-1667",
+    "date": "ab 1628",
+    "persons": [],
+    "mentioned_places": [],
+    "note_type_facs": "",
+    "xml_id": "cod_14104",
+    "extent": "II, 45, I* Bl.",
+    "height": "308",
+    "width": "194",
+    "foliation": "Moderne Foliierung.",
+    "acc_mat": "",
+    "binding": "Brauner Leder über Pappe mit Streicheisenlinien und Blinddruck; Reste von zwei Schließen aus Textilstoff.",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit. Die 'Historia'-Einträge sind chronologisch für den Zeitraum von 1628 bis 1667 angeordnet, die Berichte sind thematisch in Kapitel (mit § bezeichnet) gegliedert.",
+    "not_before": "1628",
+    "not_after": "1800",
+    "# when": "",
+    "date_letter": "",
+    "century": "17.-18. Jhdt."
+  },
+  "450": {
+    "id": 450,
+    "order": "32.23076923076923350209",
+    "signatur": "Cod. 14214",
+    "jesuiten_id": "jesuiten_msdesc__450",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13956811",
+    "title": "Sammelhandschrift",
+    "date": "",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Provincia Bohemia"
+      },
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
+    "note_type_facs": "",
+    "xml_id": "cod_14214",
+    "extent": "IV, 185, II* Bl.",
+    "height": "310",
+    "width": "190",
+    "foliation": "Mehrere moderne Foliierungen; die aktuelle ist auf dem Recto unten rechts.",
+    "acc_mat": "",
+    "binding": "Pappeinband Wien, 19. Jhdt.",
+    "summary": "Sammelhandschrift mit Werken zur Gründung und Geschichte der Jesuitenkollegien in den Provinzen Böhmen und Österreich.",
+    "not_before": null,
+    "not_after": null,
+    "# when": "",
+    "date_letter": "",
+    "century": "18. Jhdt."
+  },
   "445": {
     "id": 445,
     "order": "32.25000000000000000000",
@@ -25370,12 +25467,43 @@
     "foliation": "Moderne Foliierung.",
     "acc_mat": "",
     "binding": "Pergament über Pappe: Makulatur (Fragmente mindestens vier Blätter) aus einer liturgischen Handschrift (Antiphonar?) wohl aus dem 14. Jhdt. Buchschmuck: Kadellen, alternierende rote und blaue Lombarden; Neumen auf vier roten Linien.",
-    "summary": "Die schmale Handschrift enthält das Tagebuch des Jesuitenkollegs in Passau. Für jeden Tag gibt es einen Eintrag, der unterschiedlich lang ist, meist aber 1-2 Zeilen umfasst.",
+    "summary": "Die schmale Handschrift enthält das Tagebuch des Jesuitenkollegs in Passau. Für jeden Tag gibt es einen Eintrag, der unterschiedlich lang ist, meist aber 1–2 Zeilen umfasst.",
     "not_before": "1670",
     "not_after": "1684",
     "# when": "",
     "date_letter": "1670-1684",
     "century": "17. Jhdt."
+  },
+  "447": {
+    "id": 447,
+    "order": "32.28571428571428469922",
+    "signatur": "Cod. 14823",
+    "jesuiten_id": "jesuiten_msdesc__447",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13950965",
+    "title": "Responsa generalium Societatis Iesu ad propositiones etc. provinciae Austriae a. 1568-1710",
+    "date": "",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
+    "note_type_facs": "",
+    "xml_id": "cod_14823",
+    "extent": "I, 47, I* Bl.",
+    "height": "305",
+    "width": "198",
+    "foliation": "Moderne Foliierung.",
+    "acc_mat": "",
+    "binding": "Halbband, Deckel mit buntem Marmorpapier überzogen; Titelschild am Buchrücken; Blinddruck und Stempel mit Gold durchgestrichen.",
+    "summary": "Das Manuskript enthält eine Sammlung von Auszügen aus den Briefen der Generaloberen an die Kongregation der Provinz Österreich. Die Responsa sind chronologisch geordnet, möglicherweise nach dem Eintreffen der Briefe niedergeschrieben. Der zweite Teil (fol. 32r-38v) ist ein \"Kompendium\" aus den 1584 gegebenen Antworten, die für alle Provinzen von Interesse sind. Dieser Teil ist in alphabetischer Reihenfolge nach Themen geordnet.\nDanach (fol. 38v-43v) folgen weitere Responsa aus den Jahren 1642, 1646, die an verschiedene Provinzen gerichtet sind. \nDer letzte Teil trägt die Überschrift 'Liber Tertius Ordinationum, in quo continentur resolutiones casuum'. Der einzige Eintrag betrifft einen Brief des Generals Paulus Oliva aus dem Jahr 1675.",
+    "not_before": "1601",
+    "not_after": "1800",
+    "# when": "",
+    "date_letter": "",
+    "century": "17.-18. Jhdt."
   },
   "437": {
     "id": 437,
@@ -32179,9 +32307,14 @@
     "mentioned_orgs": [],
     "note_type_catalogue": "http://data.onb.ac.at/rec/AC13950223",
     "title": "Liber quintus ordinatium continens ordinationes temporaneas ex Urbe a patribus generalibus Societatis Iesu a. 1597-1773 missas in provinciam Poloniae",
-    "date": "",
+    "date": "ab 1600",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 429,
+        "value": "Provincia Polonia Minor"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_13620",
     "extent": "",
@@ -32190,12 +32323,12 @@
     "foliation": "",
     "acc_mat": "",
     "binding": "",
-    "summary": "Abschriften und Auszüge aus Instruktionsbriefen der Generäle, Provinziale und Visitatoren",
-    "not_before": null,
+    "summary": "Abschriften und Auszüge aus Instruktionsbriefen der Generäle, Provinziale und Visitatoren. Die Einträge sind chronologisch geordnet.",
+    "not_before": "1600",
     "not_after": null,
     "# when": "",
     "date_letter": "",
-    "century": "18. Jhdt."
+    "century": "17.-18. Jhdt."
   },
   "441": {
     "id": 441,
