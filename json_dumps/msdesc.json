@@ -6360,7 +6360,7 @@
     "foliation": "Zeitgenössische Paginierung 1–37; moderne Paginierung 38–50. Nach S. 8 ist ein Blatt eingeschaltet (S. 8a).",
     "acc_mat": "",
     "binding": "Weißer Pergamenteinband über Pappdeckeln.",
-    "summary": "Die Handschrift besteht aus zwei kodikologischen Einheiten. Die erste auf S. 1–37 ist ohne originale Gliederung, nur mit nachträglichen Überschriften am Rand hier nur vereinzelt erfasst.",
+    "summary": "Die Handschrift besteht aus zwei kodikologischen Einheiten. Die erste Einheit auf S. 1–37 ist ohne originale Gliederung, nur mit nachträglichen Überschriften am Rand hier nur vereinzelt erfasst.",
     "not_before": "1654",
     "not_after": "1655",
     "# when": "",
@@ -6508,7 +6508,7 @@
     "foliation": "Zeitgenössische Paginierung 1–50.",
     "acc_mat": "",
     "binding": "Weißer Pergamenteinband über Pappdeckeln.",
-    "summary": "Die Handschrift besteht aus zwei kodikologischen Einheiten. Der Bericht auf S. 1–50 ist nicht in Kapitel gegliedert. Die im Text vorkommenden Themen sind am Rand vermerkt. Die Berichte auf S. 61–67 wahrscheinlich originale Berichte.",
+    "summary": "Die Handschrift besteht aus zwei kodikologischen Einheiten. Der Bericht auf S. 1–50 ist ohne Gliederung; die im Text vorkommenden Themen sind am Rand vermerkt. Die Berichte auf S. 61–67 wahrscheinlich originale Berichte.",
     "not_before": "1655",
     "not_after": null,
     "# when": "",
@@ -23980,6 +23980,37 @@
     "date_letter": "1640",
     "century": "17. Jhdt."
   },
+  "452": {
+    "id": 452,
+    "order": "31.25000000000000000000",
+    "signatur": "Cod. 11955",
+    "jesuiten_id": "jesuiten_msdesc__452",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13947545",
+    "title": "Responsa post congregationem procuratorum sive alias diversis temporibus data et omnibus provinciis Societatis Iesu communicata a. 1682-1712. Annexa sunt responsa a. 1579",
+    "date": "",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 94,
+        "value": "Brno"
+      }
+    ],
+    "note_type_facs": "",
+    "xml_id": "cod_11955",
+    "extent": "363 Bl.",
+    "height": "310",
+    "width": "203",
+    "foliation": "Moderne Foliierung der beschriebenen Blätter: 178–195. Davor sind 176, danach 367 unbeschriebene Blätter.",
+    "acc_mat": "",
+    "binding": "Weißes Leder mit Blindprägung über Holzdeckeln, Brünn, dat. 1596",
+    "summary": "Die Handschrift war wahrscheinlich als mehrteiliger Band geplant; der erste Teil, für den 176 Seiten vorgesehen waren, wurde nie begonnen. Der zweite Teil (fols. 177r-195r) enthält die Antworten (Responsa) des Generaloberen auf die Fragen (Postulata) der böhmischen Provinz aus den Jahren 1682–1712, gefolgt von einem alphabetisch geordneten Kompendium mit kurzen Antworten und Auszügen aus den Antworten an andere Provinzen.",
+    "not_before": null,
+    "not_after": null,
+    "# when": "",
+    "date_letter": "",
+    "century": "18. Jhdt."
+  },
   "217": {
     "id": 217,
     "order": "31.33333333333333214910",
@@ -25505,6 +25536,37 @@
     "date_letter": "",
     "century": "17.-18. Jhdt."
   },
+  "453": {
+    "id": 453,
+    "order": "32.29999999999999715783",
+    "signatur": "Cod. 15027",
+    "jesuiten_id": "jesuiten_msdesc__453",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13951012",
+    "title": "Adversaria diversorum patrum Societatis Iesu de mausoleis etc. principum Viennae defunctorum a. 1630-1679",
+    "date": "ab 1631",
+    "persons": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
+    "note_type_facs": "",
+    "xml_id": "cod_15027",
+    "extent": "53 Bl.",
+    "height": "215",
+    "width": "160",
+    "foliation": "Pappeinband, Wien, 2. Hälfte 19. Jhdt.",
+    "acc_mat": "",
+    "binding": "",
+    "summary": "Die Handschrift besteht aus 11 ungehefteten Lagen und mehreren Einzelblättern. Sie enthält Berichte über Trauerfeierlichkeiten, Beschreibungen neu errichteter Mausoleen, Lobreden und Epigramme für verstorbene Mitglieder der kaiserlichen Familie aus dem Zeitraum 1631-1679.",
+    "not_before": "1631",
+    "not_after": null,
+    "# when": "",
+    "date_letter": "",
+    "century": "17. Jhdt."
+  },
   "437": {
     "id": 437,
     "order": "32.33333333333333570181",
@@ -25674,7 +25736,7 @@
     "foliation": "",
     "acc_mat": "",
     "binding": "Weißes Leder mit Blindprägung über Holzdeckeln, Brünn, dat. 1596.",
-    "summary": "Die Handschrift ist in zwei Teile gegliedert. Der erste Teil enthält die Antworten auf die Fragen (Resolutiones), die alle drei Jahre nach Rom gesandt wurden. Er ist chronologisch geordnet. Die ersten Seiten, die sich auf die Jahre 1568–1625 beziehen, wurden von einer Hand, wahrscheinlich um 1625, abgeschrieben. Weitere Einträge betreffen Antworten bis 1737. \nDer zweite Teil beginnt in der Mitte des Buches und ist für die nach der Versammlung eingegangenen Antworten (Resolutiones) bestimmt. Dieser Teil ist bis auf drei Seiten leer geblieben.\nDie Handschrift wurde von Alois Kroess für seine 'Geschichte der Böhmischen Provinz der Gesellschaft Jesu' (Wien, 1910) benutzt.",
+    "summary": "Die Handschrift ist in zwei Teile gegliedert. Der erste Teil enthält die Antworten auf die Fragen (Resolutiones), die alle drei Jahre nach Rom gesandt wurden. Er ist chronologisch geordnet. Die ersten Seiten, die sich auf die Jahre 1568–1625 beziehen, wurden von einer Hand, wahrscheinlich um 1625, abgeschrieben. Weitere Einträge betreffen Antworten bis 1737. \nDer zweite Teil beginnt in der Mitte des Buches und ist für die nach der Versammlung eingegangenen Antworten (Resolutiones) bestimmt. Dieser Teil ist bis auf drei Seiten leer geblieben.\nDie Handschrift wurde von Alois Kroess für seine 'Geschichte der böhmischen Provinz der Gesellschaft Jesu' (Wien, 1910) benutzt.",
     "not_before": "1625",
     "not_after": null,
     "# when": "",
@@ -29405,7 +29467,7 @@
         "value": "Provincia Austria"
       }
     ],
-    "note_type_facs": "",
+    "note_type_facs": "https://digital.onb.ac.at/rep/access/open/131DDFAE",
     "xml_id": "cod_12220",
     "extent": "III, 411, I* Bl.",
     "height": "290",
@@ -32354,12 +32416,43 @@
     "foliation": "Zeitgenössische Paginierung; moderne Foliierung.",
     "acc_mat": "",
     "binding": "Halbband, Deckel mit buntem Marmorpapier überzogen.",
-    "summary": "",
+    "summary": "Das Handschrift besteht aus einer kodikologischen Einheit und wurde wahrscheinlich von einer Hand geschrieben. Es handelt sich um die Geschichte des Jesuitenkollegs (fols. 1r-18v) und der Universität (fols. 19r-28r) in Olmütz seit ihrer Gründung; der Text ist kapitelweise gegliedert und führt die Geschichte bis 1720 fort; nach der Chronologie (fols. 1-72v) folgen Lobreden (Memoria) auf verstorbene Mitglieder (fols. 73r-87r).",
     "not_before": null,
     "not_after": null,
     "# when": "",
     "date_letter": "",
     "century": "18. Jhdt."
+  },
+  "454": {
+    "id": 454,
+    "order": "39.93333333333333001747",
+    "signatur": "Cod. 13748",
+    "jesuiten_id": "jesuiten_msdesc__454",
+    "mentioned_orgs": [
+      {
+        "id": 103,
+        "value": "Jesuitenkolleg Jihlava"
+      }
+    ],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13957427",
+    "title": "Sammelhandschrift: Historiae collegii Iglaviensis Societatis Iesu",
+    "date": "ab 1640",
+    "persons": [],
+    "mentioned_places": [],
+    "note_type_facs": "",
+    "xml_id": "cod_13748",
+    "extent": "I, 179, I* Bl.",
+    "height": "320",
+    "width": "200",
+    "foliation": "Moderne Foliierung.",
+    "acc_mat": "",
+    "binding": "Halbband, Deckel mit buntem Marmorpapier überzogen.",
+    "summary": "Das Manuskript besteht aus mehreren kodikologischen Einheiten. Die drei eher fragmentarisch erhaltenen Hauptwerke widmen sich der Geschichte des Jesuitenkollegs in Jihlava. Die ersten beiden sind mit sehr breiten Seitenrändern versehen und waren wahrscheinlich als Entwürfe gedacht. Das dritte Werk wurde von mehreren, zum Teil sehr unterschiedlichen Händen geschrieben. Alle drei sind chronologisch angelegt. Beigebunden sind drei Briefe an den Rektor des Kollegs.",
+    "not_before": "1640",
+    "not_after": null,
+    "# when": "",
+    "date_letter": "",
+    "century": "17. Jhdt."
   },
   "241": {
     "id": 241,

@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cod_11955.xml" xml:base="https://oenb.ac.at" prev="https://oenb.ac.at/cod_11954.xml" next="https://oenb.ac.at/cod_11957.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Wien, Österreichische Nationalbibliothek, Cod. 11955</title>
+                <title type="sub">Jesuiten Littera annuae</title>
+                <respStmt>
+                    <resp>Beschreibung und TEI-encoding</resp>
+                    <persName>
+                        <forename>Ivana</forename>
+                        <surname>Dobcheva</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="restricted">
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">This document is published under the Creative Commons licence Attribution 4.0 International (CC BY 4.0).</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:lang="de" xml:id="cod_11955">
+                    <msIdentifier>
+                        <country>Österreich</country>
+                        <settlement>Wien</settlement>
+                        <repository>Österreichische Nationalbibliothek</repository>
+                        <idno>Cod. 11955</idno>
+                    </msIdentifier>
+                    <head>
+                        <title>Responsa post congregationem procuratorum sive alias diversis temporibus data et omnibus provinciis Societatis Iesu communicata a. 1682-1712. Annexa sunt responsa a. 1579</title>
+                        <date type="letter"> </date>
+                        <note type="catalogue">
+                            <ref target="http://data.onb.ac.at/rec/AC13947545"/>
+                        </note>
+                    </head>
+                    <msContents>                   
+                        <summary>
+                                Die Handschrift war wahrscheinlich als mehrteiliger Band geplant; der erste Teil, für den 176 Seiten vorgesehen waren, wurde nie begonnen. Der zweite Teil (fols. 177r-195r) enthält die Antworten (Responsa) des Generaloberen auf die Fragen (Postulata) der böhmischen Provinz aus den Jahren 1682–1712, gefolgt von einem alphabetisch geordneten Kompendium mit kurzen Antworten und Auszügen aus den Antworten an andere Provinzen. 
+                                
+                            <listPlace>
+                                <head>Erwähnte Orte:</head>
+                                <place>
+                                    <placeName key="#jesuiten_place__94">Brno</placeName>
+                                </place>
+                            </listPlace>                           
+                        </summary> 
+                        <textLang mainLang="lat"/>
+                        
+                       
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="codex">
+                            <supportDesc material="paper">
+                                <support>Papier</support>
+                                <extent>
+                                    <measure type="leavesCount" unit="folio">363 Bl.</measure>
+                                    <dimensions type="leaf_current" unit="mm">
+                                        <height>310</height>
+                                        <width>203</width>
+                                    </dimensions>
+                                </extent>
+                                <foliation>Moderne Foliierung der beschriebenen Blätter: 178–195. Davor sind 176, danach 367 unbeschriebene Blätter.</foliation>
+                                <collation/>
+                            </supportDesc>
+                        </objectDesc>
+                        <bindingDesc>
+                            <binding>
+                                <p>Weißes Leder mit Blindprägung über Holzdeckeln, Brünn, dat. 1596</p>
+                            </binding>
+                        </bindingDesc>
+                        <accMat/>                        
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><p/></body>
+    <back><listPlace><place xml:id="jesuiten_place__94">
+                  <placeName>Brno</placeName>
+                  <location type="coords">
+                     <geo>49.19522 16.60796</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3078610/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q14960</idno>
+               <noteGrp><note target="cod_11955.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11955</note><note target="cod_11957.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11957</note></noteGrp></place>
+               </listPlace></back></text>
+</TEI>
