@@ -10226,6 +10226,10 @@
         "value": "Cod. 12217"
       },
       {
+        "id": 460,
+        "value": "Cod. 12218"
+      },
+      {
         "id": 338,
         "value": "Cod. 12219"
       },
@@ -12302,6 +12306,18 @@
         "value": "Nagyhalmágy"
       }
     ],
+    "msdesc": []
+  },
+  "480": {
+    "id": 480,
+    "order": "471.00000000000000000000",
+    "name": "Kecskemét",
+    "jesuiten_id": "jesuiten_place__480",
+    "geonames": "https://www.geonames.org/3050434/kecskemet.html",
+    "lat": "46.90618",
+    "long": "19.69128",
+    "wikidata": "",
+    "alt_names": [],
     "msdesc": []
   }
 }

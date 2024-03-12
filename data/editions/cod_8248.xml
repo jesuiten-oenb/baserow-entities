@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cod_8248.xml" xml:base="https://oenb.ac.at" prev="https://oenb.ac.at/cod_8096.xml" next="https://oenb.ac.at/cod_8342.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Wien, Österreichische Nationalbibliothek, Cod. 8248</title>
+                <title type="sub">Jesuiten Littera annuae</title>
+                <respStmt>
+                    <resp>Beschreibung und TEI-encoding</resp>
+                    <persName>
+                        <forename>Ivana</forename>
+                        <surname>Dobcheva</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="restricted">
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">This document is published under the Creative Commons licence Attribution 4.0 International (CC BY 4.0).</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:lang="de" xml:id="cod_8248">
+                    <msIdentifier>
+                        <country>Österreich</country>
+                        <settlement>Wien</settlement>
+                        <repository>Österreichische Nationalbibliothek</repository>
+                        <idno>Cod. 8248</idno>
+                    </msIdentifier>
+                    <head>
+                        <title>Historia missionis Nastasoviensis Societatis Iesu ab ipsa loci origine a. 1753 cum documentis</title>
+                        <origDate notBefore="1706-01-01">nach 1706</origDate>
+                        <date type="letter"> </date>
+                        <note type="catalogue">
+                            <ref target="http://data.onb.ac.at/rec/AC13955469"/>
+                        </note>
+                    </head>
+                    <msContents>                   
+                        <summary>
+                                Geschichte der Jesuitenmission in Nastasia 1692-1771. Ab fol. 17r Übergabeprotokolle und andere Dokumente in lateinischer und polnischer Sprache, u. a. Bücherkatalog, Beschreibung der Räumlichkeiten (Supellex Aeconomica: kredens, vestiaria, culina, piwnica, granarium, bibliotheca, templum). 
+                                
+                                <listOrg>
+                                    <head>Erwähnte Körperschaften:</head>
+                                    <org>
+                                        <orgName key="#jesuiten_org__547">Jesuitenmission Nastasiv</orgName>
+                                    </org>
+                                </listOrg>                           
+                        </summary> 
+                        <textLang mainLang="lat"/>
+                        
+                       
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="codex">
+                            <supportDesc material="paper">
+                                <support>Papier</support>
+                                <extent>
+                                    <measure type="leavesCount" unit="folio">38 Bl.</measure>
+                                    <dimensions type="leaf_current" unit="mm">
+                                        <height>325</height>
+                                        <width>197</width>
+                                    </dimensions>
+                                </extent>
+                                <foliation>Moderne Foliierung.</foliation>
+                                <collation/>
+                            </supportDesc>
+                        </objectDesc>
+                        <bindingDesc>
+                            <binding>
+                                <p>Brauner Leder über Pappdeckeln mit Streicheisenlinien.</p>
+                            </binding>
+                        </bindingDesc>
+                        <accMat/>                        
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><p/></body>
+    <back><listOrg><org xml:id="jesuiten_org__547">
+                  <orgName>Jesuitenmission Nastasiv</orgName>
+                  <orgName type="alt">Missio Nastasoviensis</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__443">Nastasiv</placeName>
+                     <geo>49.42401 25.50883</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/700438/</idno></note>
+                  </location>
+                  <note>Nastasoviensis missio 1706-1773 in pago Nastasów cum cura parochiae (1744-1773), pertinebat ad coll. Leopoliense. 
+(Catalogus provinciae Galicianae Societatis Jesu. Ineunte anno 1899, Krakau, S. 46).</note>
+               <noteGrp><note target="cod_12009.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12009</note><note target="cod_8248.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 8248</note></noteGrp></org>
+               </listOrg></back></text>
+</TEI>

@@ -332,6 +332,10 @@
             {
                 "id": 60,
                 "value": "Cod. 12241"
+            },
+            {
+                "id": 459,
+                "value": "Cod. 8047"
             }
         ],
         "alt_name": "Domus Professa Viennensis",
@@ -684,6 +688,10 @@
             {
                 "id": 60,
                 "value": "Cod. 12241"
+            },
+            {
+                "id": 455,
+                "value": "Cod. 7567"
             },
             {
                 "id": 442,
@@ -37926,7 +37934,12 @@
             }
         ],
         "gnd": "",
-        "msdesc": [],
+        "msdesc": [
+            {
+                "id": 457,
+                "value": "Cod. 8248"
+            }
+        ],
         "alt_name": "Missio Nastasoviensis",
         "notes": "Nastasoviensis missio 1706-1773 in pago Nastasów cum cura parochiae (1744-1773), pertinebat ad coll. Leopoliense. \n(Catalogus provinciae Galicianae Societatis Jesu. Ineunte anno 1899, Krakau, S. 46).",
         "persons": []
@@ -41295,6 +41308,43 @@
         "gnd": "",
         "msdesc": [],
         "alt_name": "Missio Bottianiana",
+        "notes": "",
+        "persons": []
+    },
+    "635": {
+        "id": 635,
+        "order": "624.00000000000000000000",
+        "name": "Jesuitenmission Kecskemét",
+        "jesuiten_id": "jesuiten_org__635",
+        "located_in": [
+            {
+                "id": 480,
+                "order": "471.00000000000000000000",
+                "name": "Kecskemét",
+                "jesuiten_id": "jesuiten_place__480",
+                "geonames": "https://www.geonames.org/3050434/kecskemet.html",
+                "lat": "46.90618",
+                "long": "19.69128",
+                "wikidata": "",
+                "alt_names": [],
+                "msdesc": []
+            }
+        ],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Aegopolitana seu kecskemetiensis",
+        "notes": "",
+        "persons": []
+    },
+    "636": {
+        "id": 636,
+        "order": "625.00000000000000000000",
+        "name": "Jesuitenmission Bitehensis",
+        "jesuiten_id": "jesuiten_org__636",
+        "located_in": [],
+        "gnd": "",
+        "msdesc": [],
+        "alt_name": "Missio Bitehensis",
         "notes": "",
         "persons": []
     }

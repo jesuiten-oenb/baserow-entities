@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cod_7640.xml" xml:base="https://oenb.ac.at" prev="https://oenb.ac.at/cod_7615.xml" next="https://oenb.ac.at/cod_7981__asterix.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Wien, Österreichische Nationalbibliothek, Cod. 7640</title>
+                <title type="sub">Jesuiten Littera annuae</title>
+                <respStmt>
+                    <resp>Beschreibung und TEI-encoding</resp>
+                    <persName>
+                        <forename>Ivana</forename>
+                        <surname>Dobcheva</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="restricted">
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">This document is published under the Creative Commons licence Attribution 4.0 International (CC BY 4.0).</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:lang="de" xml:id="cod_7640">
+                    <msIdentifier>
+                        <country>Österreich</country>
+                        <settlement>Wien</settlement>
+                        <repository>Österreichische Nationalbibliothek</repository>
+                        <idno>Cod. 7640</idno>
+                    </msIdentifier>
+                    <head>
+                        <title>Epistolae quinque de auspicanda reformatione religionis in Styria, Carinthia et Carniolia.</title>
+                        <origDate notBefore="1615-01-01">nach 1615</origDate>
+                        <date type="letter"> </date>
+                        <note type="catalogue">
+                            <ref target="http://data.onb.ac.at/rec/AC13953001"/>
+                        </note>
+                    </head>
+                    <msContents>                   
+                        <summary>
+                                Sammelhandschrift mit Abschriften von fünf Briefen über die wünschenswerte Reformation der Religion in Steiermark, Kärnten und Krain. 
+                                
+                        </summary> 
+                        <textLang mainLang="lat"/>
+                        
+                                <msItem n="None">
+                                    <locus from="1r" to="20r">1r-20r</locus>
+                                    <title>De auspicanda reformatione in Styria, Carinthia et Carniol </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="20v" to="90r">20v-90r</locus>
+                                    <title>De peracta reformatione religionis in Styria, Carinthia et Carniola </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="90v" to="101r">90v-101r</locus>
+                                    <title>De prosequenda reformatione religionis in Styria, Carinthia et Carniola </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="101v" to="105r">101v-105r</locus>
+                                    <title>De resecandis haereticorum reliquiis in Styria, Carinthia et Carniola </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="105r" to="106r">105r-106r</locus>
+                                    <title>De fundandis societatis Iesu collegio in Carinthia haeresi infecta </title>
+                                </msItem>
+                          
+                        
+                       
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="codex">
+                            <supportDesc material="paper">
+                                <support>Papier</support>
+                                <extent>
+                                    <measure type="leavesCount" unit="folio">I, 106, I* Bl.</measure>
+                                    <dimensions type="leaf_current" unit="mm">
+                                        <height>330</height>
+                                        <width>220</width>
+                                    </dimensions>
+                                </extent>
+                                <foliation>Zeitgenössische Foliierung: 1–63, moderne Foliierung 64–106.</foliation>
+                                <collation/>
+                            </supportDesc>
+                        </objectDesc>
+                        <bindingDesc>
+                            <binding>
+                                <p>Braunes Marmorpapier über Pappdeckeln, Wien, 19. Jhdt</p>
+                            </binding>
+                        </bindingDesc>
+                        <accMat/>                        
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><p/></body>
+    <back/></text>
+</TEI>
