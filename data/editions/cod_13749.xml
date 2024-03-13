@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cod_13749.xml" xml:base="https://oenb.ac.at" prev="https://oenb.ac.at/cod_13748.xml" next="https://oenb.ac.at/cod_13750.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Wien, Österreichische Nationalbibliothek, Cod. 13749</title>
+                <title type="sub">Jesuiten Littera annuae</title>
+                <respStmt>
+                    <resp>Beschreibung und TEI-encoding</resp>
+                    <persName>
+                        <forename>Ivana</forename>
+                        <surname>Dobcheva</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="restricted">
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">This document is published under the Creative Commons licence Attribution 4.0 International (CC BY 4.0).</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:lang="de" xml:id="cod_13749">
+                    <msIdentifier>
+                        <country>Österreich</country>
+                        <settlement>Wien</settlement>
+                        <repository>Österreichische Nationalbibliothek</repository>
+                        <idno>Cod. 13749</idno>
+                    </msIdentifier>
+                    <head>
+                        <title/>
+                        <date type="letter"> </date>
+                        <note type="catalogue">
+                            <ref target=""/>
+                        </note>
+                    </head>
+                    <msContents>                   
+                        <summary>
+                                 
+                                
+                        </summary> 
+                        <textLang mainLang="lat"/>
+                        
+                       
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="codex">
+                            <supportDesc material="paper">
+                                <support>Papier</support>
+                                <extent>
+                                    <measure type="leavesCount" unit="folio"/>
+                                    <dimensions type="leaf_current" unit="mm">
+                                        <height>None</height>
+                                        <width>None</width>
+                                    </dimensions>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                            </supportDesc>
+                        </objectDesc>
+                        <bindingDesc>
+                            <binding>
+                                <p/>
+                            </binding>
+                        </bindingDesc>
+                        <accMat/>                        
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><p/></body>
+    <back/></text>
+</TEI>
