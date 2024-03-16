@@ -45,6 +45,32 @@
                         </summary> 
                         <textLang mainLang="lat"/>
                         
+                                <msItem n="None">
+                                    <locus from="1r" to="64r">1r-64r</locus>
+                                    <title>Virtus non postulat annos sive Scipio junior Romanorum belli imperator </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="65r" to="103r">65r-103r</locus>
+                                    <title>Nemo malus felix </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="105r" to="149r">105r-149r</locus>
+                                    <title>Fides aulica probata a Constantino Chloro imperatore </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="150r" to="191r">150r-191r</locus>
+                                    <title>Pietas in peregrinos sive Dido Aeneam hospitio recipiens </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="192r" to="222v">192r-222v</locus>
+                                    <title>Eucharistia amoris nexus inter Deum et hominem </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="223r" to="">223r-</locus>
+                                    <title>Virtutis de tempore triumphus </title>
+                                </msItem>
+                          
+                        
                        
                     </msContents>
                     <physDesc>
@@ -52,13 +78,13 @@
                             <supportDesc material="paper">
                                 <support>Papier</support>
                                 <extent>
-                                    <measure type="leavesCount" unit="folio"/>
+                                    <measure type="leavesCount" unit="folio">II, 267, II* Bl.</measure>
                                     <dimensions type="leaf_current" unit="mm">
-                                        <height>None</height>
-                                        <width>None</width>
+                                        <height>300</height>
+                                        <width>200</width>
                                     </dimensions>
                                 </extent>
-                                <foliation/>
+                                <foliation>Moderne Foliierung.</foliation>
                                 <collation/>
                             </supportDesc>
                         </objectDesc>

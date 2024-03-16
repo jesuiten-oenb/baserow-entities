@@ -28,7 +28,7 @@
                         <idno>Cod. 11977</idno>
                     </msIdentifier>
                     <head>
-                        <title>Sammelhandschrift</title>
+                        <title>Sammelhandschrift: acta congregationum provincialium Societatis Iesu</title>
                         <date type="letter"> </date>
                         <note type="catalogue">
                             <ref target="http://data.onb.ac.at/rec/AC13957469"/>
@@ -36,8 +36,14 @@
                     </head>
                     <msContents>                   
                         <summary>
-                                 
+                                Die Handschrift besteht aus mehreren kodikologischen Teilen. Der erste Teil (fols. 1-42) besteht aus zusammengesetzten Auszügen aus den Responsa ad congregationem provincialem verschiedener Ordensprovinzen, der zweite Teil (fols. 43-343) nur aus denen der Provincia Polonia-Minor (chronologisch geordnet). Blattgröße zum Teil sehr unterschiedlich. 
                                 
+                            <listPlace>
+                                <head>Erwähnte Orte:</head>
+                                <place>
+                                    <placeName key="#jesuiten_place__429">Provincia Polonia Minor</placeName>
+                                </place>
+                            </listPlace>                           
                         </summary> 
                         <textLang mainLang="lat"/>
                         
@@ -58,19 +64,19 @@
                             <supportDesc material="paper">
                                 <support>Papier</support>
                                 <extent>
-                                    <measure type="leavesCount" unit="folio"/>
+                                    <measure type="leavesCount" unit="folio">III, 343, III* Bl.</measure>
                                     <dimensions type="leaf_current" unit="mm">
-                                        <height>None</height>
-                                        <width>None</width>
+                                        <height>267</height>
+                                        <width>210</width>
                                     </dimensions>
                                 </extent>
-                                <foliation/>
+                                <foliation>Moderne Foliierung.</foliation>
                                 <collation/>
                             </supportDesc>
                         </objectDesc>
                         <bindingDesc>
                             <binding>
-                                <p/>
+                                <p>Braunes Leder mit Streicheisenlinien über Pappdeckeln; Blinddruck mit Gold und Titelschild auf dem Rücken. Reste vom roten Wachs auf dem Vorderdeckel.</p>
                             </binding>
                         </bindingDesc>
                         <accMat/>                        
@@ -81,5 +87,9 @@
     </teiHeader>
     <text>
         <body><p/></body>
-    <back/></text>
+    <back><listPlace><place xml:id="jesuiten_place__429">
+                  <placeName>Provincia Polonia Minor</placeName>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q11390</idno>
+               <noteGrp><note target="cod_11977.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11977</note><note target="cod_11982.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11982</note><note target="cod_11983.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11983</note><note target="cod_11989.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11989</note><note target="cod_12005.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12005</note><note target="cod_12006.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12006</note><note target="cod_12009.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12009</note><note target="cod_12009__asterix.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12009*</note><note target="cod_12012.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12012</note><note target="cod_12013.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12013</note><note target="cod_12021.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12021</note><note target="cod_12022.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12022</note><note target="cod_12362.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12362</note><note target="cod_12363.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12363</note><note target="cod_12364.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12364</note><note target="cod_12365.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12365</note><note target="cod_13620.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 13620</note></noteGrp></place>
+               </listPlace></back></text>
 </TEI>

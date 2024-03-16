@@ -45,6 +45,32 @@
                         </summary> 
                         <textLang mainLang="lat"/>
                         
+                                <msItem n="None">
+                                    <locus from="1r" to="24v">1r-24v</locus>
+                                    <title>Sponsus animae in Eucharistia repertus </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="26r" to="82v">26r-82v</locus>
+                                    <title>Amor patriae sive Arminius Germaniae defensor </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="86r" to="137v">86r-137v</locus>
+                                    <title>Iudae Machabaei gloriosa in deum fiducia </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="140r" to="188r">140r-188r</locus>
+                                    <title>Coecus in vita sive duorum coecorum dolus punitus </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="191r" to="229r">191r-229r</locus>
+                                    <title>Eucharistia iter ad gloriam </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="232r" to="332r">232r-332r</locus>
+                                    <title>Mens regnum bona possidet </title>
+                                </msItem>
+                          
+                        
                        
                     </msContents>
                     <physDesc>
@@ -52,13 +78,13 @@
                             <supportDesc material="paper">
                                 <support>Papier</support>
                                 <extent>
-                                    <measure type="leavesCount" unit="folio"/>
+                                    <measure type="leavesCount" unit="folio">II, 332, II* Bl.</measure>
                                     <dimensions type="leaf_current" unit="mm">
-                                        <height>None</height>
-                                        <width>None</width>
+                                        <height>300</height>
+                                        <width>200</width>
                                     </dimensions>
                                 </extent>
-                                <foliation/>
+                                <foliation>Moderne Foliierung.</foliation>
                                 <collation/>
                             </supportDesc>
                         </objectDesc>
