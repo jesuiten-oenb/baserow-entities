@@ -252,25 +252,34 @@
     "order": "0.59482758620689657469",
     "signatur": "Cod. 12024",
     "jesuiten_id": "jesuiten_msdesc__475",
-    "mentioned_orgs": [],
+    "mentioned_orgs": [
+      {
+        "id": 2,
+        "value": "Jesuitenkolleg Wien"
+      },
+      {
+        "id": 621,
+        "value": "Kolleg Pazmaneum"
+      }
+    ],
     "note_type_catalogue": "http://data.onb.ac.at/rec/AC13946446",
     "title": "Album omnium theologorum, qui studiis theologicis a. 1714-1743 in collegiis Societatis Iesu operam dederunt, adiectis notis biographicis",
-    "date": "",
+    "date": "ab 1714",
     "persons": [],
     "mentioned_places": [],
     "note_type_facs": "",
     "xml_id": "cod_12024",
-    "extent": "",
-    "height": null,
-    "width": null,
-    "foliation": "",
+    "extent": "352 Bl.",
+    "height": "308",
+    "width": "200",
+    "foliation": "Moderne Foliierung",
     "acc_mat": "",
-    "binding": "",
-    "summary": "",
+    "binding": "Brauner Leder über Pappe mit Streicheisenlinien, 18. Jhdt.",
+    "summary": "Liste aller Theologieprofessoren und Studenten, die in der Zeit von 1714 bis 1743 am Wiener Kolleg tätig waren (teilweise mit zusätzlichen biographischen Notizen). Das Buch wurde laufend ergänzt und ist daher chronologisch aufgebaut.",
     "not_before": null,
     "not_after": null,
     "# when": "",
-    "date_letter": "",
+    "date_letter": "1714-1743",
     "century": "18. Jhdt."
   },
   "417": {
@@ -368,26 +377,31 @@
     "order": "0.59574468085106380144",
     "signatur": "Cod. 12027",
     "jesuiten_id": "jesuiten_msdesc__476",
-    "mentioned_orgs": [],
+    "mentioned_orgs": [
+      {
+        "id": 166,
+        "value": "Jesuitenkolleg Lviv"
+      }
+    ],
     "note_type_catalogue": "http://data.onb.ac.at/rec/AC13946449",
     "title": "Liber ordinationum collegii Leopoliensis Societatis Iesu a. 1592-1691",
-    "date": "",
+    "date": "nach 1614",
     "persons": [],
     "mentioned_places": [],
     "note_type_facs": "",
     "xml_id": "cod_12027",
-    "extent": "",
-    "height": null,
-    "width": null,
-    "foliation": "",
+    "extent": "I, 256, I* Bl.",
+    "height": "305",
+    "width": "200",
+    "foliation": "Moderne Foliierung. Zeitgenössische Paginierung 1-209.",
     "acc_mat": "",
     "binding": "",
-    "summary": "",
+    "summary": "Der Liber ordinationum ist in drei Hauptteile mit Kapiteln und Abschnitten gegliedert (vgl. das Inhaltsverzeichnis auf fol. 2r \nIndex capitum'). Innerhalb der Abschnitte ist der Inhalt chronologisch geordnet. Das Buch wurde im Laufe der Jahre durch weitere Auszüge aus Instruktionsbriefen ergänzt. Leere Blätter (für spätere Eintragungen) zwischen den Teilen: fols. 182r-107v, 119v-208v, 245r-256v.",
     "not_before": null,
     "not_after": null,
     "# when": "",
-    "date_letter": "",
-    "century": "18. Jhdt."
+    "date_letter": "1592-1691",
+    "century": "17. Jhdt."
   },
   "477": {
     "id": 477,
@@ -25906,7 +25920,16 @@
     "order": "32.39999999999999857891",
     "signatur": "Cod. 10074",
     "jesuiten_id": "jesuiten_msdesc__464",
-    "mentioned_orgs": [],
+    "mentioned_orgs": [
+      {
+        "id": 2,
+        "value": "Jesuitenkolleg Wien"
+      },
+      {
+        "id": 5,
+        "value": "Jesuitenkolleg Graz"
+      }
+    ],
     "note_type_catalogue": "http://data.onb.ac.at/rec/AC13956462",
     "title": "Sammelhandschrift",
     "date": "",
@@ -25914,13 +25937,13 @@
     "mentioned_places": [],
     "note_type_facs": "",
     "xml_id": "cod_10074",
-    "extent": "",
-    "height": null,
-    "width": null,
-    "foliation": "",
+    "extent": "II, 208, II* Bl.",
+    "height": "350",
+    "width": "230",
+    "foliation": "Moderne Foliierung.",
     "acc_mat": "",
-    "binding": "",
-    "summary": "",
+    "binding": "Pappeinband Wien, 19 Jhdt.",
+    "summary": "Zusammengesetzte Handschriften mit verschiedenen Dokumente und Werken betreffend die Gesellschaft Jesu in Österreich. Zum Teil stark variierende Blattgröße.",
     "not_before": null,
     "not_after": null,
     "# when": "",
@@ -26152,13 +26175,13 @@
     ],
     "note_type_facs": "",
     "xml_id": "cod_11951",
-    "extent": "",
-    "height": null,
-    "width": null,
-    "foliation": "",
+    "extent": "II, 234 Bl.",
+    "height": "340",
+    "width": "220",
+    "foliation": "Moderne Foliierung: 1-75, 75*, 76-234. Zeitgenössische Paginierung 1-156.",
     "acc_mat": "",
-    "binding": "",
-    "summary": "",
+    "binding": "Pergamenteinband überholzdeckeln, 18. Jhdt.",
+    "summary": "Die Handschrift besteht aus einer kodikologischen Einheit und ist laut Titel der zweite Band einer Sammlung von Briefen, die zwischen 1755 und dem 9. September 1773 an die Gesellschaft im Allgemeinen oder an das bestimmte Kollegium gerichtet wurden. Unter anderem Briefe der Provinziale Balthasar Lindner (GND 131562487), Carolus Rentsch, Godefridus Provin, der Generaloberen Alessandro Luigi Centurione (GND 1165582929), Lorenzo Ricci (GND 131850334).\nFols. 109v-234v leer.",
     "not_before": "1755",
     "not_after": null,
     "# when": "",
@@ -33231,25 +33254,43 @@
     "order": "39.94444444444444286546",
     "signatur": "Cod. 13906*",
     "jesuiten_id": "jesuiten_msdesc__485",
-    "mentioned_orgs": [],
+    "mentioned_orgs": [
+      {
+        "id": 2,
+        "value": "Jesuitenkolleg Wien"
+      }
+    ],
     "note_type_catalogue": "http://data.onb.ac.at/rec/AC13950041",
     "title": "Collectio programmatum 22 comoediarum, quae a. 1700-1709 in collegiis PP. Piarum scholarum, Societatis Iesu etc. Nicolsburgi, Cremsierii, Lipnicii, Litomisii, Hornae et Vindobonae actae fuerunt",
-    "date": "",
+    "date": "ab 1700",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 11,
+        "value": "Krems"
+      },
+      {
+        "id": 195,
+        "value": "Litomyšl"
+      },
+      {
+        "id": 214,
+        "value": "Mikulov"
+      }
+    ],
     "note_type_facs": "http://data.onb.ac.at/dtl/4388406",
     "xml_id": "cod_13906__asterix",
-    "extent": "",
-    "height": null,
-    "width": null,
-    "foliation": "",
+    "extent": "I, 83, I* Bl.",
+    "height": "193",
+    "width": "150",
+    "foliation": "Moderne Foliierung.",
     "acc_mat": "",
-    "binding": "Halbpergamentband, Wien, 19. Jhdt.",
-    "summary": "",
+    "binding": "Pappeinband, Wien, 19. Jhdt.",
+    "summary": "Zusammengesetzte Handschrift mit 22 Programmkomödien, die u.a. zwischen 1700 und 1709 in verschiedenen Jesuitenkollegien aufgeführt wurden.",
     "not_before": null,
     "not_after": null,
     "# when": "",
-    "date_letter": "",
+    "date_letter": "1700-1709",
     "century": "18. Jhdt."
   },
   "241": {
