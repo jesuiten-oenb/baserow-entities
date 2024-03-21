@@ -45,6 +45,36 @@
                         </summary> 
                         <textLang mainLang="lat"/>
                         
+                                <msItem n="None">
+                                    <locus from="1r" to="35r">1r-35r</locus>
+                                    <title>Tyrannis humiliata sive Sisara in manu mulieris </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="36r" to="103r">36r-103r</locus>
+                                    <title>Generosi nominis haeres sive Hannibal puer novennis bellum jurans adversus Latino </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="104r" to="115r">104r-115r</locus>
+                                    <title>Regale numisma sive Eucharistia drachma nostrae redemptionis </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="116r" to="169r">116r-169r</locus>
+                                    <title>Hercules successor Atlantis </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="171r" to="222r">171r-222r</locus>
+                                    <title>S. Coecilia conjunx-virgo </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="223r" to="271r">223r-271r</locus>
+                                    <title>Parturiunt montes sive Iactantia Thrasonica Pralhansen in dramate saturnalitio </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="272r" to="312v">272r-312v</locus>
+                                    <title>Philemon et Apollonius martyre </title>
+                                </msItem>
+                          
+                        
                        
                     </msContents>
                     <physDesc>
@@ -52,13 +82,13 @@
                             <supportDesc material="paper">
                                 <support>Papier</support>
                                 <extent>
-                                    <measure type="leavesCount" unit="folio"/>
+                                    <measure type="leavesCount" unit="folio">II, 314 Bl.</measure>
                                     <dimensions type="leaf_current" unit="mm">
-                                        <height>None</height>
-                                        <width>None</width>
+                                        <height>315</height>
+                                        <width>210</width>
                                     </dimensions>
                                 </extent>
-                                <foliation/>
+                                <foliation>Moderne Foliierung.</foliation>
                                 <collation/>
                             </supportDesc>
                         </objectDesc>

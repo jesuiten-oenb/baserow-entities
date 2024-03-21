@@ -45,6 +45,32 @@
                         </summary> 
                         <textLang mainLang="lat"/>
                         
+                                <msItem n="None">
+                                    <locus from="1r" to="89v">1r-89v</locus>
+                                    <title>Themistocles Atheniensidm dux Admete Molossorum regi mediante regio filiolo reconciliatus </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="92r" to="135v">92r-135v</locus>
+                                    <title>Carnevale seu Voluntas de carne triumphans </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="140r" to="172v">140r-172v</locus>
+                                    <title>Alvilda in hoste sponsum agnoscens </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="175r" to="201r">175r-201r</locus>
+                                    <title>Eucharistia dissidentium conciliatrix in seditiosa Manriquiana legione comparens </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="204r" to="267r">204r-267r</locus>
+                                    <title>Guarinus poenitens, Richildis rediviva .. Eucharistia thema laudis specialis </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="270r" to="325v">270r-325v</locus>
+                                    <title>Mulier fortis sive Gratia regni Tango regina exantlatis pro Christo aerumnis clara </title>
+                                </msItem>
+                          
+                        
                        
                     </msContents>
                     <physDesc>
@@ -52,13 +78,13 @@
                             <supportDesc material="paper">
                                 <support>Papier</support>
                                 <extent>
-                                    <measure type="leavesCount" unit="folio"/>
+                                    <measure type="leavesCount" unit="folio">II, 325, I* Bl.</measure>
                                     <dimensions type="leaf_current" unit="mm">
-                                        <height>None</height>
-                                        <width>None</width>
+                                        <height>305</height>
+                                        <width>203</width>
                                     </dimensions>
                                 </extent>
-                                <foliation/>
+                                <foliation>Moderne Foliierung.</foliation>
                                 <collation/>
                             </supportDesc>
                         </objectDesc>

@@ -40,7 +40,7 @@
                     </head>
                     <msContents>                   
                         <summary>
-                                 
+                                Die zusammengesetzte Handschrift enthält die Berichte der Provincia Austria für die Jahre 1690 bis 1695. Die Berichte sind thematisch in Kapiteln gegliedert. 
                                 
                             <listPlace>
                                 <head>Erwähnte Orte:</head>
@@ -51,6 +51,38 @@
                         </summary> 
                         <textLang mainLang="lat"/>
                         
+                                <msItem n="None">
+                                    <locus from="1r" to="108v">1r-108v</locus>
+                                    <title>Litterae annuae provinciae Austriae Societatis Iesu </title>
+                                    <note> (a.<date>1690</date>)</note>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="109r" to="136r">109r-136r</locus>
+                                    <title>Litterae annuae provinciae Austriae Societatis Iesu </title>
+                                    <note> (a.<date>1691</date>)</note>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="137r" to="198v">137r-198v</locus>
+                                    <title>Litterae annuae provinciae Austriae Societatis Iesu </title>
+                                    <note> (a.<date>1692</date>)</note>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="201r" to="268r">201r-268r</locus>
+                                    <title>Litterae annuae provinciae Austriae Societatis Iesu </title>
+                                    <note> (a.<date>1693</date>)</note>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="270r" to="313v">270r-313v</locus>
+                                    <title>Litterae annuae provinciae Austriae Societatis Iesu </title>
+                                    <note> (a.<date>1694</date>)</note>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="314r" to="371r">314r-371r</locus>
+                                    <title>Litterae annuae provinciae Austriae Societatis Iesu </title>
+                                    <note> (a.<date>1695</date>)</note>
+                                </msItem>
+                          
+                        
                        
                     </msContents>
                     <physDesc>
@@ -58,13 +90,13 @@
                             <supportDesc material="paper">
                                 <support>Papier</support>
                                 <extent>
-                                    <measure type="leavesCount" unit="folio"/>
+                                    <measure type="leavesCount" unit="folio">II, 372 Bl.</measure>
                                     <dimensions type="leaf_current" unit="mm">
-                                        <height>None</height>
-                                        <width>None</width>
+                                        <height>304</height>
+                                        <width>195</width>
                                     </dimensions>
                                 </extent>
-                                <foliation/>
+                                <foliation>Moderne Foliierung. Zeitgenössische Paginierung bzw. Foliierung in der einzelnen kodikologischen Teile.</foliation>
                                 <collation/>
                             </supportDesc>
                         </objectDesc>

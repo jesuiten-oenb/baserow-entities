@@ -29,19 +29,22 @@
                     </msIdentifier>
                     <head>
                         <title>Historia collegii Olomucensis Societatis Iesu: Pars posterior a. 1728-1766</title>
-                        <date type="letter"> </date>
+                        <date type="letter">1728-1766 </date>
                         <note type="catalogue">
                             <ref target="http://data.onb.ac.at/rec/AC13946525"/>
                         </note>
                     </head>
                     <msContents>                   
                         <summary>
-                                 
+                                Die Handschrift besteht aus einer kodikologischen Einheit. Sie enthält die Litterae annuae des Olmützer Jesuitenkollegs, die fortlaufend abgeschrieben wurden. Die Handschrift ist daher chronologisch geordnet. Die einzelnen Berichte sind nach den üblichen Abschnitten (Numerus personarum, Administratio sacramentorum usw.) gegliedert, wobei die Kapitelüberschriften am Rand vermerkt sind. 
                                 
                                 <listOrg>
                                     <head>Erwähnte Körperschaften:</head>
                                     <org>
                                         <orgName key="#jesuiten_org__112">Jesuitenkolleg Olomouc</orgName>
+                                    </org>
+                                    <org>
+                                        <orgName key="#jesuiten_org__467">Jesuitenmission Nový Jičín</orgName>
                                     </org>
                                 </listOrg>                           
                         </summary> 
@@ -54,19 +57,19 @@
                             <supportDesc material="paper">
                                 <support>Papier</support>
                                 <extent>
-                                    <measure type="leavesCount" unit="folio"/>
+                                    <measure type="leavesCount" unit="folio">I, 280 Bl.</measure>
                                     <dimensions type="leaf_current" unit="mm">
-                                        <height>None</height>
-                                        <width>None</width>
+                                        <height>307</height>
+                                        <width>194</width>
                                     </dimensions>
                                 </extent>
-                                <foliation/>
+                                <foliation>Moderne Foliierung.</foliation>
                                 <collation/>
                             </supportDesc>
                         </objectDesc>
                         <bindingDesc>
                             <binding>
-                                <p/>
+                                <p>Brauner Leder über Pappe; Blinddruck und Gold und Titelschild auf dem Rücken, 18. Jhdt.</p>
                             </binding>
                         </bindingDesc>
                         <accMat/>                        
@@ -77,7 +80,16 @@
     </teiHeader>
     <text>
         <body><p/></body>
-    <back><listOrg><org xml:id="jesuiten_org__112">
+    <back><listOrg><org xml:id="jesuiten_org__467">
+                  <orgName>Jesuitenmission Nový Jičín</orgName>
+                  <orgName type="alt">Missio neo-titschinensis</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__391">Nový Jičín</placeName>
+                     <geo>49.59438 18.01028</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/3069305/</idno></note>
+                  </location>
+               <noteGrp><note target="cod_11974.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11974</note><note target="cod_11975.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11975</note><note target="cod_11976.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11976</note><note target="cod_12028.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12028</note><note target="cod_12312.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12312</note><note target="cod_12313.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12313</note><note target="cod_12314.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12314</note><note target="cod_12315.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12315</note><note target="cod_12316.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12316</note><note target="cod_12317.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12317</note><note target="cod_12318.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12318</note><note target="cod_12319.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12319</note><note target="cod_12320.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12320</note><note target="cod_12322.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12322</note><note target="cod_12324.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12324</note><note target="cod_12337.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12337</note><note target="cod_12338.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12338</note><note target="cod_12339.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12339</note><note target="cod_12340.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12340</note><note target="cod_12341.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12341</note><note target="cod_12342.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12342</note><note target="cod_12343.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12343</note><note target="cod_12344.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12344</note><note target="cod_12345.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12345</note><note target="cod_12346.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12346</note><note target="cod_12347.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12347</note><note target="cod_12357.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12357</note><note target="cod_12358.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12358</note><note target="cod_12359.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12359</note></noteGrp></org>
+               <org xml:id="jesuiten_org__112">
                   <orgName>Jesuitenkolleg Olomouc</orgName>
                   <orgName type="alt">Collegium Olomucense</orgName>
                   <location type="located_in_place">

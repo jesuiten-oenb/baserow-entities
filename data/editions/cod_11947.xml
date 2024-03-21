@@ -29,14 +29,15 @@
                     </msIdentifier>
                     <head>
                         <title>Liber expositi collegii Societatis Iesu Hradistii a. 1750-1773</title>
-                        <date type="letter"> </date>
+                        <origDate notBefore="1750-01-01">ab 1750</origDate>
+                        <date type="letter">1750-1773 </date>
                         <note type="catalogue">
                             <ref target="http://data.onb.ac.at/rec/AC13946486"/>
                         </note>
                     </head>
                     <msContents>                   
                         <summary>
-                                 
+                                Die Handschrift besteht aus einer kodikologischen Einheit. Es handelt sich um das Rechnungsbuch (Liste aller Ausgaben) des Jesuitenkollegs in Uherské Hradiště. Das Buch ist in Abschnitte gegliedert, die mit Lesezeichen am Seitenrand gekennzeichnet sind. Die Abschnitte sind chronologisch nach Jahren und Monaten geordnet. 
                                 
                                 <listOrg>
                                     <head>Erwähnte Körperschaften:</head>
@@ -47,6 +48,148 @@
                         </summary> 
                         <textLang mainLang="lat"/>
                         
+                                <msItem n="None">
+                                    <locus from="1r" to="6v">1r-6v</locus>
+                                    <title>In bibliothecam </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="8r" to="8v">8r-8v</locus>
+                                    <title>In bibliothecam cancellariam </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="9r" to="12r">9r-12r</locus>
+                                    <title>In braxatorium </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="26r" to="32r">26r-32r</locus>
+                                    <title>In candelas </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="36r" to="51v">36r-51v</locus>
+                                    <title>In carnes </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="64r" to="67r">64r-67r</locus>
+                                    <title>In census </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="74r" to="85r">74r-85r</locus>
+                                    <title>In condimenta </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="88r" to="114v">88r-114v</locus>
+                                    <title>In contributionem, gabellas, varia onera </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="116r" to="119r">116r-119r</locus>
+                                    <title>In credita </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="123r" to="124r">123r-124r</locus>
+                                    <title>In debita soluta </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="133r" to="153v">133r-153v</locus>
+                                    <title>In eleemosynam </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="161r" to="183v">161r-183v</locus>
+                                    <title>In fabricam </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="187r" to="202v">187r-202v</locus>
+                                    <title>In familiam servientes </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="207r" to="215r">207r-215r</locus>
+                                    <title>In frumentum, panem </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="236r" to="255r">236r-255r</locus>
+                                    <title>In honoraria </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="264r" to="272r">264r-272r</locus>
+                                    <title>In hortensia, legumina </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="279r" to="280v">279r-280v</locus>
+                                    <title>In ligna, sylvas </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="291r" to="302r">291r-302r</locus>
+                                    <title>In linea </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="313r" to="315v">313r-315v</locus>
+                                    <title>In molas </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="332r" to="344v">332r-344v</locus>
+                                    <title>In opifices </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="361r" to="366v">361r-366v</locus>
+                                    <title>In ova et lacticinia </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="371r" to="380v">371r-380v</locus>
+                                    <title>In pecora, praedialia </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="381r" to="392v">381r-392v</locus>
+                                    <title>In pisces et piscinas </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="399r" to="402v">399r-402v</locus>
+                                    <title>In potum </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="440r" to="444v">440r-444v</locus>
+                                    <title>In scholas et praemia </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="446r" to="448v">446r-448v</locus>
+                                    <title>In seminarium </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="451r" to="463v">451r-463v</locus>
+                                    <title>In supellectilem </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="467r" to="468r">467r-468r</locus>
+                                    <title>In subsidium provinciae </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="473r" to="488v">473r-488v</locus>
+                                    <title>In templum </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="489r" to="498v">489r-498v</locus>
+                                    <title>In vestiarium </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="509r" to="524r">509r-524r</locus>
+                                    <title>In viatica </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="529r" to="546r">529r-546r</locus>
+                                    <title>In vineas </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="556r" to="565v">556r-565v</locus>
+                                    <title>In varia </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="566r" to="567v">566r-567v</locus>
+                                    <title>In pecora, praedialia </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="571r" to="575v">571r-575v</locus>
+                                    <title>In templum </title>
+                                </msItem>
+                          
+                        
                        
                     </msContents>
                     <physDesc>
@@ -54,19 +197,19 @@
                             <supportDesc material="paper">
                                 <support>Papier</support>
                                 <extent>
-                                    <measure type="leavesCount" unit="folio"/>
+                                    <measure type="leavesCount" unit="folio">I, 581 Bl.</measure>
                                     <dimensions type="leaf_current" unit="mm">
-                                        <height>None</height>
-                                        <width>None</width>
+                                        <height>355</height>
+                                        <width>230</width>
                                     </dimensions>
                                 </extent>
-                                <foliation/>
+                                <foliation>Moderne Foliierung.</foliation>
                                 <collation/>
                             </supportDesc>
                         </objectDesc>
                         <bindingDesc>
                             <binding>
-                                <p/>
+                                <p>Ledereinband mit Blindprägung, TItelschild auf dem Vorderdeckel, 18. Jhdt.</p>
                             </binding>
                         </bindingDesc>
                         <accMat/>                        

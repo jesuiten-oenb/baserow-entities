@@ -45,6 +45,40 @@
                         </summary> 
                         <textLang mainLang="lat"/>
                         
+                                <msItem n="None">
+                                    <locus from="2r" to="50v">2r-50v</locus>
+                                    <title>Osculum justitiae et pacis </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="52r" to="96r">52r-96r</locus>
+                                    <title>Occupationes honoris et virtutis in hymenaeo majestatis et amoris </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="98r" to="101v">98r-101v</locus>
+                                    <title>Catholicum Christianorum dogma de eucharistia Aloysio Gonzagae propositum </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="103r" to="149r">103r-149r</locus>
+                                    <title>Metamorphosis vinculorum captivitatis in vincula amoris </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="150r" to="187v">150r-187v</locus>
+                                    <title>Animi humani cura medica </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="188r" to="248r">188r-248r</locus>
+                                    <title>Carnis privium proscriptum </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="249r" to="283v">249r-283v</locus>
+                                    <title>Hospitalitas divinae sapientiae in mensa eucharistica </title>
+                                </msItem>
+                                <msItem n="None">
+                                    <locus from="285r" to="339r">285r-339r</locus>
+                                    <title>Fatum inevitabile </title>
+                                </msItem>
+                          
+                        
                        
                     </msContents>
                     <physDesc>
@@ -52,13 +86,13 @@
                             <supportDesc material="paper">
                                 <support>Papier</support>
                                 <extent>
-                                    <measure type="leavesCount" unit="folio"/>
+                                    <measure type="leavesCount" unit="folio">II, 339, II* Bl.</measure>
                                     <dimensions type="leaf_current" unit="mm">
-                                        <height>None</height>
-                                        <width>None</width>
+                                        <height>292</height>
+                                        <width>200</width>
                                     </dimensions>
                                 </extent>
-                                <foliation/>
+                                <foliation>Moderne Foliierung.</foliation>
                                 <collation/>
                             </supportDesc>
                         </objectDesc>
