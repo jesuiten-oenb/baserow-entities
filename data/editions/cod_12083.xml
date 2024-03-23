@@ -29,6 +29,7 @@
                     </msIdentifier>
                     <head>
                         <title>Litterae annuae provinciae Austriae Societatis Iesu a. 1686</title>
+                        <origDate notBefore="1687-01-01">ab 1687</origDate>
                         <date type="letter">1686 </date>
                         <note type="catalogue">
                             <ref target="http://data.onb.ac.at/rec/AC13947444"/>
@@ -36,7 +37,7 @@
                     </head>
                     <msContents>                   
                         <summary>
-                                 
+                                Die Handschrift besteht aus einer kodikologischen Einheit. Der Bericht ist thematisch in 18 Kapitel gegliedert. 
                                 
                             <listPlace>
                                 <head>Erwähnte Orte:</head>
@@ -54,19 +55,19 @@
                             <supportDesc material="paper">
                                 <support>Papier</support>
                                 <extent>
-                                    <measure type="leavesCount" unit="folio"/>
+                                    <measure type="leavesCount" unit="folio">II, 89, III* Bl.</measure>
                                     <dimensions type="leaf_current" unit="mm">
-                                        <height>None</height>
-                                        <width>None</width>
+                                        <height>310</height>
+                                        <width>200</width>
                                     </dimensions>
                                 </extent>
-                                <foliation/>
+                                <foliation>Zeitgenössische Paginierung 1–22 fortgesetzt.</foliation>
                                 <collation/>
                             </supportDesc>
                         </objectDesc>
                         <bindingDesc>
                             <binding>
-                                <p/>
+                                <p>Kartoneinband. Deckel mit Einbandgewebe bedeckt.</p>
                             </binding>
                         </bindingDesc>
                         <accMat/>                        
