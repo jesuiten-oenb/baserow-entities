@@ -11,8 +11,8 @@
     "persons": [],
     "mentioned_places": [
       {
-        "id": 429,
-        "value": "Provincia Polonia Minor"
+        "id": 484,
+        "value": "Provincia Polona"
       }
     ],
     "note_type_facs": "",
@@ -28,7 +28,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1609–1613",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "409": {
     "id": 409,
@@ -45,7 +51,12 @@
     "title": "Domus professae Societatis Iesu Pragensis instrumenta a. 1628-1654 collecta a. 1676",
     "date": "1628-1773",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Provincia Bohemia"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_12015",
     "extent": "431 Bl.",
@@ -59,7 +70,13 @@
     "not_after": "1773",
     "# when": "",
     "date_letter": "",
-    "century": "17.-18. Jhdt."
+    "century": "17.-18. Jhdt.",
+    "Genre": [
+      {
+        "id": 12,
+        "value": "Other"
+      }
+    ]
   },
   "410": {
     "id": 410,
@@ -90,7 +107,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 14,
+        "value": "Financial reports"
+      }
+    ]
   },
   "411": {
     "id": 411,
@@ -107,7 +130,12 @@
     "title": "Rationes musicorum a. 1702-1727 in collegio Zatecensi Societatis Iesu",
     "date": "1702-1728",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Provincia Bohemia"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_12017",
     "extent": "II, 34, I* Bl.",
@@ -121,7 +149,13 @@
     "not_after": "1728",
     "# when": "",
     "date_letter": "1702-1727",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 14,
+        "value": "Financial reports"
+      }
+    ]
   },
   "412": {
     "id": 412,
@@ -138,7 +172,12 @@
     "title": "Diarium residententiae Societatis Iesu Wartenbergensis a. 1698-1721",
     "date": "",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Provincia Bohemia"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_12019",
     "extent": "II, 377, II* Bl.",
@@ -152,7 +191,13 @@
     "not_after": "1721",
     "# when": "",
     "date_letter": "1698-1721",
-    "century": "17.-18. Jhdt."
+    "century": "17.-18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "413": {
     "id": 413,
@@ -183,7 +228,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1759-1764",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 12,
+        "value": "Other"
+      }
+    ]
   },
   "414": {
     "id": 414,
@@ -214,7 +265,13 @@
     "not_after": null,
     "# when": "1764",
     "date_letter": "1753-1764",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 14,
+        "value": "Financial reports"
+      }
+    ]
   },
   "415": {
     "id": 415,
@@ -231,7 +288,12 @@
     "title": "Catalogus librorum in bibliotheca collegii Premysliensis Societatis Iesu contentorum a. 1742",
     "date": "1742",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 429,
+        "value": "Provincia Polonia Minor"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_12023",
     "extent": "I, 90 Bl.",
@@ -245,7 +307,13 @@
     "not_after": null,
     "# when": "1742",
     "date_letter": "",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 12,
+        "value": "Other"
+      }
+    ]
   },
   "475": {
     "id": 475,
@@ -266,7 +334,12 @@
     "title": "Album omnium theologorum, qui studiis theologicis a. 1714-1743 in collegiis Societatis Iesu operam dederunt, adiectis notis biographicis",
     "date": "ab 1714",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_12024",
     "extent": "352 Bl.",
@@ -280,7 +353,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1714-1743",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 2,
+        "value": "Catalogues, Informationes"
+      }
+    ]
   },
   "417": {
     "id": 417,
@@ -297,7 +376,12 @@
     "title": "Liber epistolarum Societatis Iesu et scholas eiusdem Societatis Iesu concernentium a generalibus et provincialibus transmissarum rectoribus collegii Leopoliensis in provincia Poloniae",
     "date": "",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 429,
+        "value": "Provincia Polonia Minor"
+      }
+    ],
     "note_type_facs": "http://data.onb.ac.at/dtl/8991282",
     "xml_id": "cod_12025",
     "extent": "I, 246 Bl.",
@@ -311,7 +395,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 3,
+        "value": "Letters"
+      }
+    ]
   },
   "416": {
     "id": 416,
@@ -356,7 +446,12 @@
     "title": "Historia collegii Olomucensis Societatis Iesu: Pars prior a. 1566-1727",
     "date": "",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Provincia Bohemia"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_12026",
     "extent": "I, 322, II* Bl.",
@@ -370,7 +465,13 @@
     "not_after": "1728",
     "# when": "",
     "date_letter": "1566-1727",
-    "century": "16.-18. Jhdt."
+    "century": "16.-18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "476": {
     "id": 476,
@@ -387,7 +488,12 @@
     "title": "Liber ordinationum collegii Leopoliensis Societatis Iesu a. 1592-1691",
     "date": "nach 1614",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 429,
+        "value": "Provincia Polonia Minor"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_12027",
     "extent": "I, 256, I* Bl.",
@@ -401,7 +507,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1592-1691",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 13,
+        "value": "Normative texts"
+      }
+    ]
   },
   "477": {
     "id": 477,
@@ -422,7 +534,12 @@
     "title": "Historia collegii Olomucensis Societatis Iesu: Pars posterior a. 1728-1766",
     "date": "ab 1729",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Provincia Bohemia"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_12028",
     "extent": "I, 280 Bl.",
@@ -436,7 +553,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1728-1766",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "230": {
     "id": 230,
@@ -472,7 +595,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1646-1754",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 3,
+        "value": "Letters"
+      }
+    ]
   },
   "228": {
     "id": 228,
@@ -503,7 +632,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 13,
+        "value": "Normative texts"
+      }
+    ]
   },
   "1": {
     "id": 1,
@@ -699,7 +834,13 @@
     "not_after": null,
     "# when": null,
     "date_letter": "1633",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "2": {
     "id": 2,
@@ -823,7 +964,13 @@
     "not_after": null,
     "# when": null,
     "date_letter": "1635",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "3": {
     "id": 3,
@@ -916,7 +1063,13 @@
     "not_after": "1638",
     "# when": null,
     "date_letter": "1636",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "66": {
     "id": 66,
@@ -1032,6 +1185,10 @@
       {
         "id": 77,
         "value": "Rožňava"
+      },
+      {
+        "id": 342,
+        "value": "Provincia Austria"
       }
     ],
     "note_type_facs": "http://data.onb.ac.at/dtl/9206230",
@@ -1047,7 +1204,13 @@
     "not_after": "1664",
     "# when": "",
     "date_letter": "1661",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "67": {
     "id": 67,
@@ -1179,6 +1342,10 @@
       {
         "id": 76,
         "value": "Sárospatak"
+      },
+      {
+        "id": 342,
+        "value": "Provincia Austria"
       }
     ],
     "note_type_facs": "http://data.onb.ac.at/dtl/9203815",
@@ -1194,7 +1361,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1662",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "68": {
     "id": 68,
@@ -1342,6 +1515,10 @@
       {
         "id": 172,
         "value": "Transylvania"
+      },
+      {
+        "id": 342,
+        "value": "Provincia Austria"
       }
     ],
     "note_type_facs": "http://data.onb.ac.at/dtl/9202968",
@@ -1357,7 +1534,13 @@
     "not_after": "1666",
     "# when": "",
     "date_letter": "1663",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "93": {
     "id": 93,
@@ -1486,6 +1669,10 @@
       {
         "id": 78,
         "value": "Spišska Kapitula"
+      },
+      {
+        "id": 342,
+        "value": "Provincia Austria"
       }
     ],
     "note_type_facs": "http://data.onb.ac.at/dtl/9190137",
@@ -1501,7 +1688,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1664",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "97": {
     "id": 97,
@@ -1650,6 +1843,10 @@
       {
         "id": 247,
         "value": "Uzhhorod"
+      },
+      {
+        "id": 342,
+        "value": "Provincia Austria"
       }
     ],
     "note_type_facs": "http://data.onb.ac.at/dtl/9186322",
@@ -1665,7 +1862,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1665",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "98": {
     "id": 98,
@@ -1822,6 +2025,10 @@
       {
         "id": 247,
         "value": "Uzhhorod"
+      },
+      {
+        "id": 342,
+        "value": "Provincia Austria"
       }
     ],
     "note_type_facs": "https://digital.onb.ac.at/rep/access/open/131ABE3E",
@@ -1837,7 +2044,13 @@
     "not_after": "1669",
     "# when": "",
     "date_letter": "1666",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "99": {
     "id": 99,
@@ -1977,6 +2190,10 @@
       {
         "id": 316,
         "value": "Andocs"
+      },
+      {
+        "id": 342,
+        "value": "Provincia Austria"
       }
     ],
     "note_type_facs": "https://digital.onb.ac.at/rep/access/open/131ABE3F",
@@ -1992,7 +2209,13 @@
     "not_after": "1670",
     "# when": "",
     "date_letter": "1667",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "100": {
     "id": 100,
@@ -2145,6 +2368,10 @@
       {
         "id": 316,
         "value": "Andocs"
+      },
+      {
+        "id": 342,
+        "value": "Provincia Austria"
       }
     ],
     "note_type_facs": "https://digital.onb.ac.at/rep/access/open/131ABE1B",
@@ -2160,7 +2387,13 @@
     "not_after": "1671",
     "# when": "",
     "date_letter": "1668",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "4": {
     "id": 4,
@@ -2345,6 +2578,10 @@
       {
         "id": 88,
         "value": "Munkazinum"
+      },
+      {
+        "id": 342,
+        "value": "Provincia Austria"
       }
     ],
     "note_type_facs": "https://data.onb.ac.at/rep/131ABEA7",
@@ -2360,7 +2597,13 @@
     "not_after": null,
     "# when": null,
     "date_letter": "1669",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "101": {
     "id": 101,
@@ -2484,6 +2727,10 @@
       {
         "id": 316,
         "value": "Andocs"
+      },
+      {
+        "id": 342,
+        "value": "Provincia Austria"
       }
     ],
     "note_type_facs": "https://digital.onb.ac.at/rep/access/open/131ABE21",
@@ -2499,7 +2746,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1670",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "102": {
     "id": 102,
@@ -2591,6 +2844,10 @@
       {
         "id": 78,
         "value": "Spišska Kapitula"
+      },
+      {
+        "id": 342,
+        "value": "Provincia Austria"
       }
     ],
     "note_type_facs": "https://digital.onb.ac.at/rep/access/open/131ABE23",
@@ -2606,7 +2863,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1671",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "103": {
     "id": 103,
@@ -2698,6 +2961,10 @@
       {
         "id": 247,
         "value": "Uzhhorod"
+      },
+      {
+        "id": 342,
+        "value": "Provincia Austria"
       }
     ],
     "note_type_facs": "https://digital.onb.ac.at/rep/access/open/131ABE1A",
@@ -2713,7 +2980,13 @@
     "not_after": "1675",
     "# when": "",
     "date_letter": "1672",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "80": {
     "id": 80,
@@ -2744,7 +3017,13 @@
     "not_after": "1678",
     "# when": "",
     "date_letter": "1673",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "81": {
     "id": 81,
@@ -2775,7 +3054,13 @@
     "not_after": "1679",
     "# when": "",
     "date_letter": "1674",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "104": {
     "id": 104,
@@ -2984,6 +3269,10 @@
       {
         "id": 273,
         "value": "Dacia"
+      },
+      {
+        "id": 342,
+        "value": "Provincia Austria"
       }
     ],
     "note_type_facs": "https://digital.onb.ac.at/rep/access/open/131ACA3E",
@@ -2999,7 +3288,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1675",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "125": {
     "id": 125,
@@ -3030,7 +3325,13 @@
     "not_after": "1679",
     "# when": "",
     "date_letter": "1676",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "126": {
     "id": 126,
@@ -3061,7 +3362,13 @@
     "not_after": "1680",
     "# when": "",
     "date_letter": "1677",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "127": {
     "id": 127,
@@ -3092,7 +3399,13 @@
     "not_after": "1680",
     "# when": "",
     "date_letter": "1678",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "128": {
     "id": 128,
@@ -3123,7 +3436,13 @@
     "not_after": "1681",
     "# when": "",
     "date_letter": "1679",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "132": {
     "id": 132,
@@ -3303,7 +3622,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1680",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "136": {
     "id": 136,
@@ -3491,7 +3816,13 @@
     "not_after": "1683",
     "# when": "",
     "date_letter": "1681",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "137": {
     "id": 137,
@@ -3687,7 +4018,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1682",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "147": {
     "id": 147,
@@ -3855,7 +4192,13 @@
     "not_after": "1686",
     "# when": "",
     "date_letter": "1683",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "154": {
     "id": 154,
@@ -3886,7 +4229,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1684",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "155": {
     "id": 155,
@@ -3917,7 +4266,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1685",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "393": {
     "id": 393,
@@ -3948,7 +4303,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1686",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "173": {
     "id": 173,
@@ -3979,7 +4340,13 @@
     "not_after": "1695",
     "# when": "",
     "date_letter": "1687",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "174": {
     "id": 174,
@@ -4010,7 +4377,13 @@
     "not_after": "1697",
     "# when": "",
     "date_letter": "1689",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "175": {
     "id": 175,
@@ -4041,7 +4414,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1688",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "177": {
     "id": 177,
@@ -4072,7 +4451,13 @@
     "not_after": "1697",
     "# when": "",
     "date_letter": "1690, 1691",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "178": {
     "id": 178,
@@ -4103,7 +4488,13 @@
     "not_after": "1697",
     "# when": "",
     "date_letter": "1692",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "179": {
     "id": 179,
@@ -4134,7 +4525,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1693",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "180": {
     "id": 180,
@@ -4165,7 +4562,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1694",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "181": {
     "id": 181,
@@ -4196,7 +4599,13 @@
     "not_after": "1698",
     "# when": "",
     "date_letter": "1695",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "182": {
     "id": 182,
@@ -4227,7 +4636,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1696",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "183": {
     "id": 183,
@@ -4258,7 +4673,13 @@
     "not_after": "1700",
     "# when": "",
     "date_letter": "1697",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "184": {
     "id": 184,
@@ -4289,7 +4710,13 @@
     "not_after": "1701",
     "# when": "",
     "date_letter": "1698",
-    "century": "17.-18. Jhdt."
+    "century": "17.-18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "351": {
     "id": 351,
@@ -4320,7 +4747,13 @@
     "not_after": "1702",
     "# when": "",
     "date_letter": "1700",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "352": {
     "id": 352,
@@ -4351,7 +4784,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1701",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "353": {
     "id": 353,
@@ -4382,7 +4821,13 @@
     "not_after": "1704",
     "# when": "",
     "date_letter": "1702",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "203": {
     "id": 203,
@@ -4413,7 +4858,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1703",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "204": {
     "id": 204,
@@ -4444,7 +4895,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1704",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "205": {
     "id": 205,
@@ -4628,7 +5085,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1705",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "206": {
     "id": 206,
@@ -4776,7 +5239,13 @@
     "not_after": "1710",
     "# when": "",
     "date_letter": "1706",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "207": {
     "id": 207,
@@ -4980,7 +5449,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1707",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "269": {
     "id": 269,
@@ -5011,7 +5486,13 @@
     "not_after": "1712",
     "# when": "",
     "date_letter": "1708",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "270": {
     "id": 270,
@@ -5042,7 +5523,13 @@
     "not_after": "1712",
     "# when": "",
     "date_letter": "1709",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "271": {
     "id": 271,
@@ -5073,7 +5560,13 @@
     "not_after": "1713",
     "# when": "",
     "date_letter": "1710",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "272": {
     "id": 272,
@@ -5104,7 +5597,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1712",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "273": {
     "id": 273,
@@ -5135,7 +5634,13 @@
     "not_after": "1715",
     "# when": "",
     "date_letter": "1713",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "274": {
     "id": 274,
@@ -5166,7 +5671,13 @@
     "not_after": null,
     "# when": "1715",
     "date_letter": "1714",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "275": {
     "id": 275,
@@ -5197,7 +5708,13 @@
     "not_after": null,
     "# when": "1716",
     "date_letter": "1715",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "276": {
     "id": 276,
@@ -5228,7 +5745,13 @@
     "not_after": null,
     "# when": "1717",
     "date_letter": "1716",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "277": {
     "id": 277,
@@ -5259,7 +5782,13 @@
     "not_after": null,
     "# when": "1718",
     "date_letter": "1717",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "278": {
     "id": 278,
@@ -5290,7 +5819,13 @@
     "not_after": null,
     "# when": "1719",
     "date_letter": "1718",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "279": {
     "id": 279,
@@ -5321,7 +5856,13 @@
     "not_after": null,
     "# when": "1720",
     "date_letter": "1719",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "280": {
     "id": 280,
@@ -5352,7 +5893,13 @@
     "not_after": null,
     "# when": "1721",
     "date_letter": "1720",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "281": {
     "id": 281,
@@ -5383,7 +5930,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1721",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "282": {
     "id": 282,
@@ -5414,7 +5967,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1722",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "283": {
     "id": 283,
@@ -5445,7 +6004,13 @@
     "not_after": null,
     "# when": "1724",
     "date_letter": "1723",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "284": {
     "id": 284,
@@ -5476,7 +6041,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1724",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "285": {
     "id": 285,
@@ -5507,7 +6078,13 @@
     "not_after": null,
     "# when": "1726",
     "date_letter": "1725",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "286": {
     "id": 286,
@@ -5538,7 +6115,13 @@
     "not_after": null,
     "# when": "1727",
     "date_letter": "1726",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "287": {
     "id": 287,
@@ -5569,7 +6152,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1727",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "288": {
     "id": 288,
@@ -5600,7 +6189,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1728",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "6": {
     "id": 6,
@@ -5868,7 +6463,13 @@
     "not_after": "1730",
     "# when": null,
     "date_letter": "1729",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "47": {
     "id": 47,
@@ -5899,7 +6500,13 @@
     "not_after": "1645",
     "# when": "",
     "date_letter": "1643",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "48": {
     "id": 48,
@@ -5930,7 +6537,13 @@
     "not_after": "1646",
     "# when": "",
     "date_letter": "1644",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "49": {
     "id": 49,
@@ -5961,7 +6574,13 @@
     "not_after": "1648",
     "# when": "",
     "date_letter": "1645",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "50": {
     "id": 50,
@@ -5992,7 +6611,13 @@
     "not_after": null,
     "# when": "1647",
     "date_letter": "1646",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "54": {
     "id": 54,
@@ -6023,7 +6648,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1647",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "55": {
     "id": 55,
@@ -6054,7 +6685,13 @@
     "not_after": "1650",
     "# when": "",
     "date_letter": "1648",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "56": {
     "id": 56,
@@ -6085,7 +6722,13 @@
     "not_after": "1651",
     "# when": "",
     "date_letter": "1649",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "62": {
     "id": 62,
@@ -6116,7 +6759,13 @@
     "not_after": "1652",
     "# when": "",
     "date_letter": "1650",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "63": {
     "id": 63,
@@ -6229,6 +6878,10 @@
       {
         "id": 206,
         "value": "Veszprém"
+      },
+      {
+        "id": 342,
+        "value": "Provincia Austria"
       }
     ],
     "note_type_facs": "http://data.onb.ac.at/dtl/9135313",
@@ -6244,7 +6897,13 @@
     "not_after": "1653",
     "# when": "",
     "date_letter": "1651",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "64": {
     "id": 64,
@@ -6356,6 +7015,10 @@
       {
         "id": 64,
         "value": "Žireč"
+      },
+      {
+        "id": 342,
+        "value": "Provincia Austria"
       }
     ],
     "note_type_facs": "http://data.onb.ac.at/dtl/9135570",
@@ -6371,7 +7034,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1652",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "65": {
     "id": 65,
@@ -6451,6 +7120,10 @@
       {
         "id": 78,
         "value": "Spišska Kapitula"
+      },
+      {
+        "id": 342,
+        "value": "Provincia Austria"
       }
     ],
     "note_type_facs": "http://data.onb.ac.at/dtl/9137164",
@@ -6466,7 +7139,13 @@
     "not_after": "1655",
     "# when": "",
     "date_letter": "1653",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "86": {
     "id": 86,
@@ -6614,7 +7293,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1654",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "87": {
     "id": 87,
@@ -6762,7 +7447,13 @@
     "not_after": "1657",
     "# when": "",
     "date_letter": "1655",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "88": {
     "id": 88,
@@ -6793,7 +7484,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1656",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "89": {
     "id": 89,
@@ -6824,7 +7521,13 @@
     "not_after": "1660",
     "# when": "",
     "date_letter": "1657",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "91": {
     "id": 91,
@@ -6855,7 +7558,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1658",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "92": {
     "id": 92,
@@ -7019,7 +7728,13 @@
     "not_after": "1661",
     "# when": "",
     "date_letter": "1659",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "7": {
     "id": 7,
@@ -7160,6 +7875,10 @@
       {
         "id": 92,
         "value": "Pašman"
+      },
+      {
+        "id": 342,
+        "value": "Provincia Austria"
       }
     ],
     "note_type_facs": "http://data.onb.ac.at/dtl/9227068",
@@ -7175,7 +7894,13 @@
     "not_after": "1663",
     "# when": null,
     "date_letter": "1660",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "291": {
     "id": 291,
@@ -7206,7 +7931,13 @@
     "not_after": "1734",
     "# when": "",
     "date_letter": "1732",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "289": {
     "id": 289,
@@ -7237,7 +7968,13 @@
     "not_after": null,
     "# when": "1731",
     "date_letter": "1730",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "290": {
     "id": 290,
@@ -7268,7 +8005,13 @@
     "not_after": "1733",
     "# when": "",
     "date_letter": "1731",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "292": {
     "id": 292,
@@ -7299,7 +8042,13 @@
     "not_after": null,
     "# when": "1734",
     "date_letter": "1733",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "293": {
     "id": 293,
@@ -7330,7 +8079,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1734",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "294": {
     "id": 294,
@@ -7361,7 +8116,13 @@
     "not_after": null,
     "# when": "1736",
     "date_letter": "1735",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "295": {
     "id": 295,
@@ -7392,7 +8153,13 @@
     "not_after": null,
     "# when": "1737",
     "date_letter": "1736",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "296": {
     "id": 296,
@@ -7423,7 +8190,13 @@
     "not_after": null,
     "# when": "1738",
     "date_letter": "1737",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "297": {
     "id": 297,
@@ -7454,7 +8227,13 @@
     "not_after": null,
     "# when": "1739",
     "date_letter": "1738",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "298": {
     "id": 298,
@@ -7485,7 +8264,13 @@
     "not_after": "1741",
     "# when": "",
     "date_letter": "1739",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "299": {
     "id": 299,
@@ -7516,7 +8301,13 @@
     "not_after": "1742",
     "# when": "",
     "date_letter": "1740",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "300": {
     "id": 300,
@@ -7547,7 +8338,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1741",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "301": {
     "id": 301,
@@ -7578,7 +8375,13 @@
     "not_after": "1744",
     "# when": "",
     "date_letter": "1742",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "302": {
     "id": 302,
@@ -7609,7 +8412,13 @@
     "not_after": "1745",
     "# when": "",
     "date_letter": "1743",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "10": {
     "id": 10,
@@ -7865,7 +8674,13 @@
     "not_after": "1746",
     "# when": null,
     "date_letter": "1744",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "36": {
     "id": 36,
@@ -7896,7 +8711,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1636",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "38": {
     "id": 38,
@@ -7927,7 +8748,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1638",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "41": {
     "id": 41,
@@ -7958,7 +8785,13 @@
     "not_after": "1643",
     "# when": "",
     "date_letter": "1641",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "42": {
     "id": 42,
@@ -7989,7 +8822,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1642",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "43": {
     "id": 43,
@@ -8162,6 +9001,10 @@
       {
         "id": 83,
         "value": "Odorheiu Secuiesc"
+      },
+      {
+        "id": 342,
+        "value": "Provincia Austria"
       }
     ],
     "note_type_facs": "https://digital.onb.ac.at/rep/access/open/131E6246",
@@ -8177,7 +9020,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1652",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "122": {
     "id": 122,
@@ -8208,7 +9057,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1663",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "130": {
     "id": 130,
@@ -8239,7 +9094,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1665",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "135": {
     "id": 135,
@@ -8447,7 +9308,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1682",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "139": {
     "id": 139,
@@ -8611,7 +9478,13 @@
     "not_after": "1686",
     "# when": "",
     "date_letter": "1683",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "140": {
     "id": 140,
@@ -8775,7 +9648,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1684",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "143": {
     "id": 143,
@@ -9007,7 +9886,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1693",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "144": {
     "id": 144,
@@ -9251,7 +10136,13 @@
     "not_after": null,
     "# when": "1723",
     "date_letter": "1722",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "145": {
     "id": 145,
@@ -9511,7 +10402,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1723",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "146": {
     "id": 146,
@@ -9783,7 +10680,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1725",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "133": {
     "id": 133,
@@ -10031,7 +10934,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1726",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "134": {
     "id": 134,
@@ -10303,7 +11212,13 @@
     "not_after": null,
     "# when": "1728",
     "date_letter": "1727",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "11": {
     "id": 11,
@@ -10640,6 +11555,10 @@
       {
         "id": 33,
         "value": "Cluj-Napoca"
+      },
+      {
+        "id": 342,
+        "value": "Provincia Austria"
       }
     ],
     "note_type_facs": "",
@@ -10655,7 +11574,13 @@
     "not_after": null,
     "# when": "1735",
     "date_letter": "1734",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "51": {
     "id": 51,
@@ -10686,7 +11611,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1711",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "82": {
     "id": 82,
@@ -10717,7 +11648,13 @@
     "not_after": null,
     "# when": "1714",
     "date_letter": "1713",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "83": {
     "id": 83,
@@ -10748,7 +11685,13 @@
     "not_after": null,
     "# when": "1715",
     "date_letter": "1714",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "84": {
     "id": 84,
@@ -10779,7 +11722,13 @@
     "not_after": null,
     "# when": "1716",
     "date_letter": "1715",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "107": {
     "id": 107,
@@ -10810,7 +11759,13 @@
     "not_after": null,
     "# when": "1717",
     "date_letter": "1716",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "108": {
     "id": 108,
@@ -10841,7 +11796,13 @@
     "not_after": null,
     "# when": "1718",
     "date_letter": "1717",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "110": {
     "id": 110,
@@ -10872,7 +11833,13 @@
     "not_after": null,
     "# when": "1720",
     "date_letter": "1719",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "111": {
     "id": 111,
@@ -10903,7 +11870,13 @@
     "not_after": null,
     "# when": "1721",
     "date_letter": "1720",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "112": {
     "id": 112,
@@ -10934,7 +11907,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1721",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "161": {
     "id": 161,
@@ -10965,7 +11944,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1722",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "162": {
     "id": 162,
@@ -10996,7 +11981,13 @@
     "not_after": null,
     "# when": "1724",
     "date_letter": "1723",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "163": {
     "id": 163,
@@ -11027,7 +12018,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1725",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "164": {
     "id": 164,
@@ -11058,7 +12055,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1726",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "165": {
     "id": 165,
@@ -11089,7 +12092,13 @@
     "not_after": null,
     "# when": "1728",
     "date_letter": "1727",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "166": {
     "id": 166,
@@ -11120,7 +12129,13 @@
     "not_after": null,
     "# when": "1729",
     "date_letter": "1728",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "167": {
     "id": 167,
@@ -11151,7 +12166,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1729",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "141": {
     "id": 141,
@@ -11182,7 +12203,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1730",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "168": {
     "id": 168,
@@ -11213,7 +12240,13 @@
     "not_after": null,
     "# when": "1732",
     "date_letter": "1731",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "169": {
     "id": 169,
@@ -11244,7 +12277,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1732",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "176": {
     "id": 176,
@@ -11275,7 +12314,13 @@
     "not_after": null,
     "# when": "1734",
     "date_letter": "1733",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "185": {
     "id": 185,
@@ -11306,7 +12351,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1734",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "192": {
     "id": 192,
@@ -11337,7 +12388,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1736",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "193": {
     "id": 193,
@@ -11368,7 +12425,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1737",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "195": {
     "id": 195,
@@ -11399,7 +12462,13 @@
     "not_after": null,
     "# when": "1739",
     "date_letter": "1738",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "196": {
     "id": 196,
@@ -11430,7 +12499,13 @@
     "not_after": null,
     "# when": "1740",
     "date_letter": "1739",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "200": {
     "id": 200,
@@ -11461,7 +12536,13 @@
     "not_after": "1742",
     "# when": "",
     "date_letter": "1740",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "197": {
     "id": 197,
@@ -11661,7 +12742,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1741",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "235": {
     "id": 235,
@@ -11897,7 +12984,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1742",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "234": {
     "id": 234,
@@ -12133,7 +13226,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1743",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "233": {
     "id": 233,
@@ -12369,7 +13468,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1744",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "232": {
     "id": 232,
@@ -12609,7 +13714,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1745",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "231": {
     "id": 231,
@@ -12841,7 +13952,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1746",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "198": {
     "id": 198,
@@ -13069,7 +14186,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1747",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "236": {
     "id": 236,
@@ -13329,7 +14452,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1748",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "237": {
     "id": 237,
@@ -13589,7 +14718,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1749",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "238": {
     "id": 238,
@@ -13849,7 +14984,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1750",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "239": {
     "id": 239,
@@ -14125,7 +15266,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1753",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "240": {
     "id": 240,
@@ -14401,7 +15548,13 @@
     "not_after": "1756",
     "# when": "",
     "date_letter": "1754",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "245": {
     "id": 245,
@@ -14621,7 +15774,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1756",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "194": {
     "id": 194,
@@ -14837,7 +15996,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1756",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "191": {
     "id": 191,
@@ -15069,7 +16234,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1757",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "246": {
     "id": 246,
@@ -15313,7 +16484,13 @@
     "not_after": "1761",
     "# when": "",
     "date_letter": "1758",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "247": {
     "id": 247,
@@ -15557,7 +16734,13 @@
     "not_after": "1762",
     "# when": "",
     "date_letter": "1759",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "248": {
     "id": 248,
@@ -15797,7 +16980,13 @@
     "not_after": "1763",
     "# when": "",
     "date_letter": "1761",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "249": {
     "id": 249,
@@ -16045,7 +17234,13 @@
     "not_after": "1765",
     "# when": "",
     "date_letter": "1762",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "250": {
     "id": 250,
@@ -16293,7 +17488,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1763",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "262": {
     "id": 262,
@@ -16541,7 +17742,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1764",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "263": {
     "id": 263,
@@ -16789,7 +17996,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1765",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "266": {
     "id": 266,
@@ -16820,7 +18033,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1711",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "267": {
     "id": 267,
@@ -17060,7 +18279,13 @@
     "not_after": "1743",
     "# when": "",
     "date_letter": "1741",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "268": {
     "id": 268,
@@ -17296,7 +18521,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1742",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "251": {
     "id": 251,
@@ -17532,7 +18763,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1743",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "142": {
     "id": 142,
@@ -17700,7 +18937,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1744",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "252": {
     "id": 252,
@@ -17956,7 +19199,13 @@
     "not_after": "1747",
     "# when": "",
     "date_letter": "1745",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "253": {
     "id": 253,
@@ -18220,7 +19469,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1747",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "254": {
     "id": 254,
@@ -18484,7 +19739,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1748",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "255": {
     "id": 255,
@@ -18748,7 +20009,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1750",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "260": {
     "id": 260,
@@ -18988,7 +20255,13 @@
     "not_after": "1757",
     "# when": "",
     "date_letter": "1755",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "261": {
     "id": 261,
@@ -19224,7 +20497,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1744",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "258": {
     "id": 258,
@@ -19452,7 +20731,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1766",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "259": {
     "id": 259,
@@ -19483,7 +20768,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1693",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 2,
+        "value": "Catalogues, Informationes"
+      }
+    ]
   },
   "264": {
     "id": 264,
@@ -19514,7 +20805,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1695",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 2,
+        "value": "Catalogues, Informationes"
+      }
+    ]
   },
   "401": {
     "id": 401,
@@ -19528,8 +20825,8 @@
     "persons": [],
     "mentioned_places": [
       {
-        "id": 429,
-        "value": "Provincia Polonia Minor"
+        "id": 484,
+        "value": "Provincia Polona"
       }
     ],
     "note_type_facs": "",
@@ -19545,7 +20842,13 @@
     "not_after": null,
     "# when": "1700",
     "date_letter": "1700",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 2,
+        "value": "Catalogues, Informationes"
+      }
+    ]
   },
   "402": {
     "id": 402,
@@ -19559,8 +20862,8 @@
     "persons": [],
     "mentioned_places": [
       {
-        "id": 429,
-        "value": "Provincia Polonia Minor"
+        "id": 484,
+        "value": "Provincia Polona"
       }
     ],
     "note_type_facs": "",
@@ -19576,7 +20879,13 @@
     "not_after": null,
     "# when": "1734",
     "date_letter": "1734",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 2,
+        "value": "Catalogues, Informationes"
+      }
+    ]
   },
   "265": {
     "id": 265,
@@ -19590,8 +20899,8 @@
     "persons": [],
     "mentioned_places": [
       {
-        "id": 429,
-        "value": "Provincia Polonia Minor"
+        "id": 484,
+        "value": "Provincia Polona"
       }
     ],
     "note_type_facs": "",
@@ -19607,7 +20916,13 @@
     "not_after": null,
     "# when": "1726",
     "date_letter": "1726",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 2,
+        "value": "Catalogues, Informationes"
+      }
+    ]
   },
   "403": {
     "id": 403,
@@ -19621,8 +20936,8 @@
     "persons": [],
     "mentioned_places": [
       {
-        "id": 429,
-        "value": "Provincia Polonia Minor"
+        "id": 484,
+        "value": "Provincia Polona"
       }
     ],
     "note_type_facs": "",
@@ -19638,7 +20953,13 @@
     "not_after": null,
     "# when": "1730",
     "date_letter": "1730",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 2,
+        "value": "Catalogues, Informationes"
+      }
+    ]
   },
   "405": {
     "id": 405,
@@ -19669,7 +20990,13 @@
     "not_after": "1748",
     "# when": "",
     "date_letter": "1746",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "406": {
     "id": 406,
@@ -19686,7 +21013,12 @@
     "title": "Litterae annuae residentiae Wartenbergensis Societatis Iesu a. 1727-1744 et 1656",
     "date": "",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Provincia Bohemia"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_12367",
     "extent": "I, 86 Bl.",
@@ -19700,7 +21032,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1727-1744, 1656",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "407": {
     "id": 407,
@@ -19717,7 +21055,12 @@
     "title": "Memoriale quoddam pro dominio Wartenbergensi Societatis Iesu",
     "date": "",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Provincia Bohemia"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_12367__asterix",
     "extent": "I, 95 Bl.",
@@ -19731,7 +21074,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "408": {
     "id": 408,
@@ -19762,7 +21111,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 12,
+        "value": "Other"
+      }
+    ]
   },
   "257": {
     "id": 257,
@@ -19793,7 +21148,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 14,
+        "value": "Financial reports"
+      }
+    ]
   },
   "256": {
     "id": 256,
@@ -19810,7 +21171,12 @@
     "title": "Computus de statu temporali collegii Societatis Iesu Pragae ad S. Ignatium a. 1740-1772",
     "date": "1740–1772",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Provincia Bohemia"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_12370",
     "extent": "I, 67, I* Bl.",
@@ -19824,7 +21190,13 @@
     "not_after": "1772",
     "# when": "",
     "date_letter": "1740–1772",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 14,
+        "value": "Financial reports"
+      }
+    ]
   },
   "418": {
     "id": 418,
@@ -19855,7 +21227,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1700, 1701, 1702, 1703, 1704",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "419": {
     "id": 419,
@@ -19886,19 +21264,35 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1700, 1701, 1702, 1703, 1704",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "420": {
     "id": 420,
     "order": "8.48717948717948722503",
     "signatur": "Cod. 12391",
     "jesuiten_id": "jesuiten_msdesc__420",
-    "mentioned_orgs": [],
+    "mentioned_orgs": [
+      {
+        "id": 123,
+        "value": "Jesuitenkolleg Brno"
+      }
+    ],
     "note_type_catalogue": "http://data.onb.ac.at/rec/AC13956651",
     "title": "Liber consultationum collegii Societatis Iesu Brunensis in Moravia a. 1688-1745",
     "date": "",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Provincia Bohemia"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_12391",
     "extent": "I, 146 Bl.",
@@ -19907,12 +21301,18 @@
     "foliation": "Moderne Foliierung.",
     "acc_mat": "",
     "binding": "Pergament über Pappdeckel, 18. Jhdt.",
-    "summary": "Zusammengesetzte Handschrift. Der Hauptteil der Handschrift auf \nfol. 10r-147r besteht aus dem sogenannten Liber consultationum des Jesuitenkollegs in Brünn, eine chronologische Auflistung der Beratungen für die Jahre 1688–1745, mit Angabe der Themen bzw. der gelesenen Texte. Vorgebunden ist ein Bericht über die \"Prima solemnitas in monte Crucis prope Sobeschicium\" am 3. Mai 1718 bei Soběšice (fol. 1v-r), sowie vier Konzepte für die Ausmalung der Altäre des hl. Franciscus Borgia (fol. 2-3r), der Beata Maria Virgo (fol. 4r-5r), der Sanctorum trium crucifixorum Japoniae (fol. 6r-7r) und des hl. Johannes Nepomuk (fol. 8r-9r).",
+    "summary": "Zusammengesetzte Handschrift. Der Hauptteil der Handschrift auf fol. 10r-147r besteht aus dem sogenannten Liber consultationum des Jesuitenkollegs in Brünn, eine chronologische Auflistung der Beratungen für die Jahre 1688–1745, mit Angabe der Themen bzw. der gelesenen Texte. Vorgebunden ist ein Bericht über die \"Prima solemnitas in monte Crucis prope Sobeschicium\" am 3. Mai 1718 bei Soběšice (fol. 1v-r), sowie vier Konzepte für die Ausmalung der Altäre des hl. Franciscus Borgia (fol. 2-3r), der Beata Maria Virgo (fol. 4r-5r), der Sanctorum trium crucifixorum Japoniae (fol. 6r-7r) und des hl. Johannes Nepomuk (fol. 8r-9r).",
     "not_before": null,
     "not_after": null,
     "# when": "",
     "date_letter": "",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 13,
+        "value": "Normative texts"
+      }
+    ]
   },
   "421": {
     "id": 421,
@@ -19938,7 +21338,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 13,
+        "value": "Normative texts"
+      }
+    ]
   },
   "422": {
     "id": 422,
@@ -19964,7 +21370,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 13,
+        "value": "Normative texts"
+      }
+    ]
   },
   "44": {
     "id": 44,
@@ -19981,7 +21393,12 @@
     "title": "Rationes generales residentiae Leopoldinae Societatis Iesu Neostadii a. 1746-1773",
     "date": "1746–1773",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_12406",
     "extent": "I, ? Bl.",
@@ -19995,7 +21412,13 @@
     "not_after": "1773",
     "# when": "",
     "date_letter": "1746–1773",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 13,
+        "value": "Normative texts"
+      }
+    ]
   },
   "12": {
     "id": 12,
@@ -20012,7 +21435,12 @@
     "title": "Examen candidatorum Societatis Iesu in collegio Viennensi a. 1648-1678",
     "date": "1648–1678",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_12407",
     "extent": "I, 193 Bl.",
@@ -20026,7 +21454,13 @@
     "not_after": "1678",
     "# when": null,
     "date_letter": "1648–1678",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 12,
+        "value": "Other"
+      }
+    ]
   },
   "156": {
     "id": 156,
@@ -20203,6 +21637,10 @@
       {
         "id": 83,
         "value": "Odorheiu Secuiesc"
+      },
+      {
+        "id": 342,
+        "value": "Provincia Austria"
       }
     ],
     "note_type_facs": "",
@@ -20218,7 +21656,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1711",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "157": {
     "id": 157,
@@ -20249,7 +21693,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1735",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "404": {
     "id": 404,
@@ -20280,7 +21730,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1737",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "158": {
     "id": 158,
@@ -20513,7 +21969,12 @@
     "title": "Litterae annuae provinciae Austriae Societatis Iesu a. 1731",
     "date": "ab 1732",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_12270",
     "extent": "119 Bl.",
@@ -20527,7 +21988,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1731",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "159": {
     "id": 159,
@@ -20788,7 +22255,12 @@
     "title": "Litterae annuae provinciae Austriae Societatis Iesu a. 1747",
     "date": "ab 1748",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_12271",
     "extent": "I, 174, I* Bl.",
@@ -20802,7 +22274,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1747",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "160": {
     "id": 160,
@@ -21035,7 +22513,12 @@
     "title": "Litterae annuae provinciae Austriae Societatis Iesu a. 1733",
     "date": "ab 1734",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_12272",
     "extent": "I, 126, I* Bl.",
@@ -21049,7 +22532,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1733",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "31": {
     "id": 31,
@@ -21266,6 +22755,10 @@
       {
         "id": 139,
         "value": "Baia Sprie"
+      },
+      {
+        "id": 342,
+        "value": "Provincia Austria"
       }
     ],
     "note_type_facs": "",
@@ -21281,7 +22774,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1752",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "85": {
     "id": 85,
@@ -21474,7 +22973,12 @@
     "title": "Litterae annuae provinciae Bohemiae Societatis Iesu a. 1760",
     "date": "1761–1763",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Provincia Bohemia"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_12278",
     "extent": "I, 93 Bl.",
@@ -21488,7 +22992,13 @@
     "not_after": "1763",
     "# when": "",
     "date_letter": "1760",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "113": {
     "id": 113,
@@ -21680,6 +23190,10 @@
       {
         "id": 247,
         "value": "Uzhhorod"
+      },
+      {
+        "id": 342,
+        "value": "Provincia Austria"
       }
     ],
     "note_type_facs": "",
@@ -21695,7 +23209,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1770",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "114": {
     "id": 114,
@@ -21726,7 +23246,13 @@
     "not_after": null,
     "# when": "1667",
     "date_letter": "1666",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "115": {
     "id": 115,
@@ -21757,7 +23283,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1667",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "116": {
     "id": 116,
@@ -21788,7 +23320,13 @@
     "not_after": null,
     "# when": "1670",
     "date_letter": "1669",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "118": {
     "id": 118,
@@ -21819,7 +23357,13 @@
     "not_after": null,
     "# when": "1671",
     "date_letter": "1670",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "119": {
     "id": 119,
@@ -21850,7 +23394,13 @@
     "not_after": null,
     "# when": "1676",
     "date_letter": "1675",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "117": {
     "id": 117,
@@ -21881,7 +23431,13 @@
     "not_after": "1678",
     "# when": "",
     "date_letter": "1676",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "120": {
     "id": 120,
@@ -21912,7 +23468,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1679",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "121": {
     "id": 121,
@@ -21943,7 +23505,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1685",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "13": {
     "id": 13,
@@ -21974,7 +23542,13 @@
     "not_after": null,
     "# when": null,
     "date_letter": "1702",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "14": {
     "id": 14,
@@ -22146,7 +23720,13 @@
     "not_after": null,
     "# when": null,
     "date_letter": "1637",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "15": {
     "id": 15,
@@ -22298,7 +23878,13 @@
     "not_after": null,
     "# when": "1639",
     "date_letter": "1638",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "16": {
     "id": 16,
@@ -22329,7 +23915,13 @@
     "not_after": null,
     "# when": null,
     "date_letter": "1703",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "17": {
     "id": 17,
@@ -22360,7 +23952,13 @@
     "not_after": null,
     "# when": null,
     "date_letter": "1704",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "18": {
     "id": 18,
@@ -22391,7 +23989,13 @@
     "not_after": null,
     "# when": null,
     "date_letter": "1705",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "19": {
     "id": 19,
@@ -22422,7 +24026,13 @@
     "not_after": null,
     "# when": null,
     "date_letter": "1639",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "20": {
     "id": 20,
@@ -22453,7 +24063,13 @@
     "not_after": "1642",
     "# when": null,
     "date_letter": "1640",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "21": {
     "id": 21,
@@ -22484,7 +24100,13 @@
     "not_after": null,
     "# when": null,
     "date_letter": "1641",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "22": {
     "id": 22,
@@ -22515,7 +24137,13 @@
     "not_after": "1644",
     "# when": null,
     "date_letter": "1642",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "23": {
     "id": 23,
@@ -22546,7 +24174,13 @@
     "not_after": null,
     "# when": "1707",
     "date_letter": "1706",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "24": {
     "id": 24,
@@ -22577,7 +24211,13 @@
     "not_after": null,
     "# when": "1708",
     "date_letter": "1707",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "25": {
     "id": 25,
@@ -22608,7 +24248,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1708",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "26": {
     "id": 26,
@@ -22639,7 +24285,13 @@
     "not_after": null,
     "# when": "1710",
     "date_letter": "1709",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "27": {
     "id": 27,
@@ -22670,7 +24322,13 @@
     "not_after": null,
     "# when": "1711",
     "date_letter": "1710",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "32": {
     "id": 32,
@@ -22887,6 +24545,10 @@
       {
         "id": 139,
         "value": "Baia Sprie"
+      },
+      {
+        "id": 342,
+        "value": "Provincia Austria"
       }
     ],
     "note_type_facs": "",
@@ -22902,7 +24564,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1752",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "33": {
     "id": 33,
@@ -23123,6 +24791,10 @@
       {
         "id": 139,
         "value": "Baia Sprie"
+      },
+      {
+        "id": 342,
+        "value": "Provincia Austria"
       }
     ],
     "note_type_facs": "",
@@ -23138,7 +24810,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1752",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "34": {
     "id": 34,
@@ -23355,6 +25033,10 @@
       {
         "id": 139,
         "value": "Baia Sprie"
+      },
+      {
+        "id": 342,
+        "value": "Provincia Austria"
       }
     ],
     "note_type_facs": "",
@@ -23370,7 +25052,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1752",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "30": {
     "id": 30,
@@ -23587,6 +25275,10 @@
       {
         "id": 139,
         "value": "Baia Sprie"
+      },
+      {
+        "id": 342,
+        "value": "Provincia Austria"
       }
     ],
     "note_type_facs": "",
@@ -23602,7 +25294,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1752",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "123": {
     "id": 123,
@@ -23633,7 +25331,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1736",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "124": {
     "id": 124,
@@ -23664,7 +25368,13 @@
     "not_after": null,
     "# when": "1738",
     "date_letter": "1737",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "69": {
     "id": 69,
@@ -23695,7 +25405,13 @@
     "not_after": "1742",
     "# when": "",
     "date_letter": "1739",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 2,
+        "value": "Catalogues, Informationes"
+      }
+    ]
   },
   "129": {
     "id": 129,
@@ -23955,7 +25671,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1739",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "35": {
     "id": 35,
@@ -23986,7 +25708,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1635",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "37": {
     "id": 37,
@@ -24017,7 +25745,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1637",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "39": {
     "id": 39,
@@ -24048,7 +25782,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1639",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "40": {
     "id": 40,
@@ -24079,7 +25819,13 @@
     "not_after": "1642",
     "# when": "",
     "date_letter": "1640",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "452": {
     "id": 452,
@@ -24095,6 +25841,10 @@
       {
         "id": 94,
         "value": "Brno"
+      },
+      {
+        "id": 272,
+        "value": "Provincia Bohemia"
       }
     ],
     "note_type_facs": "",
@@ -24110,7 +25860,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 13,
+        "value": "Normative texts"
+      }
+    ]
   },
   "468": {
     "id": 468,
@@ -24145,7 +25901,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1604-1737",
-    "century": "17.-18. Jhdt."
+    "century": "17.-18. Jhdt.",
+    "Genre": [
+      {
+        "id": 3,
+        "value": "Letters"
+      }
+    ]
   },
   "217": {
     "id": 217,
@@ -24164,8 +25926,8 @@
     "persons": [],
     "mentioned_places": [
       {
-        "id": 94,
-        "value": "Brno"
+        "id": 272,
+        "value": "Provincia Bohemia"
       }
     ],
     "note_type_facs": "",
@@ -24181,7 +25943,13 @@
     "not_after": "1773",
     "# when": "",
     "date_letter": "1590–1773",
-    "century": "16.-18. Jhdt."
+    "century": "16.-18. Jhdt.",
+    "Genre": [
+      {
+        "id": 1,
+        "value": "Formulas of final vows"
+      }
+    ]
   },
   "218": {
     "id": 218,
@@ -24202,7 +25970,12 @@
     "title": "Historia domus probationis Societatis Iesu Brunae in Moravia; pars posterior a. 1569-1747",
     "date": "",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Provincia Bohemia"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_11958",
     "extent": "II, 517 Bl.",
@@ -24216,7 +25989,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1569–1747",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "220": {
     "id": 220,
@@ -24233,7 +26012,12 @@
     "title": "Litterae annuae collegii Znoymensis Societatis Iesu a. 1624-1772",
     "date": "ab 1625",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Provincia Bohemia"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_11958__asterix",
     "extent": "II, 555, III* Bl.",
@@ -24247,7 +26031,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1624–1772",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "61": {
     "id": 61,
@@ -24282,7 +26072,13 @@
     "not_after": "1635",
     "# when": "",
     "date_letter": "1621, 1622, 1623, 1624, 1625, 1626, 1627, 1628, 1629, 1630, 1631, 1632, 1633, 1634, 1635",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "90": {
     "id": 90,
@@ -24313,7 +26109,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1636, 1637, 1638, 1639, 1640, 1641, 1642, 1643, 1644, 1645, 1646, 1647, 1648, 1649, 1650",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "131": {
     "id": 131,
@@ -24344,7 +26146,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1651, 1652, 1653, 1654, 1655, 1656, 1657, 1658, 1659",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "138": {
     "id": 138,
@@ -24375,7 +26183,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1670, 1671, 1672, 1673, 1674",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "172": {
     "id": 172,
@@ -24406,7 +26220,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1680, 1681, 1682, 1683, 1684",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "208": {
     "id": 208,
@@ -24437,7 +26257,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1685, 1686, 1687, 1688, 1689",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "216": {
     "id": 216,
@@ -24468,7 +26294,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1690, 1691, 1692, 1693",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "215": {
     "id": 215,
@@ -24499,7 +26331,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1694, 1695, 1696, 1697",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "214": {
     "id": 214,
@@ -24530,7 +26368,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1698, 1699, 1700, 1701",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "213": {
     "id": 213,
@@ -24561,7 +26405,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1706, 1707, 1708, 1709, 1710",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "212": {
     "id": 212,
@@ -24592,7 +26442,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1711, 1712, 1713, 1714",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "211": {
     "id": 211,
@@ -24623,7 +26479,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1715, 1716, 1717, 1718",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "210": {
     "id": 210,
@@ -24654,7 +26516,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1719, 1720, 1721, 1722",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "209": {
     "id": 209,
@@ -24685,7 +26553,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1723, 1724, 1725, 1726",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "189": {
     "id": 189,
@@ -24716,7 +26590,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1727, 1728, 1729, 1730",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "199": {
     "id": 199,
@@ -24747,7 +26627,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1731, 1732, 1733, 1734",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "201": {
     "id": 201,
@@ -24778,7 +26664,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1735, 1736, 1737, 1738",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "469": {
     "id": 469,
@@ -24809,7 +26701,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "",
-    "century": "16.-17. Jhdt."
+    "century": "16.-17. Jhdt.",
+    "Genre": [
+      {
+        "id": 13,
+        "value": "Normative texts"
+      }
+    ]
   },
   "76": {
     "id": 76,
@@ -24953,7 +26851,13 @@
     "not_after": null,
     "# when": "1633",
     "date_letter": "1633",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 2,
+        "value": "Catalogues, Informationes"
+      }
+    ]
   },
   "470": {
     "id": 470,
@@ -24970,7 +26874,12 @@
     "title": "Catalogus eorum, qui theologiae studiis operam dederunt in collegio academico Societatis Iesu Viennae a. 1744-1773",
     "date": "1744-1773",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_11979",
     "extent": "I, 241 Bl.",
@@ -24984,7 +26893,13 @@
     "not_after": "1773",
     "# when": "",
     "date_letter": "1744-1773",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 2,
+        "value": "Catalogues, Informationes"
+      }
+    ]
   },
   "229": {
     "id": 229,
@@ -25010,7 +26925,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 12,
+        "value": "Other"
+      }
+    ]
   },
   "170": {
     "id": 170,
@@ -25041,7 +26962,13 @@
     "not_after": "1800",
     "# when": "",
     "date_letter": "1590–1750",
-    "century": "16.-18. Jhdt."
+    "century": "16.-18. Jhdt.",
+    "Genre": [
+      {
+        "id": 13,
+        "value": "Normative texts"
+      }
+    ]
   },
   "171": {
     "id": 171,
@@ -25072,7 +26999,13 @@
     "not_after": "1800",
     "# when": "",
     "date_letter": "1575–1729",
-    "century": "16.-18. Jhdt."
+    "century": "16.-18. Jhdt.",
+    "Genre": [
+      {
+        "id": 13,
+        "value": "Normative texts"
+      }
+    ]
   },
   "202": {
     "id": 202,
@@ -25089,7 +27022,12 @@
     "title": "Historia collegii Leopoliensis Societatis Iesu a. 1584-1773",
     "date": "",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 429,
+        "value": "Provincia Polonia Minor"
+      }
+    ],
     "note_type_facs": "https://data.onb.ac.at/rep/131AC69E",
     "xml_id": "cod_11988",
     "extent": "I, 480, I* Bl.",
@@ -25103,7 +27041,13 @@
     "not_after": "1800",
     "# when": "",
     "date_letter": "1584–1773",
-    "century": "16.-18. Jhdt."
+    "century": "16.-18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "190": {
     "id": 190,
@@ -25139,7 +27083,13 @@
     "not_after": "1773",
     "# when": "",
     "date_letter": "1699-1769",
-    "century": "17.–18. Jhdt."
+    "century": "17.–18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "471": {
     "id": 471,
@@ -25157,6 +27107,10 @@
     "date": "nach 1750",
     "persons": [],
     "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Provincia Bohemia"
+      },
       {
         "id": 481,
         "value": "Habrovany"
@@ -25179,7 +27133,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1750-1773",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 14,
+        "value": "Financial reports"
+      }
+    ]
   },
   "472": {
     "id": 472,
@@ -25196,7 +27156,12 @@
     "title": "Liber accepti collegii Societatis Iesu Hradistii a. 1750-1773",
     "date": "nach 1750",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Provincia Bohemia"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_11992",
     "extent": "I, 298 Bl.",
@@ -25210,7 +27175,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1750-1773",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 14,
+        "value": "Financial reports"
+      }
+    ]
   },
   "226": {
     "id": 226,
@@ -25227,7 +27198,12 @@
     "title": "Liber II consultationum collegii Societatis Iesu Hradistiensis a. 1766-1773",
     "date": "1766-1773",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Provincia Bohemia"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_11995",
     "extent": "92 Bl.",
@@ -25241,7 +27217,13 @@
     "not_after": "1773",
     "# when": "",
     "date_letter": "1766-1773",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 13,
+        "value": "Normative texts"
+      }
+    ]
   },
   "224": {
     "id": 224,
@@ -25258,7 +27240,12 @@
     "title": "Rationes generales pecuniariae collegii Societatis Iesu Hradistii a. 1750-1773",
     "date": "1751-1774",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Provincia Bohemia"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_11996",
     "extent": "I, 133 Bl.",
@@ -25272,7 +27259,13 @@
     "not_after": "1774",
     "# when": "",
     "date_letter": "1750-1773",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 14,
+        "value": "Financial reports"
+      }
+    ]
   },
   "223": {
     "id": 223,
@@ -25289,7 +27282,12 @@
     "title": "Litterae annuae collegii Pragensis Societatis Iesu ad S. Clementem",
     "date": "",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Provincia Bohemia"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_11997",
     "extent": "II, 318, IV* Bl.",
@@ -25303,7 +27301,13 @@
     "not_after": "1700",
     "# when": "",
     "date_letter": "1585, 1599, 1600, 1603, 1604, 1607, 1608, 1611, 1612, 1613, 1614, 1615, 1616, 1617, 1618, 1620, 1621, 1623, 1625, 1628, 1630, 1631, 1632, 1633, 1634, 1635, 1637, 1638, 1639, 1640, 1643, 1644, 1647, 1650, 1651, 1652, 1654",
-    "century": "16.-17. Jhdt."
+    "century": "16.-17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "473": {
     "id": 473,
@@ -25320,7 +27324,12 @@
     "title": "Informationes et rationes triennales rectorum collegii Societatis Iesu ad S. Ignatium Neo-Pragae a. 1653-1750",
     "date": "nach 1653",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Provincia Bohemia"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_11998",
     "extent": "I, 173, I* Bl.",
@@ -25334,7 +27343,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1653-1750",
-    "century": "17.-18. Jhdt."
+    "century": "17.-18. Jhdt.",
+    "Genre": [
+      {
+        "id": 14,
+        "value": "Financial reports"
+      }
+    ]
   },
   "474": {
     "id": 474,
@@ -25355,7 +27370,12 @@
     "title": "Litterae annuae collegii Hradistiensis Societatis Iesu a. 1645-1736",
     "date": "nach 1646",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Provincia Bohemia"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_11998__asterix",
     "extent": "II, 253, III* Bl.",
@@ -25369,7 +27389,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1645-1736",
-    "century": "17.-18. Jhdt."
+    "century": "17.-18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "225": {
     "id": 225,
@@ -25400,7 +27426,13 @@
     "not_after": "1800",
     "# when": "",
     "date_letter": "1556-1723",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "77": {
     "id": 77,
@@ -25431,7 +27463,13 @@
     "not_after": "1800",
     "# when": "",
     "date_letter": "1555–1721",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "78": {
     "id": 78,
@@ -25462,7 +27500,13 @@
     "not_after": "1800",
     "# when": "",
     "date_letter": "1556-1723",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "79": {
     "id": 79,
@@ -25493,7 +27537,13 @@
     "not_after": "1800",
     "# when": "",
     "date_letter": "",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "94": {
     "id": 94,
@@ -25510,7 +27560,12 @@
     "title": "Supplementum historiae collegii Societatis Iesu Pragae ad S. Clementem a. 1701–1729",
     "date": "",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Provincia Bohemia"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_12004",
     "extent": "I, 43, I*Bl.",
@@ -25524,7 +27579,13 @@
     "not_after": "1800",
     "# when": "",
     "date_letter": "1701–1729",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "95": {
     "id": 95,
@@ -25538,8 +27599,8 @@
     "persons": [],
     "mentioned_places": [
       {
-        "id": 429,
-        "value": "Provincia Polonia Minor"
+        "id": 484,
+        "value": "Provincia Polona"
       }
     ],
     "note_type_facs": "",
@@ -25555,7 +27616,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1606–1608",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "96": {
     "id": 96,
@@ -25569,8 +27636,8 @@
     "persons": [],
     "mentioned_places": [
       {
-        "id": 429,
-        "value": "Provincia Polonia Minor"
+        "id": 484,
+        "value": "Provincia Polona"
       }
     ],
     "note_type_facs": "",
@@ -25586,7 +27653,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1586, 1595, 1598, 1599, 1604, 1605",
-    "century": "16. Jhdt."
+    "century": "16. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "396": {
     "id": 396,
@@ -25617,7 +27690,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1754-1772",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 14,
+        "value": "Financial reports"
+      }
+    ]
   },
   "395": {
     "id": 395,
@@ -25648,7 +27727,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1764-1772",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 14,
+        "value": "Financial reports"
+      }
+    ]
   },
   "394": {
     "id": 394,
@@ -25665,7 +27750,12 @@
     "title": "Synopsis historiae collegii Pragensis Societatis Iesu ad S. Clementem a. 1555-1700 cum supplemento a. 1701-1729",
     "date": "ab 1695",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Provincia Bohemia"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_12011",
     "extent": "I, 100 Bl.",
@@ -25679,7 +27769,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "",
-    "century": "16.-18. Jhdt."
+    "century": "16.-18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "45": {
     "id": 45,
@@ -25693,8 +27789,8 @@
     "persons": [],
     "mentioned_places": [
       {
-        "id": 429,
-        "value": "Provincia Polonia Minor"
+        "id": 484,
+        "value": "Provincia Polona"
       }
     ],
     "note_type_facs": "",
@@ -25710,7 +27806,13 @@
     "not_after": "1659",
     "# when": "",
     "date_letter": "1630, 1636, 1639, 1653, 1658",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "448": {
     "id": 448,
@@ -25741,7 +27843,13 @@
     "not_after": "1800",
     "# when": "",
     "date_letter": "",
-    "century": "17.-18. Jhdt."
+    "century": "17.-18. Jhdt.",
+    "Genre": [
+      {
+        "id": 5,
+        "value": "Biographical material"
+      }
+    ]
   },
   "449": {
     "id": 449,
@@ -25758,7 +27866,12 @@
     "title": "Historia collegii Societatis Iesu Neo-Pragae a. 1628-1667",
     "date": "ab 1628",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Provincia Bohemia"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_14104",
     "extent": "II, 45, I* Bl.",
@@ -25772,7 +27885,13 @@
     "not_after": "1800",
     "# when": "",
     "date_letter": "",
-    "century": "17.-18. Jhdt."
+    "century": "17.-18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "450": {
     "id": 450,
@@ -25807,7 +27926,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "445": {
     "id": 445,
@@ -25824,7 +27949,12 @@
     "title": "Diarium collegii Societatis Iesu Patavii a. 1670-1684",
     "date": "1670-1684",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_14382",
     "extent": "I, 185 Bl.",
@@ -25838,7 +27968,13 @@
     "not_after": "1684",
     "# when": "",
     "date_letter": "1670-1684",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "447": {
     "id": 447,
@@ -25869,7 +28005,13 @@
     "not_after": "1800",
     "# when": "",
     "date_letter": "",
-    "century": "17.-18. Jhdt."
+    "century": "17.-18. Jhdt.",
+    "Genre": [
+      {
+        "id": 13,
+        "value": "Normative texts"
+      }
+    ]
   },
   "453": {
     "id": 453,
@@ -25900,7 +28042,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "437": {
     "id": 437,
@@ -25926,7 +28074,13 @@
     "not_after": "1700",
     "# when": "",
     "date_letter": "",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "464": {
     "id": 464,
@@ -25947,7 +28101,12 @@
     "title": "Sammelhandschrift",
     "date": "",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_10074",
     "extent": "II, 208, II* Bl.",
@@ -25961,7 +28120,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 12,
+        "value": "Other"
+      }
+    ]
   },
   "105": {
     "id": 105,
@@ -25987,7 +28152,13 @@
     "not_after": "1800",
     "# when": "",
     "date_letter": "",
-    "century": "17.–18. Jhdt."
+    "century": "17.–18. Jhdt.",
+    "Genre": [
+      {
+        "id": 13,
+        "value": "Normative texts"
+      }
+    ]
   },
   "463": {
     "id": 463,
@@ -26013,7 +28184,13 @@
     "not_after": null,
     "# when": "1714",
     "date_letter": "",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 13,
+        "value": "Normative texts"
+      }
+    ]
   },
   "106": {
     "id": 106,
@@ -26030,7 +28207,12 @@
     "title": "Catalogus bibliothecae collegii Societatis Iesu Neostadiensis",
     "date": "",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_11895",
     "extent": "I, 203 Bl.",
@@ -26044,7 +28226,13 @@
     "not_after": "1800",
     "# when": "",
     "date_letter": "",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 12,
+        "value": "Other"
+      }
+    ]
   },
   "219": {
     "id": 219,
@@ -26061,7 +28249,12 @@
     "title": "Diarium collegii Societatis Iesu Brunensis in Moravia a. 1658-1679",
     "date": "1658–1679",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Provincia Bohemia"
+      }
+    ],
     "note_type_facs": "http://data.onb.ac.at/dtl/8641248",
     "xml_id": "cod_11949",
     "extent": "256 Bl.",
@@ -26075,7 +28268,13 @@
     "not_after": "1679",
     "# when": "",
     "date_letter": "1658–1679",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "462": {
     "id": 462,
@@ -26092,7 +28291,12 @@
     "title": "Liber expositi collegii Societatis Iesu Hradistii a. 1750-1773",
     "date": "ab 1750",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Provincia Bohemia"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_11947",
     "extent": "I, 581 Bl.",
@@ -26106,7 +28310,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1750-1773",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 14,
+        "value": "Financial reports"
+      }
+    ]
   },
   "461": {
     "id": 461,
@@ -26123,7 +28333,12 @@
     "title": "Rationes triennales et informationes collegii Societatis Iesu Brunensis in Moravia a. 1649-1699",
     "date": "1649-1699",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Provincia Bohemia"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_11948",
     "extent": "I, 115, I* Bl.",
@@ -26137,7 +28352,13 @@
     "not_after": "1699",
     "# when": "",
     "date_letter": "1649-1699",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 14,
+        "value": "Financial reports"
+      }
+    ]
   },
   "227": {
     "id": 227,
@@ -26154,7 +28375,12 @@
     "title": "Liber primus consultationum ut videtur collegii Societatis Iesu Hradistii a. 1680-1762",
     "date": "1680-1762",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Provincia Bohemia"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_11950",
     "extent": "I, 149 Bl.",
@@ -26168,7 +28394,13 @@
     "not_after": "1762",
     "# when": "",
     "date_letter": "1680-1762",
-    "century": "17.–18. Jhdt."
+    "century": "17.–18. Jhdt.",
+    "Genre": [
+      {
+        "id": 13,
+        "value": "Normative texts"
+      }
+    ]
   },
   "465": {
     "id": 465,
@@ -26199,7 +28431,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1755-1773",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 3,
+        "value": "Letters"
+      }
+    ]
   },
   "466": {
     "id": 466,
@@ -26230,7 +28468,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1646-1758",
-    "century": "17.-18. Jhdt."
+    "century": "17.-18. Jhdt.",
+    "Genre": [
+      {
+        "id": 13,
+        "value": "Normative texts"
+      }
+    ]
   },
   "467": {
     "id": 467,
@@ -26261,7 +28505,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1579-1709",
-    "century": "16.-18. Jhdt."
+    "century": "16.-18. Jhdt.",
+    "Genre": [
+      {
+        "id": 13,
+        "value": "Normative texts"
+      }
+    ]
   },
   "46": {
     "id": 46,
@@ -26292,7 +28542,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1568–1737",
-    "century": "17.–18. Jhdt."
+    "century": "17.–18. Jhdt.",
+    "Genre": [
+      {
+        "id": 13,
+        "value": "Normative texts"
+      }
+    ]
   },
   "52": {
     "id": 52,
@@ -26323,7 +28579,13 @@
     "not_after": null,
     "# when": "1713",
     "date_letter": "1712",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "57": {
     "id": 57,
@@ -26340,7 +28602,12 @@
     "title": "Examen candidatorum Societatis Iesu in collegio Viennensi a. 1679-1714",
     "date": "1679–1714",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_12408",
     "extent": "III, 192, I* Bl.",
@@ -26354,7 +28621,13 @@
     "not_after": "1714",
     "# when": "",
     "date_letter": "1679–1714",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 12,
+        "value": "Other"
+      }
+    ]
   },
   "58": {
     "id": 58,
@@ -26371,7 +28644,12 @@
     "title": "Examen candidatorum Societatis Iesu in collegio Viennensi a. 1715-1772",
     "date": "1715–1772",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_12409",
     "extent": "362 Bl.",
@@ -26385,7 +28663,13 @@
     "not_after": "1772",
     "# when": "",
     "date_letter": "1715–1772",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 12,
+        "value": "Other"
+      }
+    ]
   },
   "397": {
     "id": 397,
@@ -26402,7 +28686,12 @@
     "title": "Rationes trimestres residentiae Leopoldine SJ Neostadii ab anno 1747 et semestres P. Procurator provincialis Viennae",
     "date": "ab 1748",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_12410",
     "extent": "185 Bl.",
@@ -26416,7 +28705,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1747-1773",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 14,
+        "value": "Financial reports"
+      }
+    ]
   },
   "398": {
     "id": 398,
@@ -26433,7 +28728,12 @@
     "title": "Rationes trimestres collegii Hradistiensis cum seminario Societatis Iesu a. 1763-1773",
     "date": "ab 1764",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Provincia Bohemia"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_12410__asterix",
     "extent": "27 Bl.",
@@ -26447,7 +28747,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1763-1773",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 14,
+        "value": "Financial reports"
+      }
+    ]
   },
   "424": {
     "id": 424,
@@ -26461,10 +28767,15 @@
       }
     ],
     "note_type_catalogue": "http://data.onb.ac.at/rec/AC13949856",
-    "title": "Liber consultationum, collectionum, exhortationum, resolutionum et suffragiorum a. 1721-1773 collegii Samoriensis in provincia Poloniae Societatis Iesu",
+    "title": "Liber consultationum, collectionum, exhortationum, resolutionum et suffragiorum a. 1721-1773 collegii Samboriensis in provincia Poloniae Societatis Iesu",
     "date": "ab 1721",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 429,
+        "value": "Provincia Polonia Minor"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_12416",
     "extent": "I, 159 Bl.",
@@ -26478,7 +28789,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1721-1773",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 13,
+        "value": "Normative texts"
+      }
+    ]
   },
   "425": {
     "id": 425,
@@ -26495,7 +28812,12 @@
     "title": "Historia collegii Crosnensis Societatis Iesu a. 1720-1772",
     "date": "ab 1720",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 483,
+        "value": "Provincia Polonia Major"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_12417",
     "extent": "I, 466 Bl.",
@@ -26509,7 +28831,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1720-1772",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "59": {
     "id": 59,
@@ -26526,7 +28854,12 @@
     "title": "Historia collegii Crosnensis Societatis Iesu a. 1721 ad M. A. Tamburinum generalem etc.",
     "date": "ab 1721",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 483,
+        "value": "Provincia Polonia Major"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_12417__asterix",
     "extent": "I, 6, I* Bl.",
@@ -26540,7 +28873,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1721",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "303": {
     "id": 303,
@@ -26571,7 +28910,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1745",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "304": {
     "id": 304,
@@ -26602,7 +28947,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1746",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "305": {
     "id": 305,
@@ -26633,7 +28984,13 @@
     "not_after": "1749",
     "# when": "",
     "date_letter": "1747",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "306": {
     "id": 306,
@@ -26664,7 +29021,13 @@
     "not_after": "1750",
     "# when": "",
     "date_letter": "1748",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "307": {
     "id": 307,
@@ -26695,7 +29058,13 @@
     "not_after": null,
     "# when": "1750",
     "date_letter": "1749",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "308": {
     "id": 308,
@@ -26726,7 +29095,13 @@
     "not_after": null,
     "# when": "1751",
     "date_letter": "1750",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "309": {
     "id": 309,
@@ -26757,7 +29132,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1751",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "310": {
     "id": 310,
@@ -26788,7 +29169,13 @@
     "not_after": "1754",
     "# when": "",
     "date_letter": "1752",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "311": {
     "id": 311,
@@ -26819,7 +29206,13 @@
     "not_after": "1755",
     "# when": "",
     "date_letter": "1753",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "312": {
     "id": 312,
@@ -26850,7 +29243,13 @@
     "not_after": "1756",
     "# when": "",
     "date_letter": "1754",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "313": {
     "id": 313,
@@ -26881,7 +29280,13 @@
     "not_after": "1757",
     "# when": "",
     "date_letter": "1755",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "314": {
     "id": 314,
@@ -26912,7 +29317,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1756",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "315": {
     "id": 315,
@@ -26943,7 +29354,13 @@
     "not_after": "1759",
     "# when": "",
     "date_letter": "1757",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "316": {
     "id": 316,
@@ -26974,7 +29391,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1758",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "317": {
     "id": 317,
@@ -27005,7 +29428,13 @@
     "not_after": "1761",
     "# when": "",
     "date_letter": "1759",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "318": {
     "id": 318,
@@ -27036,7 +29465,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1760",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "319": {
     "id": 319,
@@ -27067,7 +29502,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1761",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "320": {
     "id": 320,
@@ -27098,7 +29539,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1762",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "321": {
     "id": 321,
@@ -27129,7 +29576,13 @@
     "not_after": "1765",
     "# when": "",
     "date_letter": "1763",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "322": {
     "id": 322,
@@ -27160,7 +29613,13 @@
     "not_after": "1766",
     "# when": "",
     "date_letter": "1764",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "323": {
     "id": 323,
@@ -27191,7 +29650,13 @@
     "not_after": "1767",
     "# when": "",
     "date_letter": "1765",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "324": {
     "id": 324,
@@ -27222,7 +29687,13 @@
     "not_after": "1768",
     "# when": "",
     "date_letter": "1766",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "325": {
     "id": 325,
@@ -27253,7 +29724,13 @@
     "not_after": null,
     "# when": "1768",
     "date_letter": "1767",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "326": {
     "id": 326,
@@ -27284,7 +29761,13 @@
     "not_after": "1770",
     "# when": "",
     "date_letter": "1768",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "392": {
     "id": 392,
@@ -27315,7 +29798,13 @@
     "not_after": "1771",
     "# when": "",
     "date_letter": "1769",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "327": {
     "id": 327,
@@ -27346,7 +29835,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1770",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "342": {
     "id": 342,
@@ -27377,7 +29872,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1771",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "343": {
     "id": 343,
@@ -27408,7 +29909,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1701",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "344": {
     "id": 344,
@@ -27439,7 +29946,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1702",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "345": {
     "id": 345,
@@ -27470,7 +29983,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1704",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "354": {
     "id": 354,
@@ -27501,7 +30020,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1706",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "355": {
     "id": 355,
@@ -27532,7 +30057,13 @@
     "not_after": "1715",
     "# when": "",
     "date_letter": "1712",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "356": {
     "id": 356,
@@ -27563,7 +30094,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1713",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "357": {
     "id": 357,
@@ -27594,7 +30131,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1716",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "358": {
     "id": 358,
@@ -27625,7 +30168,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1719",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "359": {
     "id": 359,
@@ -27656,7 +30205,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1720",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "360": {
     "id": 360,
@@ -27687,7 +30242,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1721",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "361": {
     "id": 361,
@@ -27718,7 +30279,13 @@
     "not_after": null,
     "# when": "1723",
     "date_letter": "1722",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "362": {
     "id": 362,
@@ -27749,7 +30316,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1723",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "380": {
     "id": 380,
@@ -27780,7 +30353,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1740",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "363": {
     "id": 363,
@@ -27811,7 +30390,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1724",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "379": {
     "id": 379,
@@ -27842,7 +30427,13 @@
     "not_after": null,
     "# when": "1752",
     "date_letter": "1751",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "382": {
     "id": 382,
@@ -27873,7 +30464,13 @@
     "not_after": null,
     "# when": "1729",
     "date_letter": "1728",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "381": {
     "id": 381,
@@ -27904,7 +30501,13 @@
     "not_after": null,
     "# when": "1730",
     "date_letter": "1729",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "383": {
     "id": 383,
@@ -27935,7 +30538,13 @@
     "not_after": null,
     "# when": "1731",
     "date_letter": "1730",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "384": {
     "id": 384,
@@ -27966,7 +30575,13 @@
     "not_after": "1733",
     "# when": "",
     "date_letter": "1731",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "385": {
     "id": 385,
@@ -27997,7 +30612,13 @@
     "not_after": null,
     "# when": "1733",
     "date_letter": "1732",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "386": {
     "id": 386,
@@ -28028,7 +30649,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1733",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "387": {
     "id": 387,
@@ -28059,7 +30686,13 @@
     "not_after": null,
     "# when": "1735",
     "date_letter": "1734",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "388": {
     "id": 388,
@@ -28090,7 +30723,13 @@
     "not_after": null,
     "# when": "1737",
     "date_letter": "1736",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "389": {
     "id": 389,
@@ -28121,7 +30760,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1737",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "390": {
     "id": 390,
@@ -28152,7 +30797,13 @@
     "not_after": "1740",
     "# when": "",
     "date_letter": "1738",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "391": {
     "id": 391,
@@ -28183,7 +30834,13 @@
     "not_after": "1741",
     "# when": "",
     "date_letter": "1739",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "378": {
     "id": 378,
@@ -28214,7 +30871,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1741",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "377": {
     "id": 377,
@@ -28245,7 +30908,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1742",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "376": {
     "id": 376,
@@ -28276,7 +30945,13 @@
     "not_after": "1746",
     "# when": "",
     "date_letter": "1744",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "375": {
     "id": 375,
@@ -28307,7 +30982,13 @@
     "not_after": "1748",
     "# when": "",
     "date_letter": "1746",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "374": {
     "id": 374,
@@ -28338,7 +31019,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1747",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "373": {
     "id": 373,
@@ -28369,7 +31056,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1748",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "372": {
     "id": 372,
@@ -28400,7 +31093,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1749",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "371": {
     "id": 371,
@@ -28431,7 +31130,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1750",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "369": {
     "id": 369,
@@ -28462,7 +31167,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1752",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "368": {
     "id": 368,
@@ -28493,7 +31204,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1753",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "367": {
     "id": 367,
@@ -28524,7 +31241,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1754",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "366": {
     "id": 366,
@@ -28555,7 +31278,13 @@
     "not_after": "1758",
     "# when": "",
     "date_letter": "1755",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "365": {
     "id": 365,
@@ -28586,7 +31315,13 @@
     "not_after": "1758",
     "# when": "",
     "date_letter": "1756",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "364": {
     "id": 364,
@@ -28617,7 +31352,13 @@
     "not_after": "1759",
     "# when": "",
     "date_letter": "1757",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "222": {
     "id": 222,
@@ -28877,7 +31618,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1758",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "336": {
     "id": 336,
@@ -28908,7 +31655,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1759",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "335": {
     "id": 335,
@@ -28939,7 +31692,13 @@
     "not_after": "1762",
     "# when": "",
     "date_letter": "1760",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "334": {
     "id": 334,
@@ -28970,7 +31729,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1761",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "333": {
     "id": 333,
@@ -29001,7 +31766,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1762",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "186": {
     "id": 186,
@@ -29281,7 +32052,13 @@
     "not_after": "1765",
     "# when": "",
     "date_letter": "1763",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "187": {
     "id": 187,
@@ -29561,7 +32338,13 @@
     "not_after": "1766",
     "# when": "",
     "date_letter": "1764",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "188": {
     "id": 188,
@@ -29845,7 +32628,13 @@
     "not_after": "1767",
     "# when": "",
     "date_letter": "1765",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "328": {
     "id": 328,
@@ -29876,7 +32665,13 @@
     "not_after": "1768",
     "# when": "",
     "date_letter": "1766",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "329": {
     "id": 329,
@@ -29907,7 +32702,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1767",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "330": {
     "id": 330,
@@ -29938,7 +32739,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1768",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "332": {
     "id": 332,
@@ -29969,7 +32776,13 @@
     "not_after": "1772",
     "# when": "",
     "date_letter": "1770",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "460": {
     "id": 460,
@@ -30000,7 +32813,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1635, 1636, 1637, 1638, 1639, 1640",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "338": {
     "id": 338,
@@ -30031,7 +32850,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1641, 1642, 1643, 1644, 1645, 1646",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "221": {
     "id": 221,
@@ -30062,7 +32887,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1647, 1648, 1649, 1650, 1651, 1652",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "331": {
     "id": 331,
@@ -30093,7 +32924,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1769",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "339": {
     "id": 339,
@@ -30124,7 +32961,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1654, 1655, 1656, 1657, 1658, 1659, 1660",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "340": {
     "id": 340,
@@ -30155,7 +32998,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1661, 1662, 1663, 1664, 1665, 1666",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "341": {
     "id": 341,
@@ -30186,7 +33035,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1667, 1668, 1669, 1670, 1653",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "346": {
     "id": 346,
@@ -30217,7 +33072,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1671, 1672, 1673, 1674, 1675",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "347": {
     "id": 347,
@@ -30248,7 +33109,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1676, 1677, 1678, 1679, 1680",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "348": {
     "id": 348,
@@ -30279,7 +33146,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1681, 1682, 1683, 1684",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "349": {
     "id": 349,
@@ -30310,7 +33183,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1685, 1686, 1687, 1688, 1689",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "350": {
     "id": 350,
@@ -30341,7 +33220,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1690, 1691, 1692, 1693, 1694, 1695",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "337": {
     "id": 337,
@@ -30372,7 +33257,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1696, 1697, 1698, 1699, 1700",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "74": {
     "id": 74,
@@ -30403,7 +33294,13 @@
     "not_after": "1713",
     "# when": "",
     "date_letter": "1711",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "70": {
     "id": 70,
@@ -30602,7 +33499,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1714",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "71": {
     "id": 71,
@@ -30633,7 +33536,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1715",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "72": {
     "id": 72,
@@ -30669,7 +33578,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1738–1739",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "73": {
     "id": 73,
@@ -30700,7 +33615,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1717",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "148": {
     "id": 148,
@@ -30940,7 +33861,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1718",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "149": {
     "id": 149,
@@ -31216,7 +34143,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1720",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "150": {
     "id": 150,
@@ -31464,7 +34397,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1721",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "151": {
     "id": 151,
@@ -31740,7 +34679,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1732",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "152": {
     "id": 152,
@@ -32012,7 +34957,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1733",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "153": {
     "id": 153,
@@ -32284,7 +35235,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1734",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "60": {
     "id": 60,
@@ -32540,7 +35497,13 @@
     "not_after": null,
     "# when": "1736",
     "date_letter": "1735",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "109": {
     "id": 109,
@@ -32571,7 +35534,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1718",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "399": {
     "id": 399,
@@ -32588,7 +35557,12 @@
     "title": "Catalogus personarum collegii Graecensis Societatis Iesu a. 1644 Ferdinando III. imperatori oblatus",
     "date": "1644",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_12419",
     "extent": "IV, 31 Bl.",
@@ -32602,7 +35576,13 @@
     "not_after": null,
     "# when": "1644",
     "date_letter": "1644",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 2,
+        "value": "Catalogues, Informationes"
+      }
+    ]
   },
   "400": {
     "id": 400,
@@ -32619,7 +35599,12 @@
     "title": "Catalogus personarum collegii Graecensis Societatis Iesu a. 1640",
     "date": "1640",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_12419__asterix",
     "extent": "I, 16 Bl.",
@@ -32633,7 +35618,13 @@
     "not_after": null,
     "# when": "1640",
     "date_letter": "1640",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 2,
+        "value": "Catalogues, Informationes"
+      }
+    ]
   },
   "423": {
     "id": 423,
@@ -32659,7 +35650,13 @@
     "not_after": "1800",
     "# when": "",
     "date_letter": "",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 13,
+        "value": "Normative texts"
+      }
+    ]
   },
   "426": {
     "id": 426,
@@ -32676,7 +35673,12 @@
     "title": "Verzeichnis der Archivs-Urkunden und Akten des aufgehobenen Grazer Jesuitenkollegs",
     "date": "nach 1773",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_12480",
     "extent": "I, 49, I* Bl.",
@@ -32690,7 +35692,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 12,
+        "value": "Other"
+      }
+    ]
   },
   "478": {
     "id": 478,
@@ -32716,7 +35724,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 5,
+        "value": "Biographical material"
+      }
+    ]
   },
   "479": {
     "id": 479,
@@ -32756,7 +35770,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "480": {
     "id": 480,
@@ -32773,7 +35793,12 @@
     "title": "Litterae annuae domus Telczensis Societatis Iesu a. 1656-1751",
     "date": "nach 1656",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Provincia Bohemia"
+      }
+    ],
     "note_type_facs": "http://data.onb.ac.at/dtl/6155137",
     "xml_id": "cod_13558__asterix",
     "extent": "II, 514, II* Bl.",
@@ -32787,7 +35812,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1656-1751",
-    "century": "17.-18. Jhdt."
+    "century": "17.-18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "481": {
     "id": 481,
@@ -32804,7 +35835,12 @@
     "title": "Sammelhandschrift: Historia und Diaria Collegii Olomucensis Societatis Iesu",
     "date": "",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Provincia Bohemia"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_13559",
     "extent": "II, 213, II* Bl.",
@@ -32818,7 +35854,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "",
-    "century": "17.-18. Jhdt."
+    "century": "17.-18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "482": {
     "id": 482,
@@ -32835,7 +35877,12 @@
     "title": "Sammelhandschrift: Varia Collegii Olomucensis Societatis Iesu",
     "date": "",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Provincia Bohemia"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_13559__asterix",
     "extent": "III, 126, II* Bl.",
@@ -32849,7 +35896,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "427": {
     "id": 427,
@@ -32880,7 +35933,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1616, 1617",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "428": {
     "id": 428,
@@ -32911,7 +35970,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1617, 1618, 1619",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "430": {
     "id": 430,
@@ -32942,7 +36007,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1628, 1629, 1630, 1631, 1632",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "432": {
     "id": 432,
@@ -32959,7 +36030,12 @@
     "title": "Historia de ortu et progressu collegii Sprintzensteiniani Societatis Iesu Lignicii",
     "date": "ab 1701",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Provincia Bohemia"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_13600",
     "extent": "I, 92, I* Bl.",
@@ -32973,7 +36049,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "433": {
     "id": 433,
@@ -32990,7 +36072,12 @@
     "title": "Litterae quadrimestres et alia acta ad historiam collegii Clementini Societatis Iesu Pragae a. 1565-1588 facientia",
     "date": "",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Provincia Bohemia"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_13601",
     "extent": "I, 92, I* Bl.",
@@ -33004,7 +36091,13 @@
     "not_after": "1800",
     "# when": "",
     "date_letter": "",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 12,
+        "value": "Other"
+      }
+    ]
   },
   "434": {
     "id": 434,
@@ -33025,7 +36118,12 @@
     "title": "Sammelhandschrift",
     "date": "",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Provincia Bohemia"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_13602",
     "extent": "I, 36, I* Bl.",
@@ -33039,7 +36137,13 @@
     "not_after": "1800",
     "# when": "",
     "date_letter": "",
-    "century": "17.-18. Jhdt."
+    "century": "17.-18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "435": {
     "id": 435,
@@ -33060,7 +36164,12 @@
     "title": "Sammelhandschrift",
     "date": "",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Provincia Bohemia"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_13602__asterix",
     "extent": "I, 20, I* Bl.",
@@ -33074,7 +36183,17 @@
     "not_after": "1800",
     "# when": "",
     "date_letter": "",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      },
+      {
+        "id": 12,
+        "value": "Other"
+      }
+    ]
   },
   "436": {
     "id": 436,
@@ -33091,7 +36210,12 @@
     "title": "Epistolae quinque variorum Societatis Iesu de ecclesia Glacensi",
     "date": "",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Provincia Bohemia"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_13604",
     "extent": "I, 39, I* Bl.",
@@ -33105,7 +36229,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 3,
+        "value": "Letters"
+      }
+    ]
   },
   "446": {
     "id": 446,
@@ -33119,8 +36249,8 @@
     "persons": [],
     "mentioned_places": [
       {
-        "id": 429,
-        "value": "Provincia Polonia Minor"
+        "id": 484,
+        "value": "Provincia Polona"
       }
     ],
     "note_type_facs": "",
@@ -33136,7 +36266,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "",
-    "century": "17.-18. Jhdt."
+    "century": "17.-18. Jhdt.",
+    "Genre": [
+      {
+        "id": 13,
+        "value": "Normative texts"
+      }
+    ]
   },
   "441": {
     "id": 441,
@@ -33153,7 +36289,12 @@
     "title": "Historia fundationis et progressus collegii Olomucensis Societatis Iesu usque ad finem saec. XVII",
     "date": "",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Provincia Bohemia"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_13739",
     "extent": "I, 93, I* Bl.",
@@ -33167,7 +36308,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "454": {
     "id": 454,
@@ -33184,7 +36331,12 @@
     "title": "Sammelhandschrift: Historiae collegii Iglaviensis Societatis Iesu",
     "date": "ab 1640",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Provincia Bohemia"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_13748",
     "extent": "I, 179, I* Bl.",
@@ -33198,7 +36350,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "483": {
     "id": 483,
@@ -33215,7 +36373,12 @@
     "title": "Litterae annuae collegii Iglaviensis Societatis Iesu a. 1628-1753",
     "date": "ab 1628",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Provincia Bohemia"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_13749",
     "extent": "I, 328, I* Bl.",
@@ -33229,7 +36392,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1628-1753",
-    "century": "17.-18. Jhdt."
+    "century": "17.-18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "484": {
     "id": 484,
@@ -33246,7 +36415,12 @@
     "title": "Sammelhandschrift: Epistolae; Catalogi personarum",
     "date": "nach 1626",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 272,
+        "value": "Provincia Bohemia"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_13750",
     "extent": "I, 118, I* Bl.",
@@ -33260,7 +36434,17 @@
     "not_after": null,
     "# when": "",
     "date_letter": "",
-    "century": "17.-18. Jhdt."
+    "century": "17.-18. Jhdt.",
+    "Genre": [
+      {
+        "id": 2,
+        "value": "Catalogues, Informationes"
+      },
+      {
+        "id": 3,
+        "value": "Letters"
+      }
+    ]
   },
   "485": {
     "id": 485,
@@ -33289,6 +36473,10 @@
       {
         "id": 214,
         "value": "Mikulov"
+      },
+      {
+        "id": 342,
+        "value": "Provincia Austria"
       }
     ],
     "note_type_facs": "http://data.onb.ac.at/dtl/4388406",
@@ -33304,7 +36492,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1700-1709",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 12,
+        "value": "Other"
+      }
+    ]
   },
   "241": {
     "id": 241,
@@ -33321,7 +36515,12 @@
     "title": "Historia collegii Soproniensis Societatis Iesu. Vol. I: a. 1636-1694.",
     "date": "ab 1639",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_14002",
     "extent": "II, 230 Bl.",
@@ -33335,7 +36534,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "242": {
     "id": 242,
@@ -33352,7 +36557,12 @@
     "title": "Historia collegii Soproniensis Societatis Iesu. Vol. II: a. 1695-1757.",
     "date": "ab 1695",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_14003",
     "extent": "II, 229 Bl.",
@@ -33366,7 +36576,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "243": {
     "id": 243,
@@ -33383,7 +36599,12 @@
     "title": "Historia collegii Soproniensis Societatis Iesu. Vol. III: a. 1758-1773",
     "date": "ab 1759",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_14004",
     "extent": "I, 234 Bl.",
@@ -33397,7 +36618,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "244": {
     "id": 244,
@@ -33645,7 +36872,13 @@
     "not_after": "1757",
     "# when": "",
     "date_letter": "1755",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "429": {
     "id": 429,
@@ -33676,7 +36909,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1619, 1620, 1621, 1622, 1623, 1625, 1626, 1627",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "431": {
     "id": 431,
@@ -33707,7 +36946,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1631, 1632",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "438": {
     "id": 438,
@@ -33724,7 +36969,12 @@
     "title": "Chronologia collegii Societatis Iesu Lincii in Austria superiori ab a. 1600 usque ad a. 1684",
     "date": "",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_7438",
     "extent": "I, 16, I* Bl.",
@@ -33738,7 +36988,13 @@
     "not_after": "1700",
     "# when": "",
     "date_letter": "",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "455": {
     "id": 455,
@@ -33755,7 +37011,12 @@
     "title": "'Diarium personarum ordinis Lecturae et aliorum eventuum studii theologici apud patres Societatis Iesu in universitate Viennensi' a. 1762-1773",
     "date": "ab 1742",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_7567",
     "extent": "III, 468 Bl.",
@@ -33769,19 +37030,35 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1762-1773",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "440": {
     "id": 440,
     "order": "46.50000000000000000000",
     "signatur": "Cod. 7615",
     "jesuiten_id": "jesuiten_msdesc__440",
-    "mentioned_orgs": [],
+    "mentioned_orgs": [
+      {
+        "id": 2,
+        "value": "Jesuitenkolleg Wien"
+      }
+    ],
     "note_type_catalogue": "http://data.onb.ac.at/rec/AC13955052",
     "title": "Excerpta ex albis sodalitatis BMV in collegio academico Societatis Iesu Vindobonae a. 1672-1770",
     "date": "",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_7615",
     "extent": "I, 9, I* Bl.",
@@ -33795,7 +37072,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "456": {
     "id": 456,
@@ -33807,7 +37090,12 @@
     "title": "Epistolae quinque de auspicanda reformatione religionis in Styria, Carinthia et Carniolia.",
     "date": "nach 1615",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_7640",
     "extent": "I, 106, I* Bl.",
@@ -33821,7 +37109,17 @@
     "not_after": null,
     "# when": "",
     "date_letter": "",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 3,
+        "value": "Letters"
+      },
+      {
+        "id": 13,
+        "value": "Normative texts"
+      }
+    ]
   },
   "439": {
     "id": 439,
@@ -33852,7 +37150,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "",
-    "century": "17.-18. Jhdt."
+    "century": "17.-18. Jhdt.",
+    "Genre": [
+      {
+        "id": 13,
+        "value": "Normative texts"
+      }
+    ]
   },
   "459": {
     "id": 459,
@@ -33869,7 +37173,12 @@
     "title": "Diarium sodalitatis BMV in domo professa Societatis Iesu ab a. 1716-1783",
     "date": "nach 1756",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_8047",
     "extent": "I, 197 Bl.",
@@ -33883,7 +37192,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "458": {
     "id": 458,
@@ -33895,7 +37210,12 @@
     "title": "Inventarium utensilium ecclesiasticorum fraternitatis coelibum ad S. Mariae Purificationem quae in domo professorum Societatis Iesu Viennae asservata fuerunt a. 1752",
     "date": "",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_8096",
     "extent": "III, 49 Bl.",
@@ -33909,7 +37229,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 12,
+        "value": "Other"
+      }
+    ]
   },
   "457": {
     "id": 457,
@@ -33926,7 +37252,12 @@
     "title": "Historia missionis Nastasoviensis Societatis Iesu ab ipsa loci origine a. 1753 cum documentis",
     "date": "nach 1706",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 429,
+        "value": "Provincia Polonia Minor"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_8248",
     "extent": "38 Bl.",
@@ -33940,7 +37271,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "442": {
     "id": 442,
@@ -33957,7 +37294,12 @@
     "title": "Historia collegii Societatis Iesu Viennensis pars III a. 1728-1770",
     "date": "ab 1728",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_8342",
     "extent": "I, 350 Bl.",
@@ -33971,7 +37313,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1728-1770",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "443": {
     "id": 443,
@@ -33988,7 +37336,12 @@
     "title": "Historia collegii Societatis Iesu Viennensis pars I a. 1552-1638",
     "date": "ab 1638",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
     "note_type_facs": "http://data.onb.ac.at/dtl/6494508",
     "xml_id": "cod_8367",
     "extent": "464, II* Bl.",
@@ -34002,7 +37355,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1552-1638",
-    "century": "17. Jhdt."
+    "century": "17. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "444": {
     "id": 444,
@@ -34019,7 +37378,12 @@
     "title": "Historia collegii Societatis Iesu Viennensis pars II a. 1648-1727",
     "date": "ab 1648",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_8368",
     "extent": "527 Bl.",
@@ -34033,7 +37397,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1648-1727",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 4,
+        "value": "Annual letters and other relations"
+      }
+    ]
   },
   "486": {
     "id": 486,
@@ -34064,7 +37434,13 @@
     "not_after": null,
     "# when": "",
     "date_letter": "",
-    "century": "17.-18. Jhdt."
+    "century": "17.-18. Jhdt.",
+    "Genre": [
+      {
+        "id": 3,
+        "value": "Letters"
+      }
+    ]
   },
   "487": {
     "id": 487,
@@ -34081,7 +37457,12 @@
     "title": "Libri bibliothecae domus professae Viennensis Societatis Iesu variis concessi a 1. Octobris 1770",
     "date": "1770",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
     "note_type_facs": "",
     "xml_id": "cod_9634",
     "extent": "93 Bl.",
@@ -34095,19 +37476,35 @@
     "not_after": null,
     "# when": "",
     "date_letter": "1770",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 12,
+        "value": "Other"
+      }
+    ]
   },
   "492": {
     "id": 492,
     "order": "52.50000000000000000000",
     "signatur": "Cod. 9811",
     "jesuiten_id": "jesuiten_msdesc__492",
-    "mentioned_orgs": [],
+    "mentioned_orgs": [
+      {
+        "id": 1,
+        "value": "Profeßhaus Wien"
+      }
+    ],
     "note_type_catalogue": "http://data.onb.ac.at/rec/AC13956237",
     "title": "Dramata varia a gymnasio domus professae Societatis Iesu a. 1687-1704 acta cum musica Bernardi Staudt. Vol. III.",
     "date": "1705-1707",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
     "note_type_facs": "http://data.onb.ac.at/dtl/6230141",
     "xml_id": "cod_9811",
     "extent": "II, 314 Bl.",
@@ -34116,24 +37513,40 @@
     "foliation": "Moderne Foliierung.",
     "acc_mat": "",
     "binding": "Pergament über Pappdeckeln, 18. Jhdt.",
-    "summary": "",
+    "summary": "Verschiedene Dramen, die im Zeitraum von 1687 bis 1704 am Gymnasium des Jesuitenordens aufgeführt wurden, mit Musik von Bernard Staudt. Insgesamt 5 Bände (Cod. 9809-9813).",
     "not_before": "1705",
     "not_after": "1707",
     "# when": "",
     "date_letter": "",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 12,
+        "value": "Other"
+      }
+    ]
   },
   "493": {
     "id": 493,
     "order": "52.66666666666666429819",
     "signatur": "Cod. 9812",
     "jesuiten_id": "jesuiten_msdesc__493",
-    "mentioned_orgs": [],
+    "mentioned_orgs": [
+      {
+        "id": 1,
+        "value": "Profeßhaus Wien"
+      }
+    ],
     "note_type_catalogue": "http://data.onb.ac.at/rec/AC13956238",
     "title": "Dramata varia a gymnasio domus professae Societatis Iesu a. 1687-1704 acta cum musica Bernardi Staudt. Vol. IV.",
     "date": "1705-1707",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
     "note_type_facs": "http://data.onb.ac.at/dtl/6245652",
     "xml_id": "cod_9812",
     "extent": "II, 325, I* Bl.",
@@ -34142,24 +37555,40 @@
     "foliation": "Moderne Foliierung.",
     "acc_mat": "",
     "binding": "Pergament über Pappdeckeln, 18. Jhdt.",
-    "summary": "",
+    "summary": "Verschiedene Dramen, die im Zeitraum von 1687 bis 1704 am Gymnasium des Jesuitenordens aufgeführt wurden, mit Musik von Bernard Staudt. Insgesamt 5 Bände (Cod. 9809-9813).",
     "not_before": "1705",
     "not_after": "1707",
     "# when": "",
     "date_letter": "",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 12,
+        "value": "Other"
+      }
+    ]
   },
   "488": {
     "id": 488,
     "order": "53.00000000000000000000",
     "signatur": "Cod. 9813",
     "jesuiten_id": "jesuiten_msdesc__488",
-    "mentioned_orgs": [],
+    "mentioned_orgs": [
+      {
+        "id": 1,
+        "value": "Profeßhaus Wien"
+      }
+    ],
     "note_type_catalogue": "http://data.onb.ac.at/rec/AC13956239",
     "title": "Dramata varia a gymnasio domus professae Societatis Iesu a. 1687-1704 acta cum musica Bernardi Staudt. Vol. V.",
     "date": "1705-1707",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
     "note_type_facs": "http://data.onb.ac.at/dtl/6246979",
     "xml_id": "cod_9813",
     "extent": "II, 267, II* Bl.",
@@ -34168,24 +37597,40 @@
     "foliation": "Moderne Foliierung.",
     "acc_mat": "",
     "binding": "Pergament über Pappdeckeln, 18. Jhdt.",
-    "summary": "",
+    "summary": "Verschiedene Dramen, die im Zeitraum von 1687 bis 1704 am Gymnasium des Jesuitenordens aufgeführt wurden, mit Musik von Bernard Staudt. Insgesamt 5 Bände (Cod. 9809-9813).",
     "not_before": "1705",
     "not_after": "1707",
     "# when": "",
     "date_letter": "",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 12,
+        "value": "Other"
+      }
+    ]
   },
   "491": {
     "id": 491,
     "order": "54.50000000000000000000",
     "signatur": "Cod. 9809",
     "jesuiten_id": "jesuiten_msdesc__491",
-    "mentioned_orgs": [],
+    "mentioned_orgs": [
+      {
+        "id": 1,
+        "value": "Profeßhaus Wien"
+      }
+    ],
     "note_type_catalogue": "http://data.onb.ac.at/rec/AC13955069",
     "title": "Dramata varia a gymnasio domus professae Societatis Iesu a. 1687-1704 acta cum musica Bernardi Staudt. Vol. I.",
     "date": "1705-1707",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
     "note_type_facs": "http://data.onb.ac.at/dtl/6208298",
     "xml_id": "cod_9809",
     "extent": "II, 332, II* Bl.",
@@ -34194,24 +37639,40 @@
     "foliation": "Moderne Foliierung.",
     "acc_mat": "",
     "binding": "Pergament über Pappdeckeln, 18. Jhdt.",
-    "summary": "",
+    "summary": "Verschiedene Dramen, die im Zeitraum von 1687 bis 1704 am Gymnasium des Jesuitenordens aufgeführt wurden, mit Musik von Bernard Staudt. Insgesamt 5 Bände (Cod. 9809-9813).",
     "not_before": "1705",
     "not_after": "1707",
     "# when": "",
     "date_letter": "",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 12,
+        "value": "Other"
+      }
+    ]
   },
   "490": {
     "id": 490,
     "order": "55.00000000000000000000",
     "signatur": "Cod. 9810",
     "jesuiten_id": "jesuiten_msdesc__490",
-    "mentioned_orgs": [],
+    "mentioned_orgs": [
+      {
+        "id": 1,
+        "value": "Profeßhaus Wien"
+      }
+    ],
     "note_type_catalogue": "http://data.onb.ac.at/rec/AC13956236",
     "title": "Dramata varia a gymnasio domus professae Societatis Iesu a. 1687-1704 acta cum musica Bernardi Staudt. Vol. II.",
     "date": "1705-1707",
     "persons": [],
-    "mentioned_places": [],
+    "mentioned_places": [
+      {
+        "id": 342,
+        "value": "Provincia Austria"
+      }
+    ],
     "note_type_facs": "http://data.onb.ac.at/dtl/6228549",
     "xml_id": "cod_9810",
     "extent": "II, 339, II* Bl.",
@@ -34220,11 +37681,17 @@
     "foliation": "Moderne Foliierung.",
     "acc_mat": "",
     "binding": "Pergament über Pappdeckeln, 18. Jhdt.",
-    "summary": "Vol. II. Insgesamt 5 Bände (Cod. 9809-9813).",
+    "summary": "Verschiedene Dramen, die im Zeitraum von 1687 bis 1704 am Gymnasium des Jesuitenordens aufgeführt wurden, mit Musik von Bernard Staudt. Insgesamt 5 Bände (Cod. 9809-9813).",
     "not_before": "1705",
     "not_after": "1707",
     "# when": "",
     "date_letter": "",
-    "century": "18. Jhdt."
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 12,
+        "value": "Other"
+      }
+    ]
   }
 }

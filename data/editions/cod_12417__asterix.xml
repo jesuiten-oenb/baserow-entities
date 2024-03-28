@@ -45,6 +45,12 @@
                                         <orgName key="#jesuiten_org__182">Jesuitenkolleg Krosno</orgName>
                                     </org>
                                 </listOrg>                           
+                            <listPlace>
+                                <head>Erwähnte Orte:</head>
+                                <place>
+                                    <placeName key="#jesuiten_place__483">Provincia Polonia Major</placeName>
+                                </place>
+                            </listPlace>                           
                         </summary> 
                         <textLang mainLang="lat"/>
                         
@@ -86,6 +92,11 @@
                      <geo>49.68866 21.77058</geo>
                      <note type="idno"><idno type="geonames">https://sws.geonames.org/767470/</idno></note>
                   </location>
+                  <note>CROSNA, Krosno, urbs in dioce. Premisliensi. Collegium Crosnense 1614-1773 prov. Maior. Polon., cum gymnasio, philosophia et theologia pro solis externis.</note>
                <noteGrp><note target="cod_12012.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12012</note><note target="cod_12417.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12417</note><note target="cod_12417__asterix.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12417*</note></noteGrp></org>
-               </listOrg></back></text>
+               </listOrg><listPlace><place xml:id="jesuiten_place__483">
+                  <placeName>Provincia Polonia Major</placeName>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q211371</idno>
+               <noteGrp><note target="cod_12417.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12417</note><note target="cod_12417__asterix.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12417*</note></noteGrp></place>
+               </listPlace></back></text>
 </TEI>

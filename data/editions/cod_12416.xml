@@ -28,7 +28,7 @@
                         <idno>Cod. 12416</idno>
                     </msIdentifier>
                     <head>
-                        <title>Liber consultationum, collectionum, exhortationum, resolutionum et suffragiorum a. 1721-1773 collegii Samoriensis in provincia Poloniae Societatis Iesu</title>
+                        <title>Liber consultationum, collectionum, exhortationum, resolutionum et suffragiorum a. 1721-1773 collegii Samboriensis in provincia Poloniae Societatis Iesu</title>
                         <date type="letter">1721-1773 </date>
                         <note type="catalogue">
                             <ref target="http://data.onb.ac.at/rec/AC13949856"/>
@@ -44,6 +44,12 @@
                                         <orgName key="#jesuiten_org__541">Jesuitenresidenz Sambir</orgName>
                                     </org>
                                 </listOrg>                           
+                            <listPlace>
+                                <head>Erwähnte Orte:</head>
+                                <place>
+                                    <placeName key="#jesuiten_place__429">Provincia Polonia Minor</placeName>
+                                </place>
+                            </listPlace>                           
                         </summary> 
                         <textLang mainLang="lat"/>
                         
@@ -124,7 +130,11 @@
     </teiHeader>
     <text>
         <body><p/></body>
-    <back><listOrg><org xml:id="jesuiten_org__541">
+    <back><listPlace><place xml:id="jesuiten_place__429">
+                  <placeName>Provincia Polonia Minor</placeName>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q11390</idno>
+               <noteGrp><note target="cod_11977.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11977</note><note target="cod_11982.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11982</note><note target="cod_11983.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11983</note><note target="cod_11988.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11988</note><note target="cod_11989.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11989</note><note target="cod_12009.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12009</note><note target="cod_12009__asterix.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12009*</note><note target="cod_12021.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12021</note><note target="cod_12022.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12022</note><note target="cod_12023.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12023</note><note target="cod_12025.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12025</note><note target="cod_12027.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12027</note><note target="cod_12416.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12416</note><note target="cod_8248.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 8248</note></noteGrp></place>
+               </listPlace><listOrg><org xml:id="jesuiten_org__541">
                   <orgName>Jesuitenresidenz Sambir</orgName>
                   <orgName type="alt">Residentia Samboriensis</orgName>
                   <location type="located_in_place">
