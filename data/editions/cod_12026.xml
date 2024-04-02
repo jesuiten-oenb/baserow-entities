@@ -152,20 +152,6 @@
                      <note type="idno"><idno type="geonames">https://sws.geonames.org/3072649/</idno></note>
                   </location>
                <noteGrp><note target="cod_12026.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12026</note></noteGrp></org>
-               <org xml:id="jesuiten_org__450">
-                  <orgName>Jesuitenmission Brumov</orgName>
-                  <orgName type="alt">Missio Brumoviensis</orgName>
-                  <location type="located_in_place">
-                     <placeName key="jesuiten_place__374">Brumov-Bylnice</placeName>
-                     <geo>49.09177 18.02238</geo>
-                     <note type="idno"><idno type="geonames">https://sws.geonames.org/11524295/</idno></note>
-                  </location>
-               <noteGrp><note target="cod_11962.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11962</note><note target="cod_12026.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12026</note></noteGrp></org>
-               <org xml:id="jesuiten_org__208">
-                  <orgName>Jesuitenmission Cardinalitia</orgName>
-                  <orgName type="alt">Missio Cardinalitia</orgName>
-                  <note>Moravia ?</note>
-               <noteGrp><note target="cod_11960.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11960</note><note target="cod_12026.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12026</note><note target="cod_13563.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 13563</note></noteGrp></org>
                <org xml:id="jesuiten_org__583">
                   <orgName>Jesuitenmission Topoľčany</orgName>
                   <orgName type="alt">Missio Topolchana</orgName>
@@ -175,6 +161,20 @@
                      <note type="idno"><idno type="geonames">https://sws.geonames.org/3057174/</idno></note>
                   </location>
                <noteGrp><note target="cod_12026.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12026</note></noteGrp></org>
+               <org xml:id="jesuiten_org__208">
+                  <orgName>Jesuitenmission Cardinalitia</orgName>
+                  <orgName type="alt">Missio Cardinalitia</orgName>
+                  <note>Moravia ?</note>
+               <noteGrp><note target="cod_11960.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11960</note><note target="cod_12026.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12026</note><note target="cod_13563.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 13563</note></noteGrp></org>
+               <org xml:id="jesuiten_org__450">
+                  <orgName>Jesuitenmission Brumov</orgName>
+                  <orgName type="alt">Missio Brumoviensis</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__374">Brumov-Bylnice</placeName>
+                     <geo>49.09177 18.02238</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/11524295/</idno></note>
+                  </location>
+               <noteGrp><note target="cod_11962.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11962</note><note target="cod_12026.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12026</note></noteGrp></org>
                </listOrg><listPlace><place xml:id="jesuiten_place__272">
                   <placeName>Provincia Bohemia</placeName>
                   <location type="coords">
