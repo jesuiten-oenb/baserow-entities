@@ -330,17 +330,43 @@
     </teiHeader>
     <text>
         <body><p/></body>
-    <back><listOrg><org xml:id="jesuiten_org__539">
-                  <orgName>Jesuitenmission Bila Tserkva</orgName>
-                  <orgName type="alt">Missio Białocerquensis / Bialocerquensis</orgName>
+    <back><listPlace><place xml:id="jesuiten_place__429">
+                  <placeName>Provincia Polonia Minor</placeName>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q11390</idno>
+               <noteGrp><note target="cod_11977.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11977</note><note target="cod_11982.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11982</note><note target="cod_11983.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11983</note><note target="cod_11988.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11988</note><note target="cod_11989.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11989</note><note target="cod_12009.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12009</note><note target="cod_12009__asterix.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12009*</note><note target="cod_12021.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12021</note><note target="cod_12022.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12022</note><note target="cod_12023.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12023</note><note target="cod_12025.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12025</note><note target="cod_12027.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12027</note><note target="cod_12416.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12416</note><note target="cod_8248.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 8248</note></noteGrp></place>
+               </listPlace><listOrg><org xml:id="jesuiten_org__165">
+                  <orgName>Jesuitenkolleg Lublin</orgName>
+                  <orgName type="alt">Collegium Lublinense</orgName>
                   <location type="located_in_place">
-                     <placeName key="jesuiten_place__435">Bila Tserkva</placeName>
-                     <geo>49.80040 30.12851</geo>
-                     <note type="idno"><idno type="geonames">https://sws.geonames.org/712165/</idno></note>
+                     <placeName key="jesuiten_place__142">Lublin</placeName>
+                     <geo>51.25000 22.56667</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/765876/</idno></note>
                   </location>
-                  <note>Białacerkiew, lat. Bialocerquia, urbs in Ukraina, dioec. Kijoviensis. Missio Bialocerkviensis, Bialocerquensis, a. 1664 inchoata,
-pertinebat ad coll. Ostrogiense, postea ab a. 1686 ad domum Ovrucensem, connexa cum missione Jurevicensi. 
-Catalogus provinciae Galicianae Societatis Jesu. Ineunte anno 1899, Krakau, S. 8.</note>
+                  <note>LUBLIN, Lublinum, urbs olim in dioec. Cracoviensi. Collegium Lublinense 1582-1773 prov. Minor. Polon., cum gymnasio, philosophia et theologia pro externis, item cum theologia pro Nostris. Praetor collegium fuit ab a. 1675 seminarium clericorum, postea eius loco collegium nobilium 1754-1773.
+Quelle: Catalogus provinciae Galicianae Societatis Jesu, Krakow 1899, S. 40.</note>
+               <noteGrp><note target="cod_12005.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12005</note><note target="cod_12006.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12006</note><note target="cod_12009.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12009</note><note target="cod_12009__asterix.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12009*</note><note target="cod_12012.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12012</note><note target="cod_12013.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12013</note></noteGrp></org>
+               <org xml:id="jesuiten_org__536">
+                  <orgName>Jesuitenmission Kovel</orgName>
+                  <orgName type="alt">Missio covelensis</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__433">Kovel</placeName>
+                     <geo>51.21526 24.70867</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/704617/</idno></note>
+                  </location>
+                  <note>Covelici, Kowel, oppidum. Missio Coveliana, kovelensis 1686-
+1773, pertinebat ad collegium Luceoriense et ad residentiam Vlodimiriensem, prov. MIinor. Polon.
+(Catalogus provinciae Galicianae Societatis Jesu. Ineunte anno 1899, Krakau, S. 15)</note>
+               <noteGrp><note target="cod_12009.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12009</note><note target="cod_12009__asterix.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12009*</note></noteGrp></org>
+               <org xml:id="jesuiten_org__540">
+                  <orgName>Jesuitenmission Błonie</orgName>
+                  <orgName type="alt">Missio Blonnensis</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__436">Błonie</placeName>
+                     <geo>52.19849 20.61709</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/775820/</idno></note>
+                  </location>
+                  <note>Błon, Błonie, praedium coll. acad. Vilnensis (1620- 1773). Blonensis missio ibidem, vide: Bakana.  
+(Catalogus provinciae Galicianae Societatis Jesu. Ineunte anno 1899, Krakau, S. 9).</note>
                <noteGrp><note target="cod_12009.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12009</note><note target="cod_12009__asterix.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12009*</note></noteGrp></org>
                <org xml:id="jesuiten_org__537">
                   <orgName>Jesuitenkolleg Kremenets</orgName>
@@ -362,15 +388,26 @@ Catalogus provinciae Galicianae Societatis Jesu. Ineunte anno 1899, Krakau, S. 1
                      <note type="idno"><idno type="geonames">https://sws.geonames.org/759603/</idno></note>
                   </location>
                <noteGrp><note target="cod_12005.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12005</note><note target="cod_12009.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12009</note><note target="cod_12009__asterix.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12009*</note><note target="cod_12012.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12012</note><note target="cod_12013.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12013</note></noteGrp></org>
-               <org xml:id="jesuiten_org__538">
-                  <orgName>Probationshaus Jarosław</orgName>
-                  <orgName type="alt">Domus probationis Jaroslaviensis</orgName>
+               <org xml:id="jesuiten_org__534">
+                  <orgName>Jesuitenkolleg Ovruch</orgName>
+                  <orgName type="alt">Collegium Xaver Ovrucense</orgName>
                   <location type="located_in_place">
-                     <placeName key="jesuiten_place__145">Jarosław</placeName>
-                     <geo>50.01623 22.67776</geo>
-                     <note type="idno"><idno type="geonames">https://sws.geonames.org/770380/</idno></note>
+                     <placeName key="jesuiten_place__431">Ovruch</placeName>
+                     <geo>51.32460 28.80351</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/698131/</idno></note>
                   </location>
                <noteGrp><note target="cod_12009.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12009</note><note target="cod_12009__asterix.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12009*</note></noteGrp></org>
+               <org xml:id="jesuiten_org__187">
+                  <orgName>Jesuitenkolleg Przemyśl</orgName>
+                  <orgName type="alt">Premisliense Collegium</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__161">Przemyśl</placeName>
+                     <geo>49.78498 22.76728</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/761168/</idno></note>
+                  </location>
+                  <note>gensem; derelicta a. 1780.
+PREMISLIA, Ptzemysl, urbs, sedes duorum cathol. episcoporum scl. ritus latini et graeci. Collegium Premisliense 1610-1773, prov. Minor. Polon., cum gymnasio, philosophia et theologia pro externis. Post a. 1756 collegium conjunctum erat cum Domo professa, cum . qua ab eodem gubernabatur praeposito simulque rectore. Premisliae fuit statio miss. 1821-1839 prov. Galic.</note>
+               <noteGrp><note target="cod_12009.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12009</note><note target="cod_12009__asterix.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12009*</note><note target="cod_12012.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12012</note><note target="cod_12023.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12023</note></noteGrp></org>
                <org xml:id="jesuiten_org__166">
                   <orgName>Jesuitenkolleg Lviv</orgName>
                   <orgName type="alt">Collegium Leopoliense</orgName>
@@ -382,6 +419,26 @@ Catalogus provinciae Galicianae Societatis Jesu. Ineunte anno 1899, Krakau, S. 1
                   <note>LEOPOLIS, Lwów, germ. Leinberg, urbs capitalis Galiciae, sedes trium cathol. archiepporum, scilicet ritus lat., graec. et armeni. Collegium Leopoliense, inchoatum a. 1585, ad ecclesiam SS. Petri et Pauli, prov. Minor. Polon., cum theologia pro Nostris, nec non cum gymnasio, philosophia et theologia pro externis; habuit etiam praerogativas academiae seu universitatis, quibus tamen, opponentibus se adversariis, vix utebatur. A collegio dependebat convictus nobilium 1749-1773 in separatis aedibus collocatus. Nostro saeculo post excitatam provinciam Galicianam, ad antiquum Societatis templum SS. Petri et Pauli a. 1821 condita est missio, postea conversa in residentiam, quae etiam nunc existit. Patres huius domus excurrebant in pagum Signiówka, ubi a. 1850 cura P. Michaelis Harder exstructum est sacellum pro incolis Germanis. Alia residentia Leopoli existebat penes templum S. Nicolai 1838-1848 cum cura parochiae et cum convictu nobilium, in quo docebat invenis scholasticus loan. Franzelin, idem postea Cardinalis. In monasterio Leopoliensi PP. Basilianorum inde ab a. 1886 habitant nostri Patres, occupati reformatione istius ordinis. Leopoli residebant Praepositi prov. Galic. 1844, 1867.
 Catalogus provinciae Galicianae Societatis Jesu, Krakow 1899, S. 38-39.</note>
                <noteGrp><note target="cod_11988.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11988</note><note target="cod_12005.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12005</note><note target="cod_12009.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12009</note><note target="cod_12009__asterix.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12009*</note><note target="cod_12012.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12012</note><note target="cod_12013.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12013</note><note target="cod_12025.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12025</note><note target="cod_12027.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12027</note></noteGrp></org>
+               <org xml:id="jesuiten_org__179">
+                  <orgName>Jesuitenkolleg Kamianets-Podilskyi</orgName>
+                  <orgName type="alt">Collegium Camenecense</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__155">Kamianets-Podilskyi</placeName>
+                     <geo>48.67882 26.58516</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/706950/</idno></note>
+                  </location>
+                  <note>CAMENECUM, Kamieniec Podolski, urbs Podoliae in dioec. Camenecensi. Collegium Camenecense (1608- 1773) prov. Minor Polon, cum gymnasio, philosophia et theologia pro externis. Convictus nobilium erectus a. 1707.
+Catalogus provinciae Galicianae Societatis Jesu – Catalogus domorum Societatis Jesu in Polonia, Krakow 1899, S. 13.</note>
+               <noteGrp><note target="cod_12009.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12009</note><note target="cod_12009__asterix.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12009*</note><note target="cod_12012.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12012</note><note target="cod_12013.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12013</note></noteGrp></org>
+               <org xml:id="jesuiten_org__515">
+                  <orgName>Jesuitenmission Moscow</orgName>
+                  <orgName type="alt">Missio Moscovitica</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__425">Moscow</placeName>
+                     <geo>55.75222 37.61556</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/524901/</idno></note>
+                  </location>
+               <noteGrp><note target="cod_11999.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11999</note><note target="cod_12009__asterix.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12009*</note></noteGrp></org>
                <org xml:id="jesuiten_org__171">
                   <orgName>Jesuitenkolleg Jarosław</orgName>
                   <orgName type="alt">Collegium Jaroslaviense</orgName>
@@ -393,14 +450,26 @@ Catalogus provinciae Galicianae Societatis Jesu, Krakow 1899, S. 38-39.</note>
                   <note>JAROSLAVIA, Jaruslaw, urbs in dioec. Premisliensi, habuit olim duas domos prov. Minor. Polon.: 1) Colleginm Jaroslaviense (1571-1773) intra moenia urbis penes templum S. Joannis, cum gymnasio pro externis et cum scholasticatu Nostrorum (i. e. rhetorica, ultimis autem annis philosophia). 2) Domus 3. Probationis (1635-l773), dicta collegium Campo-Marianum, quia extra moenia "in campo" sive "in arena" cum sanctuario B. Mariae V. situm. Annis 1821-1832 fuit Jaroslaviae penes ecclesiam parochialem statio missionis prov. Galiciae.
 (Catalogus provinciae Galicianae Societatis Jesu. Ineunte anno 1899, Krakau, S. 27).</note>
                <noteGrp><note target="cod_12005.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12005</note><note target="cod_12006.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12006</note><note target="cod_12009.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12009</note><note target="cod_12009__asterix.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12009*</note><note target="cod_12012.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12012</note><note target="cod_12013.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12013</note></noteGrp></org>
-               <org xml:id="jesuiten_org__534">
-                  <orgName>Jesuitenkolleg Ovruch</orgName>
-                  <orgName type="alt">Collegium Xaver Ovrucense</orgName>
+               <org xml:id="jesuiten_org__538">
+                  <orgName>Probationshaus Jarosław</orgName>
+                  <orgName type="alt">Domus probationis Jaroslaviensis</orgName>
                   <location type="located_in_place">
-                     <placeName key="jesuiten_place__431">Ovruch</placeName>
-                     <geo>51.32460 28.80351</geo>
-                     <note type="idno"><idno type="geonames">https://sws.geonames.org/698131/</idno></note>
+                     <placeName key="jesuiten_place__145">Jarosław</placeName>
+                     <geo>50.01623 22.67776</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/770380/</idno></note>
                   </location>
+               <noteGrp><note target="cod_12009.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12009</note><note target="cod_12009__asterix.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12009*</note></noteGrp></org>
+               <org xml:id="jesuiten_org__539">
+                  <orgName>Jesuitenmission Bila Tserkva</orgName>
+                  <orgName type="alt">Missio Białocerquensis / Bialocerquensis</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__435">Bila Tserkva</placeName>
+                     <geo>49.80040 30.12851</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/712165/</idno></note>
+                  </location>
+                  <note>Białacerkiew, lat. Bialocerquia, urbs in Ukraina, dioec. Kijoviensis. Missio Bialocerkviensis, Bialocerquensis, a. 1664 inchoata,
+pertinebat ad coll. Ostrogiense, postea ab a. 1686 ad domum Ovrucensem, connexa cum missione Jurevicensi. 
+Catalogus provinciae Galicianae Societatis Jesu. Ineunte anno 1899, Krakau, S. 8.</note>
                <noteGrp><note target="cod_12009.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12009</note><note target="cod_12009__asterix.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12009*</note></noteGrp></org>
                <org xml:id="jesuiten_org__535">
                   <orgName>Jesuitenmission Markowce</orgName>
@@ -413,74 +482,5 @@ Catalogus provinciae Galicianae Societatis Jesu, Krakow 1899, S. 38-39.</note>
                   <note>Markovicensis, Markovecensis missio 1708-1773, prov. Minor. Polon, in pago Volhiniae Markowice, Markowicze, Marchowicze, donato collegio Luceoriensi a. 1708. Dependebat haec missio ab eodem collegio, unita cum missione Covelensi et Vlodimiriensi. 
 (Catalogus provinciae Galicianae Societatis Jesu. Ineunte anno 1899, Krakau, S. 42.)</note>
                <noteGrp><note target="cod_12009.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12009</note><note target="cod_12009__asterix.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12009*</note></noteGrp></org>
-               <org xml:id="jesuiten_org__179">
-                  <orgName>Jesuitenkolleg Kamianets-Podilskyi</orgName>
-                  <orgName type="alt">Collegium Camenecense</orgName>
-                  <location type="located_in_place">
-                     <placeName key="jesuiten_place__155">Kamianets-Podilskyi</placeName>
-                     <geo>48.67882 26.58516</geo>
-                     <note type="idno"><idno type="geonames">https://sws.geonames.org/706950/</idno></note>
-                  </location>
-                  <note>CAMENECUM, Kamieniec Podolski, urbs Podoliae in dioec. Camenecensi. Collegium Camenecense (1608- 1773) prov. Minor Polon, cum gymnasio, philosophia et theologia pro externis. Convictus nobilium erectus a. 1707.
-Catalogus provinciae Galicianae Societatis Jesu – Catalogus domorum Societatis Jesu in Polonia, Krakow 1899, S. 13.</note>
-               <noteGrp><note target="cod_12009.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12009</note><note target="cod_12009__asterix.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12009*</note><note target="cod_12012.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12012</note><note target="cod_12013.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12013</note></noteGrp></org>
-               <org xml:id="jesuiten_org__165">
-                  <orgName>Jesuitenkolleg Lublin</orgName>
-                  <orgName type="alt">Collegium Lublinense</orgName>
-                  <location type="located_in_place">
-                     <placeName key="jesuiten_place__142">Lublin</placeName>
-                     <geo>51.25000 22.56667</geo>
-                     <note type="idno"><idno type="geonames">https://sws.geonames.org/765876/</idno></note>
-                  </location>
-                  <note>LUBLIN, Lublinum, urbs olim in dioec. Cracoviensi. Collegium Lublinense 1582-1773 prov. Minor. Polon., cum gymnasio, philosophia et theologia pro externis, item cum theologia pro Nostris. Praetor collegium fuit ab a. 1675 seminarium clericorum, postea eius loco collegium nobilium 1754-1773.
-Quelle: Catalogus provinciae Galicianae Societatis Jesu, Krakow 1899, S. 40.</note>
-               <noteGrp><note target="cod_12005.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12005</note><note target="cod_12006.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12006</note><note target="cod_12009.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12009</note><note target="cod_12009__asterix.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12009*</note><note target="cod_12012.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12012</note><note target="cod_12013.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12013</note></noteGrp></org>
-               <org xml:id="jesuiten_org__187">
-                  <orgName>Jesuitenkolleg Przemyśl</orgName>
-                  <orgName type="alt">Premisliense Collegium</orgName>
-                  <location type="located_in_place">
-                     <placeName key="jesuiten_place__161">Przemyśl</placeName>
-                     <geo>49.78498 22.76728</geo>
-                     <note type="idno"><idno type="geonames">https://sws.geonames.org/761168/</idno></note>
-                  </location>
-                  <note>gensem; derelicta a. 1780.
-PREMISLIA, Ptzemysl, urbs, sedes duorum cathol. episcoporum scl. ritus latini et graeci. Collegium Premisliense 1610-1773, prov. Minor. Polon., cum gymnasio, philosophia et theologia pro externis. Post a. 1756 collegium conjunctum erat cum Domo professa, cum . qua ab eodem gubernabatur praeposito simulque rectore. Premisliae fuit statio miss. 1821-1839 prov. Galic.</note>
-               <noteGrp><note target="cod_12009.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12009</note><note target="cod_12009__asterix.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12009*</note><note target="cod_12012.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12012</note><note target="cod_12023.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12023</note></noteGrp></org>
-               <org xml:id="jesuiten_org__540">
-                  <orgName>Jesuitenmission Błonie</orgName>
-                  <orgName type="alt">Missio Blonnensis</orgName>
-                  <location type="located_in_place">
-                     <placeName key="jesuiten_place__436">Błonie</placeName>
-                     <geo>52.19849 20.61709</geo>
-                     <note type="idno"><idno type="geonames">https://sws.geonames.org/775820/</idno></note>
-                  </location>
-                  <note>Błon, Błonie, praedium coll. acad. Vilnensis (1620- 1773). Blonensis missio ibidem, vide: Bakana.  
-(Catalogus provinciae Galicianae Societatis Jesu. Ineunte anno 1899, Krakau, S. 9).</note>
-               <noteGrp><note target="cod_12009.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12009</note><note target="cod_12009__asterix.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12009*</note></noteGrp></org>
-               <org xml:id="jesuiten_org__536">
-                  <orgName>Jesuitenmission Kovel</orgName>
-                  <orgName type="alt">Missio covelensis</orgName>
-                  <location type="located_in_place">
-                     <placeName key="jesuiten_place__433">Kovel</placeName>
-                     <geo>51.21526 24.70867</geo>
-                     <note type="idno"><idno type="geonames">https://sws.geonames.org/704617/</idno></note>
-                  </location>
-                  <note>Covelici, Kowel, oppidum. Missio Coveliana, kovelensis 1686-
-1773, pertinebat ad collegium Luceoriense et ad residentiam Vlodimiriensem, prov. MIinor. Polon.
-(Catalogus provinciae Galicianae Societatis Jesu. Ineunte anno 1899, Krakau, S. 15)</note>
-               <noteGrp><note target="cod_12009.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12009</note><note target="cod_12009__asterix.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12009*</note></noteGrp></org>
-               <org xml:id="jesuiten_org__515">
-                  <orgName>Jesuitenmission Moscow</orgName>
-                  <orgName type="alt">Missio Moscovitica</orgName>
-                  <location type="located_in_place">
-                     <placeName key="jesuiten_place__425">Moscow</placeName>
-                     <geo>55.75222 37.61556</geo>
-                     <note type="idno"><idno type="geonames">https://sws.geonames.org/524901/</idno></note>
-                  </location>
-               <noteGrp><note target="cod_11999.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11999</note><note target="cod_12009__asterix.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12009*</note></noteGrp></org>
-               </listOrg><listPlace><place xml:id="jesuiten_place__429">
-                  <placeName>Provincia Polonia Minor</placeName>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q11390</idno>
-               <noteGrp><note target="cod_11977.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11977</note><note target="cod_11982.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11982</note><note target="cod_11983.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11983</note><note target="cod_11988.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11988</note><note target="cod_11989.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11989</note><note target="cod_12009.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12009</note><note target="cod_12009__asterix.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12009*</note><note target="cod_12021.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12021</note><note target="cod_12022.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12022</note><note target="cod_12023.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12023</note><note target="cod_12025.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12025</note><note target="cod_12027.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12027</note><note target="cod_12416.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12416</note><note target="cod_8248.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 8248</note></noteGrp></place>
-               </listPlace></back></text>
+               </listOrg></back></text>
 </TEI>
