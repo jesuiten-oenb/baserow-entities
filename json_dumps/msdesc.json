@@ -28755,6 +28755,38 @@
       }
     ]
   },
+  "494": {
+    "id": 494,
+    "order": "36.71428571428571530078",
+    "signatur": "Cod. 12413",
+    "jesuiten_id": "jesuiten_msdesc__494",
+    "mentioned_orgs": [],
+    "note_type_catalogue": "http://data.onb.ac.at/rec/AC13949854",
+    "title": "De iuribus Societatis Iesu tam in rebus spiritualibus quam in aliis",
+    "date": "",
+    "persons": [],
+    "mentioned_places": [],
+    "note_type_facs": "",
+    "xml_id": "cod_12413",
+    "extent": "57 Bl.",
+    "height": "210",
+    "width": "160",
+    "foliation": "Moderne Foliierung.",
+    "acc_mat": "",
+    "binding": "Pappeinband.",
+    "summary": "",
+    "not_before": null,
+    "not_after": null,
+    "# when": "",
+    "date_letter": "",
+    "century": "18. Jhdt.",
+    "Genre": [
+      {
+        "id": 12,
+        "value": "Other"
+      }
+    ]
+  },
   "424": {
     "id": 424,
     "order": "36.75000000000000000000",
@@ -32791,7 +32823,7 @@
     "jesuiten_id": "jesuiten_msdesc__460",
     "mentioned_orgs": [],
     "note_type_catalogue": "http://data.onb.ac.at/rec/AC13960619",
-    "title": "Litterae annuae provinciae Austriae Societatis Iesu a.",
+    "title": "Sammelhandschrift: Litterae annuae provinciae Austriae Societatis Iesu a. 1633-1640",
     "date": "nach 1636",
     "persons": [],
     "mentioned_places": [
@@ -32865,7 +32897,7 @@
     "jesuiten_id": "jesuiten_msdesc__221",
     "mentioned_orgs": [],
     "note_type_catalogue": "http://data.onb.ac.at/rec/AC13960410",
-    "title": "Litterae annuae provinciae Austriae Societatis Iesu a. 1647, 1648, 1649, 1650, 1651, 1652",
+    "title": "Sammelhandschrift: Litterae annuae provinciae Austriae Societatis Iesu a. 1647, 1648, 1649, 1650, 1651, 1652",
     "date": "ab 1647",
     "persons": [],
     "mentioned_places": [
@@ -36225,8 +36257,8 @@
     "acc_mat": "",
     "binding": "Halbband, Deckel mit buntem Marmorpapier überzogen.",
     "summary": "Zusammengesetzte Handschrift mit Werken, die das Jesuitenkolleg in Kłodzko betreffen.",
-    "not_before": null,
-    "not_after": null,
+    "not_before": "1701",
+    "not_after": "1800",
     "# when": "",
     "date_letter": "",
     "century": "18. Jhdt.",
