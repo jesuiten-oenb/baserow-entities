@@ -87,6 +87,13 @@
                                         </place>
                                         {% endfor %}
                                     </listPlace>
+                                    <listOrg>
+                                        {% for y in x.orgs %}
+                                        <org>
+                                            <orgName key="#jesuiten_org__{{ y.id }}">{{ y.value }}</orgName>
+                                        </org>
+                                        {% endfor %}
+                                    </listOrg>
                                     </note>
                                     {% endif %}
                                     {% if x.orgs %}
