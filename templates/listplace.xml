@@ -52,6 +52,9 @@
             {% for x in objects %}
                <place xml:id="{{ x.jesuiten_id }}">
                   <placeName>{{ x.name }}</placeName>
+                   {% if x.alt_names %}
+                  <placeName type="alt">{{ x.alt_names }}</placeName>
+                  {% endif %}
                   {% if x.lat %}
                   <location type="coords">
                      <geo>{{ x.lat }} {{ x.long }}</geo>
