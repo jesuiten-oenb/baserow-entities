@@ -53,8 +53,8 @@
                <place xml:id="{{ x.jesuiten_id }}">
                   <placeName>{{ x.name }}</placeName>
                   {% if x.alt_names %}
-                      {% for value in x.alt_names.values() %}
-                          <placeName type="alt">{{ value }}</placeName>
+                      {% for alt_name in x.alt_names %}
+                          <placeName type="alt">{{ alt_name.value }}</placeName>
                       {% endfor %}
                   {% endif %}
                   {% if x.lat %}
