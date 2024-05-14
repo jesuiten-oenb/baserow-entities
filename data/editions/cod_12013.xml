@@ -327,25 +327,9 @@
     </teiHeader>
     <text>
         <body><p/></body>
-    <back><listPlace><place xml:id="jesuiten_place__248">
-                  <placeName>Wallachia</placeName>
-                  <placeName type="alt">[{'id': 179, 'value': 'Valachia'}]</placeName>
-                  <location type="coords">
-                     <geo>44.00000 25.00000</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/662112/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q171393</idno>
-               <noteGrp><note target="cod_12013.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12013</note></noteGrp></place>
-               <place xml:id="jesuiten_place__484">
-                  <placeName>Provincia Polona</placeName>
-               <noteGrp><note target="cod_12005.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12005</note><note target="cod_12006.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12006</note><note target="cod_12012.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12012</note><note target="cod_12013.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12013</note><note target="cod_12362.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12362</note><note target="cod_12363.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12363</note><note target="cod_12364.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12364</note><note target="cod_12365.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12365</note><note target="cod_13620.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 13620</note></noteGrp></place>
-            <place xml:id="jesuiten_place__251">
-                  <placeName>Tartaria</placeName>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q83971</idno>
-               <noteGrp><note target="cod_12013.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12013</note></noteGrp></place>
-               <place xml:id="jesuiten_place__252">
+    <back><listPlace><place xml:id="jesuiten_place__252">
                   <placeName>Kherson</placeName>
-                  <placeName type="alt">[{'id': 181, 'value': 'Chersonesus Taurica'}]</placeName>
+                          <placeName type="alt">Chersonesus Taurica</placeName>
                   <location type="coords">
                      <geo>46.63695 32.61458</geo>
                   </location>
@@ -360,7 +344,23 @@
                   <idno type="geonames">https://sws.geonames.org/696861/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q191607</idno>
                <noteGrp><note target="cod_12013.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12013</note></noteGrp></place>
-               <place xml:id="jesuiten_place__250">
+               <place xml:id="jesuiten_place__248">
+                  <placeName>Wallachia</placeName>
+                          <placeName type="alt">Valachia</placeName>
+                  <location type="coords">
+                     <geo>44.00000 25.00000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/662112/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q171393</idno>
+               <noteGrp><note target="cod_12013.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12013</note></noteGrp></place>
+               <place xml:id="jesuiten_place__251">
+                  <placeName>Tartaria</placeName>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q83971</idno>
+               <noteGrp><note target="cod_12013.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12013</note></noteGrp></place>
+               <place xml:id="jesuiten_place__484">
+                  <placeName>Provincia Polona</placeName>
+               <noteGrp><note target="cod_12005.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12005</note><note target="cod_12006.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12006</note><note target="cod_12012.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12012</note><note target="cod_12013.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12013</note><note target="cod_12362.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12362</note><note target="cod_12363.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12363</note><note target="cod_12364.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12364</note><note target="cod_12365.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12365</note><note target="cod_13620.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 13620</note></noteGrp></place>
+            <place xml:id="jesuiten_place__250">
                   <placeName>Moldavia</placeName>
                   <location type="coords">
                      <geo>46.50000 27.00000</geo>
