@@ -57,6 +57,13 @@
                                 <msItem n="None">
                                     <locus from="2r" to="58r">2r-58r</locus>
                                     <title>Historia missionis Rozniatowiensis ab a. 1699 usque ad a. 1769 </title>
+                                    <note>
+                                        <listOrg>
+                                        <org>
+                                            <orgName key="#jesuiten_org__492">Jesuitenmission Rożniątów</orgName>
+                                        </org>
+                                    </listOrg>
+                                    </note>
                                     <note> (a.<date>0</date>)</note>
                                 </msItem>
                                 <msItem n="None">
@@ -118,6 +125,6 @@
                      <geo>49.97838 22.51528</geo>
                      <note type="idno"><idno type="geonames">https://sws.geonames.org/760215/</idno></note>
                   </location>
-               <noteGrp><note target="cod_11989.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11989</note></noteGrp></org>
+               <noteGrp><note target="cod_11989.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11989</note><note target="cod_12009.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12009</note></noteGrp></org>
                </listOrg></back></text>
 </TEI>

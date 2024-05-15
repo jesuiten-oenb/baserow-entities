@@ -84,7 +84,11 @@
     </teiHeader>
     <text>
         <body><p/></body>
-    <back><listOrg><org xml:id="jesuiten_org__547">
+    <back><listPlace><place xml:id="jesuiten_place__429">
+                  <placeName>Provincia Polonia Minor</placeName>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q11390</idno>
+               <noteGrp><note target="cod_11977.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11977</note><note target="cod_11982.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11982</note><note target="cod_11983.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11983</note><note target="cod_11988.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11988</note><note target="cod_11989.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11989</note><note target="cod_12009.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12009</note><note target="cod_12009__asterix.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12009*</note><note target="cod_12021.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12021</note><note target="cod_12022.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12022</note><note target="cod_12023.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12023</note><note target="cod_12025.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12025</note><note target="cod_12027.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12027</note><note target="cod_12416.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12416</note><note target="cod_8248.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 8248</note></noteGrp></place>
+               </listPlace><listOrg><org xml:id="jesuiten_org__547">
                   <orgName>Jesuitenmission Nastasiv</orgName>
                   <orgName type="alt">Missio Nastasoviensis</orgName>
                   <location type="located_in_place">
@@ -94,10 +98,6 @@
                   </location>
                   <note>Nastasoviensis missio 1706-1773 in pago Nastasów cum cura parochiae (1744-1773), pertinebat ad coll. Leopoliense. 
 (Catalogus provinciae Galicianae Societatis Jesu. Ineunte anno 1899, Krakau, S. 46).</note>
-               <noteGrp><note target="cod_8248.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 8248</note></noteGrp></org>
-               </listOrg><listPlace><place xml:id="jesuiten_place__429">
-                  <placeName>Provincia Polonia Minor</placeName>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q11390</idno>
-               <noteGrp><note target="cod_11977.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11977</note><note target="cod_11982.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11982</note><note target="cod_11983.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11983</note><note target="cod_11988.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11988</note><note target="cod_11989.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11989</note><note target="cod_12009.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12009</note><note target="cod_12009__asterix.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12009*</note><note target="cod_12021.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12021</note><note target="cod_12022.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12022</note><note target="cod_12023.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12023</note><note target="cod_12025.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12025</note><note target="cod_12027.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12027</note><note target="cod_12416.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12416</note><note target="cod_8248.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 8248</note></noteGrp></place>
-               </listPlace></back></text>
+               <noteGrp><note target="cod_12009.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12009</note><note target="cod_8248.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 8248</note></noteGrp></org>
+               </listOrg></back></text>
 </TEI>
