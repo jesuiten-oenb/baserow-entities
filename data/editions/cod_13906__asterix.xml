@@ -95,14 +95,7 @@
     </teiHeader>
     <text>
         <body><p/></body>
-    <back><listPlace><place xml:id="jesuiten_place__195">
-                  <placeName>Litomyšl</placeName>
-                  <location type="coords">
-                     <geo>49.86809 16.31298</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3071675/</idno>
-               <noteGrp><note target="cod_11960.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11960</note><note target="cod_13906__asterix.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 13906*</note></noteGrp></place>
-               <place xml:id="jesuiten_place__214">
+    <back><listPlace><place xml:id="jesuiten_place__214">
                   <placeName>Mikulov</placeName>
                           <placeName type="alt">Nikelsburg</placeName>
                   <location type="coords">
@@ -110,6 +103,13 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/3070720/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q682544</idno>
+               <noteGrp><note target="cod_11960.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11960</note><note target="cod_13906__asterix.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 13906*</note></noteGrp></place>
+               <place xml:id="jesuiten_place__195">
+                  <placeName>Litomyšl</placeName>
+                  <location type="coords">
+                     <geo>49.86809 16.31298</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3071675/</idno>
                <noteGrp><note target="cod_11960.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11960</note><note target="cod_13906__asterix.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 13906*</note></noteGrp></place>
                <place xml:id="jesuiten_place__11">
                   <placeName>Krems</placeName>
