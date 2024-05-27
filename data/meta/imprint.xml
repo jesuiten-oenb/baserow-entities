@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+           <titleStmt>
+              <title type="main">Impressum</title>
+              <title type="sub">Jesuiten Littera annuae</title>
+             <author>Ivana Dobcheva</author>
+           </titleStmt>
+           <publicationStmt>
+              <p>Publication Information</p>
+           </publicationStmt>
+           <sourceDesc>
+              <p>Born digital.</p>
+           </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+           <div>
+             <head>Impressum</head>
+             <p>Die <foreign>Litterae annuae</foreign> der Societas Jesu, auch als Jahresbriefe bekannt, sind jährliche Berichte, die von der Gesellschaft Jesu (Societas Jesu) verfasst wurden. Die Berichte sind historisch bedeutsame Quellense, die einen umfassenden Überblick über die Aktivitäten, Entwicklungen und Herausforderungen der Gesellschaft bieten. Ursprünglich als interne Dokumente für die Leitung der Gesellschaft erstellt, umfassen die Litterae annuae Informationen zu missionarischen Tätigkeiten, Bildungseinrichtungen, personellen Veränderungen und anderen relevanten Angelegenheiten.</p>           
+             <p>Die Österreichische Nationalbibliothek verwahrt eine Sammlung von mehr als 400 Handschriften, die sogenannte <foreign>Litterae annuae</foreign> umfassen. Das Hauptziel dieses Projekts besteht in der Digitalisierung und Erschließung dieser Handschriften, um einen einfachen und zugänglichen Online-Zugriff zu ermöglichen. Das <ref target="https://www.onb.ac.at/mehr/forschung/forschungsaktivitaeten/forschungsprojekte-digitale-bibliothek">Projekt</ref> ist vom Bundesministerium für Kunst, Kultur, öffentlichen Dienst und Sport (BMKÖS) finanziert.</p>
+             <p> Alle Beschreibungen und Digitalisate werden laufend im offiziellen <ref target="https://www.onb.ac.at/">Katalog der Österreichischen Nationalbibliothek</ref> zu verfügbar gestellt. Diese Website präsentiert daher keine zusätzlichen Daten. Ihr Ziel besteht darin, potenziellen Forschern einen einfacheren Zugang zu und Suche im Corpus zu ermöglichen. Sie dient auch als Experimentierfeld, um mögliche Visualisierungen auszuprobieren.</p>
+           </div>
+          <div>
+            <head>Das Corpus Jesuitica der ÖNB</head>
+            <p>Die Katalogisierung des Bestandes ermöglicht eine genauere Analyse des Korpus sowohl in inhaltlicher als auch in thematischer Hinsicht. Die meisten der 473 Bände mit provinzspezifischem Inhalt stammen aus der österreichischen Provinz (62%). Eine genaue Zählung der Seiten zeigt jedoch, dass die österreichische und die böhmische Provinz mit 48% bzw. 46% gleich stark vertreten sind. Lediglich 6% entfallen auf die polnische Provinz. Damit wird deutlich, dass der Wiener Bestand eine wichtige Quelle nicht nur für das Gebiet Österreich-Ungarns, sondern für ganz Zentral- und Osteuropa darstellt.</p>
+            <figure>
+              <graphic url="images/abb1.jpg"/>
+              <figDesc>Grafische Darstellung der über 68000 Buchblätter des Korpus mit provinzspezifischen Inhalten.</figDesc>
+            </figure>           
+            <p>Das erhaltene Korpus ist thematisch sehr heterogen und umfasst Finanz- und Rechtsdokumente, Sammlungen von empfangenen und gesendeten Briefen, biografisches Material, Akten von General-, Provinz- und Prokuratorenkongregationen sowie Kataloge von Personen und Amtsträgern. Der größte Teil besteht jedoch aus annalistischen Werken. Neben den Geschichtswerken und den Tagebüchern, die das Gemeinschaftsleben der einzelnen Niederlassungen festhalten ('Diarium'), sind hier hauptsächlich die Jahresberichte –  die sogenannten Litterae annuae –  zu nennen.</p>
+            <figure>
+              <graphic url="images/abb2.jpg"/>
+              <figDesc>Grafische Darstellung der einzelnen Themen.</figDesc>
+            </figure>           
+          </div>
+          <div>
+            <head>Datenstrukturierung und -aufzeichnung</head>
+            <p>Zur Strukturierung und Aufzeichnung der Daten haben wir die relationale Datenbank <ref target="https://baserow.io">Baserow</ref> verwendet, das es Benutzern ermöglicht, Daten über Tabellen hinweg zu verknüpfen. Die Orte werden in einer Tabelle mit Feldern für Normdaten (Geonames, Wikidata) sowie einem Feld für alternative Namen (in Latein, Deutsch, Ungarisch) gespeichert. Die Institutionen werden in einer separaten Tabelle gespeichert, mit einem Feld, das mit der Ortstabelle verknüpft ist. Die Beschreibungen werden ebenfalls in einer separaten Tabelle gespeichert. Jede Handschrift nimmt eine Zeile ein und enthält mehrere Felder wie 'Zusammenfassung', 'Titel', 'Umfang' usw., sowie Felder, die mit den anderen Tabellen verknüpft sind und zeigen, welche Institutionen und Orte im Text erwähnt wurden. Die Daten werden automatisch im JSON-Format exportiert und mithilfe von Vorlagen in TEI-XML-Dateien und anschließend in HTML für die endgültige Ansicht auf dieser Website umgewandelt.</p>
+          </div>
+          <div>
+            <head>Die Handschriftenbeschreibungen</head>
+            <p>Angesichts der beträchtlichen Größe des Korpus (485 Manuskripte mit insgesamt fast 140.000 Seiten), der Tatsache, dass alle Manuskripte digitalisiert werden, und der Hoffnung auf signifikante Verbesserungen im Bereich der Handschriftenerkennung (HCR) und der benannten Entitätenerkennung (NER) in naher Zukunft, hat unser kleines Team nur sehr knappe Beschreibungen der Manuskripte erstellt. Wir konzentrierten uns auf die kodikologischen Merkmale, die auf digitalen Faksimiles nicht so leicht zu erkennen sind, und stellten, wenn möglich, ein kurzes Inhaltsverzeichnis basierend auf der Struktur des Manuskripts bereit (Aufteilung nach Kapiteln oder Institutionen).</p>               
+            <p>Da Benutzer nach bestimmten Orten oder Institutionen suchen würden, warfen wir einen Blick auf die Textstruktur und die Ränder, um so viele wie möglich aufzulisten. In den Fällen, in denen die Litterae Multitext-Manuskripte sind, die Abschnitte mit Berichten von verschiedenen Institutionen enthalten, gaben wir auch die genaue Folio-Nummer an (wie z.B. bei <ref target="cod_11960.xml">Cod. 11960</ref>. Das andere Extrem sind die Litterae, die im Provinzzentrum geschrieben wurden und den Bericht in thematischen Kapiteln ordnen, indem sie die Informationen aus den einzelnen institutionellen Berichten extrahieren. Für diese Art von Manuskripten müsste man den gesamten Text lesen, um ein korrektes Verzeichnis der erwähnten Orte und Organisationen zu erstellen - ein Schritt, der nicht in unseren Zeitplan passte. Ein Beispiel: Der <ref target="cod_12082.xml">Cod. 12082</ref> ist eine <foreign>Litterae annuae</foreign> aus dem Jahr 1685 aus der Provinz Austria. Die Beschreibung listet ihre 18 Kapitel auf, gibt jedoch als erwähnten Ort nur die 'Provincia Austria' an. Die Indizes sind daher mit Vorsicht zu verwenden. Sie verzeichnen die Institutionen, wenn diese als Abschnitte vorkommen oder wenn sie in tabellarische Auflistung benannt sind (s. <ref target="cod_12288.xml">Cod. 12288</ref>, fols. 4r-5r).</p>
+            <p>Die <ref target="toc.html">Handschriftenbeschreibungen</ref> sind nach den Vorgaben der Text Encoding Initiative Proposal 5 angelegt und unter der Creative Commons Lizenz Attribution 4.0 International (CC BY 4.0) veröffentlicht. Sie sind in Tabellenform aufgeführt und können nach Signatur, Titel und Jahr (im Manuskript erwähnt, nicht das Produktionsjahr) gefiltert werden. Die Signatur ist ein Hyperlink zur Beschreibung. Jede Beschreibung kann als einzelne XML-Datei heruntergeladen werden. Das gesamte Korpus kann im <ref target="https://github.com/jesuiten-oenb/baserow-entities/tree/5252d65c065608de4b78f647e8a972b09a2a633d/data/editions">GitHub-Repository</ref> heruntergeladen werden.</p>
+            <figure>
+              <graphic url="images/hss_example.jpg"/>
+            </figure>
+            <p></p>
+          </div>
+          <div>
+            <head>Anleitung zur Nutzung der Indizes</head>
+            <p>Es gibt derzeit zwei Indizes - einen für <ref target="listplace.html">Orte</ref> und einen für <ref target="listorg.html">Institutionen</ref> (die Jesuitenkollegien, Residenzen und Missionen). Beide extrahieren Informationen aus den Handschriftenbeschreibungen. Das Tabellenformat ermöglicht es, die Ergebnisse nach dem modernen Namen der Institution auf Deutsch, ihrem lateinischen Namen und dem Ort, an dem sie sich befand, zu filtern. Geben Sie einfach im Suchfeld die ersten Buchstaben ein und die passenden Ergebnisse werden darunter angezeigt. </p>
+              <figure>
+                <graphic url="images/index_example.jpg"/>
+              </figure>
+              <p>Die letzte Spalte zeigt die Anzahl der Erwähnungen - die Anzahl der Manuskripte mit Bezug zu dieser Institution. Es ist auch möglich, die Tabelle zu kopieren oder im xlsx (Excel)-Format herunterzuladen. </p>
+              <figure>
+                <graphic url="images/index_example2.jpg"/>
+              </figure>
+              <p>Wenn Sie nach einer bestimmten Institution suchen, wird empfohlen, auch den Ortsindex zu überprüfen. Aufgrund von Mehrdeutigkeiten enthält die Beschreibung manchmal nur den Ort und nicht die Institution (oft war nicht klar, ob sich die Erwähnung z.B. "Quinqueecclesia" auf das Kolleg, die Residenz oder die Mission in Pécs bezieht. Um Missinterpretationen zu vermeiden, wurde entschieden, den Ort zu verzeichnen).</p>
+          </div>
+            <div style="line-height: 1.35; margin-left: 2em; text-indent:-2em;">
+  <listBibl>
+    <head>Literaturverzeichnis</head>
+    <bibl>Augustin de Backer, Aloïs de Backer: Bibliothèque des écrivains de la Compagnie de Jésus. O. O.: Grandmont-Donders 1859.</bibl>
+    <bibl>Annick Delfosse: „La correspondance jésuite: communication, union et mémoire. Les enjeux de la Formula scribendi“. In: Revue d’histoire ecclésiastique (2009),  S. 71–114.</bibl>
+    <bibl>—: „Les Litterae annuae de la Compagnie de Jésus entre compte rendu factuel et construction identitaire : l’exemple de Bruxelles“. In: Xavier Rousseaux (Hg.): Quatre siècles de présence jésuite à Bruxelles. Bruxelles: Le Cri/Kadoc 2012.</bibl>
+    <bibl>Bernhard Duhr: Geschichte der Jesuiten in den Ländern deutscher Zunge.</bibl>
+    <bibl><ref target="https://arsi.jesuits.global/wp-content/uploads/2022/06/GALICIANAE_1899-lowquality.pdf">Catalogus provinciae Galicianae</ref>, Krakow 1899.</bibl>
+    <bibl>Markus Friedrich: „Archive und Verwaltung im frühneuzeitlichen Europa: Das Beispiel der Gesellschaft Jesu“. In: Zeitschrift für Historische Forschung 35 (2008), H. 3,  S. 369–403.</bibl>
+    <bibl>—: „Circulating and Compiling the Litterae Annuae. Towards a History of the Jesuit System of Communication“. In: Archivum Historicum Societatis Iesu 77 (2008), H. 153.</bibl>
+    <bibl>—: „Jesuiten und Lutheraner im frühneuzeitlichen Hamburg. Katholische Seelsorge im Norden des Reichs zwischen Konversionen, Konfessionskonflikten und interkonfessionellen Kontakten“. In: Zeitschrift für Hamburgische Geschichte 104 (2018),  S. 1-78.</bibl>
+    <bibl>—: „A Jesuit Culture of Records? The Society of Jesus, the Life Cycle of Administrative Documents, and the Late Medieval and Early Modern History of Bureaucratic Information“. In: O. Hg.: Engaging Sources: The Tradition and Future of Collecting History in the Society of Jesus. 2021. DOI: <ref target="https://doi.org/10.51238/ISJS.2019.06">https://doi.org/10.51238/ISJS.2019.06</ref>.</bibl>
+    <bibl>Gernot Heiß: „Die ‚Litterae Annuae‘ und die ‚Historiae‘ der Jesuiten“. In: Josef Pauser, Martin Scheutz, Thomas Winkelbauer (Hg.): Quellenkunde der Habsburgermonarchie (16.-18. Jahrhundert). Ein exemplarisches Handbuch. Wien: Böhlau 2004,  S. 663–674.</bibl>
+    <bibl>Johann Christoph Harenberg: <ref target="https://www.digitale-sammlungen.de/de/details/bsb10521009">Pragmatische Geschichte des Ordens der Jesuiten</ref></bibl>
+    <bibl>Zsófia Kádár: „Jesuitische Kolleggründungen im westungarischen Raum in der ersten Hälfte des 17. Jahrhunderts“. In: Frühneuzeitforschung in der Habsburgermonarchie. Adel und Wiener Hof − Konfessionalisierung − Siebenbürgen (2013),  S. 155−170.</bibl>
+    <bibl>Ludwig Koch: Jesuiten-Lexikon : Die Gesellschaft Jesu einst und jetzt. O. O.: Paderborn : Verlag Bonifacius-Druckerei 1934. <ref target="http://archive.org/details/jesuitenlexikond00koch">http://archive.org/details/jesuitenlexikond00koch</ref> (Stand: 07.08.2023).</bibl>
+    <bibl>Jörg Zech: „Die Litterae Annuae der Jesuiten. Berichterstattung und Geschichtsschreibung in der alten Gesellschaft Jesu“. In: Archivum Historicum Societatis. Iesu 153 (2008),  S. 41–61.</bibl>
+  </listBibl>  
+</div>
+        </body>
+    </text>
+  </TEI>
+  
