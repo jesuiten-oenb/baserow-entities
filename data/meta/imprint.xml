@@ -1,4 +1,5 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://oenb.ac.at" xml:id="imprint.xml" prev="https://oenb.ac.at/about.xml">
     <teiHeader>
         <fileDesc>
            <titleStmt>
@@ -47,7 +48,7 @@
             <figure>
               <graphic url="images/hss_example.jpg"/>
             </figure>
-            <p></p>
+            <p/>
           </div>
           <div>
             <head>Anleitung zur Nutzung der Indizes</head>
@@ -81,6 +82,5 @@
   </listBibl>  
 </div>
         </body>
-    </text>
+    <back/></text>
   </TEI>
-  
