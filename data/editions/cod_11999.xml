@@ -184,7 +184,15 @@ Cod. 11999 enthält das 6. Buch (Liber VI) über die Jesuitenmissionen innerhalb
     </teiHeader>
     <text>
         <body><p/></body>
-    <back><listPlace><place xml:id="jesuiten_place__272">
+    <back><listPlace><place xml:id="jesuiten_place__270">
+                  <placeName>Silesia</placeName>
+                  <location type="coords">
+                     <geo>51.00000 18.00000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3066138/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q81720</idno>
+               <noteGrp><note target="cod_11976.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11976</note><note target="cod_11999.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11999</note><note target="cod_12006.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12006</note><note target="cod_12304.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12304</note><note target="cod_12305.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12305</note><note target="cod_12306.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12306</note><note target="cod_12307.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12307</note></noteGrp></place>
+               <place xml:id="jesuiten_place__272">
                   <placeName>Provincia Bohemia</placeName>
                   <location type="coords">
                      <geo>50.00000 14.50000</geo>
@@ -200,23 +208,15 @@ Cod. 11999 enthält das 6. Buch (Liber VI) über die Jesuitenmissionen innerhalb
                   <idno type="geonames">https://sws.geonames.org/3070359/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q43266</idno>
                <noteGrp><note target="cod_11999.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11999</note><note target="cod_12311.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12311</note></noteGrp></place>
-               <place xml:id="jesuiten_place__270">
-                  <placeName>Silesia</placeName>
-                  <location type="coords">
-                     <geo>51.00000 18.00000</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3066138/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q81720</idno>
-               <noteGrp><note target="cod_11976.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11976</note><note target="cod_11999.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11999</note><note target="cod_12006.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12006</note><note target="cod_12304.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12304</note><note target="cod_12305.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12305</note><note target="cod_12306.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12306</note><note target="cod_12307.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12307</note></noteGrp></place>
-               </listPlace><listOrg><org xml:id="jesuiten_org__516">
-                  <orgName>Jesuitenmission Saxonica</orgName>
-                  <orgName type="alt">Missio Saxonica</orgName>
+               </listPlace><listOrg><org xml:id="jesuiten_org__475">
+                  <orgName>Jesuitenmission Sweden</orgName>
+                  <orgName type="alt">Missio Suedica</orgName>
                   <location type="located_in_place">
-                     <placeName key="jesuiten_place__426">Saxony</placeName>
-                     <geo>51.00000 13.25000</geo>
-                     <note type="idno"><idno type="geonames">https://sws.geonames.org/2842566/</idno></note>
+                     <placeName key="jesuiten_place__395">Sweden</placeName>
+                     <geo>62.00000 15.00000</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/2661886/</idno></note>
                   </location>
-               <noteGrp><note target="cod_11999.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11999</note></noteGrp></org>
+               <noteGrp><note target="cod_11974.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11974</note><note target="cod_11999.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11999</note><note target="cod_12314.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12314</note></noteGrp></org>
                <org xml:id="jesuiten_org__515">
                   <orgName>Jesuitenmission Moscow</orgName>
                   <orgName type="alt">Missio Moscovitica</orgName>
@@ -226,14 +226,14 @@ Cod. 11999 enthält das 6. Buch (Liber VI) über die Jesuitenmissionen innerhalb
                      <note type="idno"><idno type="geonames">https://sws.geonames.org/524901/</idno></note>
                   </location>
                <noteGrp><note target="cod_11999.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11999</note><note target="cod_12009__asterix.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12009*</note></noteGrp></org>
-               <org xml:id="jesuiten_org__475">
-                  <orgName>Jesuitenmission Sweden</orgName>
-                  <orgName type="alt">Missio Suedica</orgName>
+               <org xml:id="jesuiten_org__516">
+                  <orgName>Jesuitenmission Saxonica</orgName>
+                  <orgName type="alt">Missio Saxonica</orgName>
                   <location type="located_in_place">
-                     <placeName key="jesuiten_place__395">Sweden</placeName>
-                     <geo>62.00000 15.00000</geo>
-                     <note type="idno"><idno type="geonames">https://sws.geonames.org/2661886/</idno></note>
+                     <placeName key="jesuiten_place__426">Saxony</placeName>
+                     <geo>51.00000 13.25000</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/2842566/</idno></note>
                   </location>
-               <noteGrp><note target="cod_11974.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11974</note><note target="cod_11999.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11999</note><note target="cod_12314.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12314</note></noteGrp></org>
+               <noteGrp><note target="cod_11999.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11999</note></noteGrp></org>
                </listOrg></back></text>
 </TEI>
