@@ -1204,13 +1204,22 @@
     </teiHeader>
     <text>
         <body><p/></body>
-    <back><listOrg><org xml:id="jesuiten_org__398">
-                  <orgName>Jesuitenresidenz Warsaw</orgName>
-                  <orgName type="alt">Residentia Warszawiensis</orgName>
+    <back><listOrg><org xml:id="jesuiten_org__175">
+                  <orgName>Jesuitenkolleg Kalisz</orgName>
+                  <orgName type="alt">Collegium Calissiense</orgName>
                   <location type="located_in_place">
-                     <placeName key="jesuiten_place__329">Warsaw</placeName>
-                     <geo>52.22977 21.01178</geo>
-                     <note type="idno"><idno type="geonames">https://sws.geonames.org/756135/</idno></note>
+                     <placeName key="jesuiten_place__151">Kalisz</placeName>
+                     <geo>51.76109 18.09102</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/3096880/</idno></note>
+                  </location>
+               <noteGrp><note target="cod_12005.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12005</note><note target="cod_12006.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12006</note><note target="cod_12012.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12012</note><note target="cod_12013.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12013</note></noteGrp></org>
+               <org xml:id="jesuiten_org__397">
+                  <orgName>Jesutienresidenz Torun</orgName>
+                  <orgName type="alt">Residentia Torunensis</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__153">Torun</placeName>
+                     <geo>53.01375 18.59814</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/3083271/</idno></note>
                   </location>
                <noteGrp><note target="cod_12006.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12006</note></noteGrp></org>
                <org xml:id="jesuiten_org__177">
@@ -1222,98 +1231,6 @@
                      <note type="idno"><idno type="geonames">https://sws.geonames.org/3083271/</idno></note>
                   </location>
                <noteGrp><note target="cod_12005.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12005</note><note target="cod_12006.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12006</note><note target="cod_12012.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12012</note><note target="cod_12013.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12013</note></noteGrp></org>
-               <org xml:id="jesuiten_org__389">
-                  <orgName>Jesuitenkolleg Vilnus</orgName>
-                  <orgName type="alt">Collegium Vilnensis</orgName>
-                  <location type="located_in_place">
-                     <placeName key="jesuiten_place__323">Vilnius</placeName>
-                     <geo>54.68916 25.27980</geo>
-                     <note type="idno"><idno type="geonames">https://sws.geonames.org/593116/</idno></note>
-                  </location>
-               <noteGrp><note target="cod_12006.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12006</note></noteGrp></org>
-               <org xml:id="jesuiten_org__165">
-                  <orgName>Jesuitenkolleg Lublin</orgName>
-                  <orgName type="alt">Collegium Lublinense</orgName>
-                  <location type="located_in_place">
-                     <placeName key="jesuiten_place__142">Lublin</placeName>
-                     <geo>51.25000 22.56667</geo>
-                     <note type="idno"><idno type="geonames">https://sws.geonames.org/765876/</idno></note>
-                  </location>
-                  <note>LUBLIN, Lublinum, urbs olim in dioec. Cracoviensi. Collegium Lublinense 1582-1773 prov. Minor. Polon., cum gymnasio, philosophia et theologia pro externis, item cum theologia pro Nostris. Praetor collegium fuit ab a. 1675 seminarium clericorum, postea eius loco collegium nobilium 1754-1773.
-Quelle: Catalogus provinciae Galicianae Societatis Jesu, Krakow 1899, S. 40.</note>
-               <noteGrp><note target="cod_12005.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12005</note><note target="cod_12006.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12006</note><note target="cod_12009.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12009</note><note target="cod_12009__asterix.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12009*</note><note target="cod_12012.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12012</note><note target="cod_12013.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12013</note></noteGrp></org>
-               <org xml:id="jesuiten_org__173">
-                  <orgName>Probationshaus Kraków</orgName>
-                  <orgName type="alt">Cracoviensis Domus Primae Probationis</orgName>
-                  <location type="located_in_place">
-                     <placeName key="jesuiten_place__149">Kraków</placeName>
-                     <geo>50.06143 19.93658</geo>
-                     <note type="idno"><idno type="geonames">https://sws.geonames.org/3094802/</idno></note>
-                  </location>
-               <noteGrp><note target="cod_12005.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12005</note><note target="cod_12006.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12006</note><note target="cod_12012.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12012</note><note target="cod_12013.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12013</note></noteGrp></org>
-               <org xml:id="jesuiten_org__390">
-                  <orgName>Jesuitenkolleg Njaswisch</orgName>
-                  <orgName type="alt">Collegium Niesuizense / Nesuisiense / Nesuizense</orgName>
-                  <location type="located_in_place">
-                     <placeName key="jesuiten_place__393">Nyasvizh</placeName>
-                     <geo>53.21890 26.67790</geo>
-                     <note type="idno"><idno type="geonames">https://sws.geonames.org/624700/</idno></note>
-                  </location>
-               <noteGrp><note target="cod_12006.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12006</note></noteGrp></org>
-               <org xml:id="jesuiten_org__395">
-                  <orgName>Jesuitenkolleg Pułtusk</orgName>
-                  <orgName type="alt">Collegium Pultoviense</orgName>
-                  <location type="located_in_place">
-                     <placeName key="jesuiten_place__325">Pułtusk</placeName>
-                     <geo>52.70250 21.08276</geo>
-                     <note type="idno"><idno type="geonames">https://sws.geonames.org/760917/</idno></note>
-                  </location>
-               <noteGrp><note target="cod_12006.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12006</note></noteGrp></org>
-               <org xml:id="jesuiten_org__380">
-                  <orgName>Jesuitenresidenz Lviv</orgName>
-                  <orgName type="alt">Residentia Leopoliensis</orgName>
-                  <location type="located_in_place">
-                     <placeName key="jesuiten_place__143">Lviv</placeName>
-                     <geo>49.83826 24.02324</geo>
-                     <note type="idno"><idno type="geonames">https://sws.geonames.org/702550/</idno></note>
-                  </location>
-               <noteGrp><note target="cod_12005.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12005</note><note target="cod_12006.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12006</note></noteGrp></org>
-               <org xml:id="jesuiten_org__172">
-                  <orgName>Profeßhaus Kraków</orgName>
-                  <orgName type="alt">Domus Professa ad S. Barbara Cracoviensis</orgName>
-                  <location type="located_in_place">
-                     <placeName key="jesuiten_place__149">Kraków</placeName>
-                     <geo>50.06143 19.93658</geo>
-                     <note type="idno"><idno type="geonames">https://sws.geonames.org/3094802/</idno></note>
-                  </location>
-               <noteGrp><note target="cod_12005.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12005</note><note target="cod_12006.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12006</note><note target="cod_12012.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12012</note><note target="cod_12013.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12013</note></noteGrp></org>
-               <org xml:id="jesuiten_org__382">
-                  <orgName>Jesuitenmission Volhynia</orgName>
-                  <orgName type="alt">Missio Luceoriensis in Voliniam</orgName>
-                  <location type="located_in_place">
-                     <placeName key="jesuiten_place__318">Volhynia</placeName>
-                     <geo>51.00000 26.00000</geo>
-                     <note type="idno"><idno type="geonames">https://sws.geonames.org/689067/</idno></note>
-                  </location>
-               <noteGrp><note target="cod_12005.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12005</note><note target="cod_12006.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12006</note></noteGrp></org>
-               <org xml:id="jesuiten_org__394">
-                  <orgName>Jesuitenkolleg Riga</orgName>
-                  <orgName type="alt">Collegium Rigense</orgName>
-                  <location type="located_in_place">
-                     <placeName key="jesuiten_place__328">Riga</placeName>
-                     <geo>56.94600 24.10589</geo>
-                     <note type="idno"><idno type="geonames">https://sws.geonames.org/456172/</idno></note>
-                  </location>
-               <noteGrp><note target="cod_12006.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12006</note></noteGrp></org>
-               <org xml:id="jesuiten_org__397">
-                  <orgName>Jesutienresidenz Torun</orgName>
-                  <orgName type="alt">Residentia Torunensis</orgName>
-                  <location type="located_in_place">
-                     <placeName key="jesuiten_place__153">Torun</placeName>
-                     <geo>53.01375 18.59814</geo>
-                     <note type="idno"><idno type="geonames">https://sws.geonames.org/3083271/</idno></note>
-                  </location>
-               <noteGrp><note target="cod_12006.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12006</note></noteGrp></org>
                <org xml:id="jesuiten_org__392">
                   <orgName>Jesuitenkolleg Polotsk</orgName>
                   <orgName type="alt">Collegium Polocense</orgName>
@@ -1323,57 +1240,24 @@ Quelle: Catalogus provinciae Galicianae Societatis Jesu, Krakow 1899, S. 40.</no
                      <note type="idno"><idno type="geonames">https://sws.geonames.org/623317/</idno></note>
                   </location>
                <noteGrp><note target="cod_12006.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12006</note></noteGrp></org>
-               <org xml:id="jesuiten_org__393">
-                  <orgName>Jesuitenkolleg Tartu</orgName>
-                  <orgName type="alt">Collegium Derpatense / Tarbatense</orgName>
+               <org xml:id="jesuiten_org__394">
+                  <orgName>Jesuitenkolleg Riga</orgName>
+                  <orgName type="alt">Collegium Rigense</orgName>
                   <location type="located_in_place">
-                     <placeName key="jesuiten_place__327">Tartu</placeName>
-                     <geo>58.38062 26.72509</geo>
-                     <note type="idno"><idno type="geonames">https://sws.geonames.org/588335/</idno></note>
+                     <placeName key="jesuiten_place__328">Riga</placeName>
+                     <geo>56.94600 24.10589</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/456172/</idno></note>
                   </location>
                <noteGrp><note target="cod_12006.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12006</note></noteGrp></org>
-               <org xml:id="jesuiten_org__399">
-                  <orgName>Jesuitenmission Lutsk</orgName>
-                  <orgName type="alt">Missio Luceoriensis</orgName>
+               <org xml:id="jesuiten_org__172">
+                  <orgName>Profeßhaus Kraków</orgName>
+                  <orgName type="alt">Domus Professa ad S. Barbara Cracoviensis</orgName>
                   <location type="located_in_place">
-                     <placeName key="jesuiten_place__158">Lutsk</placeName>
-                     <geo>50.75932 25.34244</geo>
-                     <note type="idno"><idno type="geonames">https://sws.geonames.org/702569/</idno></note>
-                  </location>
-               <noteGrp><note target="cod_12006.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12006</note></noteGrp></org>
-               <org xml:id="jesuiten_org__175">
-                  <orgName>Jesuitenkolleg Kalisz</orgName>
-                  <orgName type="alt">Collegium Calissiense</orgName>
-                  <location type="located_in_place">
-                     <placeName key="jesuiten_place__151">Kalisz</placeName>
-                     <geo>51.76109 18.09102</geo>
-                     <note type="idno"><idno type="geonames">https://sws.geonames.org/3096880/</idno></note>
+                     <placeName key="jesuiten_place__149">Kraków</placeName>
+                     <geo>50.06143 19.93658</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/3094802/</idno></note>
                   </location>
                <noteGrp><note target="cod_12005.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12005</note><note target="cod_12006.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12006</note><note target="cod_12012.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12012</note><note target="cod_12013.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12013</note></noteGrp></org>
-               <org xml:id="jesuiten_org__171">
-                  <orgName>Jesuitenkolleg Jarosław</orgName>
-                  <orgName type="alt">Collegium Jaroslaviense</orgName>
-                  <location type="located_in_place">
-                     <placeName key="jesuiten_place__145">Jarosław</placeName>
-                     <geo>50.01623 22.67776</geo>
-                     <note type="idno"><idno type="geonames">https://sws.geonames.org/770380/</idno></note>
-                  </location>
-                  <note>JAROSLAVIA, Jaruslaw, urbs in dioec. Premisliensi, habuit olim duas domos prov. Minor. Polon.: 1) Colleginm Jaroslaviense (1571-1773) intra moenia urbis penes templum S. Joannis, cum gymnasio pro externis et cum scholasticatu Nostrorum (i. e. rhetorica, ultimis autem annis philosophia). 2) Domus 3. Probationis (1635-l773), dicta collegium Campo-Marianum, quia extra moenia "in campo" sive "in arena" cum sanctuario B. Mariae V. situm. Annis 1821-1832 fuit Jaroslaviae penes ecclesiam parochialem statio missionis prov. Galiciae.
-(Catalogus provinciae Galicianae Societatis Jesu. Ineunte anno 1899, Krakau, S. 27).</note>
-               <noteGrp><note target="cod_12005.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12005</note><note target="cod_12006.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12006</note><note target="cod_12009.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12009</note><note target="cod_12009__asterix.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12009*</note><note target="cod_12012.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12012</note><note target="cod_12013.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12013</note></noteGrp></org>
-               <org xml:id="jesuiten_org__277">
-                  <orgName>Jesuitenresidenz Gdańsk</orgName>
-                  <orgName type="alt">Residentia Gedanensis</orgName>
-                  <location type="located_in_place">
-                     <placeName key="jesuiten_place__146">Gdańsk</placeName>
-                     <geo>54.35227 18.64912</geo>
-                     <note type="idno"><idno type="geonames">https://sws.geonames.org/3099434/</idno></note>
-                  </location>
-               <noteGrp><note target="cod_12005.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12005</note><note target="cod_12006.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12006</note><note target="cod_12013.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12013</note></noteGrp></org>
-               <org xml:id="jesuiten_org__279">
-                  <orgName>Jesuitenmission Aula</orgName>
-                  <orgName type="alt">Missio Aulica; Missio ad aulam regis</orgName>
-               <noteGrp><note target="cod_12005.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12005</note><note target="cod_12006.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12006</note><note target="cod_12013.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12013</note><note target="cod_13562.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 13562</note></noteGrp></org>
                <org xml:id="jesuiten_org__381">
                   <orgName>Jesuitenresidenz Sandomierz</orgName>
                   <orgName type="alt">Residentia Sendomiriensis</orgName>
@@ -1383,15 +1267,6 @@ Quelle: Catalogus provinciae Galicianae Societatis Jesu, Krakow 1899, S. 40.</no
                      <note type="idno"><idno type="geonames">https://sws.geonames.org/759603/</idno></note>
                   </location>
                <noteGrp><note target="cod_12005.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12005</note><note target="cod_12006.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12006</note></noteGrp></org>
-               <org xml:id="jesuiten_org__174">
-                  <orgName>Jesuitenkolleg Poznań</orgName>
-                  <orgName type="alt">Posnaniense Collegium</orgName>
-                  <location type="located_in_place">
-                     <placeName key="jesuiten_place__150">Poznań</placeName>
-                     <geo>52.40692 16.92993</geo>
-                     <note type="idno"><idno type="geonames">https://sws.geonames.org/3088171/</idno></note>
-                  </location>
-               <noteGrp><note target="cod_12005.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12005</note><note target="cod_12006.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12006</note><note target="cod_12012.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12012</note><note target="cod_12013.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12013</note></noteGrp></org>
                <org xml:id="jesuiten_org__396">
                   <orgName>Probationshaus Riga</orgName>
                   <orgName type="alt">Domus probationis Rigae</orgName>
@@ -1410,15 +1285,132 @@ Quelle: Catalogus provinciae Galicianae Societatis Jesu, Krakow 1899, S. 40.</no
                      <note type="idno"><idno type="geonames">https://sws.geonames.org/3102677/</idno></note>
                   </location>
                <noteGrp><note target="cod_12006.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12006</note></noteGrp></org>
-               </listOrg><listPlace><place xml:id="jesuiten_place__317">
-                  <placeName>Kingdom of Poland</placeName>
-                          <placeName type="alt">Regnum Poloniae</placeName>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q8890160</idno>
-               <noteGrp><note target="cod_12005.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12005</note><note target="cod_12006.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12006</note></noteGrp></place>
-               <place xml:id="jesuiten_place__484">
-                  <placeName>Provincia Polona</placeName>
-               <noteGrp><note target="cod_12005.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12005</note><note target="cod_12006.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12006</note><note target="cod_12012.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12012</note><note target="cod_12013.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12013</note><note target="cod_12362.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12362</note><note target="cod_12363.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12363</note><note target="cod_12364.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12364</note><note target="cod_12365.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12365</note><note target="cod_13620.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 13620</note></noteGrp></place>
-            <place xml:id="jesuiten_place__270">
+               <org xml:id="jesuiten_org__382">
+                  <orgName>Jesuitenmission Volhynia</orgName>
+                  <orgName type="alt">Missio Luceoriensis in Voliniam</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__318">Volhynia</placeName>
+                     <geo>51.00000 26.00000</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/689067/</idno></note>
+                  </location>
+               <noteGrp><note target="cod_12005.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12005</note><note target="cod_12006.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12006</note></noteGrp></org>
+               <org xml:id="jesuiten_org__165">
+                  <orgName>Jesuitenkolleg Lublin</orgName>
+                  <orgName type="alt">Collegium Lublinense</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__142">Lublin</placeName>
+                     <geo>51.25000 22.56667</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/765876/</idno></note>
+                  </location>
+                  <note>LUBLIN, Lublinum, urbs olim in dioec. Cracoviensi. Collegium Lublinense 1582-1773 prov. Minor. Polon., cum gymnasio, philosophia et theologia pro externis, item cum theologia pro Nostris. Praetor collegium fuit ab a. 1675 seminarium clericorum, postea eius loco collegium nobilium 1754-1773.
+Quelle: Catalogus provinciae Galicianae Societatis Jesu, Krakow 1899, S. 40.</note>
+               <noteGrp><note target="cod_12005.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12005</note><note target="cod_12006.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12006</note><note target="cod_12009.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12009</note><note target="cod_12009__asterix.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12009*</note><note target="cod_12012.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12012</note><note target="cod_12013.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12013</note></noteGrp></org>
+               <org xml:id="jesuiten_org__389">
+                  <orgName>Jesuitenkolleg Vilnus</orgName>
+                  <orgName type="alt">Collegium Vilnensis</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__323">Vilnius</placeName>
+                     <geo>54.68916 25.27980</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/593116/</idno></note>
+                  </location>
+               <noteGrp><note target="cod_12006.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12006</note></noteGrp></org>
+               <org xml:id="jesuiten_org__174">
+                  <orgName>Jesuitenkolleg Poznań</orgName>
+                  <orgName type="alt">Posnaniense Collegium</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__150">Poznań</placeName>
+                     <geo>52.40692 16.92993</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/3088171/</idno></note>
+                  </location>
+               <noteGrp><note target="cod_12005.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12005</note><note target="cod_12006.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12006</note><note target="cod_12012.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12012</note><note target="cod_12013.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12013</note></noteGrp></org>
+               <org xml:id="jesuiten_org__390">
+                  <orgName>Jesuitenkolleg Njaswisch</orgName>
+                  <orgName type="alt">Collegium Niesuizense / Nesuisiense / Nesuizense</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__393">Nyasvizh</placeName>
+                     <geo>53.21890 26.67790</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/624700/</idno></note>
+                  </location>
+               <noteGrp><note target="cod_12006.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12006</note></noteGrp></org>
+               <org xml:id="jesuiten_org__393">
+                  <orgName>Jesuitenkolleg Tartu</orgName>
+                  <orgName type="alt">Collegium Derpatense / Tarbatense</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__327">Tartu</placeName>
+                     <geo>58.38062 26.72509</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/588335/</idno></note>
+                  </location>
+               <noteGrp><note target="cod_12006.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12006</note></noteGrp></org>
+               <org xml:id="jesuiten_org__380">
+                  <orgName>Jesuitenresidenz Lviv</orgName>
+                  <orgName type="alt">Residentia Leopoliensis</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__143">Lviv</placeName>
+                     <geo>49.83826 24.02324</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/702550/</idno></note>
+                  </location>
+               <noteGrp><note target="cod_12005.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12005</note><note target="cod_12006.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12006</note></noteGrp></org>
+               <org xml:id="jesuiten_org__277">
+                  <orgName>Jesuitenresidenz Gdańsk</orgName>
+                  <orgName type="alt">Residentia Gedanensis</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__146">Gdańsk</placeName>
+                     <geo>54.35227 18.64912</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/3099434/</idno></note>
+                  </location>
+               <noteGrp><note target="cod_12005.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12005</note><note target="cod_12006.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12006</note><note target="cod_12013.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12013</note></noteGrp></org>
+               <org xml:id="jesuiten_org__173">
+                  <orgName>Probationshaus Kraków</orgName>
+                  <orgName type="alt">Cracoviensis Domus Primae Probationis</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__149">Kraków</placeName>
+                     <geo>50.06143 19.93658</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/3094802/</idno></note>
+                  </location>
+               <noteGrp><note target="cod_12005.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12005</note><note target="cod_12006.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12006</note><note target="cod_12012.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12012</note><note target="cod_12013.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12013</note></noteGrp></org>
+               <org xml:id="jesuiten_org__399">
+                  <orgName>Jesuitenmission Lutsk</orgName>
+                  <orgName type="alt">Missio Luceoriensis</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__158">Lutsk</placeName>
+                     <geo>50.75932 25.34244</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/702569/</idno></note>
+                  </location>
+               <noteGrp><note target="cod_12006.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12006</note></noteGrp></org>
+               <org xml:id="jesuiten_org__395">
+                  <orgName>Jesuitenkolleg Pułtusk</orgName>
+                  <orgName type="alt">Collegium Pultoviense</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__325">Pułtusk</placeName>
+                     <geo>52.70250 21.08276</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/760917/</idno></note>
+                  </location>
+               <noteGrp><note target="cod_12006.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12006</note></noteGrp></org>
+               <org xml:id="jesuiten_org__171">
+                  <orgName>Jesuitenkolleg Jarosław</orgName>
+                  <orgName type="alt">Collegium Jaroslaviense</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__145">Jarosław</placeName>
+                     <geo>50.01623 22.67776</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/770380/</idno></note>
+                  </location>
+                  <note>JAROSLAVIA, Jaruslaw, urbs in dioec. Premisliensi, habuit olim duas domos prov. Minor. Polon.: 1) Colleginm Jaroslaviense (1571-1773) intra moenia urbis penes templum S. Joannis, cum gymnasio pro externis et cum scholasticatu Nostrorum (i. e. rhetorica, ultimis autem annis philosophia). 2) Domus 3. Probationis (1635-l773), dicta collegium Campo-Marianum, quia extra moenia "in campo" sive "in arena" cum sanctuario B. Mariae V. situm. Annis 1821-1832 fuit Jaroslaviae penes ecclesiam parochialem statio missionis prov. Galiciae.
+(Catalogus provinciae Galicianae Societatis Jesu. Ineunte anno 1899, Krakau, S. 27).</note>
+               <noteGrp><note target="cod_12005.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12005</note><note target="cod_12006.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12006</note><note target="cod_12009.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12009</note><note target="cod_12009__asterix.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12009*</note><note target="cod_12012.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12012</note><note target="cod_12013.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12013</note></noteGrp></org>
+               <org xml:id="jesuiten_org__279">
+                  <orgName>Jesuitenmission Aula</orgName>
+                  <orgName type="alt">Missio Aulica; Missio ad aulam regis</orgName>
+               <noteGrp><note target="cod_12005.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12005</note><note target="cod_12006.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12006</note><note target="cod_12013.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12013</note><note target="cod_13562.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 13562</note></noteGrp></org>
+               <org xml:id="jesuiten_org__398">
+                  <orgName>Jesuitenresidenz Warsaw</orgName>
+                  <orgName type="alt">Residentia Warszawiensis</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__329">Warsaw</placeName>
+                     <geo>52.22977 21.01178</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/756135/</idno></note>
+                  </location>
+               <noteGrp><note target="cod_12006.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12006</note></noteGrp></org>
+               </listOrg><listPlace><place xml:id="jesuiten_place__270">
                   <placeName>Silesia</placeName>
                   <location type="coords">
                      <geo>51.00000 18.00000</geo>
@@ -1426,7 +1418,15 @@ Quelle: Catalogus provinciae Galicianae Societatis Jesu, Krakow 1899, S. 40.</no
                   <idno type="geonames">https://sws.geonames.org/3066138/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q81720</idno>
                <noteGrp><note target="cod_11976.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11976</note><note target="cod_11999.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11999</note><note target="cod_12006.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12006</note><note target="cod_12304.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12304</note><note target="cod_12305.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12305</note><note target="cod_12306.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12306</note><note target="cod_12307.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12307</note></noteGrp></place>
-               <place xml:id="jesuiten_place__304">
+               <place xml:id="jesuiten_place__317">
+                  <placeName>Kingdom of Poland</placeName>
+                          <placeName type="alt">Regnum Poloniae</placeName>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q8890160</idno>
+               <noteGrp><note target="cod_12005.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12005</note><note target="cod_12006.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12006</note></noteGrp></place>
+               <place xml:id="jesuiten_place__484">
+                  <placeName>Provincia Polona</placeName>
+               <noteGrp><note target="cod_12005.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12005</note><note target="cod_12006.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12006</note><note target="cod_12012.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12012</note><note target="cod_12013.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12013</note><note target="cod_12362.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12362</note><note target="cod_12363.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12363</note><note target="cod_12364.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12364</note><note target="cod_12365.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12365</note><note target="cod_13620.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 13620</note></noteGrp></place>
+            <place xml:id="jesuiten_place__304">
                   <placeName>Hungary Kingdom</placeName>
                           <placeName type="alt">Ungaria</placeName>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q171150</idno>
