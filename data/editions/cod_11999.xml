@@ -208,16 +208,7 @@ Cod. 11999 enthält das 6. Buch (Liber VI) über die Jesuitenmissionen innerhalb
                   <idno type="geonames">https://sws.geonames.org/3070359/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q43266</idno>
                <noteGrp><note target="cod_11999.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11999</note><note target="cod_12311.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12311</note></noteGrp></place>
-               </listPlace><listOrg><org xml:id="jesuiten_org__475">
-                  <orgName>Jesuitenmission Sweden</orgName>
-                  <orgName type="alt">Missio Suedica</orgName>
-                  <location type="located_in_place">
-                     <placeName key="jesuiten_place__395">Sweden</placeName>
-                     <geo>62.00000 15.00000</geo>
-                     <note type="idno"><idno type="geonames">https://sws.geonames.org/2661886/</idno></note>
-                  </location>
-               <noteGrp><note target="cod_11974.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11974</note><note target="cod_11999.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11999</note><note target="cod_12314.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12314</note></noteGrp></org>
-               <org xml:id="jesuiten_org__516">
+               </listPlace><listOrg><org xml:id="jesuiten_org__516">
                   <orgName>Jesuitenmission Saxonica</orgName>
                   <orgName type="alt">Missio Saxonica</orgName>
                   <location type="located_in_place">
@@ -235,5 +226,14 @@ Cod. 11999 enthält das 6. Buch (Liber VI) über die Jesuitenmissionen innerhalb
                      <note type="idno"><idno type="geonames">https://sws.geonames.org/524901/</idno></note>
                   </location>
                <noteGrp><note target="cod_11999.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11999</note><note target="cod_12009__asterix.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12009*</note></noteGrp></org>
+               <org xml:id="jesuiten_org__475">
+                  <orgName>Jesuitenmission Sweden</orgName>
+                  <orgName type="alt">Missio Suedica</orgName>
+                  <location type="located_in_place">
+                     <placeName key="jesuiten_place__395">Sweden</placeName>
+                     <geo>62.00000 15.00000</geo>
+                     <note type="idno"><idno type="geonames">https://sws.geonames.org/2661886/</idno></note>
+                  </location>
+               <noteGrp><note target="cod_11974.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11974</note><note target="cod_11999.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11999</note><note target="cod_12314.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 12314</note></noteGrp></org>
                </listOrg></back></text>
 </TEI>
