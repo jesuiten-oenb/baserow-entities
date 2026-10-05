@@ -90,19 +90,19 @@
     </teiHeader>
     <text>
         <body><p/></body>
-    <back><listPlace><place xml:id="jesuiten_place__481">
-                  <placeName>Habrovany</placeName>
-                  <location type="coords">
-                     <geo>50.59857 13.98168</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3076059/</idno>
-               <noteGrp><note target="cod_11990.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11990</note></noteGrp></place>
-               <place xml:id="jesuiten_place__482">
+    <back><listPlace><place xml:id="jesuiten_place__482">
                   <placeName>Ždánice</placeName>
                   <location type="coords">
                      <geo>49.06729 17.02751</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/3061729/</idno>
+               <noteGrp><note target="cod_11990.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11990</note></noteGrp></place>
+               <place xml:id="jesuiten_place__481">
+                  <placeName>Habrovany</placeName>
+                  <location type="coords">
+                     <geo>50.59857 13.98168</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3076059/</idno>
                <noteGrp><note target="cod_11990.xml" type="mentions">Wien, Österreichische Nationalbibliothek, Cod. 11990</note></noteGrp></place>
                <place xml:id="jesuiten_place__272">
                   <placeName>Provincia Bohemia</placeName>
