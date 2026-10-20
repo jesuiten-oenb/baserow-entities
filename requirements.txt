@@ -1,6 +1,6 @@
 tqdm
-acdh-baserow-pyutils>=0.5,<3
-acdh-geonames-utils==0.5.0
+acdh-baserow-pyutils>=0.11,<2
+acdh-geonames-utils>=1.0.0,<2
 acdh-tei-pyutils
 acdh-id-reconciler
 jinja2
